@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "dim": 384,
+  "maxLen": 128
+}
