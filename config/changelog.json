@@ -1,0 +1,16 @@
+[
+  {
+    "version": "2.1.7",
+    "date": "2026-05-07",
+    "changes": {
+      "ar": ["إصلاح رابط تحديث Huawei AppGallery", "تحسين تجربة التحديث التلقائي", "إصلاح نص الاختصارات"],
+      "en": ["Fixed Huawei AppGallery update link", "Improved OTA update experience", "Fixed shortcuts text"],
+      "fa": ["رفع مشکل لینک بروزرسانی Huawei AppGallery", "بهبود تجربه بروزرسانی خودکار", "اصلاح متن میانبرها"],
+      "ur": ["Huawei AppGallery اپ ڈیٹ لنک کی اصلاح", "OTA اپ ڈیٹ تجربے میں بہتری", "شارٹ کٹس ٹیکسٹ کی اصلاح"],
+      "id": ["Perbaikan tautan pembaruan Huawei AppGallery", "Peningkatan pengalaman pembaruan OTA", "Perbaikan teks pintasan"],
+      "ms": ["Pembaikan pautan kemas kini Huawei AppGallery", "Peningkatan pengalaman kemas kini OTA", "Pembaikan teks pintasan"],
+      "ru": ["Исправлена ссылка обновления Huawei AppGallery", "Улучшен процесс OTA-обновлений", "Исправлен текст ярлыков"],
+      "tr": ["Huawei AppGallery güncelleme bağlantısı düzeltildi", "OTA güncelleme deneyimi iyileştirildi", "Kısayol metni düzeltildi"]
+    }
+  }
+]
