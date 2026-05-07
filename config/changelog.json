@@ -1,7 +1,7 @@
 [
   {
     "version": "2.1.7",
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "changes": {
       "ar": [
         "إصلاح رابط تحديث Huawei AppGallery",
@@ -11,7 +11,10 @@
         "إمكانية التبديل بين الأرقام الغربية والعربية من الإعدادات",
         "إصلاح عرض المسافة إلى مكة المكرمة في شاشة القبلة",
         "إضافة تنبيه قبل الأذان (5-60 دقيقة)",
-        "إضافة تنبيه الإقامة بعد الأذان"
+        "إضافة تنبيه الإقامة بعد الأذان",
+        "تحسين تصميم الشاشات: خطوط وألوان وأحجام موحّدة",
+        "تحسين دعم RTL في شاشة القرآن الكريم",
+        "توحيد تصميم الهيدر في شاشات الصلاة والحديث والأذكار"
       ],
       "en": [
         "Fixed Huawei AppGallery update link",
@@ -21,7 +24,10 @@
         "Switch between Western and Arabic numerals in Settings",
         "Fixed distance display on Qibla screen",
         "Added pre-prayer reminder notifications (5-60 min before athan)",
-        "Added iqama reminder notifications after athan"
+        "Added iqama reminder notifications after athan",
+        "Improved screen design: unified fonts, colors, and sizes",
+        "Improved RTL support on Quran home screen",
+        "Unified header design across Prayer, Hadith, and Azkar screens"
       ],
       "fa": [
         "رفع مشکل لینک بروزرسانی Huawei AppGallery",
@@ -31,7 +37,10 @@
         "تغییر بین اعداد غربی و عربی در تنظیمات",
         "رفع مشکل نمایش فاصله تا مکه در صفحه قبله",
         "افزودن یادآوری قبل از اذان (5-60 دقیقه)",
-        "افزودن یادآوری اقامه بعد از اذان"
+        "افزودن یادآوری اقامه بعد از اذان",
+        "بهبود طراحی صفحات: فونت‌ها، رنگ‌ها و اندازه‌های یکپارچه",
+        "بهبود پشتیبانی RTL در صفحه اصلی قرآن",
+        "یکپارچه‌سازی طراحی هدر در صفحات نماز، حدیث و اذکار"
       ],
       "ur": [
         "Huawei AppGallery اپ ڈیٹ لنک کی اصلاح",
@@ -41,7 +50,10 @@
         "ترتیبات میں مغربی اور عربی ہندسوں کے درمیان تبدیلی",
         "قبلہ اسکرین پر مکہ تک فاصلے کی نمائش درست کی",
         "اذان سے پہلے یاد دہانی کی اطلاعات شامل کی گئیں (5-60 منٹ)",
-        "اذان کے بعد اقامت کی یاد دہانی شامل کی گئی"
+        "اذان کے بعد اقامت کی یاد دہانی شامل کی گئی",
+        "اسکرینز کے ڈیزائن میں بہتری: یکساں فونٹس، رنگ اور سائز",
+        "قرآن ہوم اسکرین پر RTL سپورٹ میں بہتری",
+        "نماز، حدیث اور اذکار اسکرینز پر ہیڈر ڈیزائن کی یکسانیت"
       ],
       "id": [
         "Perbaikan tautan pembaruan Huawei AppGallery",
@@ -51,7 +63,10 @@
         "Beralih antara angka Barat dan Arab di Pengaturan",
         "Perbaikan tampilan jarak ke Makkah di layar Kiblat",
         "Ditambahkan pengingat sebelum adzan (5-60 menit)",
-        "Ditambahkan pengingat iqamah setelah adzan"
+        "Ditambahkan pengingat iqamah setelah adzan",
+        "Peningkatan desain layar: font, warna, dan ukuran yang seragam",
+        "Peningkatan dukungan RTL di layar utama Al-Quran",
+        "Penyeragaman desain header di layar Salat, Hadis, dan Azkar"
       ],
       "ms": [
         "Pembaikan pautan kemas kini Huawei AppGallery",
@@ -61,7 +76,10 @@
         "Tukar antara angka Barat dan Arab dalam Tetapan",
         "Pembaikan paparan jarak ke Makkah di skrin Kiblat",
         "Ditambah peringatan sebelum azan (5-60 minit)",
-        "Ditambah peringatan iqamah selepas azan"
+        "Ditambah peringatan iqamah selepas azan",
+        "Peningkatan reka bentuk skrin: fon, warna dan saiz yang seragam",
+        "Peningkatan sokongan RTL di skrin utama Al-Quran",
+        "Penyeragaman reka bentuk header di skrin Solat, Hadis dan Azkar"
       ],
       "ru": [
         "Исправлена ссылка обновления Huawei AppGallery",
@@ -71,7 +89,10 @@
         "Переключение между западными и арабскими цифрами в настройках",
         "Исправлено отображение расстояния до Мекки на экране Кибла",
         "Добавлено напоминание перед азаном (5-60 минут)",
-        "Добавлено напоминание об икаме после азана"
+        "Добавлено напоминание об икаме после азана",
+        "Улучшен дизайн экранов: единые шрифты, цвета и размеры",
+        "Улучшена поддержка RTL на главном экране Корана",
+        "Унифицирован дизайн заголовка на экранах Молитвы, Хадисов и Азкаров"
       ],
       "tr": [
         "Huawei AppGallery güncelleme bağlantısı düzeltildi",
@@ -81,7 +102,10 @@
         "Ayarlarda Batı ve Arap rakamları arasında geçiş yapın",
         "Kıble ekranında Mekke'ye mesafe gösterimi düzeltildi",
         "Ezandan önce hatırlatma bildirimi eklendi (5-60 dakika)",
-        "Ezandan sonra ikamet hatırlatması eklendi"
+        "Ezandan sonra ikamet hatırlatması eklendi",
+        "Ekran tasarımı iyileştirildi: birleşik yazı tipleri, renkler ve boyutlar",
+        "Kur'an ana ekranında RTL desteği iyileştirildi",
+        "Namaz, Hadis ve Zikir ekranlarında başlık tasarımı birleştirildi"
       ]
     }
   }
