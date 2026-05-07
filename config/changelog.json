@@ -3,14 +3,86 @@
     "version": "2.1.7",
     "date": "2026-05-07",
     "changes": {
-      "ar": ["إصلاح رابط تحديث Huawei AppGallery", "تحسين تجربة التحديث التلقائي", "إصلاح نص الاختصارات", "الأرقام الغربية (0-9) هي الافتراضية الآن", "إمكانية التبديل بين الأرقام الغربية والعربية من الإعدادات", "إصلاح عرض المسافة إلى مكة المكرمة في شاشة القبلة"],
-      "en": ["Fixed Huawei AppGallery update link", "Improved OTA update experience", "Fixed shortcuts text", "Western digits (0-9) are now the default", "Switch between Western and Arabic numerals in Settings", "Fixed distance display on Qibla screen"],
-      "fa": ["رفع مشکل لینک بروزرسانی Huawei AppGallery", "بهبود تجربه بروزرسانی خودکار", "اصلاح متن میانبرها", "اعداد غربی (0-9) اکنون پیش‌فرض هستند", "تغییر بین اعداد غربی و عربی در تنظیمات", "رفع مشکل نمایش فاصله تا مکه در صفحه قبله"],
-      "ur": ["Huawei AppGallery اپ ڈیٹ لنک کی اصلاح", "OTA اپ ڈیٹ تجربے میں بہتری", "شارٹ کٹس ٹیکسٹ کی اصلاح", "مغربی ہندسے (0-9) اب بطور ڈیفالٹ ہیں", "ترتیبات میں مغربی اور عربی ہندسوں کے درمیان تبدیلی", "قبلہ اسکرین پر مکہ تک فاصلے کی نمائش درست کی"],
-      "id": ["Perbaikan tautan pembaruan Huawei AppGallery", "Peningkatan pengalaman pembaruan OTA", "Perbaikan teks pintasan", "Angka Barat (0-9) sekarang menjadi default", "Beralih antara angka Barat dan Arab di Pengaturan", "Perbaikan tampilan jarak ke Makkah di layar Kiblat"],
-      "ms": ["Pembaikan pautan kemas kini Huawei AppGallery", "Peningkatan pengalaman kemas kini OTA", "Pembaikan teks pintasan", "Angka Barat (0-9) kini menjadi lalai", "Tukar antara angka Barat dan Arab dalam Tetapan", "Pembaikan paparan jarak ke Makkah di skrin Kiblat"],
-      "ru": ["Исправлена ссылка обновления Huawei AppGallery", "Улучшен процесс OTA-обновлений", "Исправлен текст ярлыков", "Западные цифры (0-9) теперь по умолчанию", "Переключение между западными и арабскими цифрами в настройках", "Исправлено отображение расстояния до Мекки на экране Кибла"],
-      "tr": ["Huawei AppGallery güncelleme bağlantısı düzeltildi", "OTA güncelleme deneyimi iyileştirildi", "Kısayol metni düzeltildi", "Batı rakamları (0-9) artık varsayılan", "Ayarlarda Batı ve Arap rakamları arasında geçiş yapın", "Kıble ekranında Mekke'ye mesafe gösterimi düzeltildi"]
+      "ar": [
+        "إصلاح رابط تحديث Huawei AppGallery",
+        "تحسين تجربة التحديث التلقائي",
+        "إصلاح نص الاختصارات",
+        "الأرقام الغربية (0-9) هي الافتراضية الآن",
+        "إمكانية التبديل بين الأرقام الغربية والعربية من الإعدادات",
+        "إصلاح عرض المسافة إلى مكة المكرمة في شاشة القبلة",
+        "إضافة تنبيه قبل الأذان (5-60 دقيقة)",
+        "إضافة تنبيه الإقامة بعد الأذان"
+      ],
+      "en": [
+        "Fixed Huawei AppGallery update link",
+        "Improved OTA update experience",
+        "Fixed shortcuts text",
+        "Western digits (0-9) are now the default",
+        "Switch between Western and Arabic numerals in Settings",
+        "Fixed distance display on Qibla screen",
+        "Added pre-prayer reminder notifications (5-60 min before athan)",
+        "Added iqama reminder notifications after athan"
+      ],
+      "fa": [
+        "رفع مشکل لینک بروزرسانی Huawei AppGallery",
+        "بهبود تجربه بروزرسانی خودکار",
+        "اصلاح متن میانبرها",
+        "اعداد غربی (0-9) اکنون پیش‌فرض هستند",
+        "تغییر بین اعداد غربی و عربی در تنظیمات",
+        "رفع مشکل نمایش فاصله تا مکه در صفحه قبله",
+        "افزودن یادآوری قبل از اذان (5-60 دقیقه)",
+        "افزودن یادآوری اقامه بعد از اذان"
+      ],
+      "ur": [
+        "Huawei AppGallery اپ ڈیٹ لنک کی اصلاح",
+        "OTA اپ ڈیٹ تجربے میں بہتری",
+        "شارٹ کٹس ٹیکسٹ کی اصلاح",
+        "مغربی ہندسے (0-9) اب بطور ڈیفالٹ ہیں",
+        "ترتیبات میں مغربی اور عربی ہندسوں کے درمیان تبدیلی",
+        "قبلہ اسکرین پر مکہ تک فاصلے کی نمائش درست کی",
+        "اذان سے پہلے یاد دہانی کی اطلاعات شامل کی گئیں (5-60 منٹ)",
+        "اذان کے بعد اقامت کی یاد دہانی شامل کی گئی"
+      ],
+      "id": [
+        "Perbaikan tautan pembaruan Huawei AppGallery",
+        "Peningkatan pengalaman pembaruan OTA",
+        "Perbaikan teks pintasan",
+        "Angka Barat (0-9) sekarang menjadi default",
+        "Beralih antara angka Barat dan Arab di Pengaturan",
+        "Perbaikan tampilan jarak ke Makkah di layar Kiblat",
+        "Ditambahkan pengingat sebelum adzan (5-60 menit)",
+        "Ditambahkan pengingat iqamah setelah adzan"
+      ],
+      "ms": [
+        "Pembaikan pautan kemas kini Huawei AppGallery",
+        "Peningkatan pengalaman kemas kini OTA",
+        "Pembaikan teks pintasan",
+        "Angka Barat (0-9) kini menjadi lalai",
+        "Tukar antara angka Barat dan Arab dalam Tetapan",
+        "Pembaikan paparan jarak ke Makkah di skrin Kiblat",
+        "Ditambah peringatan sebelum azan (5-60 minit)",
+        "Ditambah peringatan iqamah selepas azan"
+      ],
+      "ru": [
+        "Исправлена ссылка обновления Huawei AppGallery",
+        "Улучшен процесс OTA-обновлений",
+        "Исправлен текст ярлыков",
+        "Западные цифры (0-9) теперь по умолчанию",
+        "Переключение между западными и арабскими цифрами в настройках",
+        "Исправлено отображение расстояния до Мекки на экране Кибла",
+        "Добавлено напоминание перед азаном (5-60 минут)",
+        "Добавлено напоминание об икаме после азана"
+      ],
+      "tr": [
+        "Huawei AppGallery güncelleme bağlantısı düzeltildi",
+        "OTA güncelleme deneyimi iyileştirildi",
+        "Kısayol metni düzeltildi",
+        "Batı rakamları (0-9) artık varsayılan",
+        "Ayarlarda Batı ve Arap rakamları arasında geçiş yapın",
+        "Kıble ekranında Mekke'ye mesafe gösterimi düzeltildi",
+        "Ezandan önce hatırlatma bildirimi eklendi (5-60 dakika)",
+        "Ezandan sonra ikamet hatırlatması eklendi"
+      ]
     }
   }
 ]
