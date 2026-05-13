@@ -1,7 +1,7 @@
 [
   {
     "version": "2.1.7",
-    "date": "2026-05-08",
+    "date": "2026-05-13",
     "changes": {
       "ar": [
         "إصلاح رابط تحديث Huawei AppGallery",
@@ -14,7 +14,12 @@
         "إضافة تنبيه الإقامة بعد الأذان",
         "تحسين تصميم الشاشات: خطوط وألوان وأحجام موحّدة",
         "تحسين دعم RTL في شاشة القرآن الكريم",
-        "توحيد تصميم الهيدر في شاشات الصلاة والحديث والأذكار"
+        "توحيد تصميم الهيدر في شاشات الصلاة والحديث والأذكار",
+        "تحسين تجربة التحديثات مع إشعار جديد وأنيق عند توفر تحديث",
+        "إضافة صفحة \"ما الجديد\" لعرض آخر التحسينات",
+        "إصلاح عرض النصوص للغات RTL",
+        "إضافة ١٣ تذكيراً إسلامياً: سورة الكهف، الاستعداد للجمعة، الثلث الأخير، صيام الاثنين والخميس، الأيام البيض، ورد القرآن، الاستغفار، صلاة الضحى، عرفة، عاشوراء، السحور، حديث الأسبوع، العشر الأواخر",
+        "جميع التذكيرات مفعّلة تلقائياً — يمكنك تعطيل أي منها أو تعديل وقتها من الإعدادات"
       ],
       "en": [
         "Fixed Huawei AppGallery update link",
@@ -27,7 +32,12 @@
         "Added iqama reminder notifications after athan",
         "Improved screen design: unified fonts, colors, and sizes",
         "Improved RTL support on Quran home screen",
-        "Unified header design across Prayer, Hadith, and Azkar screens"
+        "Unified header design across Prayer, Hadith, and Azkar screens",
+        "Improved update experience with a new elegant notification",
+        "Added \"What's New\" screen to view latest improvements",
+        "Fixed text display for RTL languages",
+        "Added 13 Islamic reminders: Al-Kahf, Jumu'ah prep, Last Third of Night, Mon/Thu fasting, White Days, Quran Wird, Istighfar, Duha, Arafah, Ashura, Suhoor, Weekly Hadith, Last 10 Nights",
+        "All reminders enabled by default — disable or customize notification times from Settings"
       ],
       "fa": [
         "رفع مشکل لینک بروزرسانی Huawei AppGallery",
@@ -40,7 +50,12 @@
         "افزودن یادآوری اقامه بعد از اذان",
         "بهبود طراحی صفحات: فونت‌ها، رنگ‌ها و اندازه‌های یکپارچه",
         "بهبود پشتیبانی RTL در صفحه اصلی قرآن",
-        "یکپارچه‌سازی طراحی هدر در صفحات نماز، حدیث و اذکار"
+        "یکپارچه‌سازی طراحی هدر در صفحات نماز، حدیث و اذکار",
+        "بهبود تجربه به‌روزرسانی با اعلان جدید و زیبا",
+        "افزودن صفحه «چه خبر» برای مشاهده آخرین بهبودها",
+        "رفع مشکل نمایش متن برای زبان‌های RTL",
+        "افزودن ۱۳ یادآوری اسلامی: سوره کهف، آمادگی جمعه، ثلث آخر شب، روزه دوشنبه و پنجشنبه، ایام بیض، ورد قرآن، استغفار، نماز ضحی، عرفه، عاشورا، سحر، حدیث هفته، ده شب آخر رمضان",
+        "همه یادآوری‌ها به‌صورت پیش‌فرض فعال — از تنظیمات وقت هر یادآوری را تنظیم کنید"
       ],
       "ur": [
         "Huawei AppGallery اپ ڈیٹ لنک کی اصلاح",
@@ -53,7 +68,12 @@
         "اذان کے بعد اقامت کی یاد دہانی شامل کی گئی",
         "اسکرینز کے ڈیزائن میں بہتری: یکساں فونٹس، رنگ اور سائز",
         "قرآن ہوم اسکرین پر RTL سپورٹ میں بہتری",
-        "نماز، حدیث اور اذکار اسکرینز پر ہیڈر ڈیزائن کی یکسانیت"
+        "نماز، حدیث اور اذکار اسکرینز پر ہیڈر ڈیزائن کی یکسانیت",
+        "نئی خوبصورت اطلاع کے ساتھ اپ ڈیٹ کا بہتر تجربہ",
+        "تازہ ترین بہتری دیکھنے کے لیے \"کیا نیا ہے\" صفحہ شامل کیا",
+        "RTL زبانوں کے لیے متن کی نمائش درست کی",
+        "١٣ اسلامی یاددہانیاں: سورۃ الکہف، جمعہ کی تیاری، آخری تہائی، پیر/جمعرات روزہ، ایام بیض، قرآن ورد، استغفار، ضحی، عرفہ، عاشوراء، سحری، ہفتہ وار حدیث، آخری دس راتیں",
+        "تمام یاددہانیاں بطور ڈیفالٹ فعال — ترتیبات سے وقت تبدیل کریں یا غیر فعال کریں"
       ],
       "id": [
         "Perbaikan tautan pembaruan Huawei AppGallery",
@@ -66,7 +86,12 @@
         "Ditambahkan pengingat iqamah setelah adzan",
         "Peningkatan desain layar: font, warna, dan ukuran yang seragam",
         "Peningkatan dukungan RTL di layar utama Al-Quran",
-        "Penyeragaman desain header di layar Salat, Hadis, dan Azkar"
+        "Penyeragaman desain header di layar Salat, Hadis, dan Azkar",
+        "Pengalaman pembaruan yang lebih baik dengan notifikasi baru yang elegan",
+        "Menambahkan halaman \"Apa yang Baru\" untuk melihat peningkatan terbaru",
+        "Memperbaiki tampilan teks untuk bahasa RTL",
+        "Menambahkan 13 pengingat Islami: Al-Kahfi, persiapan Jumat, Sepertiga Malam, puasa Senin/Kamis, Ayyamul Bidh, Wirid Quran, Istighfar, Dhuha, Arafah, Asyura, Sahur, Hadis Mingguan, 10 Malam Terakhir",
+        "Semua pengingat aktif secara default — sesuaikan waktu notifikasi dari Pengaturan"
       ],
       "ms": [
         "Pembaikan pautan kemas kini Huawei AppGallery",
@@ -79,7 +104,12 @@
         "Ditambah peringatan iqamah selepas azan",
         "Peningkatan reka bentuk skrin: fon, warna dan saiz yang seragam",
         "Peningkatan sokongan RTL di skrin utama Al-Quran",
-        "Penyeragaman reka bentuk header di skrin Solat, Hadis dan Azkar"
+        "Penyeragaman reka bentuk header di skrin Solat, Hadis dan Azkar",
+        "Pengalaman kemas kini yang lebih baik dengan pemberitahuan baharu yang elegan",
+        "Menambah halaman \"Apa yang Baharu\" untuk melihat penambahbaikan terkini",
+        "Membetulkan paparan teks untuk bahasa RTL",
+        "Menambah 13 peringatan Islami: Al-Kahfi, persediaan Jumaat, Satu Pertiga Malam, puasa Isnin/Khamis, Ayyamul Bidh, Wirid Quran, Istighfar, Dhuha, Arafah, Asyura, Sahur, Hadis Mingguan, 10 Malam Terakhir",
+        "Semua peringatan aktif secara lalai — sesuaikan waktu pemberitahuan dari Tetapan"
       ],
       "ru": [
         "Исправлена ссылка обновления Huawei AppGallery",
@@ -92,7 +122,12 @@
         "Добавлено напоминание об икаме после азана",
         "Улучшен дизайн экранов: единые шрифты, цвета и размеры",
         "Улучшена поддержка RTL на главном экране Корана",
-        "Унифицирован дизайн заголовка на экранах Молитвы, Хадисов и Азкаров"
+        "Унифицирован дизайн заголовка на экранах Молитвы, Хадисов и Азкаров",
+        "Улучшен процесс обновления с новым элегантным уведомлением",
+        "Добавлена страница «Что нового» для просмотра последних улучшений",
+        "Исправлено отображение текста для языков с письмом справа налево",
+        "Добавлено 13 исламских напоминаний: Аль-Кахф, подготовка к Джуму'а, Последняя треть ночи, пост Пн/Чт, Белые дни, вирд Корана, истигфар, Духа, Арафа, Ашура, сухур, хадис недели, 10 ночей Рамадана",
+        "Все напоминания включены — настройте время уведомлений в Настройки"
       ],
       "tr": [
         "Huawei AppGallery güncelleme bağlantısı düzeltildi",
@@ -105,7 +140,12 @@
         "Ezandan sonra ikamet hatırlatması eklendi",
         "Ekran tasarımı iyileştirildi: birleşik yazı tipleri, renkler ve boyutlar",
         "Kur'an ana ekranında RTL desteği iyileştirildi",
-        "Namaz, Hadis ve Zikir ekranlarında başlık tasarımı birleştirildi"
+        "Namaz, Hadis ve Zikir ekranlarında başlık tasarımı birleştirildi",
+        "Yeni şık bildirim ile güncelleme deneyimi iyileştirildi",
+        "Son iyileştirmeleri görüntülemek için \"Yenilikler\" sayfası eklendi",
+        "RTL diller için metin görüntüleme düzeltildi",
+        "13 İslami hatırlatma eklendi: Kehf Suresi, Cuma hazırlığı, Gecenin Son Üçte Biri, Pzt/Per orucu, Eyyam-ı Bîd, Kur'an virdi, istiğfar, Kuşluk, Arefe, Aşure, sahur, haftalık hadis, Son 10 Gece",
+        "Tüm hatırlatmalar varsayılan açık — bildirim zamanlarını Ayarlar'dan özelleştirin"
       ]
     }
   }
