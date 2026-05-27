@@ -1,5 +1,91 @@
 [
   {
+    "version": "2.1.9",
+    "date": "2026-05-28",
+    "changes": {
+      "ar": [
+        "تحسين تصميم شاشة فهرس السور: شارات ذهبية، تمييز السورة الحالية، شريط أجزاء محسّن",
+        "تحسين تصميم شاشة التفسير والترجمة: تبويبات حديثة، بطاقات أنيقة، لمسات ذهبية",
+        "تحسين تصميم شاشة فهرس كتب الحديث: بطاقات مستديرة، ظلال متناسقة مع الوضع الداكن",
+        "تحسين عرض أسماء السور لتظهر في سطر واحد",
+        "توسيط عنوان بطاقة متابعة القراءة في شاشة القرآن الرئيسية",
+        "دعم اتجاه النص حسب لغة التطبيق في العناوين والبطاقات",
+        "تحسين تجربة التحديث: التحميل تلقائياً ثم عرض صفحة الجديد بعد إعادة التشغيل",
+        "إخفاء بطاقة عشر ذي الحجة الموسمية حتى موسم الحج القادم"
+      ],
+      "en": [
+        "Redesigned Surah Index screen: gold badges, active surah highlight, enhanced juz rail",
+        "Redesigned Tafsir & Translation screen: segmented tabs, modern cards, gold accents",
+        "Redesigned Hadith Book Index screen: rounded cards, theme-aware shadows",
+        "Surah names now auto-fit on one line without truncation",
+        "Centered continue reading card header on Quran home screen",
+        "Text direction now follows app language in section titles and service cards",
+        "Improved OTA update flow: downloads silently, then restarts and shows What's New",
+        "Hidden Dhul Hijjah seasonal card until next Dhul Hijjah season"
+      ],
+      "fa": [
+        "بازطراحی صفحه فهرست سوره‌ها: نشان‌های طلایی، برجسته‌سازی سوره فعلی، نوار جزء بهبود یافته",
+        "بازطراحی صفحه تفسیر و ترجمه: تب‌های مدرن، کارت‌های زیبا، لمسه‌های طلایی",
+        "بازطراحی صفحه فهرست کتب حدیث: کارت‌های گرد، سایه‌های متناسب با حالت تاریک",
+        "نام سوره‌ها اکنون در یک خط نمایش داده می‌شوند",
+        "وسط‌چین شدن عنوان کارت ادامه مطالعه در صفحه اصلی قرآن",
+        "جهت متن مطابق با زبان برنامه در عناوین و کارت‌ها",
+        "بهبود فرایند بروزرسانی: دانلود خودکار و نمایش تازه‌ها پس از راه‌اندازی مجدد",
+        "پنهان شدن کارت فصلی ذوالحجه تا فصل حج آینده"
+      ],
+      "ur": [
+        "سورہ انڈیکس اسکرین کی نئی ڈیزائن: سنہری بیجز، فعال سورہ ہائی لائٹ، بہتر جز ریل",
+        "تفسیر و ترجمہ اسکرین کی نئی ڈیزائن: جدید ٹیبز، خوبصورت کارڈز، سنہری لمسات",
+        "حدیث کتب انڈیکس اسکرین کی نئی ڈیزائن: گول کارڈز، تھیم کے مطابق شیڈوز",
+        "سورتوں کے نام اب ایک لائن میں مکمل ظاہر ہوتے ہیں",
+        "قرآن ہوم اسکرین پر پڑھائی جاری رکھیں کارڈ کا عنوان مرکز میں",
+        "عنوانات اور کارڈز میں متن کی سمت ایپ کی زبان کے مطابق",
+        "اپ ڈیٹ کا بہتر عمل: خودکار ڈاؤن لوڈ پھر نیا کیا ہے دکھائیں",
+        "ذوالحجہ کا موسمی کارڈ اگلے موسم حج تک چھپایا گیا"
+      ],
+      "id": [
+        "Desain ulang layar Indeks Surah: lencana emas, sorotan surah aktif, rel juz yang ditingkatkan",
+        "Desain ulang layar Tafsir & Terjemahan: tab modern, kartu elegan, aksen emas",
+        "Desain ulang layar Indeks Buku Hadis: kartu bulat, bayangan sesuai tema",
+        "Nama surah kini muat dalam satu baris tanpa terpotong",
+        "Judul kartu lanjutkan membaca di tengah pada layar utama Al-Quran",
+        "Arah teks mengikuti bahasa aplikasi pada judul dan kartu layanan",
+        "Alur pembaruan OTA ditingkatkan: unduh otomatis lalu tampilkan Yang Baru",
+        "Kartu musiman Dzulhijjah disembunyikan hingga musim haji berikutnya"
+      ],
+      "ms": [
+        "Reka bentuk baharu skrin Indeks Surah: lencana emas, sorotan surah aktif, rel juz yang dipertingkat",
+        "Reka bentuk baharu skrin Tafsir & Terjemahan: tab moden, kad elegan, aksen emas",
+        "Reka bentuk baharu skrin Indeks Buku Hadis: kad bulat, bayang sesuai tema",
+        "Nama surah kini muat dalam satu baris tanpa dipotong",
+        "Tajuk kad sambung membaca di tengah pada skrin utama Al-Quran",
+        "Arah teks mengikut bahasa aplikasi pada tajuk dan kad perkhidmatan",
+        "Aliran kemas kini OTA dipertingkat: muat turun automatik kemudian papar Yang Baharu",
+        "Kad bermusim Zulhijjah disembunyikan sehingga musim haji seterusnya"
+      ],
+      "ru": [
+        "Обновлённый дизайн экрана списка сур: золотые значки, подсветка текущей суры, улучшенная панель джузов",
+        "Обновлённый дизайн экрана тафсира и перевода: современные вкладки, элегантные карточки, золотые акценты",
+        "Обновлённый дизайн экрана индекса книг хадисов: закруглённые карточки, адаптивные тени",
+        "Названия сур теперь помещаются в одну строку без обрезки",
+        "Заголовок карточки продолжения чтения выровнен по центру",
+        "Направление текста соответствует языку приложения в заголовках и карточках",
+        "Улучшён процесс OTA-обновления: автозагрузка и показ «Что нового» после перезапуска",
+        "Сезонная карточка Зуль-Хиджа скрыта до следующего сезона хаджа"
+      ],
+      "tr": [
+        "Sure İndeks ekranı yeniden tasarlandı: altın rozetler, aktif sure vurgusu, geliştirilmiş cüz çubuğu",
+        "Tefsir ve Tercüme ekranı yeniden tasarlandı: modern sekmeler, zarif kartlar, altın vurgular",
+        "Hadis Kitap İndeksi ekranı yeniden tasarlandı: yuvarlak kartlar, tema uyumlu gölgeler",
+        "Sure adları artık tek satırda kesintisiz görünüyor",
+        "Kur'an ana ekranında okumaya devam kartı başlığı ortalandı",
+        "Başlık ve kartlarda metin yönü uygulama diline göre ayarlandı",
+        "OTA güncelleme akışı iyileştirildi: otomatik indirme ve yeniden başlatma sonrası Yenilikler gösterilir",
+        "Zilhicce mevsimsel kartı bir sonraki hac mevsimine kadar gizlendi"
+      ]
+    }
+  },
+  {
     "version": "2.1.8",
     "date": "2026-05-18",
     "changes": {
