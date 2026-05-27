@@ -11,7 +11,10 @@
         "توسيط عنوان بطاقة متابعة القراءة في شاشة القرآن الرئيسية",
         "دعم اتجاه النص حسب لغة التطبيق في العناوين والبطاقات",
         "تحسين تجربة التحديث: التحميل تلقائياً ثم عرض صفحة الجديد بعد إعادة التشغيل",
-        "إخفاء بطاقة عشر ذي الحجة الموسمية حتى موسم الحج القادم"
+        "إخفاء بطاقة عشر ذي الحجة الموسمية حتى موسم الحج القادم",
+        "إضافة وضع عرض الكتاب للقرآن الكريم — تمرير متواصل مع خلفية ورقية",
+        "تحسين تصميم إعدادات القارئ مع أيقونات وبطاقات حديثة",
+        "تحسين خيارات التشغيل في شاشة القراءة مع أيقونات وتبويبات مطوّرة"
       ],
       "en": [
         "Redesigned Surah Index screen: gold badges, active surah highlight, enhanced juz rail",
@@ -21,7 +24,10 @@
         "Centered continue reading card header on Quran home screen",
         "Text direction now follows app language in section titles and service cards",
         "Improved OTA update flow: downloads silently, then restarts and shows What's New",
-        "Hidden Dhul Hijjah seasonal card until next Dhul Hijjah season"
+        "Hidden Dhul Hijjah seasonal card until next Dhul Hijjah season",
+        "Added Quran Book View mode — continuous scrolling with paper-style background",
+        "Redesigned Quran reader settings with icons and modern cards",
+        "Enhanced reader playback options with icons and improved tab selector"
       ],
       "fa": [
         "بازطراحی صفحه فهرست سوره‌ها: نشان‌های طلایی، برجسته‌سازی سوره فعلی، نوار جزء بهبود یافته",
@@ -31,7 +37,10 @@
         "وسط‌چین شدن عنوان کارت ادامه مطالعه در صفحه اصلی قرآن",
         "جهت متن مطابق با زبان برنامه در عناوین و کارت‌ها",
         "بهبود فرایند بروزرسانی: دانلود خودکار و نمایش تازه‌ها پس از راه‌اندازی مجدد",
-        "پنهان شدن کارت فصلی ذوالحجه تا فصل حج آینده"
+        "پنهان شدن کارت فصلی ذوالحجه تا فصل حج آینده",
+        "افزودن حالت نمایش کتابی قرآن — اسکرول پیوسته با پس‌زمینه کاغذی",
+        "بازطراحی تنظیمات قاری قرآن با آیکون‌ها و کارت‌های مدرن",
+        "بهبود گزینه‌های پخش با آیکون‌ها و انتخابگر تب بهتر"
       ],
       "ur": [
         "سورہ انڈیکس اسکرین کی نئی ڈیزائن: سنہری بیجز، فعال سورہ ہائی لائٹ، بہتر جز ریل",
@@ -41,7 +50,10 @@
         "قرآن ہوم اسکرین پر پڑھائی جاری رکھیں کارڈ کا عنوان مرکز میں",
         "عنوانات اور کارڈز میں متن کی سمت ایپ کی زبان کے مطابق",
         "اپ ڈیٹ کا بہتر عمل: خودکار ڈاؤن لوڈ پھر نیا کیا ہے دکھائیں",
-        "ذوالحجہ کا موسمی کارڈ اگلے موسم حج تک چھپایا گیا"
+        "ذوالحجہ کا موسمی کارڈ اگلے موسم حج تک چھپایا گیا",
+        "قرآن بک ویو موڈ شامل کیا — کاغذی پس منظر کے ساتھ مسلسل اسکرولنگ",
+        "قرآن ریڈر سیٹنگز کی نئی ڈیزائن آئیکنز اور جدید کارڈز کے ساتھ",
+        "بہتر پلے بیک آپشنز آئیکنز اور بہتر ٹیب سلیکٹر کے ساتھ"
       ],
       "id": [
         "Desain ulang layar Indeks Surah: lencana emas, sorotan surah aktif, rel juz yang ditingkatkan",
@@ -51,7 +63,10 @@
         "Judul kartu lanjutkan membaca di tengah pada layar utama Al-Quran",
         "Arah teks mengikuti bahasa aplikasi pada judul dan kartu layanan",
         "Alur pembaruan OTA ditingkatkan: unduh otomatis lalu tampilkan Yang Baru",
-        "Kartu musiman Dzulhijjah disembunyikan hingga musim haji berikutnya"
+        "Kartu musiman Dzulhijjah disembunyikan hingga musim haji berikutnya",
+        "Ditambahkan mode Tampilan Buku Al-Quran — gulir terus-menerus dengan latar kertas",
+        "Desain ulang pengaturan pembaca Al-Quran dengan ikon dan kartu modern",
+        "Opsi pemutaran yang ditingkatkan dengan ikon dan pemilih tab yang lebih baik"
       ],
       "ms": [
         "Reka bentuk baharu skrin Indeks Surah: lencana emas, sorotan surah aktif, rel juz yang dipertingkat",
@@ -61,7 +76,10 @@
         "Tajuk kad sambung membaca di tengah pada skrin utama Al-Quran",
         "Arah teks mengikut bahasa aplikasi pada tajuk dan kad perkhidmatan",
         "Aliran kemas kini OTA dipertingkat: muat turun automatik kemudian papar Yang Baharu",
-        "Kad bermusim Zulhijjah disembunyikan sehingga musim haji seterusnya"
+        "Kad bermusim Zulhijjah disembunyikan sehingga musim haji seterusnya",
+        "Ditambah mod Paparan Buku Al-Quran — tatal berterusan dengan latar kertas",
+        "Reka bentuk baharu tetapan pembaca Al-Quran dengan ikon dan kad moden",
+        "Pilihan main balik yang dipertingkat dengan ikon dan pemilih tab yang lebih baik"
       ],
       "ru": [
         "Обновлённый дизайн экрана списка сур: золотые значки, подсветка текущей суры, улучшенная панель джузов",
@@ -71,7 +89,10 @@
         "Заголовок карточки продолжения чтения выровнен по центру",
         "Направление текста соответствует языку приложения в заголовках и карточках",
         "Улучшён процесс OTA-обновления: автозагрузка и показ «Что нового» после перезапуска",
-        "Сезонная карточка Зуль-Хиджа скрыта до следующего сезона хаджа"
+        "Сезонная карточка Зуль-Хиджа скрыта до следующего сезона хаджа",
+        "Добавлен режим книжного просмотра Корана — непрерывная прокрутка с бумажным фоном",
+        "Обновлённый дизайн настроек чтеца с иконками и современными карточками",
+        "Улучшенные параметры воспроизведения с иконками и улучшенным переключателем вкладок"
       ],
       "tr": [
         "Sure İndeks ekranı yeniden tasarlandı: altın rozetler, aktif sure vurgusu, geliştirilmiş cüz çubuğu",
@@ -81,7 +102,10 @@
         "Kur'an ana ekranında okumaya devam kartı başlığı ortalandı",
         "Başlık ve kartlarda metin yönü uygulama diline göre ayarlandı",
         "OTA güncelleme akışı iyileştirildi: otomatik indirme ve yeniden başlatma sonrası Yenilikler gösterilir",
-        "Zilhicce mevsimsel kartı bir sonraki hac mevsimine kadar gizlendi"
+        "Zilhicce mevsimsel kartı bir sonraki hac mevsimine kadar gizlendi",
+        "Kur'an Kitap Görünümü modu eklendi — kağıt tarzı arka planla sürekli kaydırma",
+        "Kur'an okuyucu ayarları yeniden tasarlandı: simgeler ve modern kartlar",
+        "Geliştirilmiş oynatma seçenekleri: simgeler ve iyileştirilmiş sekme seçici"
       ]
     }
   },
