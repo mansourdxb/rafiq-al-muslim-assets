@@ -1,0 +1,60 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "mosques",
+   "kind": "image",
+   "name": {
+    "ar": "مساجد",
+    "en": "Mosques"
+   },
+   "thumb": "athan/mosques/thumb.jpg",
+   "items": [
+    "athan/mosques/1.jpg",
+    "athan/mosques/2.jpg",
+    "athan/mosques/3.jpg",
+    "athan/mosques/4.jpg",
+    "athan/mosques/5.jpg",
+    "athan/mosques/6.jpg",
+    "athan/mosques/7.jpg",
+    "athan/mosques/8.jpg"
+   ],
+   "bytes": 2063670
+  },
+  {
+   "id": "nature",
+   "kind": "video",
+   "name": {
+    "ar": "طبيعة",
+    "en": "Nature"
+   },
+   "thumb": "athan/nature/thumb.jpg",
+   "items": [
+    "athan/nature/1.mp4",
+    "athan/nature/2.mp4",
+    "athan/nature/3.mp4",
+    "athan/nature/4.mp4",
+    "athan/nature/5.mp4"
+   ],
+   "bytes": 7267398
+  },
+  {
+   "id": "cinematic",
+   "kind": "video",
+   "name": {
+    "ar": "مساجد مصوّرة",
+    "en": "Mosque films"
+   },
+   "thumb": "athan/cinematic/thumb.jpg",
+   "items": [
+    "athan/cinematic/1.mp4",
+    "athan/cinematic/2.mp4",
+    "athan/cinematic/3.mp4",
+    "athan/cinematic/4.mp4",
+    "athan/cinematic/5.mp4",
+    "athan/cinematic/6.mp4"
+   ],
+   "bytes": 7537836
+  }
+ ]
+}
