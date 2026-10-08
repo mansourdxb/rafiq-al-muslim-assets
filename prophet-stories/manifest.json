@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 1,
  "languages": [
   "ar",
   "en",
@@ -10,5 +10,5 @@
   "tr",
   "id"
  ],
- "count": 366
+ "count": 25
 }
