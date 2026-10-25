@@ -132,6 +132,19 @@
         "কুরআনের বুক ভিউ মোড যোগ হয়েছে — কাগজের মতো ব্যাকগ্রাউন্ডে একটানা স্ক্রল",
         "কুরআন রিডারের সেটিংসের নতুন ডিজাইন, আইকন ও আধুনিক কার্ডসহ",
         "রিডারে তিলাওয়াতের অপশন উন্নত, আইকন ও নতুন ট্যাব নির্বাচনসহ"
+      ],
+      "ha": [
+        "Sabon fasalin allon jerin surori: alamomin zinariya, haskaka surar da ake karantawa, ingantaccen layin izu",
+        "Sabon fasalin allon tafsiri da fassara: sabbin shafuka, katunan zamani, ado na zinariya",
+        "Sabon fasalin allon jerin littattafan hadisi: katuna masu kusurwa zagaye, inuwa daidai da jigon launi",
+        "Sunayen surori yanzu suna fitowa a layi ɗaya ba tare da yankewa ba",
+        "An tsakiya taken katin 'Ci gaba da karatu' a allon farko na Alƙur'ani",
+        "Alkiblar rubutu a taken sassa da katunan ayyuka yanzu tana bin harshen manhajar",
+        "Ingantaccen sabuntawa: sauke shi a hankali, sannan sake buɗewa da nuna 'Me ya sabunta'",
+        "An ɓoye katin lokacin Zul Hajji har sai Zul Hajji na gaba",
+        "An ƙara yanayin karatu irin na littafi — gungurawa ba tsayawa a kan bango kamar takarda",
+        "Sabon fasalin saitunan mai karanta Alƙur'ani tare da gumaka da katunan zamani",
+        "Ingantattun zaɓuɓɓukan karatu a mai karantawa, tare da gumaka da sabon zaɓin shafuka"
       ]
     }
   },
@@ -228,6 +241,15 @@
         "দৈনিক নেক আমলের চেকলিস্ট যা সংরক্ষিত থাকে: রোজা, নফল নামাজ, কুরআন তিলাওয়াত, জিকির, সদকা, তাকবির",
         "প্রস্তাবিত জিকির ট্যাপ করে গণনাসহ — যেকোনো জিকিরে ট্যাপ করে গণনা শুরু করুন",
         "আজকারের মূল স্ক্রিনের উপরে মৌসুমি ব্যানার — জিলহজের সব আমল দেখতে ট্যাপ করুন"
+      ],
+      "ha": [
+        "Kwanaki 10 na farkon Zul Hajji: jadawalin kullum tare da sandar ci gaba don waɗannan kwanaki masu albarka",
+        "Katin hadisi daga Sahihul Bukhari kan falalar kwanaki 10 na farko",
+        "Sashen kabbara tare da damar raba shi",
+        "Addu'ar ranar Arafa tare da haske na musamman",
+        "Jerin ayyukan alheri na kullum da ake ajiyewa: azumi, sallar nafila, karatun Alƙur'ani, zikiri, sadaka, kabbara",
+        "Zikirai da aka ba da shawara tare da ƙirgawa ta taɓawa — taɓa kowane zikiri don fara ƙirgawa",
+        "Tutar lokaci a saman babban allon azkar — taɓa don ganin duk ayyukan Zul Hajji"
       ]
     }
   },
@@ -414,6 +436,24 @@
         "ডান-থেকে-বাম ভাষায় লেখার প্রদর্শন ঠিক করা হয়েছে",
         "13টি ইসলামি রিমাইন্ডার যোগ হয়েছে: সূরা কাহফ, জুমার প্রস্তুতি, রাতের শেষ তৃতীয়াংশ, সোম/বৃহস্পতিবারের রোজা, আইয়ামে বিজ, কুরআনের অজিফা, ইস্তিগফার, চাশত, আরাফা, আশুরা, সেহরি, সাপ্তাহিক হাদিস, শেষ 10 রাত",
         "সব রিমাইন্ডার ডিফল্টভাবে চালু — সেটিংস থেকে বন্ধ করুন বা নোটিফিকেশনের সময় বদলান"
+      ],
+      "ha": [
+        "An gyara mahaɗin sabuntawa na Huawei AppGallery",
+        "Ingantaccen sabuntawa",
+        "An gyara rubutun gajerun hanyoyi",
+        "Lambobin Turawa (0-9) yanzu su ne na asali",
+        "Canja tsakanin lambobin Turawa da na Larabci a Saituna",
+        "An gyara nuna nisa a allon alƙibla",
+        "An ƙara sanarwar tunatarwa kafin sallah (minti 5-60 kafin kiran sallah)",
+        "An ƙara sanarwar tunatarwar iƙama bayan kiran sallah",
+        "Ingantaccen fasalin allo: rubutu, launuka da girma iri ɗaya",
+        "Ingantaccen tallafi ga harsunan dama-zuwa-hagu a allon farko na Alƙur'ani",
+        "Fasalin kai iri ɗaya a allunan sallah, hadisi da azkar",
+        "Ingantaccen sabuntawa tare da sabuwar sanarwa mai kyau",
+        "An ƙara allon 'Me ya sabunta' don ganin sabbin gyare-gyare",
+        "An gyara nuna rubutu a harsunan dama-zuwa-hagu",
+        "An ƙara tunatarwa 13 na Musulunci: Suratul Kahf, shirin Juma'a, sulusin ƙarshe na dare, azumin Litinin/Alhamis, ranakun fari, wirdin Alƙur'ani, istigfari, walaha, Arafa, Ashura, sahur, hadisin mako, darare 10 na ƙarshe",
+        "Duk tunatarwa a kunne tun farko — kashe su ko canza lokacin sanarwa a Saituna"
       ]
     }
   }

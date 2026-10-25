@@ -1,0 +1,214 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Niyya da Faɗin Bismillah",
+     "desc": "Yana niyya a zuciyarsa don ɗauke hadasi (ba a furta niyya da baki), kuma yana ambaton sunan Allah (Bismillah) lokacin farawa.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 1,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Wanke Hannaye",
+     "desc": "Yana wanke hannayensa sau uku.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 2,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Kurkure Baki da Shaƙa Ruwa a Hanci",
+     "desc": "Yana kurkure bakinsa yana shaƙa ruwa a hancinsa, sannan ya fyace shi, yana yin haka sau uku, yana haɗa kurkure baki da shaƙa ruwa.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 3,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Wanke Fuska",
+     "desc": "Yana wanke fuskarsa sau uku, a tsawo daga tsirowar gashin kai har ƙarshen haɓa, a faɗi kuma daga kunne zuwa kunne.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 4,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Wanke Hannaye zuwa Gwiwar Hannu",
+     "desc": "Yana wanke hannayensa har zuwa gwiwar hannu sau uku, na dama sannan na hagu.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 5,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Shafar Kai da Kunnuwa",
+     "desc": "Yana shafar kansa duka sau ɗaya, yana farawa daga gaban kai zuwa ƙeya, sannan ya dawo da hannayensa baya, sannan ya shafi kunnuwansa.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 6,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Wanke Ƙafafu zuwa Idon Sawu",
+     "desc": "Yana wanke ƙafafunsa har zuwa idon sawu sau uku, na dama sannan na hagu, yana tsefe tsakanin yatsun ƙafa da yatsunsa.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 7,
+   "text": {
+    "ha": {
+     "phase": "Alwala",
+     "title": "Addu'a Bayan Alwala",
+     "desc": "Idan ya gama alwalarsa, yana faɗin zikirin da aka ruwaito.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 8,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Kabbarar Harama (Takbiratul-Ihram)",
+     "desc": "Yana fuskantar alƙibla ya yi niyyar sallar a zuciyarsa, sannan ya ɗaga hannayensa daidai da kafaɗunsa ya yi kabbara (Allahu Akbar).",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 9,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Addu'ar Buɗe Sallah (Du'a al-Istiftah)",
+     "desc": "Yana ɗora hannunsa na dama a kan na hagu a ƙirjinsa, sannan ya karanta addu'ar buɗe sallah a asirce.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 10,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Neman Tsari da Basmala",
+     "desc": "Yana neman tsari daga Shaiɗan (Ta'awwuzi) kuma yana faɗin Basmala a asirce kafin ya karanta Al-Fatiha.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 11,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Karanta Al-Fatiha",
+     "desc": "Yana karanta Surar Al-Fatiha, wadda rukuni ce a kowace raka'a, sannan ya karanta abin da ya sauƙaƙa daga Alƙur'ani a raka'o'i biyu na farko, kuma bayanta yana cewa: Amin.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 12,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Ruku'u da Tasbihinsa",
+     "desc": "Yana ɗaga hannayensa, ya yi kabbara, ya yi ruku'u, yana ɗora tafukan hannayensa a gwiwoyinsa yana daidaita bayansa, kuma yana tasbihi ga Allah sau uku.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 13,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Ɗagowa daga Ruku'u",
+     "desc": "Yana ɗago kansa, yana ɗaga hannayensa shi ma, yana faɗin tasmi'i (Sami' Allahu liman hamidah), kuma idan ya tsaya daidai, yana faɗin tahmidi (Rabbana wa lakal-hamd).",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 14,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Sujada da Tasbihinta",
+     "desc": "Yana kabbara ya yi sujada a kan gaɓoɓi bakwai (goshi da hanci, tafukan hannaye biyu, gwiwoyi biyu, da kan yatsun ƙafafu), yana tasbihi ga Allah sau uku, kuma yana yawaita addu'a.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 15,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Zama Tsakanin Sujada Biyu",
+     "desc": "Yana ɗagowa daga sujada yana kabbara, ya zauna a zaman iftirashi, ya yi addu'a, sannan ya yi sujada ta biyu kamar ta farko.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 16,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Tahiyya (Tashahhud)",
+     "desc": "Bayan raka'o'i biyu na farko da kuma a ƙarshen sallah, yana zama don tashahhud, yana nuni da yatsansa manuni, kuma yana karanta tahiyyat.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 17,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Salatin Ibrahimiyya (As-Salat al-Ibrahimiyyah)",
+     "desc": "A tashahhud na ƙarshe, yana yin salati ga Annabi ﷺ, sannan ya yi addu'a da abin da ya so kafin taslimi (sallamar ƙarshe).",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 18,
+   "text": {
+    "ha": {
+     "phase": "Sallah",
+     "title": "Sallama (Taslimi)",
+     "desc": "Yana kammala sallah da sallama, yana juyawa dama sannan hagu.",
+     "recited": ""
+    }
+   }
+  }
+ ]
+}

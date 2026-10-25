@@ -1,0 +1,159 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "text": {
+    "ha": {
+     "phase": "Umara",
+     "title": "Harami da Niyya",
+     "desc": "Mai yin Umara yana yin wanka, ya shafa turare, ya sanya tufafin harami (zani da mayafi ga maza), sannan ya yi niyyar shiga ibadar a Miƙati. Ba ya halatta a wuce Miƙati ba tare da harami ba.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 1,
+   "text": {
+    "ha": {
+     "phase": "Umara",
+     "title": "Talbiyya",
+     "desc": "Mahajjaci yana fara karanta Talbiyya, yana ɗaga muryarsa da ita (ga maza), kuma yana yawaita maimaita ta tun daga lokacin harami har ya fara ɗawafi, a lokacin ne zai daina.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 2,
+   "text": {
+    "ha": {
+     "phase": "Umara",
+     "title": "Ɗawafi a Kewayen Ka'aba — Kewaye Bakwai",
+     "desc": "Yana kewaya Ka'aba sau bakwai yana cikin tsarki, yana farawa daga Hajarul Aswad, yana shafarsa ko ya yi nuni zuwa gare shi yana cewa 'Allahu Akbar,' Ɗakin yana hannun hagunsa. Ya yawaita zikiri da addu'a, ciki har da abin da ake faɗa tsakanin Ruknul Yamani da Hajarul Aswad:",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 3,
+   "text": {
+    "ha": {
+     "phase": "Umara",
+     "title": "Sallar Raka'a Biyu a Bayan Maƙamu Ibrahim",
+     "desc": "Bayan ya gama ɗawafi, yana sallar raka'a biyu a bayan Maƙamu Ibrahim idan zai yiwu, yana karanta Surar Al-Kafirun bayan Al-Fatiha a raka'a ta farko, da Surar Al-Ikhlas a ta biyu.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 4,
+   "text": {
+    "ha": {
+     "phase": "Umara",
+     "title": "Sa'ayi Tsakanin Safa da Marwa",
+     "desc": "Yana fita zuwa Safa, ya hau ta, ya fuskanci alƙibla, ya ɗaga hannayensa, ya ce 'Allahu Akbar,' ya yi addu'a. Sannan ya sauka zuwa Marwa; maza su yi sassarfa tsakanin alamomin kore guda biyu, har ya cika kewaye bakwai, na ƙarshe ya ƙare a Marwa. Daga cikin abin da ake faɗa a kan Safa da Marwa:",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 5,
+   "text": {
+    "ha": {
+     "phase": "Umara",
+     "title": "Aske Kai ko Rage Gashi",
+     "desc": "Bayan Sa'ayi, namiji yana aske kansa duka (wanda shi ne mafi alheri) ko ya rage gashin duka, mace kuma tana yanke gwargwadon ƙarshen yatsa daga gashinta. Da haka Umara ta cika.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 6,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Ranar Tarwiya (8 ga Zul-Hijja)",
+     "desc": "A safiyar rana ta takwas, yana ɗaura harami na Hajji, ya yi niyya, ya karanta Talbiyya. Sannan ya fita zuwa Mina, inda zai yi sallar Azahar, La'asar, Magariba, Isha da Asuba, yana ƙasaru salloli masu raka'a huɗu ba tare da haɗa su ba, kuma ya kwana a can daren rana ta tara.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 7,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Ranar Arafa (9 ga Zul-Hijja) — Tsayuwa",
+     "desc": "Bayan fitowar rana, yana tafiya zuwa Arafa, inda zai yi sallar Azahar da La'asar a ƙasarce kuma a haɗe a lokacin ta farko. Sannan ya duƙufa ga zikiri da addu'a, yana fuskantar alƙibla yana ɗaga hannaye, har faɗuwar rana. Dukkan Arafa wurin tsayuwa ce, sai dai kwarin Urana.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 8,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Muzdalifa — Kwana",
+     "desc": "Bayan faɗuwar rana a Arafa, yana tafiya cikin natsuwa zuwa Muzdalifa, inda zai yi sallar Magariba da Isha a haɗe a lokacin ta ƙarshe, kuma ya kwana a can. Yana tattara tsakuwa don jifan Jamarori, ya yi sallar Asuba da wuri, sannan ya ambaci Allah a Mash'arul Haram har gari ya waye.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 9,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Ranar Layya — Jifan Jamratul Aƙaba",
+     "desc": "Yana isa Mina ya jefi babbar Jamratul Aƙaba da tsakuwa bakwai a jere, yana cewa 'Allahu Akbar' da kowace tsakuwa. Yana daina karanta Talbiyya idan ya fara jifa.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 10,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Dabbar Hadaya da Aski",
+     "desc": "Bayan jifa, mai yin Tamattu'i ko Ƙirani yana yanka dabbar hadaya, sannan ya aske kansa ko ya rage (aski shi ne mafi alheri), mace kuma tana yanke gwargwadon ƙarshen yatsa. Da haka ake samun warwarewar farko daga harami, komai ya halatta sai dai kusantar mata.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 11,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Ɗawafin Ifada (Rukuni na Hajji)",
+     "desc": "Yana sauka zuwa Makka ya yi Ɗawafin Ifada, kewaye bakwai, sannan ya yi Sa'ayi tsakanin Safa da Marwa a matsayin Sa'ayin Hajji. Da haka ake samun warwarewa ta biyu daga harami, komai ya halatta.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 12,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Kwanakin Tashriƙ — Kwana da Jifa",
+     "desc": "Yana kwana darare na Tashriƙ a Mina, yana jifan Jamarori uku kowace rana bayan rana ta karkata: ƙarama, sannan ta tsakiya, sannan ta Aƙaba, tsakuwa bakwai ga kowacce. Wanda ya yi gaggawa yana barin bayan jifa a rana ta goma sha biyu; wanda ya jinkirta kuma yana jifa a rana ta goma sha uku.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 13,
+   "text": {
+    "ha": {
+     "phase": "Hajji",
+     "title": "Ɗawafin Bankwana",
+     "desc": "Idan mahajjaci yana son barin Makka, yana sanya aikinsa na ƙarshe a Ɗakin ya zama Ɗawafin Bankwana na kewaye bakwai. An ɗauke shi ga mace mai haila ko mai jinin biƙi.",
+     "dua": ""
+    }
+   }
+  }
+ ]
+}

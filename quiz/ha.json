@@ -1,0 +1,305 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Rukunan Musulunci nawa ne?",
+     "options": [
+      "Huɗu",
+      "Biyar",
+      "Shida",
+      "Bakwai"
+     ]
+    }
+   }
+  },
+  {
+   "index": 1,
+   "correct": 2,
+   "text": {
+    "ha": {
+     "q": "Rukunan imani nawa ne?",
+     "options": [
+      "Huɗu",
+      "Biyar",
+      "Shida",
+      "Bakwai"
+     ]
+    }
+   }
+  },
+  {
+   "index": 2,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Surori nawa ne a cikin Alƙur'ani Mai Girma?",
+     "options": [
+      "Ɗari da goma sha biyu",
+      "Ɗari da goma sha huɗu",
+      "Ɗari da ashirin",
+      "Ɗari da goma"
+     ]
+    }
+   }
+  },
+  {
+   "index": 3,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Izu nawa ne Alƙur'ani Mai Girma yake da su?",
+     "options": [
+      "Ashirin",
+      "Talatin",
+      "Arba'in",
+      "Sittin"
+     ]
+    }
+   }
+  },
+  {
+   "index": 4,
+   "correct": 2,
+   "text": {
+    "ha": {
+     "q": "Wace sura ce mafi tsawo a Alƙur'ani Mai Girma?",
+     "options": [
+      "Ali Imran",
+      "An-Nisa'i",
+      "Al-Baƙara",
+      "Al-A'araf"
+     ]
+    }
+   }
+  },
+  {
+   "index": 5,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Wace sura ce ta farko a tsarin Mushafi?",
+     "options": [
+      "Al-Baƙara",
+      "Al-Fatiha",
+      "Al-Alaƙ",
+      "An-Nas"
+     ]
+    }
+   }
+  },
+  {
+   "index": 6,
+   "correct": 2,
+   "text": {
+    "ha": {
+     "q": "Salloli na farilla nawa ne a cikin yini da dare?",
+     "options": [
+      "Uku",
+      "Huɗu",
+      "Biyar",
+      "Shida"
+     ]
+    }
+   }
+  },
+  {
+   "index": 7,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "A wane wata aka wajabta azumin Ramadan?",
+     "options": [
+      "Sha'aban",
+      "Ramadan",
+      "Shawwal",
+      "Muharram"
+     ]
+    }
+   }
+  },
+  {
+   "index": 8,
+   "correct": 2,
+   "text": {
+    "ha": {
+     "q": "Wane ne ya fara kiran sallah (adhan) a Musulunci?",
+     "options": [
+      "Abubakar Siddiƙ",
+      "Umar ɗan Khaɗɗabi",
+      "Bilal ɗan Rabah",
+      "Usman ɗan Affan"
+     ]
+    }
+   }
+  },
+  {
+   "index": 9,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Wane ne na farko a cikin Khalifofi Shiryayyu?",
+     "options": [
+      "Umar ɗan Khaɗɗabi",
+      "Abubakar Siddiƙ",
+      "Usman ɗan Affan",
+      "Ali ɗan Abi Ɗalib"
+     ]
+    }
+   }
+  },
+  {
+   "index": 10,
+   "correct": 2,
+   "text": {
+    "ha": {
+     "q": "Wane annabi ne ya gina Ka'aba tare da ɗansa Isma'il?",
+     "options": [
+      "Nuhu, amincin Allah ya tabbata a gare shi",
+      "Musa, amincin Allah ya tabbata a gare shi",
+      "Ibrahim, amincin Allah ya tabbata a gare shi",
+      "Isa, amincin Allah ya tabbata a gare shi"
+     ]
+    }
+   }
+  },
+  {
+   "index": 11,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Mene ne sunan mala'ikan da aka damƙa wa wahayi?",
+     "options": [
+      "Mika'ilu",
+      "Jibrilu",
+      "Israfilu",
+      "Maliku"
+     ]
+    }
+   }
+  },
+  {
+   "index": 12,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "A wane kogo ne wahayi ya fara sauka ga Annabi ﷺ?",
+     "options": [
+      "Kogon Saur",
+      "Kogon Hira",
+      "Kogon Uhudu",
+      "Kogon An-Nur"
+     ]
+    }
+   }
+  },
+  {
+   "index": 13,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Mene ne abu na farko da aka saukar daga Alƙur'ani Mai Girma?",
+     "options": [
+      "\"Ya kai mai lulluɓe\"",
+      "\"Ka karanta da sunan Ubangijinka\"",
+      "\"Dukkan godiya ta tabbata ga Allah, Ubangijin talikai\"",
+      "\"Alif, Lam, Mim\""
+     ]
+    }
+   }
+  },
+  {
+   "index": 14,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Mece ce alƙibla ta farko ta Musulmi?",
+     "options": [
+      "Ka'aba Mai Alfarma",
+      "Masallacin Al-Aƙsa",
+      "Masallacin Annabi",
+      "Masallacin Ƙuba'"
+     ]
+    }
+   }
+  },
+  {
+   "index": 15,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Mene ne sunan annabin da babban kifi ya haɗiye?",
+     "options": [
+      "Yusuf, amincin Allah ya tabbata a gare shi",
+      "Yunus, amincin Allah ya tabbata a gare shi",
+      "Ayyuba, amincin Allah ya tabbata a gare shi",
+      "Salihu, amincin Allah ya tabbata a gare shi"
+     ]
+    }
+   }
+  },
+  {
+   "index": 16,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "A ina aka haifi Annabi Muhammadu ﷺ?",
+     "options": [
+      "Madina Al-Munawwara",
+      "Makka Al-Mukarrama",
+      "Ɗa'if",
+      "Sham"
+     ]
+    }
+   }
+  },
+  {
+   "index": 17,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Raka'o'i nawa na farilla sallar Magariba take da su?",
+     "options": [
+      "Biyu",
+      "Uku",
+      "Huɗu",
+      "Biyar"
+     ]
+    }
+   }
+  },
+  {
+   "index": 18,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "Wace sura ce mafi gajarta a Alƙur'ani Mai Girma?",
+     "options": [
+      "Al-Ikhlas",
+      "Al-Kausar",
+      "An-Nas",
+      "Al-Asr"
+     ]
+    }
+   }
+  },
+  {
+   "index": 19,
+   "correct": 1,
+   "text": {
+    "ha": {
+     "q": "A wace ranar mako ake yin sallar Juma'a?",
+     "options": [
+      "Alhamis",
+      "Juma'a",
+      "Asabar",
+      "Lahadi"
+     ]
+    }
+   }
+  }
+ ]
+}
