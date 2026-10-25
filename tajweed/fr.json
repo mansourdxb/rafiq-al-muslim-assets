@@ -1,0 +1,214 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Isti‘adha et basmala",
+     "body": "L’isti‘adha (demander refuge auprès d’Allah) est une Sunna au début de la récitation, et sa formule est : « أعوذ بالله من الشيطان الرجيم ». La basmala est récitée au début de chaque sourate, sauf la sourate At-Tawba. Entre deux sourates, le récitateur dispose de plusieurs manières permises de réciter.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 1,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Idhhar guttural (Izhhar Halqi)",
+     "body": "Prononcer le noun sakin ou le tanwin clairement, depuis son point d’articulation, sans ghunna (son nasal) audible, lorsqu’il est suivi de l’une des six lettres gutturales : la hamza (ء), le ha (ه), le ‘ayn (ع), le ha (ح), le ghayn (غ) et le kha (خ).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 2,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Idgham avec ghunna",
+     "body": "Si, dans un mot séparé, l’une des lettres de « يَنْمُو » (ya, noun, mim, waw) suit le noun sakin ou le tanwin, le noun est fusionné (idgham) dans celle-ci tout en conservant la ghunna pendant la durée de deux harakat (temps).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 3,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Idgham sans ghunna",
+     "body": "Si la lettre lam ou ra suit le noun sakin ou le tanwin, le noun est entièrement fusionné dans celle-ci sans ghunna, et cela ne se produit qu’entre deux mots séparés.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 4,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "L’iqlab",
+     "body": "Transformer le noun sakin ou le tanwin en un mim dissimulé lorsqu’il rencontre la lettre ba, en observant la ghunna pendant la durée de deux harakat ; il n’a qu’une seule lettre, qui est le ba.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 5,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Ikhfa véritable (Ikhfa Haqiqi)",
+     "body": "Prononcer le noun sakin ou le tanwin d’une manière intermédiaire entre l’idhhar (prononciation claire) et l’idgham (fusion), sans chadda (redoublement), tout en conservant la ghunna pendant la durée de deux harakat. Il a quinze lettres (les lettres restantes après celles de l’idhhar, de l’idgham et de l’iqlab).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 6,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Ikhfa labial (Ikhfa Chafawi)",
+     "body": "L’une des règles du mim sakin : si la lettre ba le suit, il doit être dissimulé par une dissimulation labiale (ikhfa chafawi), avec ghunna pendant la durée de deux harakat. On l’appelle « labial » parce que le mim et le ba s’articulent tous deux avec les deux lèvres.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 7,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Idgham labial (Idgham Chafawi)",
+     "body": "Si un mim mobile (vocalisé) suit le mim sakin, le premier est fusionné dans le second avec ghunna pendant la durée de deux harakat, pour devenir un seul mim redoublé (chadda) ; on l’appelle « le petit idgham de deux lettres identiques » (idgham al-mithlayn as-saghir).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 8,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Idhhar labial (Izhhar Chafawi)",
+     "body": "Si une lettre autre que le ba et le mim suit le mim sakin, le mim doit être prononcé avec un idhhar labial clair, sans ghunna. Il faut veiller tout particulièrement à ne pas le dissimuler devant les lettres fa et waw.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 9,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Madd naturel",
+     "body": "Le madd (prolongation) sans lequel la lettre elle-même ne peut exister, et qui ne dépend ni d’une hamza ni d’un soukoun ; il est prolongé pendant la durée de deux harakat. Les lettres du madd sont : l’alif précédé d’une fatha, le waw précédé d’une damma et le ya précédé d’une kasra.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 10,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Madd attaché (Madd Muttasil)",
+     "body": "Qu’une hamza vienne après une lettre de madd dans un même mot ; sa règle est l’obligation, et il est prolongé de quatre ou cinq harakat, que l’on poursuive (wasl) ou que l’on s’arrête (waqf), et de six à l’arrêt si la hamza se trouve à la fin du mot.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 11,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Madd séparé (Madd Munfasil)",
+     "body": "Qu’une lettre de madd se trouve à la fin d’un mot tandis que la hamza se trouve au début du mot suivant ; sa règle est la permission, et selon Hafs par la voie de la Shatibiyya, il est prolongé de quatre ou cinq harakat.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 12,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Madd dû à un arrêt occasionnel (Madd ‘Arid Lis-Sukun)",
+     "body": "Qu’un soukoun occasionnel suive une lettre de madd en raison de l’arrêt à la fin du mot ; sa règle est la permission, et la prolongation courte, moyenne ou longue est permise, bien qu’il soit préférable de s’en tenir à une seule manière de façon constante.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 13,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Madd de substitution (Madd Badal)",
+     "body": "Que la hamza précède une lettre de madd dans un même mot ; son origine est deux hamzas, dont la seconde a été remplacée par une lettre de madd. Sa règle est la permission, et selon Hafs il est prolongé pendant la durée de deux harakat.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 14,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Madd nécessaire (Madd Lazim)",
+     "body": "Qu’un soukoun originel, fixe aussi bien dans la continuité (wasl) qu’à l’arrêt (waqf), suive une lettre de madd ; sa règle est la nécessité impérative (luzum), et il doit être prolongé de six harakat. Il se divise en madd lié au mot (kalimi) et madd lié à la lettre (harfi).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 15,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "La qalqala",
+     "body": "La vibration (rebond) de la lettre lorsqu’elle est prononcée sakin (avec soukoun), de sorte qu’un son fort et résonnant s’en fait entendre. Ses lettres sont au nombre de cinq, réunies dans « قُطْبُ جَدٍّ » (qaf, ta, ba, jim, dal). Elle est mineure (sughra) au milieu d’un mot, et majeure (kubra) à l’arrêt.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 16,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Règles de la lettre ra (prononciation emphatique et légère)",
+     "body": "Le ra est prononcé emphatique (moufakhkham) lorsqu’il porte une fatha ou une damma, ou lorsqu’il est sakin après une fatha ou une damma. Il est prononcé léger (mouraqqaq) lorsqu’il porte une kasra, ou lorsqu’il est sakin après une kasra originelle qui n’est pas suivie d’une lettre d’isti‘la (élévation).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 17,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "fr": {
+     "title": "Règles du lam dans le nom d’Allah",
+     "body": "Le lam du nom d’Allah (« الله ») est prononcé emphatique (moufakhkham) lorsqu’il est précédé d’une fatha ou d’une damma, et léger (mouraqqaq) lorsqu’il est précédé d’une kasra. Cette règle est propre au seul lam du nom d’Allah, et non à tout autre lam.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 18,
+   "ref": "تحفة الأطفال والجزرية",
+   "text": {
+    "fr": {
+     "title": "Tafkhim et tarqiq (prononciation emphatique et légère)",
+     "body": "Le tafkhim (emphase) est une plénitude qui entre dans la lettre, de sorte que la bouche se remplit de sa résonance, tandis que le tarqiq (légèreté) est une finesse par laquelle la bouche ne s’en remplit pas. Les sept lettres d’isti‘la (élévation), réunies dans « خُصَّ ضَغْطٍ قِظْ », sont toujours prononcées emphatiques.",
+     "example": ""
+    }
+   }
+  }
+ ]
+}

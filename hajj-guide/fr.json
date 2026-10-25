@@ -1,0 +1,159 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "text": {
+    "fr": {
+     "phase": "Omra",
+     "title": "Ihram et intention",
+     "desc": "Le pèlerin accomplissant la Omra fait ses ablutions majeures, se parfume et revêt les vêtements de l’ihram (un izar et un rida’ pour les hommes), puis formule l’intention d’entrer dans le rite au miqat. Il n’est pas permis de dépasser le miqat sans ihram.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 1,
+   "text": {
+    "fr": {
+     "phase": "Omra",
+     "title": "La talbiya",
+     "desc": "Le pèlerin commence à réciter la talbiya en élevant la voix (pour les hommes), et la répète souvent depuis le moment de l’ihram jusqu’à ce qu’il commence le tawaf, moment où il s’arrête.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 2,
+   "text": {
+    "fr": {
+     "phase": "Omra",
+     "title": "Le tawaf autour de la Kaaba — sept tours",
+     "desc": "Il fait sept fois le tour de la Kaaba en état de pureté, en commençant par la Pierre noire, qu’il touche ou vers laquelle il fait un signe en disant « Allahu Akbar », la Maison étant à sa gauche. Il doit multiplier le dhikr et les invocations, dont ce qui est dit entre le Coin yéménite et la Pierre noire :",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 3,
+   "text": {
+    "fr": {
+     "phase": "Omra",
+     "title": "Prier deux rak’a derrière la Station d’Ibrahim",
+     "desc": "Après avoir terminé le tawaf, il prie deux rak’a derrière la Station d’Ibrahim si possible, en récitant la sourate Al-Kafirun après Al-Fatiha dans la première rak’a et la sourate Al-Ikhlas dans la seconde.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 4,
+   "text": {
+    "fr": {
+     "phase": "Omra",
+     "title": "Le sa’y entre Safa et Marwa",
+     "desc": "Il se rend à Safa, y monte, fait face à la qibla, lève les mains, dit « Allahu Akbar » et invoque. Puis il descend vers Marwa ; les hommes doivent presser le pas entre les deux repères verts, en accomplissant sept parcours, le dernier se terminant à Marwa. Parmi ce qui est dit sur Safa et Marwa :",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 5,
+   "text": {
+    "fr": {
+     "phase": "Omra",
+     "title": "Se raser ou se raccourcir les cheveux",
+     "desc": "Après le sa’y, l’homme se rase toute la tête (ce qui est meilleur) ou en raccourcit l’ensemble des cheveux, tandis que la femme raccourcit ses cheveux de la longueur d’un bout de doigt. Ainsi, la Omra est achevée.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 6,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "Le jour de Tarwiya (8 dhou al-hijja)",
+     "desc": "Le matin du huitième jour, il entre en état d’ihram pour le Hajj, formule l’intention et récite la talbiya. Puis il se rend à Mina, où il prie Dhuhr, Asr, Maghrib, Isha et Fajr, en raccourcissant les prières de quatre rak’a sans les regrouper, et il y passe la nuit du neuvième jour.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 7,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "Le jour de ’Arafa (9 dhou al-hijja) — la station",
+     "desc": "Après le lever du soleil, il se rend à ’Arafa, où il prie Dhuhr et Asr raccourcies et regroupées à l’heure de la première. Puis il se consacre au dhikr et à l’invocation, face à la qibla, les mains levées, jusqu’au coucher du soleil. Tout ’Arafa est un lieu de station, à l’exception de la vallée de ’Urana.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 8,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "Mouzdalifa — y passer la nuit",
+     "desc": "Après le coucher du soleil à ’Arafa, il se rend calmement à Mouzdalifa, où il prie Maghrib et Isha regroupées à l’heure de la seconde, et y passe la nuit. Il ramasse les cailloux pour la lapidation des jamarat, prie Fajr tôt, puis invoque Allah à al-Mach’ar al-Haram jusqu’à ce que le jour paraisse.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 9,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "Le jour du sacrifice — la lapidation de Jamrat al-’Aqaba",
+     "desc": "Il arrive à Mina et lapide la grande Jamrat al-’Aqaba avec sept cailloux lancés l’un après l’autre, en disant « Allahu Akbar » à chaque caillou. Il cesse de réciter la talbiya lorsqu’il commence la lapidation.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 10,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "L’animal sacrifié et le rasage",
+     "desc": "Après la lapidation, celui qui accomplit le tamattou’ ou le qiran égorge l’animal du sacrifice, puis se rase la tête ou raccourcit ses cheveux (le rasage est meilleur), tandis que la femme raccourcit de la longueur d’un bout de doigt. Ainsi a lieu la première désacralisation, qui rend tout permis sauf les relations avec les femmes.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 11,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "Le tawaf al-ifada (un pilier du Hajj)",
+     "desc": "Il descend à La Mecque et accomplit le tawaf al-ifada, sept tours, puis effectue le sa’y entre Safa et Marwa en tant que sa’y du Hajj. Ainsi a lieu la seconde désacralisation, qui rend tout permis.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 12,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "Les jours de tachriq — y passer la nuit et lapider",
+     "desc": "Il passe les nuits de tachriq à Mina et lapide chaque jour les trois jamarat après que le soleil a passé son zénith : la petite, puis celle du milieu, puis al-’Aqaba, sept cailloux pour chacune. Celui qui se hâte part après la lapidation du douzième jour ; celui qui retarde lapide aussi le treizième.",
+     "dua": ""
+    }
+   }
+  },
+  {
+   "index": 13,
+   "text": {
+    "fr": {
+     "phase": "Hajj",
+     "title": "Le tawaf d’adieu",
+     "desc": "Si le pèlerin veut quitter La Mecque, il fait du tawaf d’adieu, en sept tours, son dernier acte à la Maison. Il n’est pas exigé de la femme en menstrues ou en lochies.",
+     "dua": ""
+    }
+   }
+  }
+ ]
+}

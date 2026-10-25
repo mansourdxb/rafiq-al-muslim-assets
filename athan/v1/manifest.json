@@ -15,7 +15,8 @@
     "id": "Masjid",
     "hi": "मस्जिदें",
     "bn": "মসজিদ",
-    "ha": "Masallatai"
+    "ha": "Masallatai",
+    "fr": "Mosquées"
    },
    "thumb": "athan/mosques/thumb.jpg",
    "items": [
@@ -44,7 +45,8 @@
     "id": "Alam",
     "hi": "प्रकृति",
     "bn": "প্রকৃতি",
-    "ha": "Yanayi"
+    "ha": "Yanayi",
+    "fr": "Nature"
    },
    "thumb": "athan/nature/thumb.jpg",
    "items": [
@@ -70,7 +72,8 @@
     "id": "Film masjid",
     "hi": "मस्जिदों की फ़िल्में",
     "bn": "মসজিদের ভিডিও",
-    "ha": "Bidiyon masallatai"
+    "ha": "Bidiyon masallatai",
+    "fr": "Films de mosquées"
    },
    "thumb": "athan/cinematic/thumb.jpg",
    "items": [
