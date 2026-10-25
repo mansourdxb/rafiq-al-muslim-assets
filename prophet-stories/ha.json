@@ -1,0 +1,255 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "id": 1,
+   "refs": "البقرة 2:30-37؛ الأعراف 7:11-25؛ طه 20:115-122",
+   "text": {
+    "ha": {
+     "name": "Annabi Adamu, amincin Allah ya tabbata a gare shi",
+     "summary": "Na farkon mutane kuma uban annabawa. Allah Ya halicce shi da Hannunsa, Ya hura masa daga ruhinsa, kuma Ya sa mala'iku suka yi masa sujada. Ya zaunar da shi a Aljanna kuma Ya koya masa sunaye dukkansu. Ya jarrabe shi da hani game da wata bishiya, sai ya ci daga gare ta saboda waswasin Shaiɗan, sai Allah Ya karɓi tubansa kuma Ya zaɓe shi, sannan Ya saukar da shi zuwa ƙasa don ya raya ta da zuriyarsa."
+    }
+   }
+  },
+  {
+   "id": 2,
+   "refs": "مريم 19:56-57؛ الأنبياء 21:85-86",
+   "text": {
+    "ha": {
+     "name": "Annabi Idris, amincin Allah ya tabbata a gare shi",
+     "summary": "Annabi ne mai gaskiya daga cikin annabawa na farko-farko, wanda Allah Ya siffanta da haƙuri da gaskiya, kuma Ya ɗaga shi zuwa wani matsayi maɗaukaki. An ambace shi a cikin Alƙur'ani tare da masu haƙuri da salihai."
+    }
+   }
+  },
+  {
+   "id": 3,
+   "refs": "نوح 71:1-28؛ هود 11:25-49؛ الأعراف 7:59-64",
+   "text": {
+    "ha": {
+     "name": "Nuhu, amincin Allah ya tabbata a gare shi",
+     "summary": "Na farkon manzanni zuwa ga mutanen ƙasa. Ya kira mutanensa zuwa ga kaɗaita Allah tsawon shekara dubu ban da hamsin, amma kaɗan ne kawai suka yi imani. Allah Ya umarce shi da ya gina jirgi, sai Ya nutsar da kafirai a cikin ambaliyar ruwa, kuma Ya tseratar da muminan da ke tare da shi."
+    }
+   }
+  },
+  {
+   "id": 4,
+   "refs": "الأعراف 7:65-72؛ هود 11:50-60؛ الأحقاف 46:21-25",
+   "text": {
+    "ha": {
+     "name": "Annabi Hudu, amincin Allah ya tabbata a gare shi",
+     "summary": "An aiko shi zuwa ga mutanen Adawa, waɗanda suka zauna a Al-Ahƙaf kuma ma'abota ƙarfi ne da gine-gine masu girma. Ya kira su zuwa ga bauta wa Allah Shi kaɗai da watsi da gumaka. Suka ƙaryata shi kuma suka yi girman kai, sai Allah Ya halaka su da iska mai tsananin ƙara da ƙarfi, kuma Ya tseratar da Hudu da waɗanda suka yi imani tare da shi."
+    }
+   }
+  },
+  {
+   "id": 5,
+   "refs": "الأعراف 7:73-79؛ هود 11:61-68؛ الشمس 91:11-15",
+   "text": {
+    "ha": {
+     "name": "Salihu, amincin Allah ya tabbata a gare shi",
+     "summary": "An aiko shi zuwa ga mutanen Samudawa, waɗanda suka sassaƙa duwatsu suka mai da su gidaje. Ya kira su zuwa ga kaɗaita Allah kuma ya zo musu da ayar taguwa. Suka soke taguwar kuma suka ƙaryata shi, sai Tsawa da girgizar ƙasa suka kama su, suka zama gawawwaki a durƙushe a cikin gidajensu."
+    }
+   }
+  },
+  {
+   "id": 6,
+   "refs": "الأنعام 6:74-83؛ الأنبياء 21:51-70؛ الصافات 37:99-113؛ البقرة 2:124-129",
+   "text": {
+    "ha": {
+     "name": "Ibrahim, amincin Allah ya tabbata a gare shi",
+     "summary": "Masoyin Mai Rahama kuma jagoran masu kaɗaita Allah, ya farfasa gumakan mutanensa sai Allah Ya tseratar da shi daga wuta, kuma ya yi hijira saboda Allah. Ya gina Ka'aba tare da ɗansa Isma'ila, kuma an jarrabe shi da yanka ɗansa, sai Allah Ya fanshe shi da babban yanka, kuma Ya sanya annabci a cikin zuriyarsa."
+    }
+   }
+  },
+  {
+   "id": 7,
+   "refs": "الأعراف 7:80-84؛ هود 11:77-83؛ الحجر 15:57-77",
+   "text": {
+    "ha": {
+     "name": "Annabi Ludu (amincin Allah ya tabbata a gare shi)",
+     "summary": "Ɗan ɗan'uwan Ibrahim ne (ɗan ɗan'uwansa namiji), an aiko shi zuwa ga mutanen Saduma waɗanda suke aikata alfasha da maza, sai ya kira su da su bar sharri kuma su bauta wa Allah. Suka dage a kan ɓatansu, sai Allah Ya tseratar da shi da iyalinsa sai matarsa, kuma Ya halaka garin ta hanyar birkice shi da yi masa ruwan duwatsu."
+    }
+   }
+  },
+  {
+   "id": 8,
+   "refs": "الصافات 37:101-107؛ البقرة 2:125-129؛ مريم 19:54-55؛ الأنبياء 21:85-86",
+   "text": {
+    "ha": {
+     "name": "Annabi Isma'ila (amincin Allah ya tabbata a gare shi)",
+     "summary": "Ɗan farin Ibrahim, ya kasance mai cika alkawari, kuma Manzo ne kuma Annabi, kuma ya miƙa wuya ga umarnin Allah lokacin da aka gabatar masa da batun yanka. Ya yi tarayya da mahaifinsa wajen ɗaga harsashin Ɗaki Mai Alfarma, kuma ya kasance yana umartar iyalinsa da sallah da zakka."
+    }
+   }
+  },
+  {
+   "id": 9,
+   "refs": "هود 11:71-73؛ الصافات 37:112-113؛ الأنبياء 21:72؛ مريم 19:49",
+   "text": {
+    "ha": {
+     "name": "Annabi Ishaƙa (amincin Allah ya tabbata a gare shi)",
+     "summary": "Ɗan Ibrahim, an yi albishir da shi a lokacin tsufan iyayensa, kuma Allah Ya sanya shi Annabi daga cikin salihai. Allah Ya ba shi Yaƙubu, kuma Ya sanya annabci a cikin zuriyarsa."
+    }
+   }
+  },
+  {
+   "id": 10,
+   "refs": "البقرة 2:132-133؛ يوسف 12:6؛ يوسف 12:83-87؛ الأنبياء 21:72",
+   "text": {
+    "ha": {
+     "name": "Annabi Yaƙubu (amincin Allah ya tabbata a gare shi)",
+     "summary": "Ɗan Ishaƙa, wanda ake kira Isra'ila, Annabi ne daga zuriyar Ibrahim wanda Allah Ya zaɓa. Ya yi haƙuri a kan rashin ɗansa Yusuf har idanunsa suka yi fari saboda baƙin ciki, kuma ya yi wa 'ya'yansa wasiyya da kaɗaita Allah a lokacin mutuwarsa."
+    }
+   }
+  },
+  {
+   "id": 11,
+   "refs": "سورة يوسف 12 كاملة",
+   "text": {
+    "ha": {
+     "name": "Yusuf, amincin Allah ya tabbata a gare shi",
+     "summary": "Ɗan Yaƙubu, ya ga mafarkin taurari suna yi masa sujada, sai 'yan'uwansa suka yi masa hassada kuma suka jefa shi cikin rijiya. An jarrabe shi da zama bawa da ɗaurin kurkuku, sannan Allah Ya ba shi iko a kan taskokin Masar, sai ya yafe wa 'yan'uwansa kuma ya haɗa kan iyalinsa, kuma labarinsa shi ne mafi kyawun labarai."
+    }
+   }
+  },
+  {
+   "id": 12,
+   "refs": "الأنبياء 21:83-84؛ ص 38:41-44",
+   "text": {
+    "ha": {
+     "name": "Ayyuba, amincin Allah ya tabbata a gare shi",
+     "summary": "Annabi ne mai haƙuri wanda Allah Ya jarraba a jikinsa, da dukiyarsa, da iyalinsa, sai ya jure da kyakkyawan haƙuri kuma bai kai kukansa ga kowa ba sai Ubangijinsa. Allah Ya amsa addu'arsa, Ya kawar masa da musibarsa, kuma Ya mayar masa da iyalinsa da kwatankwacinsu tare da su, kuma lallai ya kasance bawa madalla, mai yawan komawa (ga Allah)."
+    }
+   }
+  },
+  {
+   "id": 13,
+   "refs": "الأعراف 7:85-93؛ هود 11:84-95؛ الشعراء 26:176-190",
+   "text": {
+    "ha": {
+     "name": "Annabi Shu'aibu, amincin Allah ya tabbata a gare shi",
+     "summary": "An aiko shi zuwa ga mutanen Madyana da Ma'abota Kurmi, waɗanda suke tauye mudu da ma'auni, sai ya kira su zuwa ga kaɗaita Allah da adalci a mu'amala. Suka ƙaryata shi kuma suka yi masa barazana, sai girgizar ƙasa ta kama su, tare da azabar Ranar Inuwa (gajimaren da ya yi musu inuwa), kuma Allah Ya tseratar da Shu'aibu da waɗanda suka yi imani tare da shi."
+    }
+   }
+  },
+  {
+   "id": 14,
+   "refs": "القصص 28:3-43؛ طه 20:9-98؛ الأعراف 7:103-156",
+   "text": {
+    "ha": {
+     "name": "Musa, amincin Allah ya tabbata a gare shi",
+     "summary": "Wanda Allah Ya yi magana da shi kai tsaye (Kalimullah), ya taso a gidan Fir'auna, sannan Allah Ya aiko shi a matsayin manzo zuwa gare shi kuma Ya ba shi ayoyi bayyanannu guda tara. Ya tseratar da Banu Isra'ila kuma Ya raba musu teku, Ya nutsar da Fir'auna, kuma Allah Ya saukar masa da Attaura kuma Ya yi magana da shi a Dutsen Ɗur."
+    }
+   }
+  },
+  {
+   "id": 15,
+   "refs": "طه 20:29-36؛ الأعراف 7:142؛ القصص 28:34؛ مريم 19:53",
+   "text": {
+    "ha": {
+     "name": "Annabi Haruna, amincin Allah ya tabbata a gare shi",
+     "summary": "Ɗan'uwan Musa kuma mataimakinsa, Musa ya roƙi Ubangijinsa da Ya sanya shi wazirinsa (mataimaki), sai Allah Ya amsa kuma Ya ba shi shi a matsayin annabi. Ya taimaki Musa wajen kiran Fir'auna, kuma ya maye gurbinsa a cikin mutanensa, yana kushe musu bautar ɗan maraƙi."
+    }
+   }
+  },
+  {
+   "id": 16,
+   "refs": "الأنبياء 21:85-86؛ ص 38:48",
+   "text": {
+    "ha": {
+     "name": "Annabi Zulkifli, amincin Allah ya tabbata a gare shi",
+     "summary": "Annabi ne salihi wanda Allah Ya ambata a cikin masu haƙuri, mutanen kirki, kuma Ya shigar da shi cikin rahamarsa. Alƙur'ani bai yi bayani dalla-dalla game da labarinsa ba, ya taƙaita ga yabonsa da haƙuri da salihanci."
+    }
+   }
+  },
+  {
+   "id": 17,
+   "refs": "ص 38:17-26؛ الأنبياء 21:78-80؛ سبأ 34:10-11؛ البقرة 2:251",
+   "text": {
+    "ha": {
+     "name": "Annabi Dawuda, amincin Allah ya tabbata a gare shi",
+     "summary": "Annabi ne kuma sarki wanda Allah Ya ba shi Zabura, da hikima, da magana mai rarrabewa, kuma Ya hore masa duwatsu da tsuntsaye suna tasbihi tare da shi. Ya taushe masa ƙarfe, ya kashe Jalutu, kuma ya kasance mai yawan komawa ga Allah, mai ƙarfi a ibada, mai adalci a hukunci."
+    }
+   }
+  },
+  {
+   "id": 18,
+   "refs": "النمل 27:15-44؛ ص 38:30-40؛ الأنبياء 21:81-82؛ سبأ 34:12-13",
+   "text": {
+    "ha": {
+     "name": "Annabi Sulaimanu, amincin Allah ya tabbata a gare shi",
+     "summary": "Ɗan Dawuda; Allah Ya ba shi mulki mai girma, Ya koya masa harshen tsuntsaye, kuma Ya hore masa aljannu da iska. Ya yi magana da tsuntsun Hudhudu kuma ya yi rubutu da Sarauniyar Saba'a, wadda daga baya ta miƙa wuya (ga Musulunci), kuma ya kasance bawa mai godiya, mai yawan komawa (ga Allah)."
+    }
+   }
+  },
+  {
+   "id": 19,
+   "refs": "الأنعام 6:85؛ الصافات 37:123-132",
+   "text": {
+    "ha": {
+     "name": "Annabi Ilyasu, amincin Allah ya tabbata a gare shi",
+     "summary": "Ɗaya daga cikin manzanni; an aiko shi zuwa ga mutanensa, yana kiransu zuwa ga bauta wa Allah kuma yana hana su bautar gunkin 'Ba'l'. Yawancinsu suka ƙaryata shi, sai ya yi musu gargaɗi, kuma Allah Ya wanzar masa da kyakkyawan yabo a cikin al'ummomin baya."
+    }
+   }
+  },
+  {
+   "id": 20,
+   "refs": "الأنعام 6:86؛ ص 38:48",
+   "text": {
+    "ha": {
+     "name": "Annabi Alyasa'u, amincin Allah ya tabbata a gare shi",
+     "summary": "Annabi ne salihi wanda Allah Ya fifita a kan talikai kuma Ya lissafa shi cikin mutanen kirki. Alƙur'ani ya ambace shi cikin annabawa ba tare da yin bayani dalla-dalla game da labarinsa ba."
+    }
+   }
+  },
+  {
+   "id": 21,
+   "refs": "الأنبياء 21:87-88؛ الصافات 37:139-148؛ يونس 10:98؛ القلم 68:48-50",
+   "text": {
+    "ha": {
+     "name": "Yunus, amincin Allah ya tabbata a gare shi",
+     "summary": "Zunnuni (Ma'abocin Kifi), an aiko shi zuwa ga mutanen Nainawa. Ya yi fushi kuma ya tafi a fusace kafin izinin Ubangijinsa, sai kifi ya haɗiye shi a cikin duhun teku. Ya roƙi Ubangijinsa da tasbihi da iƙrari, sai Allah Ya tseratar da shi, kuma mutanensa suka yi imani, sai Ya jiyar da su daɗin rayuwa zuwa wani lokaci."
+    }
+   }
+  },
+  {
+   "id": 22,
+   "refs": "مريم 19:2-11؛ آل عمران 3:37-41؛ الأنبياء 21:89-90",
+   "text": {
+    "ha": {
+     "name": "Annabi Zakariya, amincin Allah ya tabbata a gare shi",
+     "summary": "Annabi ne wanda ya kasance mai riƙon Maryamu. Ya roƙi Ubangijinsa a ɓoye da Ya ba shi magaji wanda zai gaje shi, alhali ya kai ga tsufa kuma matarsa bakarariya ce. Sai Allah Ya yi masa albishir da Yahaya, kuma Ya sanya alamarsa cewa ba zai yi magana da mutane ba har dare uku alhali yana lafiya."
+    }
+   }
+  },
+  {
+   "id": 23,
+   "refs": "مريم 19:7-15؛ آل عمران 3:39؛ الأنبياء 21:90",
+   "text": {
+    "ha": {
+     "name": "Annabi Yahaya, amincin Allah ya tabbata a gare shi",
+     "summary": "Ɗan Zakariya. Allah Ya yi wa mahaifinsa albishir da shi kuma Ya sanya shi shugaba (sayyidi), mai kame kai, kuma annabi daga cikin salihai. Allah Ya ba shi hikima tun yana yaro, da biyayya ga iyayensa, kuma aminci ya tabbata a gare shi ranar da aka haife shi, da ranar da zai mutu, da ranar da za a tashe shi yana mai rai."
+    }
+   }
+  },
+  {
+   "id": 24,
+   "refs": "آل عمران 3:45-59؛ مريم 19:16-34؛ المائدة 5:110-118؛ النساء 4:157-158",
+   "text": {
+    "ha": {
+     "name": "Isa, amincin Allah ya tabbata a gare shi",
+     "summary": "Ɗan Maryamu. Allah Ya halicce shi ba tare da uba ba, kuma ya yi wa mutane magana yana cikin shimfiɗar jariri. Allah Ya ba shi Injila kuma Ya ƙarfafa shi da mu'ujizozi da izinin Allah, kamar raya matattu da warkar da makaho da kuturu. Ya yi albishir da wani manzo da zai zo bayansa, kuma Allah Ya ɗaga shi zuwa gare Shi; ba a kashe shi ba, kuma ba a gicciye shi ba."
+    }
+   }
+  },
+  {
+   "id": 25,
+   "refs": "الأحزاب 33:40؛ الأنبياء 21:107؛ الفتح 48:29؛ القلم 68:4؛ الأعراف 7:158",
+   "text": {
+    "ha": {
+     "name": "Annabi Muhammadu ﷺ",
+     "summary": "Cikamakin Annabawa kuma mafificin halitta. Allah Ya aiko shi a matsayin rahama ga talikai tare da Alƙur'ani Mai Girma, na ƙarshen Littattafai. Ya yi kira zuwa ga kaɗaita Allah (Tauhidi) kuma ta hanyarsa aka cika addini. Ya kasance mai ɗabi'a mai girma, kuma Allah Ya aiko shi zuwa ga dukkan mutane a matsayin mai albishir kuma mai gargaɗi."
+    }
+   }
+  }
+ ]
+}

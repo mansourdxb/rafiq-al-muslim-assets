@@ -1,0 +1,214 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Isti'aza da Basmala",
+     "body": "Isti'aza (neman tsari ga Allah) Sunna ce yayin fara karatu, kuma lafazinta shi ne: «أعوذ بالله من الشيطان الرجيم». Ana karanta basmala a farkon kowace sura sai Suratut Tauba. Tsakanin surori biyu, mai karatu yana da hanyoyi da dama halattattu na karatu.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 1,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Izhari na Maƙogwaro (Izhar Halƙi)",
+     "body": "Furta nun sakina ko tanwini a fili, daga makarinsa, ba tare da gunna (sautin hanci) da ake ji ba, idan ɗaya daga cikin harufa shida na maƙogwaro ya biyo shi: hamza (ء), ha (ه), ain (ع), ha (ح), gain (غ), da kha (خ).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 2,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Idgami tare da Gunna",
+     "body": "Idan, a wata kalma dabam, ɗaya daga cikin harufan «يَنْمُو» (ya, nun, mim, wau) ya biyo nun sakina ko tanwini, ana shigar da nun ɗin (idgami) cikinsa tare da riƙe gunna har tsawon harakoki biyu (ƙidaya).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 3,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Idgami ba tare da Gunna ba",
+     "body": "Idan harafin lam ko ra ya biyo nun sakina ko tanwini, ana shigar da nun ɗin gaba ɗaya cikinsa ba tare da gunna ba, kuma wannan yana faruwa ne kawai tsakanin kalmomi biyu dabam-dabam.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 4,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Iƙlabi",
+     "body": "Mayar da nun sakina ko tanwini zuwa mim ɓoyayye idan ya haɗu da harafin ba, tare da kiyaye gunna har tsawon harakoki biyu; yana da harafi ɗaya kawai, wato ba.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 5,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Ikhfa'i na Haƙiƙa (Ikhfa Haƙiƙi)",
+     "body": "Furta nun sakina ko tanwini a wani yanayi tsakanin izhari (furtawa a fili) da idgami (shigarwa), ba tare da shadda (ninkawa) ba, tare da riƙe gunna har tsawon harakoki biyu. Yana da harufa goma sha biyar (harufan da suka rage bayan na izhari, idgami, da iƙlabi).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 6,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Ikhfa'i na Leɓe (Ikhfa Shafawi)",
+     "body": "Ɗaya daga cikin hukunce-hukuncen mim sakina: idan harafin ba ya biyo shi, dole a ɓoye shi da ɓoyewar leɓe (ikhfa shafawi), tare da gunna har tsawon harakoki biyu. Ana kiransa 'na leɓe' domin mim da ba duka ana furta su ne daga leɓɓa biyu.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 7,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Idgami na Leɓe (Idgam Shafawi)",
+     "body": "Idan mim mai motsi (mai wasali) ya biyo mim sakina, ana shigar da na farkon cikin na biyun tare da gunna har tsawon harakoki biyu, ya zama mim guda mai shadda; ana kiran wannan 'ƙaramin idgamin harufa biyu iri ɗaya' (idgam al-mithlayn al-saghir).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 8,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Izhari na Leɓe (Izhar Shafawi)",
+     "body": "Idan wani harafi ban da ba da mim ya biyo mim sakina, dole a furta mim ɗin da izhari na leɓe a fili, ba tare da gunna ba. Dole a fi kiyayewa daga ɓoye shi a gaban harufan fa da wau.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 9,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Maddi na Ɗabi'a (Maddi Ɗabi'i)",
+     "body": "Maddi (jan sauti) wanda harafin kansa ba zai tsaya ba sai da shi, kuma bai dogara da hamza ko sukuni ba; ana jan sa har tsawon harakoki biyu. Harufan maddi su ne: alif da fataha ta gabace shi, wau da ɗamma ta gabace shi, da ya da kasra ta gabace shi.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 10,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Maddi Mai Haɗewa (Madd Muttasil)",
+     "body": "Hamza ta zo bayan harafin maddi a cikin kalma ɗaya; hukuncinsa wajibi ne, kuma ana jan sa harakoki huɗu ko biyar a lokacin ci gaba (wasli) ko tsayawa (waƙfi), da shida yayin tsayawa idan hamzar tana ƙarshen kalmar.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 11,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Maddi Mai Rabuwa (Madd Munfasil)",
+     "body": "Harafin maddi ya zo a ƙarshen kalma yayin da hamza ta zo a farkon kalma mai biye; hukuncinsa halacci ne, kuma bisa ruwayar Hafs ta hanyar ash-Shaɗibiyya ana jan sa harakoki huɗu ko biyar.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 12,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Maddi na Sukuni Mai Aukuwa (Madd 'Arid Lis-Sukun)",
+     "body": "Sukuni mai aukuwa ya biyo harafin maddi saboda tsayawa a ƙarshen kalma; hukuncinsa halacci ne, kuma an halatta gajartawa, matsakaicin tsawo, ko cikakken tsawo, ko da yake ya fi kyau a lazimci hanya ɗaya kullum.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 13,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Maddi na Musanya (Madd Badal)",
+     "body": "Hamza ta gabaci harafin maddi a cikin kalma ɗaya; asalinsa hamzoji biyu ne, an musanya ta biyun da harafin maddi. Hukuncinsa halacci ne, kuma bisa ruwayar Hafs ana jan sa har tsawon harakoki biyu.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 14,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Maddi na Lazimi (Madd Lazim)",
+     "body": "Sukuni na asali, tabbatacce a lokacin ci gaba (wasli) da tsayawa (waƙfi), ya biyo harafin maddi; hukuncinsa lazimi ne na wajibi (luzum), kuma dole a ja shi harakoki shida. An raba shi zuwa na kalma (kalimi) da na harafi (harfi).",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 15,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Ƙalƙala",
+     "body": "Girgiza/tashin harafi idan an furta shi da sukuni (sakin) ta yadda za a ji amon sauti mai ƙarfi daga gare shi. Harufansa guda biyar ne, ana samun su a «قُطْبُ جَدٍّ» (ƙaf, ɗa, ba, jim, dal). Ƙarama ce (sughra) a tsakiyar kalma, babba kuma (kubra) yayin tsayawa.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 16,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Hukunce-hukuncen Harafin Ra (Furtawa da Kauri da Siriri)",
+     "body": "Ana furta ra da kauri (mufakhkham) idan tana da fataha ko ɗamma, ko idan tana sakina bayan fataha ko ɗamma. Ana furta ta da siriri (muraƙƙaƙ) idan tana da kasra, ko idan tana sakina bayan kasra ta asali wadda harafin isti'la'i (ɗagawa) bai biyo ta ba.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 17,
+   "ref": "تحفة الأطفال",
+   "text": {
+    "ha": {
+     "title": "Hukunce-hukuncen Lam a cikin Sunan Allah",
+     "body": "Ana furta lam na Sunan Allah («الله») da kauri (mufakhkham) idan fataha ko ɗamma ta gabace shi, da siriri (muraƙƙaƙ) idan kasra ta gabace shi. Wannan hukunci ya keɓanta ga lam na Sunan Allah kaɗai, ba wani lam ba.",
+     "example": ""
+    }
+   }
+  },
+  {
+   "index": 18,
+   "ref": "تحفة الأطفال والجزرية",
+   "text": {
+    "ha": {
+     "title": "Tafkhimi da Tarƙiƙi (Furtawa da Kauri da Siriri)",
+     "body": "Tafkhimi (kauri) wani cika ne da ke shiga harafi, ta yadda bakin ke cika da amonsa, yayin da tarƙiƙi (siriri) wata rama ce wadda baki ba ya cika da ita. Harufa bakwai na isti'la'i (ɗagawa), da ake samu a «خُصَّ ضَغْطٍ قِظْ», kullum ana furta su da kauri.",
+     "example": ""
+    }
+   }
+  }
+ ]
+}
