@@ -14,7 +14,8 @@
     "tr": "Camiler",
     "id": "Masjid",
     "hi": "मस्जिदें",
-    "bn": "মসজিদ"
+    "bn": "মসজিদ",
+    "ha": "Masallatai"
    },
    "thumb": "athan/mosques/thumb.jpg",
    "items": [
@@ -42,7 +43,8 @@
     "tr": "Doğa",
     "id": "Alam",
     "hi": "प्रकृति",
-    "bn": "প্রকৃতি"
+    "bn": "প্রকৃতি",
+    "ha": "Yanayi"
    },
    "thumb": "athan/nature/thumb.jpg",
    "items": [
@@ -67,7 +69,8 @@
     "tr": "Cami filmleri",
     "id": "Film masjid",
     "hi": "मस्जिदों की फ़िल्में",
-    "bn": "মসজিদের ভিডিও"
+    "bn": "মসজিদের ভিডিও",
+    "ha": "Bidiyon masallatai"
    },
    "thumb": "athan/cinematic/thumb.jpg",
    "items": [
