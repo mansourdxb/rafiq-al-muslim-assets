@@ -158,6 +158,19 @@
         "Nouveau mode de lecture livre : défilement continu sur fond façon papier",
         "Réglages du lecteur du Coran repensés, avec icônes et cartes modernes",
         "Options de lecture audio améliorées dans le lecteur, avec icônes et nouveau sélecteur d’onglets"
+      ],
+      "zh": [
+        "全新的章节索引界面：金色徽章、高亮当前所读章节、改进的卷导航栏",
+        "全新的经注与译文界面：分段标签、现代卡片、金色点缀",
+        "全新的圣训书目界面：圆角卡片、随主题变化的阴影",
+        "章名现在可在一行内完整显示，不再截断",
+        "古兰经主页“继续阅读”卡片标题居中",
+        "章节标题和服务卡片的文字方向现在跟随应用语言",
+        "改进的更新流程：后台静默下载，然后重启并显示“新功能”",
+        "都尔黑哲月季节卡片已隐藏，直到下一个都尔黑哲月",
+        "新增古兰经书本阅读模式——纸张风格背景下连续滚动",
+        "重新设计的古兰经阅读器设置，配有图标和现代卡片",
+        "增强的阅读器播放选项，配有图标和改进的标签选择器"
       ]
     }
   },
@@ -272,6 +285,15 @@
         "Liste quotidienne de bonnes actions enregistrée : jeûne, prière surérogatoire, lecture du Coran, dhikr, aumône, takbir",
         "Dhikr recommandés avec comptage au toucher — touchez un dhikr pour commencer à compter",
         "Bannière saisonnière en haut de l’écran principal des adhkar — touchez pour accéder à toutes les activités de Dhoul-Hijja"
+      ],
+      "zh": [
+        "新增都尔黑哲月前十天功能：带进度条的每日追踪，伴您度过这些吉庆的日子",
+        "来自《布哈里圣训实录》关于前十天尊贵的圣训卡片",
+        "大赞词板块，可分享",
+        "阿拉法特日祈祷词特别突出显示",
+        "可保存的每日善功清单：斋戒、副功拜、诵读古兰经、记念、施舍、大赞词",
+        "推荐记念词，点按即可计数——点按任一记念词开始计数",
+        "记念词主界面顶部的季节横幅——点按查看所有都尔黑哲月活动"
       ]
     }
   },
@@ -494,6 +516,24 @@
         "Affichage du texte corrigé pour les langues s’écrivant de droite à gauche",
         "13 rappels islamiques ajoutés : Al-Kahf, préparation du vendredi, dernier tiers de la nuit, jeûne du lundi et du jeudi, jours blancs, wird du Coran, istighfar, Douha, ‘Arafa, ‘Achoura, sahour, hadith de la semaine, 10 dernières nuits",
         "Tous les rappels sont activés par défaut — désactivez-les ou modifiez leurs horaires dans les réglages"
+      ],
+      "zh": [
+        "修复华为应用市场更新链接",
+        "改进更新体验",
+        "修复快捷方式文字",
+        "现在默认使用西方数字（0-9）",
+        "可在设置中切换西方数字和阿拉伯数字",
+        "修复朝向界面的距离显示",
+        "新增礼拜前提醒通知（宣礼前 5–60 分钟）",
+        "新增宣礼后的成拜词提醒通知",
+        "改进界面设计：统一字体、颜色和尺寸",
+        "改进古兰经主页的从右到左显示支持",
+        "礼拜、圣训和记念词界面的页眉设计统一",
+        "改进更新体验，采用全新的优雅通知",
+        "新增“新功能”界面，查看最新改进",
+        "修复从右到左语言的文字显示",
+        "新增 13 项伊斯兰提醒：山洞章、聚礼准备、夜间最后三分之一、周一和周四斋戒、白昼斋、古兰经功课、求恕、上午拜、阿拉法特日、阿舒拉日、封斋饭、每周圣训、最后十夜",
+        "所有提醒默认开启——可在设置中关闭或自定义通知时间"
       ]
     }
   }
