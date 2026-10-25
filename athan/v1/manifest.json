@@ -13,7 +13,8 @@
     "ms": "Masjid",
     "tr": "Camiler",
     "id": "Masjid",
-    "hi": "मस्जिदें"
+    "hi": "मस्जिदें",
+    "bn": "মসজিদ"
    },
    "thumb": "athan/mosques/thumb.jpg",
    "items": [
@@ -40,7 +41,8 @@
     "ms": "Alam semula jadi",
     "tr": "Doğa",
     "id": "Alam",
-    "hi": "प्रकृति"
+    "hi": "प्रकृति",
+    "bn": "প্রকৃতি"
    },
    "thumb": "athan/nature/thumb.jpg",
    "items": [
@@ -64,7 +66,8 @@
     "ms": "Filem masjid",
     "tr": "Cami filmleri",
     "id": "Film masjid",
-    "hi": "मस्जिदों की फ़िल्में"
+    "hi": "मस्जिदों की फ़िल्में",
+    "bn": "মসজিদের ভিডিও"
    },
    "thumb": "athan/cinematic/thumb.jpg",
    "items": [
