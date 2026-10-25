@@ -1,0 +1,255 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "id": 1,
+   "refs": "البقرة 2:30-37؛ الأعراف 7:11-25؛ طه 20:115-122",
+   "text": {
+    "fr": {
+     "name": "Adam (paix sur lui)",
+     "summary": "Le premier des hommes et le père des prophètes. Allah l’a créé de Sa propre Main, a insufflé en lui de Son esprit et a ordonné aux anges de se prosterner devant lui. Il l’a établi au Paradis et lui a enseigné tous les noms. Il l’a éprouvé par l’interdiction d’un arbre, et Adam en a mangé sous l’effet des insinuations de Satan ; Allah a alors accepté son repentir et l’a élu, puis l’a fait descendre sur la terre pour la peupler de sa descendance."
+    }
+   }
+  },
+  {
+   "id": 2,
+   "refs": "مريم 19:56-57؛ الأنبياء 21:85-86",
+   "text": {
+    "fr": {
+     "name": "Idris (paix sur lui)",
+     "summary": "Un prophète véridique parmi les tout premiers prophètes, qu’Allah a décrit par la patience et la véracité, et qu’Il a élevé à un rang sublime. Il est mentionné dans le Coran aux côtés des patients et des vertueux."
+    }
+   }
+  },
+  {
+   "id": 3,
+   "refs": "نوح 71:1-28؛ هود 11:25-49؛ الأعراف 7:59-64",
+   "text": {
+    "fr": {
+     "name": "Nouh (Noé) (paix sur lui)",
+     "summary": "Le premier des messagers envoyés aux habitants de la terre. Il appela son peuple à l’unicité d’Allah pendant mille ans moins cinquante, mais seuls quelques-uns crurent. Allah lui ordonna de construire l’arche, puis Il noya les mécréants dans le déluge et sauva les croyants qui étaient avec lui."
+    }
+   }
+  },
+  {
+   "id": 4,
+   "refs": "الأعراف 7:65-72؛ هود 11:50-60؛ الأحقاف 46:21-25",
+   "text": {
+    "fr": {
+     "name": "Houd (paix sur lui)",
+     "summary": "Il fut envoyé au peuple de ‘Ad, qui habitait al-Ahqaf et possédait la force et de puissantes constructions. Il les appela à adorer Allah seul et à rejeter les idoles. Ils le traitèrent de menteur et s’enorgueillirent ; Allah les anéantit alors par un vent furieux et violent, et sauva Houd et ceux qui avaient cru avec lui."
+    }
+   }
+  },
+  {
+   "id": 5,
+   "refs": "الأعراف 7:73-79؛ هود 11:61-68؛ الشمس 91:11-15",
+   "text": {
+    "fr": {
+     "name": "Salih (paix sur lui)",
+     "summary": "Il fut envoyé au peuple de Thamoud, qui taillait des demeures dans les montagnes. Il les appela à l’unicité d’Allah et leur apporta le signe de la chamelle. Ils coupèrent les jarrets de la chamelle et le traitèrent de menteur ; le Cri et le tremblement de terre les saisirent alors, et ils gisèrent sans vie, prostrés dans leurs demeures."
+    }
+   }
+  },
+  {
+   "id": 6,
+   "refs": "الأنعام 6:74-83؛ الأنبياء 21:51-70؛ الصافات 37:99-113؛ البقرة 2:124-129",
+   "text": {
+    "fr": {
+     "name": "Ibrahim (Abraham) (paix sur lui)",
+     "summary": "L’ami intime du Tout Miséricordieux et le guide des monothéistes ; il brisa les idoles de son peuple, Allah le sauva du feu, et il émigra pour la cause d’Allah. Il bâtit la Kaaba avec son fils Ismaïl (Ismaël) et fut éprouvé par le sacrifice de son fils ; Allah le racheta alors par une immolation grandiose, et Il plaça la prophétie dans sa descendance."
+    }
+   }
+  },
+  {
+   "id": 7,
+   "refs": "الأعراف 7:80-84؛ هود 11:77-83؛ الحجر 15:57-77",
+   "text": {
+    "fr": {
+     "name": "Lout (Loth) (paix sur lui)",
+     "summary": "Le neveu d’Ibrahim (Abraham) (fils de son frère) ; il fut envoyé au peuple de Sodome, qui commettait la turpitude avec les hommes, et il les appela à délaisser le mal et à adorer Allah. Ils persistèrent dans leur égarement ; Allah le sauva alors, lui et sa famille, à l’exception de sa femme, et détruisit la cité en la renversant et en faisant pleuvoir sur elle des pierres."
+    }
+   }
+  },
+  {
+   "id": 8,
+   "refs": "الصافات 37:101-107؛ البقرة 2:125-129؛ مريم 19:54-55؛ الأنبياء 21:85-86",
+   "text": {
+    "fr": {
+     "name": "Ismaïl (Ismaël) (paix sur lui)",
+     "summary": "Le fils aîné d’Ibrahim (Abraham) ; il était fidèle à sa promesse, messager et prophète, et il se soumit à l’ordre d’Allah lorsque le sacrifice lui fut proposé. Il participa avec son père à l’élévation des fondations de la Maison sacrée, et il ordonnait à sa famille la prière et la zakat."
+    }
+   }
+  },
+  {
+   "id": 9,
+   "refs": "هود 11:71-73؛ الصافات 37:112-113؛ الأنبياء 21:72؛ مريم 19:49",
+   "text": {
+    "fr": {
+     "name": "Ishaq (Isaac) (paix sur lui)",
+     "summary": "Le fils d’Ibrahim (Abraham) ; sa naissance fut annoncée comme une bonne nouvelle à ses parents dans leur vieillesse, et Allah fit de lui un prophète parmi les vertueux. Allah lui accorda Ya‘qoub (Jacob) et plaça la prophétie dans sa descendance."
+    }
+   }
+  },
+  {
+   "id": 10,
+   "refs": "البقرة 2:132-133؛ يوسف 12:6؛ يوسف 12:83-87؛ الأنبياء 21:72",
+   "text": {
+    "fr": {
+     "name": "Ya‘qoub (Jacob) (paix sur lui)",
+     "summary": "Le fils d’Ishaq (Isaac), appelé aussi Isra’il (Israël), un prophète de la descendance d’Ibrahim (Abraham) qu’Allah a élu. Il patienta après la perte de son fils Youssouf (Joseph) jusqu’à ce que ses yeux blanchissent de chagrin, et il recommanda le monothéisme à ses fils au moment de sa mort."
+    }
+   }
+  },
+  {
+   "id": 11,
+   "refs": "سورة يوسف 12 كاملة",
+   "text": {
+    "fr": {
+     "name": "Youssouf (Joseph) (paix sur lui)",
+     "summary": "Le fils de Ya‘qoub (Jacob) ; il vit en songe les astres se prosterner devant lui, si bien que ses frères l’envièrent et le jetèrent dans le puits. Il fut éprouvé par l’esclavage et la prison, puis Allah l’établit sur les trésors de l’Égypte ; il pardonna alors à ses frères et réunit sa famille, et son histoire est le plus beau des récits."
+    }
+   }
+  },
+  {
+   "id": 12,
+   "refs": "الأنبياء 21:83-84؛ ص 38:41-44",
+   "text": {
+    "fr": {
+     "name": "Ayyoub (Job) (paix sur lui)",
+     "summary": "Un prophète patient qu’Allah éprouva dans son corps, ses biens et sa famille ; il endura avec une belle patience et ne se plaignit qu’à son Seigneur. Allah exauça son invocation, dissipa son mal et lui rendit sa famille, ainsi que leurs semblables en plus d’eux, et il était certes un excellent serviteur, plein de repentir."
+    }
+   }
+  },
+  {
+   "id": 13,
+   "refs": "الأعراف 7:85-93؛ هود 11:84-95؛ الشعراء 26:176-190",
+   "text": {
+    "fr": {
+     "name": "Chou‘aïb (paix sur lui)",
+     "summary": "Il fut envoyé au peuple de Madyan et aux gens d’al-Aïka (le Bosquet), qui fraudaient sur la mesure et le poids ; il les appela au monothéisme et à l’équité dans les transactions. Ils le traitèrent de menteur et le menacèrent ; le tremblement de terre les saisit alors, ainsi que le châtiment du Jour de l’Ombre (le nuage qui les couvrit), et Allah sauva Chou‘aïb et ceux qui avaient cru avec lui."
+    }
+   }
+  },
+  {
+   "id": 14,
+   "refs": "القصص 28:3-43؛ طه 20:9-98؛ الأعراف 7:103-156",
+   "text": {
+    "fr": {
+     "name": "Moussa (Moïse) (paix sur lui)",
+     "summary": "Celui à qui Allah a parlé directement (Kalim Allah) ; il grandit dans la maison de Pharaon, puis Allah l’envoya à celui-ci comme messager et lui donna neuf signes évidents. Il sauva les Enfants d’Israël et fendit la mer pour eux, tandis que Pharaon fut noyé, et Allah lui révéla la Torah et lui parla au mont Tour."
+    }
+   }
+  },
+  {
+   "id": 15,
+   "refs": "طه 20:29-36؛ الأعراف 7:142؛ القصص 28:34؛ مريم 19:53",
+   "text": {
+    "fr": {
+     "name": "Haroun (Aaron) (paix sur lui)",
+     "summary": "Le frère et le soutien de Moussa (Moïse) ; Moussa demanda à son Seigneur de faire de lui son ministre (assistant), et Allah l’exauça et le lui accorda comme prophète. Il assista Moussa dans son appel à Pharaon et le remplaça auprès de son peuple, à qui il reprocha d’adorer le veau."
+    }
+   }
+  },
+  {
+   "id": 16,
+   "refs": "الأنبياء 21:85-86؛ ص 38:48",
+   "text": {
+    "fr": {
+     "name": "Dhou al-Kifl (paix sur lui)",
+     "summary": "Un prophète vertueux qu’Allah a mentionné parmi les patients et les gens de bien, et qu’Il a fait entrer dans Sa miséricorde. Le Coran n’a pas détaillé son histoire et s’est contenté de le louer pour sa patience et sa vertu."
+    }
+   }
+  },
+  {
+   "id": 17,
+   "refs": "ص 38:17-26؛ الأنبياء 21:78-80؛ سبأ 34:10-11؛ البقرة 2:251",
+   "text": {
+    "fr": {
+     "name": "Dawoud (David) (paix sur lui)",
+     "summary": "Un prophète-roi à qui Allah a donné les Psaumes (Zabour), la sagesse et la parole décisive, et pour qui Il a assujetti les montagnes et les oiseaux afin qu’ils glorifient avec lui. Il amollit pour lui le fer ; il tua Jalout (Goliath), et il revenait sans cesse vers Allah, assidu dans l’adoration et juste dans ses jugements."
+    }
+   }
+  },
+  {
+   "id": 18,
+   "refs": "النمل 27:15-44؛ ص 38:30-40؛ الأنبياء 21:81-82؛ سبأ 34:12-13",
+   "text": {
+    "fr": {
+     "name": "Soulayman (Salomon) (paix sur lui)",
+     "summary": "Le fils de Dawoud (David) ; Allah lui donna un royaume immense, lui enseigna le langage des oiseaux et lui assujettit les djinns et le vent. Il s’entretint avec la huppe et correspondit avec la reine de Saba, qui se soumit ensuite (à l’islam), et il était un serviteur reconnaissant, revenant sans cesse vers Allah."
+    }
+   }
+  },
+  {
+   "id": 19,
+   "refs": "الأنعام 6:85؛ الصافات 37:123-132",
+   "text": {
+    "fr": {
+     "name": "Ilyas (Élie) (paix sur lui)",
+     "summary": "L’un des messagers ; il fut envoyé à son peuple, l’appelant à adorer Allah et lui interdisant d’adorer l’idole « Ba‘l ». La plupart d’entre eux le traitèrent de menteur ; il les avertit alors, et Allah lui conserva une belle renommée parmi les générations suivantes."
+    }
+   }
+  },
+  {
+   "id": 20,
+   "refs": "الأنعام 6:86؛ ص 38:48",
+   "text": {
+    "fr": {
+     "name": "Al-Yasa‘ (Élisée) (paix sur lui)",
+     "summary": "Un prophète vertueux qu’Allah a favorisé au-dessus des mondes et compté parmi les gens de bien. Le Coran l’a mentionné parmi les prophètes sans détailler son histoire."
+    }
+   }
+  },
+  {
+   "id": 21,
+   "refs": "الأنبياء 21:87-88؛ الصافات 37:139-148؛ يونس 10:98؛ القلم 68:48-50",
+   "text": {
+    "fr": {
+     "name": "Younous (Jonas) (paix sur lui)",
+     "summary": "Dhou an-Noun (le compagnon du poisson), envoyé au peuple de Ninive. Il se mit en colère et partit, irrité, avant la permission de son Seigneur ; le poisson l’avala alors dans les ténèbres de la mer. Il invoqua son Seigneur en Le glorifiant et en reconnaissant sa faute ; Allah le sauva, son peuple crut, et Il leur accorda la jouissance de la vie pour un temps."
+    }
+   }
+  },
+  {
+   "id": 22,
+   "refs": "مريم 19:2-11؛ آل عمران 3:37-41؛ الأنبياء 21:89-90",
+   "text": {
+    "fr": {
+     "name": "Zakariya (Zacharie) (paix sur lui)",
+     "summary": "Un prophète qui fut le tuteur de Maryam (Marie). Il invoqua son Seigneur en secret pour qu’Il lui accorde un héritier qui hériterait de lui, alors qu’il avait atteint la vieillesse et que sa femme était stérile. Allah lui annonça alors la bonne nouvelle de Yahya (Jean) et lui donna pour signe de ne pas parler aux gens pendant trois nuits tout en étant bien portant."
+    }
+   }
+  },
+  {
+   "id": 23,
+   "refs": "مريم 19:7-15؛ آل عمران 3:39؛ الأنبياء 21:90",
+   "text": {
+    "fr": {
+     "name": "Yahya (Jean) (paix sur lui)",
+     "summary": "Le fils de Zakariya (Zacharie). Allah annonça sa naissance à son père comme une bonne nouvelle et fit de lui un chef (sayyid), chaste, et un prophète parmi les vertueux. Allah lui accorda la sagesse alors qu’il n’était qu’un enfant, ainsi que la bonté envers ses parents, et la paix fut sur lui le jour où il naquit, le jour où il mourra et le jour où il sera ressuscité vivant."
+    }
+   }
+  },
+  {
+   "id": 24,
+   "refs": "آل عمران 3:45-59؛ مريم 19:16-34؛ المائدة 5:110-118؛ النساء 4:157-158",
+   "text": {
+    "fr": {
+     "name": "‘Issa (Jésus) (paix sur lui)",
+     "summary": "Le fils de Maryam (Marie). Allah le créa sans père, et il parla aux gens dès le berceau. Allah lui donna l’Injil (l’Évangile) et le soutint par des miracles, avec la permission d’Allah, comme ressusciter les morts et guérir l’aveugle et le lépreux. Il annonça la bonne nouvelle d’un messager qui viendrait après lui, et Allah l’éleva vers Lui ; il n’a été ni tué ni crucifié."
+    }
+   }
+  },
+  {
+   "id": 25,
+   "refs": "الأحزاب 33:40؛ الأنبياء 21:107؛ الفتح 48:29؛ القلم 68:4؛ الأعراف 7:158",
+   "text": {
+    "fr": {
+     "name": "Muhammad ﷺ",
+     "summary": "Le Sceau des prophètes et la meilleure des créatures. Allah l’a envoyé comme miséricorde pour les mondes avec le noble Coran, le dernier des Livres. Il a appelé à l’unicité d’Allah (Tawhid), et par lui la religion a été parachevée. Il était doté d’un caractère sublime, et Allah l’a envoyé à l’humanité tout entière comme annonciateur de bonnes nouvelles et avertisseur."
+    }
+   }
+  }
+ ]
+}

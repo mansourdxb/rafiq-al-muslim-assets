@@ -1,0 +1,214 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "Intention et basmala",
+     "desc": "Il forme dans son cœur l’intention de lever l’état d’impureté rituelle (l’intention ne se prononce pas à voix haute), et prononce le nom d’Allah (Bismillah) en commençant.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 1,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "Se laver les mains",
+     "desc": "Il se lave les mains trois fois.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 2,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "Se rincer la bouche et le nez",
+     "desc": "Il se rince la bouche, aspire de l’eau par le nez puis la rejette, et fait cela trois fois, en associant le rinçage de la bouche et l’aspiration nasale.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 3,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "Se laver le visage",
+     "desc": "Il se lave le visage trois fois, en longueur depuis la naissance des cheveux jusqu’au bas du menton, et en largeur d’une oreille à l’autre.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 4,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "Se laver les bras jusqu’aux coudes",
+     "desc": "Il se lave les bras jusqu’aux coudes trois fois, le droit puis le gauche.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 5,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "Passer les mains sur la tête et les oreilles",
+     "desc": "Il passe les mains sur toute sa tête une fois, du devant de la tête jusqu’à la nuque, puis les ramène en arrière, puis passe les mains sur ses oreilles.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 6,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "Se laver les pieds jusqu’aux chevilles",
+     "desc": "Il se lave les pieds jusqu’aux chevilles trois fois, le droit puis le gauche, en passant les doigts entre les orteils.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 7,
+   "text": {
+    "fr": {
+     "phase": "Ablutions (woudou)",
+     "title": "L’invocation après les ablutions",
+     "desc": "Lorsqu’il termine ses ablutions, il dit le dhikr rapporté (transmis).",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 8,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "Le takbir d’ouverture (takbirat al-ihram)",
+     "desc": "Il fait face à la qibla et forme dans son cœur l’intention de la prière, puis lève les mains à hauteur des épaules et dit le takbir (Allahu Akbar).",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 9,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "L’invocation d’ouverture (dou’a al-istiftah)",
+     "desc": "Il place la main droite sur la gauche sur sa poitrine, puis récite l’invocation d’ouverture à voix basse.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 10,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "La demande de protection et la basmala",
+     "desc": "Il demande la protection contre Satan (ta’awwudh) et dit la basmala à voix basse avant de réciter Al-Fatiha.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 11,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "La récitation d’Al-Fatiha",
+     "desc": "Il récite la sourate Al-Fatiha, qui est un pilier (rukn) dans chaque rak’a, puis récite ce qui lui est facile du Coran dans les deux premières rak’a, et après elle il dit : Amine.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 12,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "Le ruku’ (inclinaison) et sa glorification",
+     "desc": "Il lève les mains, dit le takbir et s’incline, en posant les paumes sur les genoux et en gardant le dos droit et à l’horizontale, et glorifie Allah trois fois.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 13,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "Le relèvement du ruku’",
+     "desc": "Il relève la tête en levant aussi les mains, en disant le tasmi’ (Sami’ Allahu liman hamidah), et une fois debout bien droit, il dit le tahmid (Rabbana wa lakal-hamd).",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 14,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "Le sujud (prosternation) et sa glorification",
+     "desc": "Il dit le takbir et se prosterne sur les sept membres (le front et le nez, les deux paumes, les deux genoux et le bout des orteils), glorifie Allah trois fois et multiplie les invocations.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 15,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "La position assise entre les deux prosternations",
+     "desc": "Il se relève de la prosternation en disant le takbir, s’assoit en position d’iftirach et invoque, puis se prosterne une seconde fois comme la première.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 16,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "Le tachahhoud",
+     "desc": "Après les deux premières rak’a et à la fin de la prière, il s’assoit pour le tachahhoud, pointe l’index et récite les tahiyyat.",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 17,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "La prière abrahamique (as-salat al-ibrahimiyya)",
+     "desc": "Dans le dernier tachahhoud, il prie sur le Prophète ﷺ, puis invoque ce qu’il souhaite avant le taslim (salutation finale).",
+     "recited": ""
+    }
+   }
+  },
+  {
+   "index": 18,
+   "text": {
+    "fr": {
+     "phase": "Prière (salat)",
+     "title": "Le taslim (salutation finale)",
+     "desc": "Il termine la prière par le taslim, en se tournant vers la droite puis vers la gauche.",
+     "recited": ""
+    }
+   }
+  }
+ ]
+}

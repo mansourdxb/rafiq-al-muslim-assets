@@ -1,0 +1,305 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "index": 0,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Combien de piliers l’islam compte-t-il ?",
+     "options": [
+      "Quatre",
+      "Cinq",
+      "Six",
+      "Sept"
+     ]
+    }
+   }
+  },
+  {
+   "index": 1,
+   "correct": 2,
+   "text": {
+    "fr": {
+     "q": "Combien de piliers de la foi (iman) y a-t-il ?",
+     "options": [
+      "Quatre",
+      "Cinq",
+      "Six",
+      "Sept"
+     ]
+    }
+   }
+  },
+  {
+   "index": 2,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Combien de sourates le Saint Coran contient-il ?",
+     "options": [
+      "Cent douze",
+      "Cent quatorze",
+      "Cent vingt",
+      "Cent dix"
+     ]
+    }
+   }
+  },
+  {
+   "index": 3,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "En combien de juz’ (parties) le Saint Coran est-il divisé ?",
+     "options": [
+      "Vingt",
+      "Trente",
+      "Quarante",
+      "Soixante"
+     ]
+    }
+   }
+  },
+  {
+   "index": 4,
+   "correct": 2,
+   "text": {
+    "fr": {
+     "q": "Quelle est la plus longue sourate du Saint Coran ?",
+     "options": [
+      "Al ’Imran",
+      "An-Nisa",
+      "Al-Baqara",
+      "Al-A’raf"
+     ]
+    }
+   }
+  },
+  {
+   "index": 5,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Quelle est la première sourate dans l’ordre du Moushaf ?",
+     "options": [
+      "Al-Baqara",
+      "Al-Fatiha",
+      "Al-’Alaq",
+      "An-Nas"
+     ]
+    }
+   }
+  },
+  {
+   "index": 6,
+   "correct": 2,
+   "text": {
+    "fr": {
+     "q": "Combien de prières obligatoires y a-t-il en un jour et une nuit ?",
+     "options": [
+      "Trois",
+      "Quatre",
+      "Cinq",
+      "Six"
+     ]
+    }
+   }
+  },
+  {
+   "index": 7,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Au cours de quel mois le jeûne du Ramadan a-t-il été rendu obligatoire ?",
+     "options": [
+      "Cha’ban",
+      "Ramadan",
+      "Chawwal",
+      "Mouharram"
+     ]
+    }
+   }
+  },
+  {
+   "index": 8,
+   "correct": 2,
+   "text": {
+    "fr": {
+     "q": "Qui fut le premier à faire l’appel à la prière (adhan) en islam ?",
+     "options": [
+      "Abou Bakr As-Siddiq",
+      "’Umar ibn Al-Khattab",
+      "Bilal ibn Rabah",
+      "’Uthman ibn ’Affan"
+     ]
+    }
+   }
+  },
+  {
+   "index": 9,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Qui fut le premier des califes bien guidés ?",
+     "options": [
+      "’Umar ibn Al-Khattab",
+      "Abou Bakr As-Siddiq",
+      "’Uthman ibn ’Affan",
+      "’Ali ibn Abi Talib"
+     ]
+    }
+   }
+  },
+  {
+   "index": 10,
+   "correct": 2,
+   "text": {
+    "fr": {
+     "q": "Quel prophète a bâti la Kaaba avec son fils Ismaïl ?",
+     "options": [
+      "Nouh (Noé), paix sur lui",
+      "Moussa (Moïse), paix sur lui",
+      "Ibrahim (Abraham), paix sur lui",
+      "’Issa (Jésus), paix sur lui"
+     ]
+    }
+   }
+  },
+  {
+   "index": 11,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Quel est le nom de l’ange chargé de la révélation ?",
+     "options": [
+      "Mika’il",
+      "Jibril",
+      "Israfil",
+      "Malik"
+     ]
+    }
+   }
+  },
+  {
+   "index": 12,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Dans quelle grotte la révélation est-elle descendue pour la première fois sur le Prophète ﷺ ?",
+     "options": [
+      "La grotte de Thawr",
+      "La grotte de Hira",
+      "La grotte d’Uhud",
+      "La grotte d’An-Nour"
+     ]
+    }
+   }
+  },
+  {
+   "index": 13,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Quelle fut la première révélation du Saint Coran ?",
+     "options": [
+      "« Ô toi, l’enveloppé »",
+      "« Lis, au nom de ton Seigneur »",
+      "« Louange à Allah, Seigneur des mondes »",
+      "« Alif, Lam, Mim »"
+     ]
+    }
+   }
+  },
+  {
+   "index": 14,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Quelle fut la première qibla des musulmans ?",
+     "options": [
+      "La Kaaba sacrée",
+      "La mosquée Al-Aqsa",
+      "La mosquée du Prophète",
+      "La mosquée de Qouba"
+     ]
+    }
+   }
+  },
+  {
+   "index": 15,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Quel est le nom du prophète qui fut avalé par la baleine ?",
+     "options": [
+      "Youssouf (Joseph), paix sur lui",
+      "Younous (Jonas), paix sur lui",
+      "Ayyoub (Job), paix sur lui",
+      "Salih, paix sur lui"
+     ]
+    }
+   }
+  },
+  {
+   "index": 16,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Où est né le Prophète Muhammad ﷺ ?",
+     "options": [
+      "Médine l’Illuminée (Al-Madina Al-Mounawwara)",
+      "La Mecque l’Honorée (Makka Al-Moukarrama)",
+      "Ta’if",
+      "Le Levant (Cham)"
+     ]
+    }
+   }
+  },
+  {
+   "index": 17,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Combien de rak’a obligatoires la prière de Maghrib compte-t-elle ?",
+     "options": [
+      "Deux",
+      "Trois",
+      "Quatre",
+      "Cinq"
+     ]
+    }
+   }
+  },
+  {
+   "index": 18,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Quelle est la plus courte sourate du Saint Coran ?",
+     "options": [
+      "Al-Ikhlas",
+      "Al-Kawthar",
+      "An-Nas",
+      "Al-’Asr"
+     ]
+    }
+   }
+  },
+  {
+   "index": 19,
+   "correct": 1,
+   "text": {
+    "fr": {
+     "q": "Quel jour de la semaine la prière du vendredi (Joumou’a) a-t-elle lieu ?",
+     "options": [
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+     ]
+    }
+   }
+  }
+ ]
+}

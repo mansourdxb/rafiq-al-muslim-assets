@@ -145,6 +145,19 @@
         "An ƙara yanayin karatu irin na littafi — gungurawa ba tsayawa a kan bango kamar takarda",
         "Sabon fasalin saitunan mai karanta Alƙur'ani tare da gumaka da katunan zamani",
         "Ingantattun zaɓuɓɓukan karatu a mai karantawa, tare da gumaka da sabon zaɓin shafuka"
+      ],
+      "fr": [
+        "Nouvel écran de l’index des sourates : badges dorés, sourate en cours mise en évidence, barre des juz améliorée",
+        "Nouvel écran Tafsir et traduction : onglets segmentés, cartes modernes, touches dorées",
+        "Nouvel écran de l’index des recueils de hadiths : cartes arrondies, ombres adaptées au thème",
+        "Les noms des sourates tiennent désormais sur une seule ligne, sans coupure",
+        "En-tête de la carte « Reprendre la lecture » centré sur l’accueil du Coran",
+        "Le sens du texte des titres de sections et des cartes de services suit désormais la langue de l’application",
+        "Mise à jour améliorée : téléchargement en arrière-plan, puis redémarrage et affichage des nouveautés",
+        "Carte saisonnière de Dhoul-Hijja masquée jusqu’au prochain Dhoul-Hijja",
+        "Nouveau mode de lecture livre : défilement continu sur fond façon papier",
+        "Réglages du lecteur du Coran repensés, avec icônes et cartes modernes",
+        "Options de lecture audio améliorées dans le lecteur, avec icônes et nouveau sélecteur d’onglets"
       ]
     }
   },
@@ -250,6 +263,15 @@
         "Jerin ayyukan alheri na kullum da ake ajiyewa: azumi, sallar nafila, karatun Alƙur'ani, zikiri, sadaka, kabbara",
         "Zikirai da aka ba da shawara tare da ƙirgawa ta taɓawa — taɓa kowane zikiri don fara ƙirgawa",
         "Tutar lokaci a saman babban allon azkar — taɓa don ganin duk ayyukan Zul Hajji"
+      ],
+      "fr": [
+        "Nouvelle fonction des 10 premiers jours de Dhoul-Hijja : suivi quotidien avec barre de progression pour ces jours bénis",
+        "Carte de hadith tirée du Sahih al-Bukhari sur le mérite des 10 premiers jours",
+        "Section du takbir, avec partage",
+        "Invocation du jour de ‘Arafa mise en valeur",
+        "Liste quotidienne de bonnes actions enregistrée : jeûne, prière surérogatoire, lecture du Coran, dhikr, aumône, takbir",
+        "Dhikr recommandés avec comptage au toucher — touchez un dhikr pour commencer à compter",
+        "Bannière saisonnière en haut de l’écran principal des adhkar — touchez pour accéder à toutes les activités de Dhoul-Hijja"
       ]
     }
   },
@@ -454,6 +476,24 @@
         "An gyara nuna rubutu a harsunan dama-zuwa-hagu",
         "An ƙara tunatarwa 13 na Musulunci: Suratul Kahf, shirin Juma'a, sulusin ƙarshe na dare, azumin Litinin/Alhamis, ranakun fari, wirdin Alƙur'ani, istigfari, walaha, Arafa, Ashura, sahur, hadisin mako, darare 10 na ƙarshe",
         "Duk tunatarwa a kunne tun farko — kashe su ko canza lokacin sanarwa a Saituna"
+      ],
+      "fr": [
+        "Lien de mise à jour Huawei AppGallery corrigé",
+        "Expérience de mise à jour améliorée",
+        "Texte des raccourcis corrigé",
+        "Les chiffres occidentaux (0-9) sont désormais le choix par défaut",
+        "Passez des chiffres occidentaux aux chiffres arabes dans les réglages",
+        "Affichage de la distance corrigé sur l’écran de la Qibla",
+        "Rappels avant la prière ajoutés (5 à 60 min avant l’adhan)",
+        "Rappels de l’iqama ajoutés après l’adhan",
+        "Design des écrans amélioré : polices, couleurs et tailles unifiées",
+        "Meilleure prise en charge de l’écriture de droite à gauche sur l’accueil du Coran",
+        "En-tête unifié sur les écrans Prière, Hadith et Adhkar",
+        "Expérience de mise à jour améliorée, avec une nouvelle notification élégante",
+        "Nouvel écran « Nouveautés » pour voir les dernières améliorations",
+        "Affichage du texte corrigé pour les langues s’écrivant de droite à gauche",
+        "13 rappels islamiques ajoutés : Al-Kahf, préparation du vendredi, dernier tiers de la nuit, jeûne du lundi et du jeudi, jours blancs, wird du Coran, istighfar, Douha, ‘Arafa, ‘Achoura, sahour, hadith de la semaine, 10 dernières nuits",
+        "Tous les rappels sont activés par défaut — désactivez-les ou modifiez leurs horaires dans les réglages"
       ]
     }
   }
