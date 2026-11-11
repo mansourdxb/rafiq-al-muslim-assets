@@ -1,0 +1,442 @@
+{
+ "_note": "Knowledge cards for children. Sources structured; DRAFT pending qualified review.",
+ "cards": [
+  {
+   "id": "pillarsIslam",
+   "art": "pillars",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 2,
+     "index": 1,
+     "match": "بني الإسلام على خمس"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The five pillars of Islam",
+     "body": "Islam is built on five pillars: the shahadah, prayer, zakah, Hajj and fasting in Ramadan."
+    },
+    "ar": {
+     "title": "أركان الإسلام الخمسة",
+     "body": "بُني الإسلام على خمس: الشهادتين، والصلاة، والزكاة، والحج، وصوم رمضان."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ"
+  },
+  {
+   "id": "pillarsIman",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 1,
+     "index": 1,
+     "match": "أن تؤمن بالله وملائكته وكتبه ورسله واليوم الآخر"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The pillars of iman (faith)",
+     "body": "To believe in Allah, His angels, His books, His messengers, the Last Day, and the divine decree."
+    },
+    "ar": {
+     "title": "أركان الإيمان",
+     "body": "أن تؤمن بالله وملائكته وكتبه ورسله واليوم الآخر وتؤمن بالقدر."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "أَنْ تُؤْمِنَ بِاللَّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الآخِرِ"
+  },
+  {
+   "id": "quran114",
+   "art": "book",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "surahCount"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The Quran has 114 surahs",
+     "body": "The Quran has 114 surahs. The first is Al-Fatiha."
+    },
+    "ar": {
+     "title": "في القرآن ١١٤ سورة",
+     "body": "في القرآن الكريم ١١٤ سورة، أولها الفاتحة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "longestShortest",
+   "art": "book",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "longestShortest"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Longest and shortest surah",
+     "body": "The longest surah is Al-Baqarah (286 ayahs). The shortest is Al-Kawthar: 3 short ayahs, the fewest words of any surah."
+    },
+    "ar": {
+     "title": "أطول سورة وأقصر سورة",
+     "body": "أطول سورة هي البقرة (٢٨٦ آية)، وأقصرها الكوثر: ثلاث آيات قصيرة، وهي أقل السور كلمات."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "kaaba",
+   "art": "kaaba",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 3,
+     "ayah": 96
+    },
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 144
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The Kaaba",
+     "body": "The Kaaba is in Makkah, in Al-Masjid Al-Haram. Muslims face it when they pray."
+    },
+    "ar": {
+     "title": "الكعبة",
+     "body": "الكعبة في مكة في المسجد الحرام، ويتجه إليها المسلمون في صلاتهم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "threeMosques",
+   "art": "mosque",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 20,
+     "index": 2,
+     "match": "لا تشد الرحال إلا إلى ثلاثة مساجد"
+    },
+    {
+     "type": "quran",
+     "surah": 17,
+     "ayah": 1
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Three special mosques",
+     "body": "Three mosques are special: Al-Masjid Al-Haram in Makkah, the Prophet's Mosque in Madinah, and Al-Masjid Al-Aqsa."
+    },
+    "ar": {
+     "title": "ثلاثة مساجد عظيمة",
+     "body": "ثلاثة مساجد لها فضل خاص: المسجد الحرام في مكة، والمسجد النبوي في المدينة، والمسجد الأقصى."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "ramadan",
+   "art": "moon",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 183
+    },
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 185
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Ramadan",
+     "body": "In Ramadan, Muslims fast. The Quran was first sent down in Ramadan."
+    },
+    "ar": {
+     "title": "رمضان",
+     "body": "في رمضان يصوم المسلمون، وفيه أُنزل القرآن."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "hajj",
+   "art": "kaaba",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 3,
+     "ayah": 97
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Hajj",
+     "body": "Hajj is the journey to Allah's House in Makkah, for those who are able."
+    },
+    "ar": {
+     "title": "الحج",
+     "body": "الحج قصد بيت الله في مكة لمن استطاع إليه سبيلًا."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "smile",
+   "art": "smile",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 27,
+     "index": 62,
+     "match": "تبسمك في وجه أخيك لك صدقة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Smiling is charity",
+     "body": "Smiling at your brother or sister is a good deed (sadaqah)."
+    },
+    "ar": {
+     "title": "الابتسامة صدقة",
+     "body": "تبسّمك في وجه أخيك صدقة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ"
+  },
+  {
+   "id": "goodWord",
+   "art": "speech",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 56,
+     "index": 198,
+     "match": "الكلمة الطيبة صدقة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "A kind word",
+     "body": "A kind word is a good deed (sadaqah)."
+    },
+    "ar": {
+     "title": "الكلمة الطيبة",
+     "body": "الكلمة الطيبة صدقة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ"
+  },
+  {
+   "id": "salam",
+   "art": "salam",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 1,
+     "index": 101,
+     "match": "أفشوا السلام بينكم"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Spread salam",
+     "body": "Greet each other with salam often."
+    },
+    "ar": {
+     "title": "أفشوا السلام",
+     "body": "أكثروا من إلقاء السلام بينكم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "أَفْشُوا السَّلاَمَ بَيْنَكُمْ"
+  },
+  {
+   "id": "cleanliness",
+   "art": "water",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 2,
+     "index": 1,
+     "match": "الطهور شطر الإيمان"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Cleanliness",
+     "body": "Being clean (purity) is half of faith."
+    },
+    "ar": {
+     "title": "النظافة",
+     "body": "الطهور شطر الإيمان."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "الطُّهُورُ شَطْرُ الإِيمَانِ"
+  },
+  {
+   "id": "parentsKindness",
+   "art": "home",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 17,
+     "ayah": 23
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Be kind to parents",
+     "body": "Allah tells us to be good to our parents and to speak to them gently."
+    },
+    "ar": {
+     "title": "برّ الوالدين",
+     "body": "أمرنا الله بالإحسان إلى الوالدين وأن نقول لهما قولًا كريمًا."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "fivePrayers",
+   "art": "mosque",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 1,
+     "match": "فرض الله على أمتي خمسين صلاة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Five daily prayers",
+     "body": "Muslims pray five times every day: Fajr, Dhuhr, Asr, Maghrib and Isha."
+    },
+    "ar": {
+     "title": "الصلوات الخمس",
+     "body": "يصلي المسلمون خمس صلوات كل يوم: الفجر والظهر والعصر والمغرب والعشاء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  }
+ ]
+}

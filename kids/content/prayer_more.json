@@ -1,0 +1,465 @@
+{
+ "_note": "Extra prayer lessons for older children (age band 3): what breaks wudu, sunnah prayers, prayer times, the mosque. Sources structured; Arabic quotes copied from bundled sources by scripts/kids/build_prayer_more.py. DRAFT pending qualified review. Where schools differ (variantNote) the text says so and points to the parent/teacher.",
+ "cards": [
+  {
+   "id": "wuduBreak.toilet",
+   "group": "wuduBreak",
+   "art": "water",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 5,
+     "ayah": 6
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 1,
+     "match": "لا تقبل صلاة من أحدث حتى يتوضأ"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Going to the toilet breaks wudu",
+     "body": "After you pass urine or stool, your wudu is gone. Make wudu again before you pray: the Prophet ﷺ said Allah does not accept the prayer of someone who has broken their wudu until they make wudu."
+    },
+    "ar": {
+     "title": "قضاء الحاجة ينقض الوضوء",
+     "body": "إذا قضيت حاجتك (بولًا أو غائطًا) انتقض وضوؤك، فتوضأ قبل أن تصلي؛ قال النبي ﷺ: لا تُقبل صلاة من أحدث حتى يتوضأ."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "لاَ تُقْبَلُ صَلاَةُ مَنْ أَحْدَثَ حَتَّى يَتَوَضَّأَ"
+  },
+  {
+   "id": "wuduBreak.wind",
+   "group": "wuduBreak",
+   "art": "water",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 1,
+     "match": "فساء أو ضراط"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Passing wind breaks wudu",
+     "body": "Abu Hurayrah was asked what breaking wudu means, and he said: passing wind, with or without a sound. So after passing wind, make wudu again before praying."
+    },
+    "ar": {
+     "title": "خروج الريح ينقض الوضوء",
+     "body": "سُئل أبو هريرة عن الحدث فقال: فُساء أو ضُراط، أي خروج الريح بصوت أو بغير صوت؛ فتوضأ بعده قبل الصلاة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "فُسَاءٌ أَوْ ضُرَاطٌ"
+  },
+  {
+   "id": "wuduBreak.doubt",
+   "group": "wuduBreak",
+   "art": "heart",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 3,
+     "match": "حتى يسمع صوتا أو يجد ريحا"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Only a sure thing breaks wudu",
+     "body": "If, while praying, you only wonder whether you broke your wudu, do not leave the prayer just because of the thought. The Prophet ﷺ said: not until he hears a sound or notices a smell. Scholars explain the details a little differently, so ask your parent or teacher."
+    },
+    "ar": {
+     "title": "اليقين لا يزول بالشك",
+     "body": "إذا شككت وأنت في الصلاة هل انتقض وضوؤك، فلا تخرج منها لمجرد الشك؛ قال النبي ﷺ: حتى يسمع صوتًا أو يجد ريحًا. وللعلماء تفصيل في ذلك، فاسأل والديك أو معلمك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "حَتَّى يَسْمَعَ صَوْتًا أَوْ يَجِدَ رِيحًا",
+   "variantNote": true
+  },
+  {
+   "id": "wuduBreak.sleep",
+   "group": "wuduBreak",
+   "art": "night",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "abudawud",
+     "chapter": 1,
+     "index": 203,
+     "match": "فمن نام فليتوضأ"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Deep sleep",
+     "body": "A hadith says: whoever sleeps should make wudu. Scholars differ about which kind of sleep breaks wudu (for example deep sleep lying down, or a short doze sitting up), so ask your parent or teacher what your school teaches."
+    },
+    "ar": {
+     "title": "النوم المستغرق",
+     "body": "في الحديث: فمن نام فليتوضأ. واختلف العلماء في أي نوم ينقض الوضوء (كالنوم العميق مضطجعًا، أو النعاس الخفيف جالسًا)، فاسأل والديك أو معلمك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "فَمَنْ نَامَ فَلْيَتَوَضَّأْ",
+   "variantNote": true
+  },
+  {
+   "id": "sunnah.twelve",
+   "group": "sunnah",
+   "art": "mosque",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 6,
+     "index": 126,
+     "match": "يصلي لله كل يوم ثنتى عشرة ركعة تطوعا غير فريضة إلا بنى الله له بيتا في الجنة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Twelve extra rak'ahs, a house in Jannah",
+     "body": "Umm Habibah heard the Prophet ﷺ say that whoever prays twelve voluntary rak'ahs every day, besides the obligatory prayers, Allah builds for them a house in Jannah. She said she never stopped praying them after that."
+    },
+    "ar": {
+     "title": "اثنتا عشرة ركعة وبيت في الجنة",
+     "body": "سمعت أم حبيبة النبيَّ ﷺ يقول: من صلى لله كل يوم ثنتي عشرة ركعة تطوعًا غير الفريضة بنى الله له بيتًا في الجنة، فما تركتهن بعد ذلك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "مَا مِنْ عَبْدٍ مُسْلِمٍ يُصَلِّي لِلَّهِ كُلَّ يَوْمٍ ثِنْتَىْ عَشْرَةَ رَكْعَةً تَطَوُّعًا غَيْرَ فَرِيضَةٍ إِلاَّ بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ"
+  },
+  {
+   "id": "sunnah.whichTwelve",
+   "group": "sunnah",
+   "art": "mosque",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 2,
+     "index": 268,
+     "match": "أربعا قبل الظهر وركعتين بعدها وركعتين بعد المغرب وركعتين بعد العشاء وركعتين قبل صلاة الفجر"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Which are the twelve?",
+     "body": "In Tirmidhi's narration they are: 4 before Dhuhr, 2 after Dhuhr, 2 after Maghrib, 2 after Isha and 2 before Fajr. Another hadith mentions 2 before Dhuhr, so scholars count them a little differently; ask your parent or teacher."
+    },
+    "ar": {
+     "title": "ما هي الاثنتا عشرة؟",
+     "body": "في رواية الترمذي: أربع قبل الظهر، وركعتان بعدها، وركعتان بعد المغرب، وركعتان بعد العشاء، وركعتان قبل الفجر. وفي حديث آخر ركعتان قبل الظهر، فيختلف العلماء قليلًا في عدّها؛ فاسأل والديك أو معلمك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "أَرْبَعًا قَبْلَ الظُّهْرِ وَرَكْعَتَيْنِ بَعْدَهَا وَرَكْعَتَيْنِ بَعْدَ الْمَغْرِبِ وَرَكْعَتَيْنِ بَعْدَ الْعِشَاءِ وَرَكْعَتَيْنِ قَبْلَ صَلاَةِ الْفَجْرِ",
+   "variantNote": true
+  },
+  {
+   "id": "sunnah.fajr",
+   "group": "sunnah",
+   "art": "dawn",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 6,
+     "index": 118,
+     "match": "ركعتا الفجر خير من الدنيا وما فيها"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The two rak'ahs before Fajr",
+     "body": "The Prophet ﷺ said the two rak'ahs before Fajr are better than the whole world and everything in it. Try never to miss them."
+    },
+    "ar": {
+     "title": "ركعتا الفجر",
+     "body": "قال النبي ﷺ: ركعتا الفجر خير من الدنيا وما فيها؛ فاحرص ألا تتركهما."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "رَكْعَتَا الْفَجْرِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا"
+  },
+  {
+   "id": "times.fixed",
+   "group": "times",
+   "art": "noon",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 4,
+     "ayah": 103
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Every prayer has its time",
+     "body": "Allah tells us that prayer is written for the believers at fixed times. Each of the five prayers has a time to begin and a time to end."
+    },
+    "ar": {
+     "title": "لكل صلاة وقت",
+     "body": "أخبرنا الله أن الصلاة على المؤمنين كتاب موقوت، فلكل صلاة من الخمس وقت تبدأ فيه ووقت تنتهي عنده."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّ ٱلصَّلَوٰةَ كَانَتۡ عَلَى ٱلۡمُؤۡمِنِينَ كِتَٰبٗا مَّوۡقُوتٗا"
+  },
+  {
+   "id": "times.quran",
+   "group": "times",
+   "art": "sunset",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 17,
+     "ayah": 78
+    },
+    {
+     "type": "quran",
+     "surah": 11,
+     "ayah": 114
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Prayer times in the Quran",
+     "body": "The Quran tells us to pray from when the sun passes its highest point until the darkness of the night, and to recite at dawn (Fajr). It also mentions prayer at both ends of the day and in hours of the night."
+    },
+    "ar": {
+     "title": "أوقات الصلاة في القرآن",
+     "body": "أمرنا الله بإقامة الصلاة من زوال الشمس إلى ظلمة الليل، وبقرآن الفجر، وذكر الصلاة في طرفي النهار وساعات من الليل."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّيۡلِ وَقُرۡءَانَ ٱلۡفَجۡرِۖ"
+  },
+  {
+   "id": "times.each",
+   "group": "times",
+   "art": "afternoon",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 5,
+     "index": 222,
+     "match": "وقت الظهر إذا زالت الشمس"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "When is each prayer?",
+     "body": "The Prophet ﷺ explained: Dhuhr starts when the sun passes the middle of the sky; Asr is before the sun turns yellow; Maghrib is until the red glow after sunset disappears; Isha is until the middle of the night; Fajr is from dawn until sunrise. Scholars differ on some details (such as when Asr begins), so follow your prayer-times app and ask your teacher."
+    },
+    "ar": {
+     "title": "متى وقت كل صلاة؟",
+     "body": "بيّن النبي ﷺ: وقت الظهر إذا زالت الشمس، والعصر ما لم تصفرّ الشمس، والمغرب ما لم يغب الشفق، والعشاء إلى نصف الليل، والصبح من طلوع الفجر ما لم تطلع الشمس. وللعلماء خلاف في بعض التفاصيل (كبداية وقت العصر)، فاتبع مواقيت الصلاة في التطبيق واسأل معلمك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَقْتُ الظُّهْرِ إِذَا زَالَتِ الشَّمْسُ",
+   "variantNote": true
+  },
+  {
+   "id": "times.onTime",
+   "group": "times",
+   "art": "heart",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 9,
+     "index": 6,
+     "match": "أى العمل أحب إلى الله قال الصلاة على وقتها"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Praying on time",
+     "body": "The Prophet ﷺ was asked which deed Allah loves most. He said: the prayer at its time, then being good to parents."
+    },
+    "ar": {
+     "title": "الصلاة على وقتها",
+     "body": "سُئل النبي ﷺ: أي العمل أحب إلى الله؟ قال: الصلاة على وقتها، ثم بر الوالدين."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "الصَّلاَةُ عَلَى وَقْتِهَا"
+  },
+  {
+   "id": "mosque.dua",
+   "group": "mosque",
+   "art": "mosque",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 6,
+     "index": 82,
+     "match": "إذا دخل أحدكم المسجد فليقل اللهم افتح لي أبواب رحمتك"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Entering and leaving the mosque",
+     "body": "When you enter the mosque, say: O Allah, open for me the doors of Your mercy. When you leave, say: O Allah, I ask You from Your bounty."
+    },
+    "ar": {
+     "title": "دخول المسجد والخروج منه",
+     "body": "إذا دخلت المسجد فقل: اللهم افتح لي أبواب رحمتك، وإذا خرجت فقل: اللهم إني أسألك من فضلك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ"
+  },
+  {
+   "id": "mosque.greeting",
+   "group": "mosque",
+   "art": "mosque",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 93,
+     "match": "إذا دخل أحدكم المسجد فليركع ركعتين قبل أن يجلس"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Two rak'ahs to greet the mosque",
+     "body": "The Prophet ﷺ said: when one of you enters the mosque, let him pray two rak'ahs before sitting down. Scholars differ about praying them at certain times of day, so ask your parent or teacher."
+    },
+    "ar": {
+     "title": "تحية المسجد",
+     "body": "قال النبي ﷺ: إذا دخل أحدكم المسجد فليركع ركعتين قبل أن يجلس. وللعلماء خلاف في صلاتها في بعض الأوقات، فاسأل والديك أو معلمك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيَرْكَعْ رَكْعَتَيْنِ قَبْلَ أَنْ يَجْلِسَ",
+   "variantNote": true
+  },
+  {
+   "id": "mosque.calm",
+   "group": "mosque",
+   "art": "mosque",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 33,
+     "match": "فامشوا إلى الصلاة وعليكم بالسكينة والوقار ولا تسرعوا"
+    },
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 5,
+     "index": 194,
+     "match": "فلا تأتوها تسعون وأتوها تمشون وعليكم السكينة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Walk calmly to the prayer",
+     "body": "Even if the prayer has started, do not run. The Prophet ﷺ said: walk to the prayer calmly and with dignity, do not rush; pray what you catch and complete what you missed."
+    },
+    "ar": {
+     "title": "امشِ إلى الصلاة بسكينة",
+     "body": "حتى لو أقيمت الصلاة فلا تركض؛ قال النبي ﷺ: فامشوا إلى الصلاة وعليكم بالسكينة والوقار ولا تسرعوا، فما أدركتم فصلوا وما فاتكم فأتموا."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "فَامْشُوا إِلَى الصَّلاَةِ، وَعَلَيْكُمْ بِالسَّكِينَةِ وَالْوَقَارِ وَلاَ تُسْرِعُوا"
+  }
+ ]
+}

@@ -1,0 +1,2289 @@
+{
+ "_note": "More knowledge cards for older children (7-12): Names of Allah, seerah timeline, Islamic months, adab. Sources structured and checked by tests/kids-content-more.test.mjs; quoteSource marks an exact King Fahd word slice (quoteIsQuran: render with the Quran font). DRAFT pending qualified review.",
+ "cards": [
+  {
+   "id": "k2.name.rahman",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 22
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Ar-Rahman",
+     "body": "The Most Merciful. His mercy is very wide and reaches all of His creation."
+    },
+    "ar": {
+     "title": "الرحمن",
+     "body": "كثير الرحمة، وسعت رحمته كل شيء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱلرَّحۡمَٰنُ ٱلرَّحِيمُ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 22,
+    "words": [
+     10,
+     13
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.rahim",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 22
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Ar-Rahim",
+     "body": "The Ever-Merciful. He is always kind and merciful to His servants."
+    },
+    "ar": {
+     "title": "الرحيم",
+     "body": "الذي يرحم عباده رحمة دائمة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱلرَّحۡمَٰنُ ٱلرَّحِيمُ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 22,
+    "words": [
+     10,
+     13
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.malik",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 23
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Malik",
+     "body": "The King. Everything belongs to Him."
+    },
+    "ar": {
+     "title": "الملك",
+     "body": "الملك الذي يملك كل شيء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱلۡمَلِكُ ٱلۡقُدُّوسُ ٱلسَّلَٰمُ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 23,
+    "words": [
+     6,
+     10
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.quddus",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 23
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Quddus",
+     "body": "The Most Pure. He is free of every fault."
+    },
+    "ar": {
+     "title": "القدوس",
+     "body": "المنزّه عن كل عيب ونقص."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱلۡمَلِكُ ٱلۡقُدُّوسُ ٱلسَّلَٰمُ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 23,
+    "words": [
+     6,
+     10
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.salam",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 23
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "As-Salam",
+     "body": "The Source of Peace. He is free of every fault, and peace and safety come from Him."
+    },
+    "ar": {
+     "title": "السلام",
+     "body": "السالم من كل عيب، ومنه السلام والأمان."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱلۡمَلِكُ ٱلۡقُدُّوسُ ٱلسَّلَٰمُ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 23,
+    "words": [
+     6,
+     10
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.khaliq",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 24
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Khaliq",
+     "body": "The Creator. He created everything."
+    },
+    "ar": {
+     "title": "الخالق",
+     "body": "الذي خلق كل شيء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱللَّهُ ٱلۡخَٰلِقُ ٱلۡبَارِئُ ٱلۡمُصَوِّرُۖ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 24,
+    "words": [
+     0,
+     5
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.musawwir",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 24
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Musawwir",
+     "body": "The Shaper. He gave every creature its own shape."
+    },
+    "ar": {
+     "title": "المصور",
+     "body": "الذي أعطى كل مخلوق صورته وشكله."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱللَّهُ ٱلۡخَٰلِقُ ٱلۡبَارِئُ ٱلۡمُصَوِّرُۖ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 24,
+    "words": [
+     0,
+     5
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.razzaq",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 51,
+     "ayah": 58
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Ar-Razzaq",
+     "body": "The Provider. He gives all creatures their food and what they need."
+    },
+    "ar": {
+     "title": "الرزاق",
+     "body": "الذي يرزق المخلوقات كلها ويعطيها ما تحتاج."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+   "quoteSource": {
+    "surah": 51,
+    "ayah": 58,
+    "words": [
+     0,
+     7
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.sami",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 42,
+     "ayah": 11
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "As-Sami'",
+     "body": "The All-Hearing. He hears everything, even a quiet dua."
+    },
+    "ar": {
+     "title": "السميع",
+     "body": "يسمع كل شيء، حتى الدعاء الخفي."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "لَيۡسَ كَمِثۡلِهِۦ شَيۡءٞۖ وَهُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+   "quoteSource": {
+    "surah": 42,
+    "ayah": 11,
+    "words": [
+     13,
+     19
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.basir",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 42,
+     "ayah": 11
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Basir",
+     "body": "The All-Seeing. He sees everything."
+    },
+    "ar": {
+     "title": "البصير",
+     "body": "يرى كل شيء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "لَيۡسَ كَمِثۡلِهِۦ شَيۡءٞۖ وَهُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+   "quoteSource": {
+    "surah": 42,
+    "ayah": 11,
+    "words": [
+     13,
+     19
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.alim",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 127
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-'Alim",
+     "body": "The All-Knowing. He knows everything."
+    },
+    "ar": {
+     "title": "العليم",
+     "body": "يعلم كل شيء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+   "quoteSource": {
+    "surah": 2,
+    "ayah": 127,
+    "words": [
+     10,
+     14
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.ghafur",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 85,
+     "ayah": 14
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Ghafur",
+     "body": "The Most Forgiving. He forgives those who turn back to Him."
+    },
+    "ar": {
+     "title": "الغفور",
+     "body": "يغفر الذنوب لمن تاب إليه."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+   "quoteSource": {
+    "surah": 85,
+    "ayah": 14,
+    "words": [
+     0,
+     3
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.wadud",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 85,
+     "ayah": 14
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Wadud",
+     "body": "The Loving. He loves His good servants."
+    },
+    "ar": {
+     "title": "الودود",
+     "body": "يحب عباده الصالحين."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+   "quoteSource": {
+    "surah": 85,
+    "ayah": 14,
+    "words": [
+     0,
+     3
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.karim",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 82,
+     "ayah": 6
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Karim",
+     "body": "The Most Generous. He gives so much good."
+    },
+    "ar": {
+     "title": "الكريم",
+     "body": "كثير الخير والعطاء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+   "quoteSource": {
+    "surah": 82,
+    "ayah": 6,
+    "words": [
+     0,
+     6
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.hafiz",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 11,
+     "ayah": 57
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Hafiz",
+     "body": "The Guardian. He protects and keeps everything."
+    },
+    "ar": {
+     "title": "الحفيظ",
+     "body": "يحفظ كل شيء ويحرسه."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّ رَبِّي عَلَىٰ كُلِّ شَيۡءٍ حَفِيظٞ",
+   "quoteSource": {
+    "surah": 11,
+    "ayah": 57,
+    "words": [
+     15,
+     21
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.latif",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 67,
+     "ayah": 14
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Latif",
+     "body": "The Gentle and Subtle. He is kind to His servants and knows the smallest things."
+    },
+    "ar": {
+     "title": "اللطيف",
+     "body": "الرفيق بعباده، العالم بدقائق الأمور."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "أَلَا يَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+   "quoteSource": {
+    "surah": 67,
+    "ayah": 14,
+    "words": [
+     0,
+     7
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.hakim",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 24
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Hakim",
+     "body": "The All-Wise. Everything He does is wise."
+    },
+    "ar": {
+     "title": "الحكيم",
+     "body": "كل ما يفعله فيه حكمة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+   "quoteSource": {
+    "surah": 59,
+    "ayah": 24,
+    "words": [
+     14,
+     17
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.qawi",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 42,
+     "ayah": 19
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Qawi",
+     "body": "The All-Strong. Nothing is too hard for Him."
+    },
+    "ar": {
+     "title": "القوي",
+     "body": "القوي الذي لا يعجزه شيء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَهُوَ ٱلۡقَوِيُّ ٱلۡعَزِيزُ",
+   "quoteSource": {
+    "surah": 42,
+    "ayah": 19,
+    "words": [
+     6,
+     9
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.hayy",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 255
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Hayy",
+     "body": "The Ever-Living. He never dies."
+    },
+    "ar": {
+     "title": "الحي",
+     "body": "الحي الذي لا يموت."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ",
+   "quoteSource": {
+    "surah": 2,
+    "ayah": 255,
+    "words": [
+     0,
+     7
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.qayyum",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 255
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Qayyum",
+     "body": "The Sustainer. He takes care of everything, and He never sleeps."
+    },
+    "ar": {
+     "title": "القيوم",
+     "body": "القائم على كل شيء، لا تأخذه سِنة ولا نوم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ",
+   "quoteSource": {
+    "surah": 2,
+    "ayah": 255,
+    "words": [
+     0,
+     7
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.ahad",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 112,
+     "ayah": 1
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Ahad",
+     "body": "The One. Allah is One, with no partner."
+    },
+    "ar": {
+     "title": "الأحد",
+     "body": "الله واحد لا شريك له."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+   "quoteSource": {
+    "surah": 112,
+    "ayah": 1,
+    "words": [
+     0,
+     4
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.samad",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 112,
+     "ayah": 2
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "As-Samad",
+     "body": "The One everyone needs, while He needs no one."
+    },
+    "ar": {
+     "title": "الصمد",
+     "body": "الذي يحتاج إليه الجميع، وهو لا يحتاج إلى أحد."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "ٱللَّهُ ٱلصَّمَدُ",
+   "quoteSource": {
+    "surah": 112,
+    "ayah": 2,
+    "words": [
+     0,
+     2
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.wahhab",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 3,
+     "ayah": 8
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Wahhab",
+     "body": "The Giver of Gifts. He gives freely and generously."
+    },
+    "ar": {
+     "title": "الوهاب",
+     "body": "كثير الهبات والعطايا."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
+   "quoteSource": {
+    "surah": 3,
+    "ayah": 8,
+    "words": [
+     12,
+     15
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.tawwab",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 37
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "At-Tawwab",
+     "body": "The Accepter of Repentance. He forgives again and again when we turn back to Him."
+    },
+    "ar": {
+     "title": "التواب",
+     "body": "يقبل التوبة من عباده مرة بعد مرة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+   "quoteSource": {
+    "surah": 2,
+    "ayah": 37,
+    "words": [
+     7,
+     11
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.name.awwalAkhir",
+   "group": "names",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 57,
+     "ayah": 3
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Al-Awwal and Al-Akhir",
+     "body": "The First, before everything, and the Last, after everything."
+    },
+    "ar": {
+     "title": "الأول والآخر",
+     "body": "الأول فليس قبله شيء، والآخر فليس بعده شيء."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "هُوَ ٱلۡأَوَّلُ وَٱلۡأٓخِرُ وَٱلظَّٰهِرُ وَٱلۡبَاطِنُۖ",
+   "quoteSource": {
+    "surah": 57,
+    "ayah": 3,
+    "words": [
+     0,
+     5
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.seerah.elephant",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "kaaba",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 49,
+     "index": 15,
+     "match": "ولد رسول الله صلى الله عليه وسلم عام الفيل"
+    },
+    {
+     "type": "quran",
+     "surah": 105,
+     "ayah": 1
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Born in the Year of the Elephant",
+     "body": "The Prophet Muhammad ﷺ was born in the Year of the Elephant: the year of the army with the elephant that Surah Al-Fil tells about."
+    },
+    "ar": {
+     "title": "وُلد في عام الفيل",
+     "body": "وُلد النبي محمد ﷺ في عام الفيل، وهو العام الذي جاء فيه أصحاب الفيل الذين تحكي عنهم سورة الفيل."
+    }
+   },
+   "review": {
+    "status": "draft",
+    "note": "Tirmidhi: hasan gharib; reviewer to confirm grading for use with children"
+   },
+   "quote": "وُلِدَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَامَ الْفِيلِ"
+  },
+  {
+   "id": "k2.seerah.orphan",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "home",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 93,
+     "ayah": 6
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "An orphan cared for by Allah",
+     "body": "The Prophet ﷺ grew up as an orphan, and Allah took care of him and gave him a home."
+    },
+    "ar": {
+     "title": "يتيم آواه الله",
+     "body": "نشأ النبي ﷺ يتيمًا، فرعاه الله وآواه."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
+   "quoteSource": {
+    "surah": 93,
+    "ayah": 6,
+    "words": [
+     0,
+     4
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.seerah.truthful",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "speech",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 65,
+     "index": 292,
+     "match": "ما جربنا عليك إلا صدقا"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 1,
+     "index": 7,
+     "match": "هل كنتم تتهمونه بالكذب قبل أن يقول ما قال"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Known for telling the truth",
+     "body": "His people knew him as truthful. They told him: we have only ever found you telling the truth."
+    },
+    "ar": {
+     "title": "الصادق",
+     "body": "عرف قومه صدقه، وقالوا له: ما جرّبنا عليك إلا صدقًا."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "مَا جَرَّبْنَا عَلَيْكَ إِلاَّ صِدْقًا"
+  },
+  {
+   "id": "k2.seerah.hira",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "book",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 1,
+     "index": 3,
+     "match": "حتى جاءه الحق وهو في غار حراء فجاءه الملك فقال اقرأ"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 127,
+     "match": "بعث رسول الله صلى الله عليه وسلم لأربعين سنة"
+    },
+    {
+     "type": "quran",
+     "surah": 96,
+     "ayah": 1
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The first revelation in the Cave of Hira",
+     "body": "When he was forty, the first revelation came to him in the Cave of Hira. The angel said: Iqra' (Read)!"
+    },
+    "ar": {
+     "title": "أول الوحي في غار حراء",
+     "body": "لما بلغ أربعين سنة نزل عليه الوحي أول مرة في غار حراء، فقال له الملك: اقرأ."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "حَتَّى جَاءَهُ الْحَقُّ وَهُوَ فِي غَارِ حِرَاءٍ، فَجَاءَهُ الْمَلَكُ فَقَالَ اقْرَأْ"
+  },
+  {
+   "id": "k2.seerah.khadijah",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "home",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 1,
+     "index": 3,
+     "match": "كلا والله ما يخزيك الله أبدا"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 1,
+     "index": 3,
+     "match": "إنك لتصل الرحم"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Khadijah comforts him",
+     "body": "After the first revelation he went home to his wife Khadijah. She comforted him and said: Allah will never let you down; you are good to your relatives."
+    },
+    "ar": {
+     "title": "خديجة تطمئنه",
+     "body": "بعد أول الوحي رجع إلى زوجته خديجة، فطمأنته وقالت: والله لا يخزيك الله أبدًا، إنك لتصل الرحم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "كَلاَّ وَاللَّهِ مَا يُخْزِيكَ اللَّهُ أَبَدًا، إِنَّكَ لَتَصِلُ الرَّحِمَ"
+  },
+  {
+   "id": "k2.seerah.safa",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "speech",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 65,
+     "index": 292,
+     "match": "صعد النبي صلى الله عليه وسلم على الصفا"
+    },
+    {
+     "type": "quran",
+     "surah": 26,
+     "ayah": 214
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The call on As-Safa",
+     "body": "Allah told him to warn his nearest relatives. He climbed the hill of As-Safa and called out to the people of Quraysh to give them Allah's message."
+    },
+    "ar": {
+     "title": "النداء على الصفا",
+     "body": "أمره الله أن ينذر عشيرته الأقربين، فصعد على الصفا ونادى بطون قريش ليبلّغهم رسالة الله."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَأَنذِرۡ عَشِيرَتَكَ ٱلۡأَقۡرَبِينَ",
+   "quoteSource": {
+    "surah": 26,
+    "ayah": 214,
+    "words": [
+     0,
+     3
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.seerah.isra",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "mosque",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 17,
+     "ayah": 1
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The Night Journey",
+     "body": "Allah took His servant by night from Al-Masjid Al-Haram to Al-Masjid Al-Aqsa."
+    },
+    "ar": {
+     "title": "الإسراء",
+     "body": "أسرى الله بعبده ليلًا من المسجد الحرام إلى المسجد الأقصى."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا",
+   "quoteSource": {
+    "surah": 17,
+    "ayah": 1,
+    "words": [
+     0,
+     11
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.seerah.makkah13",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "kaaba",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 127,
+     "match": "فمكث بمكة ثلاث عشرة سنة يوحى إليه ثم أمر بالهجرة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Thirteen years in Makkah",
+     "body": "He stayed in Makkah for thirteen years receiving revelation. Then Allah commanded him to make the Hijrah (migration)."
+    },
+    "ar": {
+     "title": "ثلاث عشرة سنة في مكة",
+     "body": "مكث في مكة ثلاث عشرة سنة يوحى إليه، ثم أُمر بالهجرة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "فَمَكُثَ بِمَكَّةَ ثَلاَثَ عَشْرَةَ سَنَةً يُوحَى إِلَيْهِ، ثُمَّ أُمِرَ بِالْهِجْرَةِ"
+  },
+  {
+   "id": "k2.seerah.cave",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 9,
+     "ayah": 40
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 65,
+     "index": 185,
+     "match": "ما ظنك باثنين الله ثالثهما"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "In the cave with Abu Bakr",
+     "body": "On the Hijrah he hid in a cave with his companion Abu Bakr. He told him: Do not be sad, Allah is with us."
+    },
+    "ar": {
+     "title": "في الغار مع أبي بكر",
+     "body": "في الهجرة اختبأ في الغار مع صاحبه أبي بكر، وقال له: لا تحزن إن الله معنا."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ",
+   "quoteSource": {
+    "surah": 9,
+    "ayah": 40,
+    "words": [
+     18,
+     23
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.seerah.mosque",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "mosque",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 78,
+     "match": "قدم النبي صلى الله عليه وسلم المدينة"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 78,
+     "match": "وأنه أمر ببناء المسجد"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 78,
+     "match": "لا نطلب ثمنه إلا إلى الله"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Building the mosque in Madinah",
+     "body": "When he arrived in Madinah, he ordered a mosque to be built. The owners of the land said: we only want its price from Allah."
+    },
+    "ar": {
+     "title": "بناء المسجد في المدينة",
+     "body": "لما قدم المدينة أمر ببناء المسجد، فقال أصحاب الأرض: لا نطلب ثمنها إلا من الله."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَأَنَّهُ أَمَرَ بِبِنَاءِ الْمَسْجِدِ"
+  },
+  {
+   "id": "k2.seerah.madinah10",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "mosque",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 76,
+     "match": "فهاجر إلى المدينة فمكث بها عشر سنين"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Ten years in Madinah",
+     "body": "After the Hijrah he lived in Madinah for ten years."
+    },
+    "ar": {
+     "title": "عشر سنين في المدينة",
+     "body": "بعد الهجرة عاش في المدينة عشر سنين."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "فَهَاجَرَ إِلَى الْمَدِينَةِ، فَمَكَثَ بِهَا عَشْرَ سِنِينَ"
+  },
+  {
+   "id": "k2.seerah.fath",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "kaaba",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 64,
+     "index": 319,
+     "match": "دخل مكة يوم الفتح"
+    },
+    {
+     "type": "quran",
+     "surah": 110,
+     "ayah": 1
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The Conquest of Makkah",
+     "body": "Years later he returned and entered Makkah on the day of the Conquest (Al-Fath). Allah's help and victory came."
+    },
+    "ar": {
+     "title": "فتح مكة",
+     "body": "بعد سنوات عاد ودخل مكة يوم الفتح، وجاء نصر الله والفتح."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+   "quoteSource": {
+    "surah": 110,
+    "ayah": 1,
+    "words": [
+     0,
+     5
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.seerah.mercy",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "smile",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 21,
+     "ayah": 107
+    },
+    {
+     "type": "quran",
+     "surah": 68,
+     "ayah": 4
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "A mercy to all the worlds",
+     "body": "Allah sent him as a mercy to all the worlds, and he had a great character."
+    },
+    "ar": {
+     "title": "رحمة للعالمين",
+     "body": "أرسله الله رحمة للعالمين، وكان على خلق عظيم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا رَحۡمَةٗ لِّلۡعَٰلَمِينَ",
+   "quoteSource": {
+    "surah": 21,
+    "ayah": 107,
+    "words": [
+     0,
+     5
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.seerah.age63",
+   "group": "seerah",
+   "area": "knowledge",
+   "art": "moon",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 127,
+     "match": "ومات وهو ابن ثلاث وستين"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "He passed away at sixty-three",
+     "body": "The Prophet ﷺ passed away when he was sixty-three years old."
+    },
+    "ar": {
+     "title": "توفي وعمره ثلاث وستون سنة",
+     "body": "توفي النبي ﷺ وعمره ثلاث وستون سنة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَمَاتَ وَهُوَ ابْنُ ثَلاَثٍ وَسِتِّينَ"
+  },
+  {
+   "id": "k2.months.twelve",
+   "group": "months",
+   "area": "knowledge",
+   "art": "moon",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 9,
+     "ayah": 36
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 59,
+     "index": 8,
+     "match": "السنة اثنا عشر شهرا منها أربعة حرم"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Twelve months",
+     "body": "In Allah's Book the year has twelve months, and four of them are sacred."
+    },
+    "ar": {
+     "title": "اثنا عشر شهرًا",
+     "body": "عدد الشهور عند الله اثنا عشر شهرًا، منها أربعة حُرُم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثۡنَا عَشَرَ شَهۡرٗا فِي كِتَٰبِ ٱللَّهِ يَوۡمَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ مِنۡهَآ أَرۡبَعَةٌ حُرُمٞۚ",
+   "quoteSource": {
+    "surah": 9,
+    "ayah": 36,
+    "words": [
+     0,
+     18
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.months.sacred",
+   "group": "months",
+   "area": "knowledge",
+   "art": "moon",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 59,
+     "index": 8,
+     "match": "ذو القعدة وذو الحجة والمحرم ورجب"
+    },
+    {
+     "type": "quran",
+     "surah": 9,
+     "ayah": 36
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The four sacred months",
+     "body": "The four sacred months are Dhul-Qa'dah, Dhul-Hijjah, Muharram and Rajab."
+    },
+    "ar": {
+     "title": "الأشهر الحرم",
+     "body": "الأشهر الحرم أربعة: ذو القعدة وذو الحجة والمحرم ورجب."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "ذُو الْقَعْدَةِ وَذُو الْحِجَّةِ وَالْمُحَرَّمُ، وَرَجَبُ"
+  },
+  {
+   "id": "k2.months.rajab",
+   "group": "months",
+   "area": "knowledge",
+   "art": "moon",
+   "ages": [
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 59,
+     "index": 8,
+     "match": "ورجب مضر الذي بين جمادى وشعبان"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Where is Rajab?",
+     "body": "Rajab comes between Jumada and Sha'ban."
+    },
+    "ar": {
+     "title": "أين يقع رجب؟",
+     "body": "يقع شهر رجب بين جمادى وشعبان."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَرَجَبُ مُضَرَ الَّذِي بَيْنَ جُمَادَى وَشَعْبَانَ"
+  },
+  {
+   "id": "k2.months.moon",
+   "group": "months",
+   "area": "knowledge",
+   "art": "moon",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 189
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Months follow the moon",
+     "body": "The new moons mark times for people and for Hajj. Each Islamic month starts with a new crescent moon."
+    },
+    "ar": {
+     "title": "الشهور والهلال",
+     "body": "الأهلّة مواقيت للناس وللحج، ويبدأ كل شهر هجري بهلال جديد."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ",
+   "quoteSource": {
+    "surah": 2,
+    "ayah": 189,
+    "words": [
+     0,
+     8
+    ]
+   },
+   "quoteIsQuran": true
+  },
+  {
+   "id": "k2.months.names",
+   "group": "months",
+   "area": "knowledge",
+   "art": "moon",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 9,
+     "ayah": 36
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The names of the twelve months",
+     "body": "Muharram, Safar, Rabi' al-Awwal, Rabi' al-Akhir, Jumada al-Ula, Jumada al-Akhirah, Rajab, Sha'ban, Ramadan, Shawwal, Dhul-Qa'dah, Dhul-Hijjah."
+    },
+    "ar": {
+     "title": "أسماء الشهور الاثني عشر",
+     "body": "المحرم، صفر، ربيع الأول، ربيع الآخر، جمادى الأولى، جمادى الآخرة، رجب، شعبان، رمضان، شوال، ذو القعدة، ذو الحجة."
+    }
+   },
+   "review": {
+    "status": "draft",
+    "note": "month names and order are language information (the common Arabic names); 9:36 is the source for the count of twelve"
+   }
+  },
+  {
+   "id": "k2.adab.rightHand",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "smile",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 70,
+     "index": 4,
+     "match": "يا غلام سم الله وكل بيمينك وكل مما يليك"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Bismillah and the right hand",
+     "body": "The Prophet ﷺ told a boy: Say Bismillah, eat with your right hand, and eat from what is in front of you."
+    },
+    "ar": {
+     "title": "التسمية والأكل باليمين",
+     "body": "قال النبي ﷺ لغلام: سمِّ الله، وكُل بيمينك، وكُل مما يليك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "يَا غُلاَمُ سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ"
+  },
+  {
+   "id": "k2.adab.sneeze",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "speech",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 248,
+     "match": "إذا عطس أحدكم فليقل الحمد لله وليقل له أخوه أو صاحبه يرحمك الله"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 248,
+     "match": "فليقل يهديكم الله ويصلح بالكم"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "When someone sneezes",
+     "body": "When you sneeze, say Alhamdulillah. The one who hears you says Yarhamukallah, and you reply: Yahdikumullahu wa yuslihu balakum."
+    },
+    "ar": {
+     "title": "آداب العطاس",
+     "body": "إذا عطست فقل: الحمد لله، ويقول لك أخوك: يرحمك الله، فترد: يهديكم الله ويصلح بالكم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلِ الْحَمْدُ لِلَّهِ"
+  },
+  {
+   "id": "k2.adab.salamAll",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "salam",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 2,
+     "index": 5,
+     "match": "تطعم الطعام وتقرأ السلام على من عرفت ومن لم تعرف"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Salam to everyone",
+     "body": "A good deed in Islam is to feed people and to say salam to those you know and those you do not know."
+    },
+    "ar": {
+     "title": "السلام على الجميع",
+     "body": "من خير الإسلام أن تطعم الطعام، وتقرأ السلام على من عرفت ومن لم تعرف."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ"
+  },
+  {
+   "id": "k2.adab.whoFirst",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "salam",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 79,
+     "index": 5,
+     "match": "يسلم الصغير على الكبير والمار على القاعد والقليل على الكثير"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Who says salam first?",
+     "body": "The younger greets the older, the one walking greets the one sitting, and the small group greets the big group."
+    },
+    "ar": {
+     "title": "من يبدأ بالسلام؟",
+     "body": "يسلّم الصغير على الكبير، والمارّ على القاعد، والقليل على الكثير."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "يُسَلِّمُ الصَّغِيرُ عَلَى الْكَبِيرِ، وَالْمَارُّ عَلَى الْقَاعِدِ، وَالْقَلِيلُ عَلَى الْكَثِيرِ"
+  },
+  {
+   "id": "k2.adab.mother",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "home",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 45,
+     "index": 1,
+     "match": "من أحق الناس بحسن صحابتي"
+    },
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 45,
+     "index": 1,
+     "match": "ثم من قال ثم أبوك"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Your mother, then your mother, then your mother",
+     "body": "A man asked who most deserves his good company. The Prophet ﷺ said: your mother, three times, and then your father."
+    },
+    "ar": {
+     "title": "أمك ثم أمك ثم أمك",
+     "body": "سأل رجل: من أحق الناس بحسن صحبتي؟ فقال النبي ﷺ: أمك، ثلاث مرات، ثم أبوك."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "مَنْ أَحَقُّ النَّاسِ بِحُسْنِ صَحَابَتِي"
+  },
+  {
+   "id": "k2.adab.honesty",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "speech",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 121,
+     "match": "إن الصدق يهدي إلى البر وإن البر يهدي إلى الجنة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Honesty leads to good",
+     "body": "Telling the truth leads to goodness, and goodness leads to Paradise."
+    },
+    "ar": {
+     "title": "الصدق يهدي إلى الخير",
+     "body": "الصدق يهدي إلى البر، والبر يهدي إلى الجنة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "إِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ"
+  },
+  {
+   "id": "k2.adab.thirstyDog",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "water",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 42,
+     "index": 11,
+     "match": "فسقى الكلب فشكر الله له فغفر له"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 42,
+     "index": 11,
+     "match": "في كل كبد رطبة أجر"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Kindness to animals",
+     "body": "A man gave water to a thirsty dog, so Allah thanked him and forgave him. There is reward in being kind to every living creature."
+    },
+    "ar": {
+     "title": "الرحمة بالحيوان",
+     "body": "سقى رجل كلبًا عطشان، فشكر الله له وغفر له. وفي كل كبد رطبة أجر."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "فِي كُلِّ كَبِدٍ رَطْبَةٍ أَجْرٌ"
+  },
+  {
+   "id": "k2.adab.mercy",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "home",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 28,
+     "match": "من لا يرحم لا يرحم"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Be merciful",
+     "body": "The Prophet ﷺ kissed his grandson Al-Hasan ibn Ali and said: whoever is not merciful will not be shown mercy."
+    },
+    "ar": {
+     "title": "كن رحيمًا",
+     "body": "قبّل النبي ﷺ حفيده الحسن بن علي وقال: من لا يَرحم لا يُرحم."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "مَنْ لاَ يَرْحَمُ لاَ يُرْحَمُ"
+  },
+  {
+   "id": "k2.adab.sharing",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "smile",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 70,
+     "index": 20,
+     "match": "طعام الاثنين كافي الثلاثة وطعام الثلاثة كافي الأربعة"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Share your food",
+     "body": "Food for two is enough for three, and food for three is enough for four."
+    },
+    "ar": {
+     "title": "شارك طعامك",
+     "body": "طعام الاثنين كافي الثلاثة، وطعام الثلاثة كافي الأربعة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "طَعَامُ الاِثْنَيْنِ كَافِي الثَّلاَثَةِ، وَطَعَامُ الثَّلاَثَةِ كَافِي الأَرْبَعَةِ"
+  },
+  {
+   "id": "k2.adab.helping",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "home",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 48,
+     "index": 48,
+     "match": "والله في عون العبد ما كان العبد في عون أخيه"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Help others",
+     "body": "Allah helps a person as long as that person is helping his brother."
+    },
+    "ar": {
+     "title": "أعِن غيرك",
+     "body": "الله في عون العبد ما كان العبد في عون أخيه."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ"
+  },
+  {
+   "id": "k2.adab.goodWords",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "speech",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 49,
+     "match": "فليقل خيرا أو ليصمت"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Say good or stay quiet",
+     "body": "Whoever believes in Allah and the Last Day should say something good or stay quiet."
+    },
+    "ar": {
+     "title": "قل خيرًا أو اصمت",
+     "body": "من كان يؤمن بالله واليوم الآخر فليقل خيرًا أو ليصمت."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ"
+  },
+  {
+   "id": "k2.adab.anger",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "smile",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 141,
+     "match": "ليس الشديد بالصرعة إنما الشديد الذي يملك نفسه عند الغضب"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "The truly strong",
+     "body": "The strong person is not the one who wins a fight. The strong person is the one who controls himself when he is angry."
+    },
+    "ar": {
+     "title": "القوي الحقيقي",
+     "body": "ليس الشديد من يغلب الناس في المصارعة، إنما الشديد الذي يملك نفسه عند الغضب."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ"
+  },
+  {
+   "id": "k2.adab.road",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "home",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 1,
+     "index": 60,
+     "match": "وأدناها إماطة الأذى عن الطريق"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Clear the path",
+     "body": "Removing something harmful from the road is a part of faith."
+    },
+    "ar": {
+     "title": "إماطة الأذى",
+     "body": "إماطة الأذى عن الطريق شعبة من الإيمان."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَأَدْنَاهَا إِمَاطَةُ الأَذَى عَنِ الطَّرِيقِ"
+  },
+  {
+   "id": "k2.adab.food",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "smile",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 70,
+     "index": 37,
+     "match": "ما عاب النبي صلى الله عليه وسلم طعاما قط إن اشتهاه أكله وإن كرهه تركه"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Never complain about food",
+     "body": "The Prophet ﷺ never found fault with any food. If he liked it he ate it, and if he did not, he left it."
+    },
+    "ar": {
+     "title": "لا نعيب الطعام",
+     "body": "ما عاب النبي ﷺ طعامًا قط، إن اشتهاه أكله، وإن كرهه تركه."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "مَا عَابَ النَّبِيُّ صلى الله عليه وسلم طَعَامًا قَطُّ، إِنِ اشْتَهَاهُ أَكَلَهُ، وَإِنْ كَرِهَهُ تَرَكَهُ"
+  },
+  {
+   "id": "k2.adab.noWaste",
+   "group": "adab",
+   "area": "knowledge",
+   "art": "water",
+   "ages": [
+    2,
+    3
+   ],
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 6,
+     "match": "وكره لكم قيل وقال وكثرة السؤال وإضاعة المال"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Do not waste",
+     "body": "Allah dislikes for us idle gossip, asking too many questions, and wasting wealth."
+    },
+    "ar": {
+     "title": "لا تُضيّع المال",
+     "body": "كره الله لنا القيل والقال، وكثرة السؤال، وإضاعة المال."
+    }
+   },
+   "review": {
+    "status": "draft"
+   },
+   "quote": "وَكَرِهَ لَكُمْ قِيلَ وَقَالَ، وَكَثْرَةَ السُّؤَالِ، وَإِضَاعَةَ الْمَالِ"
+  }
+ ]
+}

@@ -1,0 +1,1979 @@
+{
+ "_note": "Rafiq Kids quiz bank: every question has a source; DRAFT pending qualified review. The existing app quiz (client/data/quiz.json) is shown alongside only as unsourced drafts.",
+ "questions": [
+  {
+   "id": "q.pillarsCount",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 2,
+     "index": 1,
+     "match": "بني الإسلام على خمس"
+    }
+   ],
+   "q": {
+    "en": "How many pillars does Islam have?",
+    "ar": "كم عدد أركان الإسلام؟"
+   },
+   "choices": {
+    "en": [
+     "5",
+     "3",
+     "7"
+    ],
+    "ar": [
+     "٥",
+     "٣",
+     "٧"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Islam is built on five pillars.",
+    "ar": "بُني الإسلام على خمس."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.prayersPerDay",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 1,
+     "match": "فرض الله على أمتي خمسين صلاة"
+    }
+   ],
+   "q": {
+    "en": "How many times do Muslims pray each day?",
+    "ar": "كم صلاة يصلي المسلم في اليوم؟"
+   },
+   "choices": {
+    "en": [
+     "5",
+     "2",
+     "10"
+    ],
+    "ar": [
+     "٥",
+     "٢",
+     "١٠"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "There are five daily prayers.",
+    "ar": "الصلوات المفروضة خمس."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.surahCount",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "surahCount"
+    }
+   ],
+   "q": {
+    "en": "How many surahs are in the Quran?",
+    "ar": "كم عدد سور القرآن؟"
+   },
+   "choices": {
+    "en": [
+     "114",
+     "30",
+     "99"
+    ],
+    "ar": [
+     "١١٤",
+     "٣٠",
+     "٩٩"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The Quran has 114 surahs.",
+    "ar": "عدد سور القرآن ١١٤ سورة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.firstSurah",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "firstSurah"
+    }
+   ],
+   "q": {
+    "en": "Which surah comes first in the Quran?",
+    "ar": "ما أول سورة في المصحف؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Fatiha",
+     "Al-Ikhlas",
+     "An-Nas"
+    ],
+    "ar": [
+     "الفاتحة",
+     "الإخلاص",
+     "الناس"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Fatiha is the first surah.",
+    "ar": "الفاتحة أول سورة في المصحف."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.lastSurah",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "lastSurah"
+    }
+   ],
+   "q": {
+    "en": "Which surah comes last in the Quran?",
+    "ar": "ما آخر سورة في المصحف؟"
+   },
+   "choices": {
+    "en": [
+     "An-Nas",
+     "Al-Baqarah",
+     "Yasin"
+    ],
+    "ar": [
+     "الناس",
+     "البقرة",
+     "يس"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "An-Nas is the last surah.",
+    "ar": "الناس آخر سورة في المصحف."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.longestSurah",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "longestShortest"
+    }
+   ],
+   "q": {
+    "en": "Which is the longest surah?",
+    "ar": "ما أطول سورة في القرآن؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Baqarah",
+     "Al-Kawthar",
+     "Al-Fatiha"
+    ],
+    "ar": [
+     "البقرة",
+     "الكوثر",
+     "الفاتحة"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Baqarah has 286 ayahs.",
+    "ar": "البقرة ٢٨٦ آية."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.shortestSurah",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "longestShortest"
+    }
+   ],
+   "q": {
+    "en": "Which is the shortest surah?",
+    "ar": "ما أقصر سورة في القرآن؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Kawthar",
+     "Al-Baqarah",
+     "Al-Kahf"
+    ],
+    "ar": [
+     "الكوثر",
+     "البقرة",
+     "الكهف"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Kawthar has the fewest words: 3 short ayahs.",
+    "ar": "الكوثر أقل السور كلمات: ثلاث آيات قصيرة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.fatihaAyahs",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "ayahCount:1"
+    }
+   ],
+   "q": {
+    "en": "How many ayahs are in Al-Fatiha?",
+    "ar": "كم عدد آيات الفاتحة؟"
+   },
+   "choices": {
+    "en": [
+     "7",
+     "5",
+     "10"
+    ],
+    "ar": [
+     "٧",
+     "٥",
+     "١٠"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Fatiha has 7 ayahs.",
+    "ar": "الفاتحة سبع آيات."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.ikhlasAyahs",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "ayahCount:112"
+    }
+   ],
+   "q": {
+    "en": "How many ayahs are in Al-Ikhlas?",
+    "ar": "كم عدد آيات سورة الإخلاص؟"
+   },
+   "choices": {
+    "en": [
+     "4",
+     "7",
+     "3"
+    ],
+    "ar": [
+     "٤",
+     "٧",
+     "٣"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Ikhlas has 4 ayahs.",
+    "ar": "سورة الإخلاص أربع آيات."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.ramadanFast",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 183
+    },
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 185
+    }
+   ],
+   "q": {
+    "en": "In which month do Muslims fast?",
+    "ar": "في أي شهر يصوم المسلمون؟"
+   },
+   "choices": {
+    "en": [
+     "Ramadan",
+     "Muharram",
+     "Rajab"
+    ],
+    "ar": [
+     "رمضان",
+     "محرم",
+     "رجب"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Fasting is in Ramadan.",
+    "ar": "الصيام في شهر رمضان."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.quranMonth",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 185
+    }
+   ],
+   "q": {
+    "en": "In which month was the Quran first sent down?",
+    "ar": "في أي شهر أُنزل القرآن؟"
+   },
+   "choices": {
+    "en": [
+     "Ramadan",
+     "Shawwal",
+     "Safar"
+    ],
+    "ar": [
+     "رمضان",
+     "شوال",
+     "صفر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Allah sent down the Quran in Ramadan.",
+    "ar": "أنزل الله القرآن في رمضان."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.kaabaCity",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 3,
+     "ayah": 96
+    },
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 144
+    }
+   ],
+   "q": {
+    "en": "In which city is the Kaaba?",
+    "ar": "في أي مدينة توجد الكعبة؟"
+   },
+   "choices": {
+    "en": [
+     "Makkah",
+     "Madinah",
+     "Cairo"
+    ],
+    "ar": [
+     "مكة",
+     "المدينة",
+     "القاهرة"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The Kaaba is in Makkah.",
+    "ar": "الكعبة في مكة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.qibla",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 144
+    }
+   ],
+   "q": {
+    "en": "Which way do we face when we pray?",
+    "ar": "إلى أين نتجه في الصلاة؟"
+   },
+   "choices": {
+    "en": [
+     "Towards the Kaaba",
+     "Towards the sun",
+     "Any way we like"
+    ],
+    "ar": [
+     "إلى الكعبة",
+     "إلى الشمس",
+     "إلى أي جهة"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We face the Kaaba (the Qibla).",
+    "ar": "نتجه إلى الكعبة (القبلة)."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.wuduFirst",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "فأفرغ على كفيه ثلاث مرار فغسلهما"
+    }
+   ],
+   "q": {
+    "en": "In wudu, what do we wash first?",
+    "ar": "ماذا نغسل أولًا في الوضوء؟"
+   },
+   "choices": {
+    "en": [
+     "Our hands",
+     "Our feet",
+     "Our hair"
+    ],
+    "ar": [
+     "الكفين",
+     "الرجلين",
+     "الشعر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We start by washing our hands.",
+    "ar": "نبدأ بغسل الكفين."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.wuduLast",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "فأفرغ على كفيه ثلاث مرار فغسلهما"
+    }
+   ],
+   "q": {
+    "en": "Which part do we wash last in wudu?",
+    "ar": "ما آخر ما نغسله في الوضوء؟"
+   },
+   "choices": {
+    "en": [
+     "The feet",
+     "The face",
+     "The hands"
+    ],
+    "ar": [
+     "الرجلين",
+     "الوجه",
+     "الكفين"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The feet are washed last, up to the ankles.",
+    "ar": "آخر ما نغسله الرجلان إلى الكعبين."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.wuduHead",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 5,
+     "ayah": 6
+    }
+   ],
+   "q": {
+    "en": "In wudu, what do we do with the head?",
+    "ar": "ماذا نفعل بالرأس في الوضوء؟"
+   },
+   "choices": {
+    "en": [
+     "Wipe it",
+     "Wash it three times",
+     "Nothing"
+    ],
+    "ar": [
+     "نمسحه",
+     "نغسله ثلاثًا",
+     "لا شيء"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We wipe the head.",
+    "ar": "نمسح الرأس."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.salahStart",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "إذا قمت إلى الصلاة فكبر"
+    }
+   ],
+   "q": {
+    "en": "How do we start the prayer?",
+    "ar": "كيف نبدأ الصلاة؟"
+   },
+   "choices": {
+    "en": [
+     "Allahu Akbar",
+     "Salam",
+     "Ameen"
+    ],
+    "ar": [
+     "الله أكبر",
+     "السلام",
+     "آمين"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We start with Allahu Akbar.",
+    "ar": "نبدأ الصلاة بالتكبير."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.salahEnd",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 1,
+     "index": 3,
+     "match": "وتحليلها التسليم"
+    }
+   ],
+   "q": {
+    "en": "How do we finish the prayer?",
+    "ar": "كيف نختم الصلاة؟"
+   },
+   "choices": {
+    "en": [
+     "With salam",
+     "With takbir",
+     "By standing up"
+    ],
+    "ar": [
+     "بالتسليم",
+     "بالتكبير",
+     "بالقيام"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The prayer ends with the salam.",
+    "ar": "تُختم الصلاة بالتسليم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.fatihaInSalah",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 150,
+     "match": "لا صلاة لمن لم يقرأ بفاتحة الكتاب"
+    }
+   ],
+   "q": {
+    "en": "Which surah do we recite in every rak'ah?",
+    "ar": "ما السورة التي نقرؤها في كل ركعة؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Fatiha",
+     "Al-Kahf",
+     "Yasin"
+    ],
+    "ar": [
+     "الفاتحة",
+     "الكهف",
+     "يس"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Fatiha is recited in every rak'ah.",
+    "ar": "الفاتحة تُقرأ في كل ركعة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.rukuSay",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 6,
+     "index": 242,
+     "match": "سبحان ربي العظيم"
+    }
+   ],
+   "q": {
+    "en": "What do we say in ruku' (bowing)?",
+    "ar": "ماذا نقول في الركوع؟"
+   },
+   "choices": {
+    "en": [
+     "Subhana Rabbiyal-Adheem",
+     "Subhana Rabbiyal-A'la",
+     "Ameen"
+    ],
+    "ar": [
+     "سبحان ربي العظيم",
+     "سبحان ربي الأعلى",
+     "آمين"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "In ruku' we say Subhana Rabbiyal-Adheem.",
+    "ar": "نقول في الركوع: سبحان ربي العظيم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.sujudSay",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 6,
+     "index": 242,
+     "match": "سبحان ربي الأعلى"
+    }
+   ],
+   "q": {
+    "en": "What do we say in sujud?",
+    "ar": "ماذا نقول في السجود؟"
+   },
+   "choices": {
+    "en": [
+     "Subhana Rabbiyal-A'la",
+     "Subhana Rabbiyal-Adheem",
+     "Bismillah"
+    ],
+    "ar": [
+     "سبحان ربي الأعلى",
+     "سبحان ربي العظيم",
+     "بسم الله"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "In sujud we say Subhana Rabbiyal-A'la.",
+    "ar": "نقول في السجود: سبحان ربي الأعلى."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.maghribRakat",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 1,
+     "match": "فرض الله على أمتي خمسين صلاة"
+    }
+   ],
+   "q": {
+    "en": "How many rak'ahs is Maghrib?",
+    "ar": "كم ركعة صلاة المغرب؟"
+   },
+   "choices": {
+    "en": [
+     "3",
+     "2",
+     "4"
+    ],
+    "ar": [
+     "٣",
+     "٢",
+     "٤"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Maghrib has 3 rak'ahs.",
+    "ar": "المغرب ثلاث ركعات."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.fajrRakat",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 1,
+     "match": "فرض الله على أمتي خمسين صلاة"
+    }
+   ],
+   "q": {
+    "en": "How many rak'ahs is Fajr?",
+    "ar": "كم ركعة صلاة الفجر؟"
+   },
+   "choices": {
+    "en": [
+     "2",
+     "4",
+     "3"
+    ],
+    "ar": [
+     "٢",
+     "٤",
+     "٣"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Fajr has 2 rak'ahs.",
+    "ar": "الفجر ركعتان."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.beforeEating",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "abudawud",
+     "chapter": 28,
+     "index": 32,
+     "match": "فليقل بسم الله"
+    }
+   ],
+   "q": {
+    "en": "What do we say before eating?",
+    "ar": "ماذا نقول قبل الأكل؟"
+   },
+   "choices": {
+    "en": [
+     "Bismillah",
+     "Good night",
+     "Allahu Akbar"
+    ],
+    "ar": [
+     "بسم الله",
+     "تصبح على خير",
+     "الله أكبر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We say Bismillah.",
+    "ar": "نقول: بسم الله."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.sneeze",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 248,
+     "match": "إذا عطس أحدكم فليقل الحمد لله"
+    }
+   ],
+   "q": {
+    "en": "What do we say when we sneeze?",
+    "ar": "ماذا نقول إذا عطسنا؟"
+   },
+   "choices": {
+    "en": [
+     "Alhamdulillah",
+     "Bismillah",
+     "Ameen"
+    ],
+    "ar": [
+     "الحمد لله",
+     "بسم الله",
+     "آمين"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We say Alhamdulillah.",
+    "ar": "نقول: الحمد لله."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.thanks",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 27,
+     "index": 141,
+     "match": "جزاك الله خيرا"
+    }
+   ],
+   "q": {
+    "en": "What can we say to thank someone?",
+    "ar": "ماذا نقول لمن أحسن إلينا؟"
+   },
+   "choices": {
+    "en": [
+     "Jazakallahu khayran",
+     "Goodbye",
+     "Hurry up"
+    ],
+    "ar": [
+     "جزاك الله خيرًا",
+     "مع السلامة",
+     "أسرع"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Jazakallahu khayran: may Allah reward you with good.",
+    "ar": "جزاك الله خيرًا."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.leaveBathroom",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "abudawud",
+     "chapter": 1,
+     "index": 30,
+     "match": "غفرانك"
+    }
+   ],
+   "q": {
+    "en": "What do we say when leaving the bathroom?",
+    "ar": "ماذا نقول عند الخروج من الخلاء؟"
+   },
+   "choices": {
+    "en": [
+     "Ghufranak",
+     "Bismillah",
+     "Allahu Akbar"
+    ],
+    "ar": [
+     "غفرانك",
+     "بسم الله",
+     "الله أكبر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We say Ghufranak (I ask Your forgiveness).",
+    "ar": "نقول: غفرانك."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.smile",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 27,
+     "index": 62,
+     "match": "تبسمك في وجه أخيك لك صدقة"
+    }
+   ],
+   "q": {
+    "en": "Smiling at someone is...",
+    "ar": "التبسم في وجه أخيك..."
+   },
+   "choices": {
+    "en": [
+     "A good deed",
+     "Rude",
+     "Not important"
+    ],
+    "ar": [
+     "صدقة",
+     "قلة أدب",
+     "غير مهم"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Smiling is a sadaqah.",
+    "ar": "التبسم صدقة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.ark",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 11,
+     "ayah": 37
+    }
+   ],
+   "q": {
+    "en": "Which prophet built the ship (the ark)?",
+    "ar": "أي نبي صنع السفينة؟"
+   },
+   "choices": {
+    "en": [
+     "Nuh",
+     "Yusuf",
+     "Musa"
+    ],
+    "ar": [
+     "نوح",
+     "يوسف",
+     "موسى"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Allah told Nuh to build the ship.",
+    "ar": "أمر الله نوحًا بصنع السفينة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.whale",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 37,
+     "ayah": 142
+    }
+   ],
+   "q": {
+    "en": "Which prophet was swallowed by a big fish?",
+    "ar": "أي نبي التقمه الحوت؟"
+   },
+   "choices": {
+    "en": [
+     "Yunus",
+     "Ibrahim",
+     "Isa"
+    ],
+    "ar": [
+     "يونس",
+     "إبراهيم",
+     "عيسى"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The big fish swallowed Yunus.",
+    "ar": "التقم الحوت يونس."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.fireCool",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 21,
+     "ayah": 69
+    }
+   ],
+   "q": {
+    "en": "Allah made the fire cool and safe for which prophet?",
+    "ar": "لأي نبي جعل الله النار بردًا وسلامًا؟"
+   },
+   "choices": {
+    "en": [
+     "Ibrahim",
+     "Nuh",
+     "Adam"
+    ],
+    "ar": [
+     "إبراهيم",
+     "نوح",
+     "آدم"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Allah said: O fire, be cool and safe for Ibrahim.",
+    "ar": "قال الله: يا نار كوني بردًا وسلامًا على إبراهيم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.seaParted",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 26,
+     "ayah": 63
+    }
+   ],
+   "q": {
+    "en": "Which prophet struck the sea with his staff?",
+    "ar": "أي نبي ضرب البحر بعصاه؟"
+   },
+   "choices": {
+    "en": [
+     "Musa",
+     "Sulayman",
+     "Dawud"
+    ],
+    "ar": [
+     "موسى",
+     "سليمان",
+     "داود"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Musa struck the sea and it parted.",
+    "ar": "ضرب موسى البحر فانفلق."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.ant",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 27,
+     "ayah": 18
+    }
+   ],
+   "q": {
+    "en": "In the story of Sulayman, which creature spoke to warn the others?",
+    "ar": "في قصة سليمان، أي مخلوق حذّر أصحابه؟"
+   },
+   "choices": {
+    "en": [
+     "An ant",
+     "A camel",
+     "A lion"
+    ],
+    "ar": [
+     "نملة",
+     "جمل",
+     "أسد"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "An ant warned the other ants.",
+    "ar": "حذّرت نملة النمل."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.ironSoft",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 34,
+     "ayah": 10
+    }
+   ],
+   "q": {
+    "en": "Allah made iron soft for which prophet?",
+    "ar": "لأي نبي ألان الله الحديد؟"
+   },
+   "choices": {
+    "en": [
+     "Dawud",
+     "Yunus",
+     "Ismail"
+    ],
+    "ar": [
+     "داود",
+     "يونس",
+     "إسماعيل"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Allah made iron soft for Dawud.",
+    "ar": "ألان الله الحديد لداود."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.elevenStars",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 12,
+     "ayah": 4
+    }
+   ],
+   "q": {
+    "en": "Who saw eleven stars, the sun and the moon in a dream?",
+    "ar": "من رأى في المنام أحد عشر كوكبًا والشمس والقمر؟"
+   },
+   "choices": {
+    "en": [
+     "Yusuf",
+     "Musa",
+     "Nuh"
+    ],
+    "ar": [
+     "يوسف",
+     "موسى",
+     "نوح"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yusuf saw this dream.",
+    "ar": "رأى ذلك يوسف."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.kaabaBuilders",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 127
+    }
+   ],
+   "q": {
+    "en": "Who raised the foundations of the Kaaba?",
+    "ar": "من رفع قواعد الكعبة؟"
+   },
+   "choices": {
+    "en": [
+     "Ibrahim and Ismail",
+     "Nuh and his people",
+     "Dawud and Sulayman"
+    ],
+    "ar": [
+     "إبراهيم وإسماعيل",
+     "نوح وقومه",
+     "داود وسليمان"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Ibrahim and Ismail raised the foundations of the House.",
+    "ar": "رفع إبراهيم وإسماعيل القواعد من البيت."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.firstWord",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 96,
+     "ayah": 1
+    }
+   ],
+   "q": {
+    "en": "What was the first word revealed of the Quran?",
+    "ar": "ما أول كلمة نزلت من القرآن؟"
+   },
+   "choices": {
+    "en": [
+     "Iqra' (Read)",
+     "Qul (Say)",
+     "Alhamdu"
+    ],
+    "ar": [
+     "اقرأ",
+     "قل",
+     "الحمد"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The first revelation began with Iqra'.",
+    "ar": "أول ما نزل: اقرأ."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.lastProphet",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 33,
+     "ayah": 40
+    }
+   ],
+   "q": {
+    "en": "Who is the last of the prophets?",
+    "ar": "من خاتم النبيين؟"
+   },
+   "choices": {
+    "en": [
+     "Muhammad ﷺ",
+     "Isa",
+     "Musa"
+    ],
+    "ar": [
+     "محمد ﷺ",
+     "عيسى",
+     "موسى"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Muhammad ﷺ is the seal of the prophets.",
+    "ar": "محمد ﷺ خاتم النبيين."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.zaburDawud",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 4,
+     "ayah": 163
+    }
+   ],
+   "q": {
+    "en": "The Zabur was given to...",
+    "ar": "أُنزل الزبور على..."
+   },
+   "choices": {
+    "en": [
+     "Dawud",
+     "Isa",
+     "Ibrahim"
+    ],
+    "ar": [
+     "داود",
+     "عيسى",
+     "إبراهيم"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Allah gave Dawud the Zabur.",
+    "ar": "آتى الله داود الزبور."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.parentsDua",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 17,
+     "ayah": 24
+    }
+   ],
+   "q": {
+    "en": "'My Lord, have mercy on them as they raised me when I was small' is a dua for...",
+    "ar": "دعاء «رب ارحمهما كما ربياني صغيرًا» هو دعاء لـ..."
+   },
+   "choices": {
+    "en": [
+     "Our parents",
+     "Our friends",
+     "Our teachers"
+    ],
+    "ar": [
+     "الوالدين",
+     "الأصدقاء",
+     "المعلمين"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "It is the Quranic dua for parents.",
+    "ar": "هو دعاء قرآني للوالدين."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q.knowledgeDua",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 20,
+     "ayah": 114
+    }
+   ],
+   "q": {
+    "en": "Which dua asks Allah for more knowledge?",
+    "ar": "أي دعاء نطلب به زيادة العلم؟"
+   },
+   "choices": {
+    "en": [
+     "Rabbi zidni 'ilma",
+     "Bismillah",
+     "Ghufranak"
+    ],
+    "ar": [
+     "رب زدني علمًا",
+     "بسم الله",
+     "غفرانك"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Rabbi zidni 'ilma: My Lord, increase me in knowledge.",
+    "ar": "رب زدني علمًا."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.fivePillars",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 2,
+     "index": 1,
+     "match": "بني الإسلام على خمس"
+    }
+   ],
+   "q": {
+    "en": "Islam has five pillars.",
+    "ar": "للإسلام خمسة أركان."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes, Islam is built on five.",
+    "ar": "نعم، بُني الإسلام على خمس."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.qiblaSun",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 144
+    }
+   ],
+   "q": {
+    "en": "We face the sun when we pray.",
+    "ar": "نتجه إلى الشمس في الصلاة."
+   },
+   "answer": 1,
+   "explain": {
+    "en": "No, we face the Kaaba.",
+    "ar": "لا، نتجه إلى الكعبة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.fatihaFirst",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "mushafData",
+     "fact": "firstSurah"
+    }
+   ],
+   "q": {
+    "en": "Al-Fatiha is the first surah of the Quran.",
+    "ar": "الفاتحة أول سورة في المصحف."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes.",
+    "ar": "نعم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.headWipe",
+   "kind": "tf",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 5,
+     "ayah": 6
+    }
+   ],
+   "q": {
+    "en": "In wudu we wash the head three times.",
+    "ar": "في الوضوء نغسل الرأس ثلاث مرات."
+   },
+   "answer": 1,
+   "explain": {
+    "en": "No, we wipe over the head.",
+    "ar": "لا، نمسح الرأس."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.yunusFish",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 37,
+     "ayah": 142
+    }
+   ],
+   "q": {
+    "en": "Prophet Yunus was swallowed by a big fish.",
+    "ar": "التقم الحوت النبي يونس."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes.",
+    "ar": "نعم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.goodWord",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 56,
+     "index": 198,
+     "match": "الكلمة الطيبة صدقة"
+    }
+   ],
+   "q": {
+    "en": "A kind word is a good deed.",
+    "ar": "الكلمة الطيبة صدقة."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes, a good word is sadaqah.",
+    "ar": "نعم، الكلمة الطيبة صدقة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.ramadanQuran",
+   "kind": "tf",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 185
+    }
+   ],
+   "q": {
+    "en": "The Quran was sent down in Ramadan.",
+    "ar": "أُنزل القرآن في رمضان."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes.",
+    "ar": "نعم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.salahEndTakbir",
+   "kind": "tf",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 1,
+     "index": 3,
+     "match": "وتحليلها التسليم"
+    }
+   ],
+   "q": {
+    "en": "We finish the prayer by saying Allahu Akbar.",
+    "ar": "نختم الصلاة بقول الله أكبر."
+   },
+   "answer": 1,
+   "explain": {
+    "en": "No, we finish with the salam.",
+    "ar": "لا، نختم بالتسليم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.kaabaMadinah",
+   "kind": "tf",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 3,
+     "ayah": 96
+    }
+   ],
+   "q": {
+    "en": "The Kaaba is in Madinah.",
+    "ar": "الكعبة في المدينة."
+   },
+   "answer": 1,
+   "explain": {
+    "en": "No, the Kaaba is in Makkah.",
+    "ar": "لا، الكعبة في مكة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tf.nuhShip",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 11,
+     "ayah": 37
+    }
+   ],
+   "q": {
+    "en": "Prophet Nuh built a ship.",
+    "ar": "صنع النبي نوح سفينة."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes.",
+    "ar": "نعم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  }
+ ]
+}

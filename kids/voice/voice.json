@@ -1,0 +1,2770 @@
+{
+ "am": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ar": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3",
+   "girl": "breakTime_girl.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3",
+   "girl": "whoLearnsSub_girl.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3",
+   "girl": "waitingReviewChild_girl.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3",
+   "girl": "areaHint_knowledge_girl.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3",
+   "girl": "areaHint_games_girl.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3",
+   "girl": "areaHint_achievements_girl.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3",
+   "girl": "quiz_notQuite_girl.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3",
+   "girl": "order_ayahsHint_girl.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3",
+   "girl": "order_stepsHint_girl.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3",
+   "girl": "memory_hint_girl.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3",
+   "girl": "surah_hideHint_girl.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3",
+   "girl": "trace_hintSay_girl.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3",
+   "girl": "garden_empty_girl.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3",
+   "girl": "garden_complete_girl.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3",
+   "girl": "spell_hint_girl.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3",
+   "girl": "order_sentenceHint_girl.mp3"
+  }
+ },
+ "az-Latn": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "bn": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "de": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "en": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "es": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "fa": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "fr": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "gu": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ha": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "hi": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "id": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "kk-Cyrl": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ku-Arab": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ku-Latn": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ml": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ms": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "my": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "om": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "pa": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "pnb": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ps": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ru": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "so": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "sw": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ta": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "tr": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "ur": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "uz-Cyrl": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "uz": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ },
+ "zh": {
+  "kids.greet": {
+   "boy": "greet_boy.mp3"
+  },
+  "kids.greetSub": {
+   "boy": "greetSub_boy.mp3"
+  },
+  "kids.breakTime": {
+   "boy": "breakTime_boy.mp3"
+  },
+  "kids.whoLearnsSub": {
+   "boy": "whoLearnsSub_boy.mp3"
+  },
+  "kids.waitingReviewChild": {
+   "boy": "waitingReviewChild_boy.mp3"
+  },
+  "kids.cheer.excellent": {
+   "boy": "cheer_excellent_boy.mp3"
+  },
+  "kids.areaHint.quran": {
+   "boy": "areaHint_quran_boy.mp3"
+  },
+  "kids.areaHint.prayer": {
+   "boy": "areaHint_prayer_boy.mp3"
+  },
+  "kids.areaHint.duas": {
+   "boy": "areaHint_duas_boy.mp3"
+  },
+  "kids.areaHint.stories": {
+   "boy": "areaHint_stories_boy.mp3"
+  },
+  "kids.areaHint.knowledge": {
+   "boy": "areaHint_knowledge_boy.mp3"
+  },
+  "kids.areaHint.games": {
+   "boy": "areaHint_games_boy.mp3"
+  },
+  "kids.areaHint.achievements": {
+   "boy": "areaHint_achievements_boy.mp3"
+  },
+  "kids.areaHint.words": {
+   "boy": "areaHint_words_boy.mp3"
+  },
+  "kids.quiz.right": {
+   "boy": "quiz_right_boy.mp3"
+  },
+  "kids.quiz.notQuite": {
+   "boy": "quiz_notQuite_boy.mp3"
+  },
+  "kids.quiz.empty": {
+   "boy": "quiz_empty_boy.mp3"
+  },
+  "kids.order.ayahsHint": {
+   "boy": "order_ayahsHint_boy.mp3"
+  },
+  "kids.order.stepsHint": {
+   "boy": "order_stepsHint_boy.mp3"
+  },
+  "kids.memory.hint": {
+   "boy": "memory_hint_boy.mp3"
+  },
+  "kids.surah.hideHint": {
+   "boy": "surah_hideHint_boy.mp3"
+  },
+  "kids.story.intro": {
+   "boy": "story_intro_boy.mp3"
+  },
+  "kids.trace.hintSay": {
+   "boy": "trace_hintSay_boy.mp3"
+  },
+  "kids.words.findPicture": {
+   "boy": "words_findPicture_boy.mp3"
+  },
+  "kids.garden.empty": {
+   "boy": "garden_empty_boy.mp3"
+  },
+  "kids.garden.complete": {
+   "boy": "garden_complete_boy.mp3"
+  },
+  "kids.spell.hint": {
+   "boy": "spell_hint_boy.mp3"
+  },
+  "kids.order.sentenceHint": {
+   "boy": "order_sentenceHint_boy.mp3"
+  }
+ }
+}
