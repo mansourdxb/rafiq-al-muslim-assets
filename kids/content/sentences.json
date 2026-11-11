@@ -1,0 +1,267 @@
+{
+ "_note": "Rafiq Kids Arabic Sentences (2026-11-10): very short sentences for ages 7-12 (age groups 2 and 3), built mostly from the Arabic Words vocabulary. Language learning only (not religious content). Full harakat with i'rab written by the developer; NOT read aloud by the device voice.",
+ "review": {
+  "status": "draft",
+  "note": "needs a native Arabic teacher"
+ },
+ "sentences": [
+  {
+   "id": "this-pen",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "هٰذَا",
+    "قَلَمٌ",
+    "جَمِيلٌ"
+   ],
+   "en": "This is a beautiful pen.",
+   "pic": "✏️"
+  },
+  {
+   "id": "this-door",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "هٰذَا",
+    "بَابٌ",
+    "كَبِيرٌ"
+   ],
+   "en": "This is a big door.",
+   "pic": "🚪"
+  },
+  {
+   "id": "cat-small",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "الْقِطَّةُ",
+    "صَغِيرَةٌ",
+    "جِدًّا"
+   ],
+   "en": "The cat is very small.",
+   "pic": "🐱"
+  },
+  {
+   "id": "love-mother",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "أُحِبُّ",
+    "أُمِّي",
+    "كَثِيرًا"
+   ],
+   "en": "I love my mother very much.",
+   "pic": "👩"
+  },
+  {
+   "id": "boy-school",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "ذَهَبَ",
+    "الْوَلَدُ",
+    "إِلَى",
+    "الْمَدْرَسَةِ"
+   ],
+   "en": "The boy went to school.",
+   "pic": "🏫"
+  },
+  {
+   "id": "red-apple",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "أَكَلْتُ",
+    "تُفَّاحَةً",
+    "حَمْرَاءَ"
+   ],
+   "en": "I ate a red apple.",
+   "pic": "🍎"
+  },
+  {
+   "id": "sky-blue",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "لَوْنُ",
+    "السَّمَاءِ",
+    "أَزْرَقُ"
+   ],
+   "en": "The colour of the sky is blue.",
+   "pic": "🌤️"
+  },
+  {
+   "id": "drink-milk",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "أَشْرَبُ",
+    "الْحَلِيبَ",
+    "كُلَّ",
+    "صَبَاحٍ"
+   ],
+   "en": "I drink milk every morning.",
+   "pic": "🥛"
+  },
+  {
+   "id": "girl-reads",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "الْبِنْتُ",
+    "تَقْرَأُ",
+    "كِتَابًا"
+   ],
+   "en": "The girl reads a book.",
+   "pic": "📖"
+  },
+  {
+   "id": "rain-cloud",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "نَزَلَ",
+    "الْمَطَرُ",
+    "مِنَ",
+    "السَّحَابَةِ"
+   ],
+   "en": "The rain fell from the cloud.",
+   "pic": "🌧️"
+  },
+  {
+   "id": "sun-hot",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "الشَّمْسُ",
+    "حَارَّةٌ",
+    "الْيَوْمَ"
+   ],
+   "en": "The sun is hot today.",
+   "pic": "☀️"
+  },
+  {
+   "id": "father-car",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "يَقُودُ",
+    "أَبِي",
+    "السَّيَّارَةَ"
+   ],
+   "en": "My father drives the car.",
+   "pic": "🚗"
+  },
+  {
+   "id": "plane-sky",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "الطَّائِرَةُ",
+    "تَطِيرُ",
+    "فِي",
+    "السَّمَاءِ"
+   ],
+   "en": "The plane flies in the sky.",
+   "pic": "✈️"
+  },
+  {
+   "id": "bag-blue",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "حَقِيبَتِي",
+    "الْجَدِيدَةُ",
+    "زَرْقَاءُ"
+   ],
+   "en": "My new bag is blue.",
+   "pic": "🎒"
+  },
+  {
+   "id": "rabbit-carrot",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "يَأْكُلُ",
+    "الْأَرْنَبُ",
+    "جَزَرَةً"
+   ],
+   "en": "The rabbit eats a carrot.",
+   "pic": "🐰"
+  },
+  {
+   "id": "fish-sea",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "السَّمَكَةُ",
+    "تَسْبَحُ",
+    "فِي",
+    "الْبَحْرِ"
+   ],
+   "en": "The fish swims in the sea.",
+   "pic": "🐟"
+  },
+  {
+   "id": "open-window",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "فَتَحَ",
+    "أَخِي",
+    "النَّافِذَةَ"
+   ],
+   "en": "My brother opened the window.",
+   "pic": "🪟"
+  },
+  {
+   "id": "wear-coat",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    "أَلْبَسُ",
+    "مِعْطَفِي",
+    "فِي",
+    "الشِّتَاءِ"
+   ],
+   "en": "I wear my coat in winter.",
+   "pic": "🧥"
+  }
+ ]
+}

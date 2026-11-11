@@ -1,0 +1,629 @@
+{
+ "_note": "Wudu and salah steps for children, each with sources; DRAFT pending qualified review. Steps describe what all schools share; where schools differ (variantNote) the app says so and points to the parent/teacher instead of choosing.",
+ "wudu": [
+  {
+   "id": "intention",
+   "art": "heart",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 1,
+     "index": 1,
+     "match": "إنما الأعمال بالنيات"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Intention",
+     "body": "In your heart, intend to make wudu for Allah."
+    },
+    "ar": {
+     "title": "النية",
+     "body": "انوِ في قلبك الوضوء لله."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "hands",
+   "art": "hands",
+   "times": 3,
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "فأفرغ على كفيه ثلاث مرار فغسلهما"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Wash your hands",
+     "body": "Wash both hands three times."
+    },
+    "ar": {
+     "title": "غسل الكفين",
+     "body": "اغسل كفيك ثلاث مرات."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "mouth",
+   "art": "mouth",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "ثم أدخل يمينه في الإناء فمضمض"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Rinse your mouth",
+     "body": "Take water in your mouth, move it around, then spit it out."
+    },
+    "ar": {
+     "title": "المضمضة",
+     "body": "ضع الماء في فمك وحرّكه ثم أخرجه."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "nose",
+   "art": "nose",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "فمضمض واستنشق"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Clean your nose",
+     "body": "Breathe a little water into your nose, then blow it out."
+    },
+    "ar": {
+     "title": "الاستنشاق",
+     "body": "أدخل قليلًا من الماء في أنفك ثم أخرجه."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "face",
+   "art": "face",
+   "times": 3,
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 5,
+     "ayah": 6
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "ثم غسل وجهه ثلاثا"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Wash your face",
+     "body": "Wash your whole face three times."
+    },
+    "ar": {
+     "title": "غسل الوجه",
+     "body": "اغسل وجهك كله ثلاث مرات."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "arms",
+   "art": "arms",
+   "times": 3,
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 5,
+     "ayah": 6
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "ويديه إلى المرفقين ثلاث مرار"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Wash your arms",
+     "body": "Wash each arm up to and including the elbow, three times, starting with the right."
+    },
+    "ar": {
+     "title": "غسل اليدين",
+     "body": "اغسل كل يد إلى المرفق ثلاث مرات، وابدأ باليمنى."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "head",
+   "art": "head",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 5,
+     "ayah": 6
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "ثم مسح برأسه"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Wipe your head",
+     "body": "Wipe over your head with wet hands."
+    },
+    "ar": {
+     "title": "مسح الرأس",
+     "body": "امسح رأسك بيديك المبلولتين."
+    }
+   },
+   "variantNote": true,
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "feet",
+   "art": "feet",
+   "times": 3,
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 5,
+     "ayah": 6
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 4,
+     "index": 25,
+     "match": "ثم غسل رجليه ثلاث مرار إلى الكعبين"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Wash your feet",
+     "body": "Wash each foot up to and including the ankle, three times."
+    },
+    "ar": {
+     "title": "غسل الرجلين",
+     "body": "اغسل كل رجل إلى الكعبين ثلاث مرات."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "dua",
+   "art": "dua",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 2,
+     "index": 21,
+     "match": "أشهد أن لا إله إلا الله وحده لا شريك له وأشهد أن محمدا عبده ورسوله"
+    }
+   ],
+   "recite": "أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+   "text": {
+    "en": {
+     "title": "Say the shahadah",
+     "body": "After wudu, say the testimony of faith."
+    },
+    "ar": {
+     "title": "الذكر بعد الوضوء",
+     "body": "بعد الوضوء قل الشهادتين."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  }
+ ],
+ "salah": [
+  {
+   "id": "qibla",
+   "pose": "stand",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 144
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Face the Qibla",
+     "body": "Stand facing the Kaaba in Makkah."
+    },
+    "ar": {
+     "title": "استقبال القبلة",
+     "body": "قف متجهًا إلى الكعبة في مكة."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "takbir",
+   "pose": "takbir",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "إذا قمت إلى الصلاة فكبر"
+    },
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 1,
+     "index": 3,
+     "match": "وتحريمها التكبير"
+    }
+   ],
+   "recite": "اللَّهُ أَكْبَرُ",
+   "reciteSource": {
+    "type": "fixedPhrase",
+    "note": "the takbir; the bundled hadith says only 'kabbir' (say Allahu Akbar)"
+   },
+   "text": {
+    "en": {
+     "title": "Say Allahu Akbar",
+     "body": "Begin the prayer by saying Allahu Akbar."
+    },
+    "ar": {
+     "title": "تكبيرة الإحرام",
+     "body": "ابدأ الصلاة بقول: الله أكبر."
+    }
+   },
+   "variantNote": true,
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "fatiha",
+   "pose": "stand",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 150,
+     "match": "لا صلاة لمن لم يقرأ بفاتحة الكتاب"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "ثم اقرأ ما تيسر معك من القرآن"
+    }
+   ],
+   "reciteQuran": {
+    "surah": 1
+   },
+   "text": {
+    "en": {
+     "title": "Recite Al-Fatiha",
+     "body": "Recite Surat Al-Fatiha, then some more of the Quran that you know."
+    },
+    "ar": {
+     "title": "قراءة الفاتحة",
+     "body": "اقرأ سورة الفاتحة، ثم ما تيسر من القرآن."
+    }
+   },
+   "variantNote": true,
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "ruku",
+   "pose": "ruku",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "ثم اركع حتى تطمئن راكعا"
+    },
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 6,
+     "index": 242,
+     "match": "سبحان ربي العظيم"
+    }
+   ],
+   "recite": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+   "text": {
+    "en": {
+     "title": "Bow (ruku')",
+     "body": "Bow down with your back straight and stay calm for a moment."
+    },
+    "ar": {
+     "title": "الركوع",
+     "body": "اركع واجعل ظهرك مستويًا واطمئن."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "rise",
+   "pose": "stand",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "ثم ارفع حتى تعتدل قائما"
+    },
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 83,
+     "match": "سمع الله لمن حمده"
+    }
+   ],
+   "recite": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
+   "text": {
+    "en": {
+     "title": "Stand up straight",
+     "body": "Rise from bowing until you stand straight."
+    },
+    "ar": {
+     "title": "الرفع من الركوع",
+     "body": "ارفع من الركوع حتى تعتدل قائمًا."
+    }
+   },
+   "variantNote": true,
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "sujud",
+   "pose": "sujud",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "ثم اسجد حتى تطمئن ساجدا"
+    },
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 6,
+     "index": 242,
+     "match": "سبحان ربي الأعلى"
+    }
+   ],
+   "recite": "سُبْحَانَ رَبِّيَ الأَعْلَى",
+   "text": {
+    "en": {
+     "title": "Prostrate (sujud)",
+     "body": "Put your forehead and nose, hands, knees and toes on the ground, and stay calm."
+    },
+    "ar": {
+     "title": "السجود",
+     "body": "ضع جبهتك وأنفك ويديك وركبتيك وأطراف قدميك على الأرض واطمئن."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "sit",
+   "pose": "sit",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "ثم ارفع حتى تطمئن جالسا"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Sit",
+     "body": "Rise from sujud and sit calmly."
+    },
+    "ar": {
+     "title": "الجلوس",
+     "body": "ارفع من السجود واجلس مطمئنًا."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "sujud2",
+   "pose": "sujud",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 10,
+     "index": 151,
+     "match": "ثم اسجد حتى تطمئن ساجدا"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Second sujud",
+     "body": "Prostrate a second time, just like the first."
+    },
+    "ar": {
+     "title": "السجدة الثانية",
+     "body": "اسجد مرة ثانية مثل الأولى."
+    }
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "tashahhud",
+   "pose": "sit",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 21,
+     "index": 6,
+     "match": "التحيات لله والصلوات والطيبات"
+    }
+   ],
+   "recite": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ",
+   "text": {
+    "en": {
+     "title": "Tashahhud",
+     "body": "At the end of the prayer, sit and recite the tashahhud. A parent or teacher will help you learn all of it."
+    },
+    "ar": {
+     "title": "التشهد",
+     "body": "في آخر الصلاة اجلس واقرأ التشهد، ويساعدك أحد والديك أو معلمك على حفظه كاملًا."
+    }
+   },
+   "variantNote": true,
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "taslim",
+   "pose": "taslim",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 1,
+     "index": 3,
+     "match": "وتحليلها التسليم"
+    }
+   ],
+   "text": {
+    "en": {
+     "title": "Finish with salam",
+     "body": "End the prayer by saying the salam."
+    },
+    "ar": {
+     "title": "التسليم",
+     "body": "اختم الصلاة بالتسليم."
+    }
+   },
+   "variantNote": true,
+   "review": {
+    "status": "draft"
+   }
+  }
+ ],
+ "fivePrayers": {
+  "items": [
+   {
+    "id": "fajr",
+    "rakat": 2,
+    "art": "dawn"
+   },
+   {
+    "id": "dhuhr",
+    "rakat": 4,
+    "art": "noon"
+   },
+   {
+    "id": "asr",
+    "rakat": 4,
+    "art": "afternoon"
+   },
+   {
+    "id": "maghrib",
+    "rakat": 3,
+    "art": "sunset"
+   },
+   {
+    "id": "isha",
+    "rakat": 4,
+    "art": "night"
+   }
+  ],
+  "sources": [
+   {
+    "type": "hadith",
+    "book": "bukhari",
+    "chapter": 8,
+    "index": 1,
+    "match": "فرض الله على أمتي خمسين صلاة"
+   },
+   {
+    "type": "quran",
+    "surah": 17,
+    "ayah": 78
+   },
+   {
+    "type": "quran",
+    "surah": 2,
+    "ayah": 238
+   }
+  ],
+  "rakatNote": "rak'ah counts as commonly taught for the obligatory prayers; to be confirmed by the reviewer",
+  "review": {
+   "status": "draft"
+  }
+ }
+}

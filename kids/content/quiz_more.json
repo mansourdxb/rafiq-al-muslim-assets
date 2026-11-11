@@ -1,0 +1,1557 @@
+{
+ "_note": "More Rafiq Kids quiz questions (ages 7-12) over knowledge_more.json: every question has a source; DRAFT pending qualified review.",
+ "questions": [
+  {
+   "id": "q2.rightHand",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 70,
+     "index": 4,
+     "match": "يا غلام سم الله وكل بيمينك وكل مما يليك"
+    }
+   ],
+   "q": {
+    "en": "Which hand do we eat with?",
+    "ar": "بأي يد نأكل؟"
+   },
+   "choices": {
+    "en": [
+     "The right hand",
+     "The left hand",
+     "Any hand"
+    ],
+    "ar": [
+     "اليد اليمنى",
+     "اليد اليسرى",
+     "أي يد"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The Prophet ﷺ said: eat with your right hand.",
+    "ar": "قال النبي ﷺ: كُل بيمينك."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.bismillahEat",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 70,
+     "index": 4,
+     "match": "يا غلام سم الله وكل بيمينك وكل مما يليك"
+    }
+   ],
+   "q": {
+    "en": "The Prophet ﷺ taught a boy to say Bismillah before eating.",
+    "ar": "علّم النبي ﷺ غلامًا أن يسمي الله قبل الأكل."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes: Say Bismillah and eat with your right hand.",
+    "ar": "نعم: سمِّ الله وكُل بيمينك."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.sneezeReply",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 248,
+     "match": "إذا عطس أحدكم فليقل الحمد لله وليقل له أخوه أو صاحبه يرحمك الله"
+    }
+   ],
+   "q": {
+    "en": "Your friend sneezes and says Alhamdulillah. What do you say?",
+    "ar": "عطس صديقك وقال: الحمد لله. ماذا تقول له؟"
+   },
+   "choices": {
+    "en": [
+     "Yarhamukallah",
+     "Goodbye",
+     "Ameen"
+    ],
+    "ar": [
+     "يرحمك الله",
+     "مع السلامة",
+     "آمين"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "We say Yarhamukallah: may Allah have mercy on you.",
+    "ar": "نقول له: يرحمك الله."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.salamWho",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 2,
+     "index": 5,
+     "match": "تطعم الطعام وتقرأ السلام على من عرفت ومن لم تعرف"
+    }
+   ],
+   "q": {
+    "en": "Whom do we greet with salam?",
+    "ar": "على من نُلقي السلام؟"
+   },
+   "choices": {
+    "en": [
+     "People we know and people we don't know",
+     "Only our friends",
+     "Nobody"
+    ],
+    "ar": [
+     "على من نعرف ومن لا نعرف",
+     "على أصدقائنا فقط",
+     "على لا أحد"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Say salam to those you know and those you do not know.",
+    "ar": "نقرأ السلام على من عرفنا ومن لم نعرف."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.thirstyDog",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 42,
+     "index": 11,
+     "match": "فسقى الكلب فشكر الله له فغفر له"
+    }
+   ],
+   "q": {
+    "en": "A man gave water to a thirsty dog, and Allah forgave him.",
+    "ar": "سقى رجل كلبًا عطشان فغفر الله له."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes. Being kind to animals brings reward.",
+    "ar": "نعم، وفي الرحمة بالحيوان أجر."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.honesty",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 121,
+     "match": "إن الصدق يهدي إلى البر وإن البر يهدي إلى الجنة"
+    }
+   ],
+   "q": {
+    "en": "Telling the truth leads to...",
+    "ar": "الصدق يهدي إلى..."
+   },
+   "choices": {
+    "en": [
+     "Goodness",
+     "Trouble",
+     "Nothing"
+    ],
+    "ar": [
+     "البر والخير",
+     "المشاكل",
+     "لا شيء"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Truth leads to goodness, and goodness leads to Paradise.",
+    "ar": "الصدق يهدي إلى البر، والبر يهدي إلى الجنة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.mother",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 45,
+     "index": 1,
+     "match": "من أحق الناس بحسن صحابتي"
+    }
+   ],
+   "q": {
+    "en": "Who most deserves our good company?",
+    "ar": "من أحق الناس بحسن صحبتنا؟"
+   },
+   "choices": {
+    "en": [
+     "Our mother",
+     "Our friend",
+     "Our neighbour"
+    ],
+    "ar": [
+     "الأم",
+     "الصديق",
+     "الجار"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The Prophet ﷺ said: your mother, then your mother, then your mother, then your father.",
+    "ar": "قال النبي ﷺ: أمك ثم أمك ثم أمك ثم أبوك."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.sharing",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 70,
+     "index": 20,
+     "match": "طعام الاثنين كافي الثلاثة وطعام الثلاثة كافي الأربعة"
+    }
+   ],
+   "q": {
+    "en": "Food for two is enough for three.",
+    "ar": "طعام الاثنين كافي الثلاثة."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes, so we share our food.",
+    "ar": "نعم، لذلك نشارك طعامنا."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.road",
+   "kind": "mcq",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "muslim",
+     "chapter": 1,
+     "index": 60,
+     "match": "وأدناها إماطة الأذى عن الطريق"
+    }
+   ],
+   "q": {
+    "en": "Moving something harmful out of the road is...",
+    "ar": "إزالة الأذى عن الطريق..."
+   },
+   "choices": {
+    "en": [
+     "Part of faith",
+     "A waste of time",
+     "Not allowed"
+    ],
+    "ar": [
+     "شعبة من الإيمان",
+     "مضيعة للوقت",
+     "غير مسموح"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Removing harm from the road is a part of faith.",
+    "ar": "إماطة الأذى عن الطريق من الإيمان."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.ahad",
+   "kind": "tf",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "difficulty": "easy",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 112,
+     "ayah": 1
+    }
+   ],
+   "q": {
+    "en": "Allah is One.",
+    "ar": "الله أحد."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes: Say, He is Allah, the One.",
+    "ar": "نعم: قل هو الله أحد."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.khaliq",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 24
+    }
+   ],
+   "q": {
+    "en": "Which name of Allah means the Creator?",
+    "ar": "أي اسم من أسماء الله معناه الذي خلق كل شيء؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Khaliq",
+     "Al-Malik",
+     "Al-Wadud"
+    ],
+    "ar": [
+     "الخالق",
+     "الملك",
+     "الودود"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Khaliq: He created everything.",
+    "ar": "الخالق: الذي خلق كل شيء."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.razzaq",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 51,
+     "ayah": 58
+    }
+   ],
+   "q": {
+    "en": "Which name of Allah means the Provider?",
+    "ar": "أي اسم من أسماء الله معناه الذي يرزق المخلوقات؟"
+   },
+   "choices": {
+    "en": [
+     "Ar-Razzaq",
+     "As-Sami'",
+     "Al-Awwal"
+    ],
+    "ar": [
+     "الرزاق",
+     "السميع",
+     "الأول"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Ar-Razzaq gives all creatures what they need.",
+    "ar": "الرزاق يرزق المخلوقات كلها."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.sami",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 42,
+     "ayah": 11
+    }
+   ],
+   "q": {
+    "en": "As-Sami' means...",
+    "ar": "معنى السميع..."
+   },
+   "choices": {
+    "en": [
+     "The All-Hearing",
+     "The All-Seeing",
+     "The King"
+    ],
+    "ar": [
+     "الذي يسمع كل شيء",
+     "الذي يرى كل شيء",
+     "الملك"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "As-Sami' hears everything.",
+    "ar": "السميع يسمع كل شيء."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.basir",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 42,
+     "ayah": 11
+    }
+   ],
+   "q": {
+    "en": "Al-Basir means...",
+    "ar": "معنى البصير..."
+   },
+   "choices": {
+    "en": [
+     "The All-Seeing",
+     "The All-Hearing",
+     "The Creator"
+    ],
+    "ar": [
+     "الذي يرى كل شيء",
+     "الذي يسمع كل شيء",
+     "الخالق"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Al-Basir sees everything.",
+    "ar": "البصير يرى كل شيء."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.ghafur",
+   "kind": "tf",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 85,
+     "ayah": 14
+    }
+   ],
+   "q": {
+    "en": "Al-Ghafur means the Most Forgiving.",
+    "ar": "الغفور معناه كثير المغفرة."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes. He forgives those who turn back to Him.",
+    "ar": "نعم، يغفر لمن تاب إليه."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.hira",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 1,
+     "index": 3,
+     "match": "حتى جاءه الحق وهو في غار حراء فجاءه الملك فقال اقرأ"
+    }
+   ],
+   "q": {
+    "en": "Where did the first revelation come to the Prophet ﷺ?",
+    "ar": "أين نزل الوحي أول مرة على النبي ﷺ؟"
+   },
+   "choices": {
+    "en": [
+     "The Cave of Hira",
+     "Inside the Kaaba",
+     "In Madinah"
+    ],
+    "ar": [
+     "غار حراء",
+     "داخل الكعبة",
+     "المدينة"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "It came to him in the Cave of Hira.",
+    "ar": "نزل عليه في غار حراء."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.khadijah",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 1,
+     "index": 3,
+     "match": "كلا والله ما يخزيك الله أبدا"
+    }
+   ],
+   "q": {
+    "en": "Who comforted the Prophet ﷺ after the first revelation?",
+    "ar": "من طمأن النبي ﷺ بعد أول الوحي؟"
+   },
+   "choices": {
+    "en": [
+     "His wife Khadijah",
+     "Abu Lahab",
+     "Abu Bakr"
+    ],
+    "ar": [
+     "زوجته خديجة",
+     "أبو لهب",
+     "أبو بكر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Khadijah said: Allah will never let you down.",
+    "ar": "قالت خديجة: والله لا يخزيك الله أبدًا."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.hijraCity",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 76,
+     "match": "فهاجر إلى المدينة فمكث بها عشر سنين"
+    }
+   ],
+   "q": {
+    "en": "To which city did the Prophet ﷺ make the Hijrah?",
+    "ar": "إلى أي مدينة هاجر النبي ﷺ؟"
+   },
+   "choices": {
+    "en": [
+     "Madinah",
+     "Makkah",
+     "Cairo"
+    ],
+    "ar": [
+     "المدينة",
+     "مكة",
+     "القاهرة"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He made the Hijrah to Madinah.",
+    "ar": "هاجر إلى المدينة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.mosqueBuilt",
+   "kind": "tf",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 8,
+     "index": 78,
+     "match": "وأنه أمر ببناء المسجد"
+    }
+   ],
+   "q": {
+    "en": "When the Prophet ﷺ came to Madinah, he ordered a mosque to be built.",
+    "ar": "لما قدم النبي ﷺ المدينة أمر ببناء المسجد."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes, he ordered the mosque to be built.",
+    "ar": "نعم، أمر ببناء المسجد."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.twelveMonths",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 9,
+     "ayah": 36
+    }
+   ],
+   "q": {
+    "en": "How many months are in the year, in Allah's Book?",
+    "ar": "كم عدد الشهور عند الله؟"
+   },
+   "choices": {
+    "en": [
+     "12",
+     "10",
+     "4"
+    ],
+    "ar": [
+     "١٢",
+     "١٠",
+     "٤"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "There are twelve months.",
+    "ar": "عدد الشهور اثنا عشر شهرًا."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.sacredCount",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 9,
+     "ayah": 36
+    }
+   ],
+   "q": {
+    "en": "How many of the months are sacred?",
+    "ar": "كم شهرًا من الشهور حُرُم؟"
+   },
+   "choices": {
+    "en": [
+     "4",
+     "12",
+     "2"
+    ],
+    "ar": [
+     "٤",
+     "١٢",
+     "٢"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Four of them are sacred.",
+    "ar": "منها أربعة حرم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.monthsMoon",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 189
+    }
+   ],
+   "q": {
+    "en": "Islamic months begin with the new...",
+    "ar": "يبدأ الشهر الهجري مع..."
+   },
+   "choices": {
+    "en": [
+     "Crescent moon",
+     "Sun",
+     "Stars"
+    ],
+    "ar": [
+     "الهلال",
+     "الشمس",
+     "النجوم"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The new moons mark times for people and for Hajj.",
+    "ar": "الأهلة مواقيت للناس والحج."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.whoFirst",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 79,
+     "index": 5,
+     "match": "يسلم الصغير على الكبير والمار على القاعد والقليل على الكثير"
+    }
+   ],
+   "q": {
+    "en": "Who should say salam first?",
+    "ar": "من يبدأ بالسلام؟"
+   },
+   "choices": {
+    "en": [
+     "The younger to the older",
+     "The older to the younger",
+     "Nobody"
+    ],
+    "ar": [
+     "الصغير على الكبير",
+     "الكبير على الصغير",
+     "لا أحد"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The younger greets the older.",
+    "ar": "يسلّم الصغير على الكبير."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.anger",
+   "kind": "mcq",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 141,
+     "match": "ليس الشديد بالصرعة إنما الشديد الذي يملك نفسه عند الغضب"
+    }
+   ],
+   "q": {
+    "en": "Who is truly strong?",
+    "ar": "من هو القوي حقًا؟"
+   },
+   "choices": {
+    "en": [
+     "The one who controls himself when angry",
+     "The one who wins fights",
+     "The loudest one"
+    ],
+    "ar": [
+     "الذي يملك نفسه عند الغضب",
+     "الذي يغلب في المصارعة",
+     "صاحب الصوت الأعلى"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The strong one controls himself when angry.",
+    "ar": "الشديد الذي يملك نفسه عند الغضب."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.mercy",
+   "kind": "tf",
+   "ages": [
+    2,
+    3
+   ],
+   "difficulty": "normal",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 78,
+     "index": 28,
+     "match": "من لا يرحم لا يرحم"
+    }
+   ],
+   "q": {
+    "en": "Whoever is not merciful will not be shown mercy.",
+    "ar": "من لا يَرحم لا يُرحم."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes, the Prophet ﷺ said this.",
+    "ar": "نعم، قال ذلك النبي ﷺ."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.notSacred",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 59,
+     "index": 8,
+     "match": "ذو القعدة وذو الحجة والمحرم ورجب"
+    }
+   ],
+   "q": {
+    "en": "Which of these is NOT one of the four sacred months?",
+    "ar": "أي هذه الشهور ليس من الأشهر الحرم؟"
+   },
+   "choices": {
+    "en": [
+     "Ramadan",
+     "Rajab",
+     "Muharram"
+    ],
+    "ar": [
+     "رمضان",
+     "رجب",
+     "المحرم"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The sacred months are Dhul-Qa'dah, Dhul-Hijjah, Muharram and Rajab.",
+    "ar": "الأشهر الحرم: ذو القعدة وذو الحجة والمحرم ورجب."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.rajab",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 59,
+     "index": 8,
+     "match": "ورجب مضر الذي بين جمادى وشعبان"
+    }
+   ],
+   "q": {
+    "en": "Rajab comes between which months?",
+    "ar": "يقع رجب بين أي شهرين؟"
+   },
+   "choices": {
+    "en": [
+     "Jumada and Sha'ban",
+     "Ramadan and Shawwal",
+     "Muharram and Safar"
+    ],
+    "ar": [
+     "جمادى وشعبان",
+     "رمضان وشوال",
+     "المحرم وصفر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Rajab is between Jumada and Sha'ban.",
+    "ar": "رجب بين جمادى وشعبان."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.kursiNames",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 255
+    }
+   ],
+   "q": {
+    "en": "Which two names come together at the start of Ayat al-Kursi?",
+    "ar": "أي اسمين يأتيان معًا في أول آية الكرسي؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Hayy, Al-Qayyum",
+     "Al-Ghafur, Al-Wadud",
+     "Al-Awwal, Al-Akhir"
+    ],
+    "ar": [
+     "الحي القيوم",
+     "الغفور الودود",
+     "الأول والآخر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Allah, there is no god but Him, the Ever-Living, the Sustainer.",
+    "ar": "الله لا إله إلا هو الحي القيوم."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.awwal",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 57,
+     "ayah": 3
+    }
+   ],
+   "q": {
+    "en": "Which names mean the First and the Last?",
+    "ar": "أي الاسمين معناهما: الذي ليس قبله شيء والذي ليس بعده شيء؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Awwal, Al-Akhir",
+     "Al-Ahad, As-Samad",
+     "As-Sami', Al-Basir"
+    ],
+    "ar": [
+     "الأول والآخر",
+     "الأحد والصمد",
+     "السميع والبصير"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He is the First and the Last.",
+    "ar": "هو الأول والآخر."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.samad",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 112,
+     "ayah": 2
+    }
+   ],
+   "q": {
+    "en": "As-Samad means...",
+    "ar": "معنى الصمد..."
+   },
+   "choices": {
+    "en": [
+     "The One everyone needs, who needs no one",
+     "The King",
+     "The Most Forgiving"
+    ],
+    "ar": [
+     "الذي يحتاج إليه الجميع ولا يحتاج إلى أحد",
+     "الملك",
+     "كثير المغفرة"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Everyone needs Allah, and He needs no one.",
+    "ar": "الكل يحتاج إلى الله، وهو لا يحتاج إلى أحد."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.wadudSurah",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 85,
+     "ayah": 14
+    }
+   ],
+   "q": {
+    "en": "\"And He is Al-Ghafur, Al-Wadud\" is in which surah?",
+    "ar": "في أي سورة: «وهو الغفور الودود»؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Buruj",
+     "Al-Fatiha",
+     "An-Nas"
+    ],
+    "ar": [
+     "البروج",
+     "الفاتحة",
+     "الناس"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "It is ayah 14 of Surah Al-Buruj.",
+    "ar": "هي الآية ١٤ من سورة البروج."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.hashrNames",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 23
+    },
+    {
+     "type": "quran",
+     "surah": 59,
+     "ayah": 24
+    }
+   ],
+   "q": {
+    "en": "Which surah ends with many names of Allah: Al-Malik, Al-Quddus, As-Salam...?",
+    "ar": "أي سورة تُختم بأسماء كثيرة لله: الملك القدوس السلام...؟"
+   },
+   "choices": {
+    "en": [
+     "Al-Hashr",
+     "Al-Kawthar",
+     "Al-'Asr"
+    ],
+    "ar": [
+     "الحشر",
+     "الكوثر",
+     "العصر"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "The last ayahs of Surah Al-Hashr.",
+    "ar": "في آخر سورة الحشر."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.tawwabAdam",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 2,
+     "ayah": 37
+    }
+   ],
+   "q": {
+    "en": "\"He is At-Tawwab, Ar-Rahim\" is said after Allah accepted the repentance of which prophet?",
+    "ar": "قال الله «إنه هو التواب الرحيم» بعد أن تاب على أي نبي؟"
+   },
+   "choices": {
+    "en": [
+     "Adam",
+     "Nuh",
+     "Musa"
+    ],
+    "ar": [
+     "آدم",
+     "نوح",
+     "موسى"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Adam received words from his Lord, and Allah accepted his repentance.",
+    "ar": "تلقى آدم من ربه كلمات فتاب عليه."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.age40",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 127,
+     "match": "بعث رسول الله صلى الله عليه وسلم لأربعين سنة"
+    }
+   ],
+   "q": {
+    "en": "How old was the Prophet ﷺ when the revelation began?",
+    "ar": "كم كان عمر النبي ﷺ حين بدأ الوحي؟"
+   },
+   "choices": {
+    "en": [
+     "40",
+     "25",
+     "63"
+    ],
+    "ar": [
+     "٤٠",
+     "٢٥",
+     "٦٣"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He was sent at forty.",
+    "ar": "بُعث لأربعين سنة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.makkahYears",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 127,
+     "match": "فمكث بمكة ثلاث عشرة سنة يوحى إليه ثم أمر بالهجرة"
+    }
+   ],
+   "q": {
+    "en": "How many years did he stay in Makkah receiving revelation?",
+    "ar": "كم سنة مكث في مكة يوحى إليه؟"
+   },
+   "choices": {
+    "en": [
+     "13",
+     "10",
+     "40"
+    ],
+    "ar": [
+     "١٣",
+     "١٠",
+     "٤٠"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He stayed thirteen years in Makkah.",
+    "ar": "مكث ثلاث عشرة سنة."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.madinahYears",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 63,
+     "index": 76,
+     "match": "فهاجر إلى المدينة فمكث بها عشر سنين"
+    }
+   ],
+   "q": {
+    "en": "How many years did he live in Madinah?",
+    "ar": "كم سنة عاش في المدينة؟"
+   },
+   "choices": {
+    "en": [
+     "10",
+     "13",
+     "3"
+    ],
+    "ar": [
+     "١٠",
+     "١٣",
+     "٣"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He lived ten years in Madinah.",
+    "ar": "مكث فيها عشر سنين."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.elephant",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "tirmidhi",
+     "chapter": 49,
+     "index": 15,
+     "match": "ولد رسول الله صلى الله عليه وسلم عام الفيل"
+    }
+   ],
+   "q": {
+    "en": "In which year was the Prophet ﷺ born?",
+    "ar": "في أي عام وُلد النبي ﷺ؟"
+   },
+   "choices": {
+    "en": [
+     "The Year of the Elephant",
+     "The year of the Hijrah",
+     "The year of the Conquest"
+    ],
+    "ar": [
+     "عام الفيل",
+     "عام الهجرة",
+     "عام الفتح"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He was born in the Year of the Elephant.",
+    "ar": "وُلد عام الفيل."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.caveWords",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "quran",
+     "surah": 9,
+     "ayah": 40
+    }
+   ],
+   "q": {
+    "en": "In the cave, what did the Prophet ﷺ tell his companion?",
+    "ar": "ماذا قال النبي ﷺ لصاحبه في الغار؟"
+   },
+   "choices": {
+    "en": [
+     "Do not be sad, Allah is with us",
+     "Let us run away",
+     "Let us go back"
+    ],
+    "ar": [
+     "لا تحزن إن الله معنا",
+     "لنهرب",
+     "لنرجع"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He said: Do not be sad, Allah is with us.",
+    "ar": "قال: لا تحزن إن الله معنا."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.safa",
+   "kind": "mcq",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 65,
+     "index": 292,
+     "match": "صعد النبي صلى الله عليه وسلم على الصفا"
+    }
+   ],
+   "q": {
+    "en": "Which hill did the Prophet ﷺ climb to call the people of Quraysh?",
+    "ar": "على أي جبل صعد النبي ﷺ ليدعو قريشًا؟"
+   },
+   "choices": {
+    "en": [
+     "As-Safa",
+     "Uhud",
+     "Arafah"
+    ],
+    "ar": [
+     "الصفا",
+     "أحد",
+     "عرفة"
+    ]
+   },
+   "answer": 0,
+   "explain": {
+    "en": "He climbed As-Safa.",
+    "ar": "صعد على الصفا."
+   },
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "q2.truthful",
+   "kind": "tf",
+   "ages": [
+    3
+   ],
+   "difficulty": "challenge",
+   "sources": [
+    {
+     "type": "hadith",
+     "book": "bukhari",
+     "chapter": 65,
+     "index": 292,
+     "match": "ما جربنا عليك إلا صدقا"
+    }
+   ],
+   "q": {
+    "en": "Quraysh told the Prophet ﷺ: we have only ever found you telling the truth.",
+    "ar": "قالت قريش للنبي ﷺ: ما جربنا عليك إلا صدقًا."
+   },
+   "answer": 0,
+   "explain": {
+    "en": "Yes, even his people knew he was truthful.",
+    "ar": "نعم، عرف قومه صدقه."
+   },
+   "review": {
+    "status": "draft"
+   }
+  }
+ ]
+}

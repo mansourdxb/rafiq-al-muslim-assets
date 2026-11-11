@@ -1,0 +1,4778 @@
+{
+ "schema": 1,
+ "updatedAt": "2026-11-11T01:37:48+00:00",
+ "files": {
+  "art/area.achievements.island.webp": {
+   "sha": "928bfeb069289726a7c19031e51b0e68294e1518",
+   "size": 126048
+  },
+  "art/area.achievements.scene.webp": {
+   "sha": "f25f135db38d29356da22b2c79d29679a9a369f8",
+   "size": 156672
+  },
+  "art/area.duas.island.webp": {
+   "sha": "cc36ba3f54c39e6f72293c7b67054267c5d1f9fa",
+   "size": 245118
+  },
+  "art/area.duas.scene.webp": {
+   "sha": "17f6f2374a361aac74bc99075d89799d6d301159",
+   "size": 234100
+  },
+  "art/area.games.island.webp": {
+   "sha": "85db642cf673e164e356ba3cf2494093732455a0",
+   "size": 111884
+  },
+  "art/area.games.scene.webp": {
+   "sha": "a30d81d29c709fae2ca8cb641862405aaae7e794",
+   "size": 166986
+  },
+  "art/area.garden.island.webp": {
+   "sha": "6c5d10e4bd8ce90a5ea8550ef99399f6dca26245",
+   "size": 139908
+  },
+  "art/area.garden.scene.webp": {
+   "sha": "f1ec7f49f2457ac9f63b9736ac39fb5f77bc862e",
+   "size": 183212
+  },
+  "art/area.knowledge.island.webp": {
+   "sha": "2dbff65b8dc3c6978d88359b8278688a1a9ccd3c",
+   "size": 155110
+  },
+  "art/area.knowledge.scene.webp": {
+   "sha": "83ec7e160809ffea2a06c938a1052bc8574e4333",
+   "size": 226386
+  },
+  "art/area.prayer.island.webp": {
+   "sha": "71e35e68a4724f749d651ae6fb2664fa36b868bf",
+   "size": 175914
+  },
+  "art/area.prayer.scene.webp": {
+   "sha": "eeb96d51f2c7b2b76642677f427fe52ec1e8b589",
+   "size": 185794
+  },
+  "art/area.quran.island.webp": {
+   "sha": "939742b0577b94ad10b882c5673e5d6955037c64",
+   "size": 206908
+  },
+  "art/area.quran.scene.webp": {
+   "sha": "4d3db17f73ea682f8121035e89d445b017231e28",
+   "size": 233096
+  },
+  "art/area.stories.island.webp": {
+   "sha": "a81908257a18b99289290af6ee3137378279085d",
+   "size": 129472
+  },
+  "art/area.stories.scene.webp": {
+   "sha": "0be20e26d68225cb0e36e83b93bd416078ac2f0e",
+   "size": 172524
+  },
+  "art/area.words.island.webp": {
+   "sha": "1e25ac27df61ed8e027aff821ad63823c355254b",
+   "size": 116086
+  },
+  "art/area.words.scene.webp": {
+   "sha": "25ea5e95a886464dff6f1116f98571bbf622ba18",
+   "size": 198696
+  },
+  "art/avatar.huda.deep.webp": {
+   "sha": "6acc1bda7d467eede086bb1ac07e1da51f7316a2",
+   "size": 107486
+  },
+  "art/avatar.huda.light.webp": {
+   "sha": "8309c5e645f958cfe9d0e7f1b348bd5d75dbc91a",
+   "size": 97654
+  },
+  "art/avatar.huda.medium.webp": {
+   "sha": "460651d11d904add0e9e7c8e3a87032171979a90",
+   "size": 88418
+  },
+  "art/avatar.zaid.deep.webp": {
+   "sha": "f3cce36ce91245f51f456fe07215def5dc35451b",
+   "size": 113870
+  },
+  "art/avatar.zaid.light.webp": {
+   "sha": "fb696b3b4b2c7df65b04a9e229aae70e8cf810b8",
+   "size": 116582
+  },
+  "art/avatar.zaid.medium.webp": {
+   "sha": "96177f41eeec40f232551fee19b7eb73bc7a7b98",
+   "size": 130274
+  },
+  "art/badge.arabicExplorer.webp": {
+   "sha": "da049995ff52b5658f17d64c5952ae51a37af3c2",
+   "size": 101220
+  },
+  "art/badge.duaGarden.webp": {
+   "sha": "d5ade996e48b6b0083d4010c80bf1751a5932264",
+   "size": 129568
+  },
+  "art/badge.duaLearner.webp": {
+   "sha": "068fbb799768fd32adbde6dab87c212f78c33c62",
+   "size": 119628
+  },
+  "art/badge.firstStep.webp": {
+   "sha": "80b864af9bc4136fe86d3c6a3c67cdcfcb5bbf44",
+   "size": 91786
+  },
+  "art/badge.firstSurah.webp": {
+   "sha": "b96d147adb578760703934aea5113ca062df1593",
+   "size": 99626
+  },
+  "art/badge.gamePlayer.webp": {
+   "sha": "5630ab562fd1c2a665f7778da0a743df1afc1c3a",
+   "size": 101838
+  },
+  "art/badge.knowledgeSeeker.webp": {
+   "sha": "faf98562e553675fa251ac50e39305cdfc4def7c",
+   "size": 91918
+  },
+  "art/badge.prayerBeginner.webp": {
+   "sha": "cbd5f9bde50a1375c5aeb50c5775b7bf637c1b9c",
+   "size": 108770
+  },
+  "art/badge.quizChampion.webp": {
+   "sha": "56ff8c6ec6a5f9d07b8ced42df13c2bf8f4825e1",
+   "size": 111420
+  },
+  "art/badge.starCollector.webp": {
+   "sha": "27b2ccbf8a6ebd0dd2d6da816374effc57bb3ecf",
+   "size": 111506
+  },
+  "art/badge.storyCollector.webp": {
+   "sha": "7aca79ae478521d313984d40c07e90f8139ce279",
+   "size": 103066
+  },
+  "art/badge.storyExplorer.webp": {
+   "sha": "aa7808baed4d2d207559765c465d30e53f17373e",
+   "size": 103200
+  },
+  "art/badge.surahFriend.webp": {
+   "sha": "bbce436f8901d06282df376375e369f338ae14c9",
+   "size": 105944
+  },
+  "art/badge.wuduReady.webp": {
+   "sha": "584177c785413f7cc448434d1c87e0ebaadc43af",
+   "size": 112688
+  },
+  "art/card.cleanliness.webp": {
+   "sha": "981dd1f001173955406d3149b2f3a3f977b85e88",
+   "size": 132662
+  },
+  "art/card.fivePrayers.webp": {
+   "sha": "3c8834a7b4866469d82295d793427fe3dc9e5ba1",
+   "size": 162550
+  },
+  "art/card.goodWord.webp": {
+   "sha": "4d4463dc6dc92869d99f86b2b21123fc70d9a853",
+   "size": 176024
+  },
+  "art/card.hajj.webp": {
+   "sha": "021d56ee5048d370c9796a571b26d5e276bba0f2",
+   "size": 115516
+  },
+  "art/card.k2.adab.anger.webp": {
+   "sha": "eee27dc8e767b0ea2574145b7f82000d0e7192c0",
+   "size": 162656
+  },
+  "art/card.k2.adab.food.webp": {
+   "sha": "ed7f4a00d4e4f6b746d938c9ddceebf21f0ecdd5",
+   "size": 196346
+  },
+  "art/card.k2.adab.goodWords.webp": {
+   "sha": "b2ce3a4d8b80ae11c203a1e4390d5d4ddbacccea",
+   "size": 161674
+  },
+  "art/card.k2.adab.helping.webp": {
+   "sha": "a52bdd4c740c1cdd759367951cfa85013e118a80",
+   "size": 193538
+  },
+  "art/card.k2.adab.honesty.webp": {
+   "sha": "240e1ef694891e9f21b7150528ca250501ececd8",
+   "size": 159874
+  },
+  "art/card.k2.adab.mercy.webp": {
+   "sha": "105f4f6b8e1cb8fb414524d8f5418be0beb22995",
+   "size": 163922
+  },
+  "art/card.k2.adab.mother.webp": {
+   "sha": "eb495868565aadc21809e7f39266045d88e95cd6",
+   "size": 201070
+  },
+  "art/card.k2.adab.noWaste.webp": {
+   "sha": "e9518093006a33e77e2608a20ca623af87078dd7",
+   "size": 144434
+  },
+  "art/card.k2.adab.rightHand.webp": {
+   "sha": "e3af05ce8275c7e2beffe54407d96ddd8a7c5c2a",
+   "size": 193960
+  },
+  "art/card.k2.adab.road.webp": {
+   "sha": "b9376a92d6ce1d9d75de1bc1827c1a3baba2f56c",
+   "size": 176718
+  },
+  "art/card.k2.adab.salamAll.webp": {
+   "sha": "76e875244a96ef7ffe3f53877aab17659deacff7",
+   "size": 166548
+  },
+  "art/card.k2.adab.sharing.webp": {
+   "sha": "822f8d38ee24fe0fa1ad30e5be7ce96336b042c9",
+   "size": 198176
+  },
+  "art/card.k2.adab.sneeze.webp": {
+   "sha": "0dc4859813cfa7f6cf34155990a7b4df265337bd",
+   "size": 195910
+  },
+  "art/card.k2.adab.thirstyDog.webp": {
+   "sha": "05a004ffec7063d00f8ee4de1e31ab46e423f152",
+   "size": 192240
+  },
+  "art/card.k2.adab.whoFirst.webp": {
+   "sha": "a45f53e7d4af3f55324f53ea432ad15d8dd2bdeb",
+   "size": 194800
+  },
+  "art/card.k2.months.moon.webp": {
+   "sha": "9f5f0b7a07a3678701447230514ee88af80a9b3c",
+   "size": 176392
+  },
+  "art/card.k2.months.names.webp": {
+   "sha": "329d46b7c42404d823bb1737085b056a660266cc",
+   "size": 330354
+  },
+  "art/card.k2.months.rajab.webp": {
+   "sha": "c3d3c73cd29b0c8e9b41e579eb7cd93139bd4576",
+   "size": 208122
+  },
+  "art/card.k2.months.sacred.webp": {
+   "sha": "dbd9feb6c3f5eab6184214027509c632f0715144",
+   "size": 240608
+  },
+  "art/card.k2.months.twelve.webp": {
+   "sha": "424b667b61041f369d5fe3948b71b80eb1b7613f",
+   "size": 229802
+  },
+  "art/card.k2.seerah.age63.webp": {
+   "sha": "c3690d2010325c88ee739ea67c889d3244241e5e",
+   "size": 267028
+  },
+  "art/card.k2.seerah.cave.webp": {
+   "sha": "2c86c8378bbe30298d6833370ae6a5e1eac14c1b",
+   "size": 246142
+  },
+  "art/card.k2.seerah.elephant.webp": {
+   "sha": "8c487cabfa19e0bf5ac78cc4a0ce48b70b0cdcdc",
+   "size": 251150
+  },
+  "art/card.k2.seerah.fath.webp": {
+   "sha": "da0625c95ab847617614c6cc8671b8b906199856",
+   "size": 182718
+  },
+  "art/card.k2.seerah.hira.webp": {
+   "sha": "e6af83fa9d6dc9574d57bcedd43a4ffb85c95353",
+   "size": 302050
+  },
+  "art/card.k2.seerah.khadijah.webp": {
+   "sha": "f49dfffc08067dd2c534f29cea74e1425c71cb6f",
+   "size": 262990
+  },
+  "art/card.k2.seerah.madinah10.webp": {
+   "sha": "6f79545798f4ba6996f368c3c09a43554ae71859",
+   "size": 303162
+  },
+  "art/card.k2.seerah.makkah13.webp": {
+   "sha": "babb4a7382d0a99f33540d1f60155600a2082b38",
+   "size": 247734
+  },
+  "art/card.k2.seerah.mercy.webp": {
+   "sha": "3fdf0a14751176a99880730d554cbb02fcfa8a12",
+   "size": 290032
+  },
+  "art/card.k2.seerah.mosque.webp": {
+   "sha": "3df505f04b359cd915c275e6cd623454b94db842",
+   "size": 289784
+  },
+  "art/card.k2.seerah.orphan.webp": {
+   "sha": "64cf32a4218741db09c858070ce62b8ebc1443bd",
+   "size": 270934
+  },
+  "art/card.k2.seerah.safa.webp": {
+   "sha": "81c18229cca3d755227ef9975e669c6ca167b48f",
+   "size": 241574
+  },
+  "art/card.k2.seerah.truthful.webp": {
+   "sha": "886642fbabe882524ebecc8584f2d41d59b4f197",
+   "size": 221872
+  },
+  "art/card.kaaba.webp": {
+   "sha": "83a8e9c04d426b9fa9b962d390420a92e91cf0a3",
+   "size": 150026
+  },
+  "art/card.longestShortest.webp": {
+   "sha": "9e2cf946476243ec7b2846240f99f4c25884a9e2",
+   "size": 171852
+  },
+  "art/card.mosque.calm.webp": {
+   "sha": "6ac7c92ef213a37e593847d67537a84131b59c12",
+   "size": 182698
+  },
+  "art/card.mosque.dua.webp": {
+   "sha": "29a614d014b9d2892301c2c27f8d7da81f65ea2c",
+   "size": 226362
+  },
+  "art/card.mosque.greeting.webp": {
+   "sha": "f60cdc94528640e6e371a643e41ddcea9342ee04",
+   "size": 297566
+  },
+  "art/card.parentsKindness.webp": {
+   "sha": "15a21972e3c60c8e9297e8050e826baa961041f4",
+   "size": 137204
+  },
+  "art/card.pillarsIman.webp": {
+   "sha": "86a3bb8934f83e1e3395c9b60315585ef1b9df77",
+   "size": 165200
+  },
+  "art/card.pillarsIslam.webp": {
+   "sha": "9494051164367f78c3edffcf38f7b616b97d3f1a",
+   "size": 170544
+  },
+  "art/card.quran114.webp": {
+   "sha": "b60232116bed865859bb287ec9ae233c9106b24f",
+   "size": 190154
+  },
+  "art/card.ramadan.webp": {
+   "sha": "54a11aae7faf6b1ead691545f7acb73313f39d08",
+   "size": 144142
+  },
+  "art/card.salam.webp": {
+   "sha": "06930d4090c556dd895475d31877bef9f4cbc99e",
+   "size": 168680
+  },
+  "art/card.smile.webp": {
+   "sha": "aa8c13a36b2c7c66d37e520c3fbf2f11fef0bef3",
+   "size": 151988
+  },
+  "art/card.sunnah.fajr.webp": {
+   "sha": "42a533a9d16c67bd6d79b8cd3098ed3ed633896f",
+   "size": 203660
+  },
+  "art/card.sunnah.twelve.webp": {
+   "sha": "176a9c4c6119be469516cfe2d0d20fbcf0f9b8d9",
+   "size": 277804
+  },
+  "art/card.sunnah.whichTwelve.webp": {
+   "sha": "bec61985f0ea84b300e531a68bb326bb1f2235c7",
+   "size": 321502
+  },
+  "art/card.threeMosques.webp": {
+   "sha": "48e0615b95abc6d928d290394c395f471add6934",
+   "size": 198660
+  },
+  "art/card.times.each.webp": {
+   "sha": "a2ef61fb74cdd48e6e4ed53c42921f58f4fb0658",
+   "size": 245132
+  },
+  "art/card.times.fixed.webp": {
+   "sha": "dd4e98c772d2c68e74cdd1e9baf219feafe7fa40",
+   "size": 278434
+  },
+  "art/card.times.onTime.webp": {
+   "sha": "85a920c13328751cdba377f6b483b38cf50e313c",
+   "size": 219534
+  },
+  "art/card.times.quran.webp": {
+   "sha": "ec8e0eb59d2b7e4e8ec6b506e79c37c6fbd847ea",
+   "size": 217974
+  },
+  "art/char.noor.cheer.webp": {
+   "sha": "37d4930dcc7ada043328a53210d4e032b56ec8ee",
+   "size": 79642
+  },
+  "art/char.noor.happy.webp": {
+   "sha": "f48a96307ef2141d076d768906ca0b6c278e5adc",
+   "size": 73938
+  },
+  "art/char.noor.sleepy.webp": {
+   "sha": "85bf9200ac305c2455379285f902811919adfc0f",
+   "size": 69646
+  },
+  "art/char.noor.think.webp": {
+   "sha": "86e8fb3851ce55ab18b74c9c721b93e6dc66f4e2",
+   "size": 77138
+  },
+  "art/dua.topic.bathroom.webp": {
+   "sha": "f750786d9d2ca7b2c90d8a28bd3f8fdae4025620",
+   "size": 173764
+  },
+  "art/dua.topic.eating.webp": {
+   "sha": "3bb833b0fc23318226b62500faace301a23a6b54",
+   "size": 134128
+  },
+  "art/dua.topic.general.webp": {
+   "sha": "22ec16cbc10fc53ab1b8e9fb60526077076750f4",
+   "size": 128124
+  },
+  "art/dua.topic.home.webp": {
+   "sha": "7ff0d1ba14554a97fa25d2c7dedddabd5bea213f",
+   "size": 137396
+  },
+  "art/dua.topic.morningEvening.webp": {
+   "sha": "e28486f2bb2363b6d9c09ee9cc4b743a9bd4cb47",
+   "size": 147008
+  },
+  "art/dua.topic.parents.webp": {
+   "sha": "738b863a0110221e7c5f8a7d15c75e90877bc5c6",
+   "size": 118908
+  },
+  "art/dua.topic.sleeping.webp": {
+   "sha": "c642d0b1864a40b4892cb19781ccb279f1d7d27f",
+   "size": 139084
+  },
+  "art/dua.topic.thankfulness.webp": {
+   "sha": "e744122b7bf4cf338b97a23f24ed89e4453d8440",
+   "size": 131308
+  },
+  "art/dua.topic.travel.webp": {
+   "sha": "96999e5c13cbcba01c25019395de30dca9ebb6bc",
+   "size": 129698
+  },
+  "art/dua.topic.waking.webp": {
+   "sha": "116d273024ec31957266a62d50e6cb4754061421",
+   "size": 145502
+  },
+  "art/home.sky.day.webp": {
+   "sha": "31ed4ffdec27b858d952d30d2e4e9171156babfc",
+   "size": 234228
+  },
+  "art/home.sky.night.webp": {
+   "sha": "cf6f0be61fb3f89e031bd2aae4bd7358fe7e73d4",
+   "size": 232982
+  },
+  "art/home.valley.webp": {
+   "sha": "c5feb57fa7c231814c0d1ef6e2ebf428cd539360",
+   "size": 366268
+  },
+  "art/prayer.time.asr.webp": {
+   "sha": "d3d6f786da1bda31a08382c0c62c5a3d9ee5fca6",
+   "size": 137436
+  },
+  "art/prayer.time.dhuhr.webp": {
+   "sha": "713d55c9156cb1cb7af5dddfabf54b9019e3ac74",
+   "size": 189600
+  },
+  "art/prayer.time.fajr.webp": {
+   "sha": "0f62c3b6e348aa06ce82c6b2ab0441ff1270f856",
+   "size": 175764
+  },
+  "art/prayer.time.isha.webp": {
+   "sha": "e675797ec93b30cc0213d04b570094c16c308462",
+   "size": 145298
+  },
+  "art/prayer.time.maghrib.webp": {
+   "sha": "3780405b215e13b5d87d5571840fa7f07e7a6498",
+   "size": 164622
+  },
+  "art/salah.fatiha.huda.webp": {
+   "sha": "b673999916810ae7d470e293caaef52a8c108df8",
+   "size": 192036
+  },
+  "art/salah.fatiha.zaid.webp": {
+   "sha": "ab02113e00156ef8a88fe03c745c87b6c2737fea",
+   "size": 215854
+  },
+  "art/salah.qibla.huda.webp": {
+   "sha": "d3ac15ad4067b7c84969ba954aa4c7ec6ce95618",
+   "size": 233116
+  },
+  "art/salah.qibla.zaid.webp": {
+   "sha": "eb6c8ef84f1724c7f2e681ed3153cdf0c131cabf",
+   "size": 267994
+  },
+  "art/salah.rise.huda.webp": {
+   "sha": "a37531044910f6397ebff096421be0518770cb02",
+   "size": 182380
+  },
+  "art/salah.rise.zaid.webp": {
+   "sha": "9bd9906346c185f9e9ac56bb7c482df0ee5d1026",
+   "size": 194132
+  },
+  "art/salah.ruku.huda.webp": {
+   "sha": "a4111fd5bb3434ccfe9504c59d1828f18e760fd5",
+   "size": 182592
+  },
+  "art/salah.ruku.zaid.webp": {
+   "sha": "280538ad839729ed374d751ce3aee718215c4d09",
+   "size": 195944
+  },
+  "art/salah.sit.huda.webp": {
+   "sha": "0d802efaf5e1593244387b570588b1e62888ac5d",
+   "size": 177012
+  },
+  "art/salah.sit.zaid.webp": {
+   "sha": "974a83c0ac5b9f683291b55ff18ff82357b423a5",
+   "size": 195048
+  },
+  "art/salah.sujud.huda.webp": {
+   "sha": "79a8a50fef55ed3671a0c4eb9b6c7b6bb85c21d4",
+   "size": 164794
+  },
+  "art/salah.sujud.zaid.webp": {
+   "sha": "8b2aab9aacd88300a629072ec17047c063b3b21d",
+   "size": 154578
+  },
+  "art/salah.sujud2.huda.webp": {
+   "sha": "0d76dfe2c44b5654ef680400e8956b88d1f41569",
+   "size": 194594
+  },
+  "art/salah.sujud2.zaid.webp": {
+   "sha": "b5e4b9586fabe66459e28721710fb0eb0a47d32f",
+   "size": 158078
+  },
+  "art/salah.takbir.huda.webp": {
+   "sha": "da3715c041895418fffc524777a8de7ee101ff83",
+   "size": 225150
+  },
+  "art/salah.takbir.zaid.webp": {
+   "sha": "0f3613b2e178bb8382551c7ddc605da03af8a70e",
+   "size": 181806
+  },
+  "art/salah.tashahhud.huda.webp": {
+   "sha": "6b94dba7a749e774ac92cf798e30425099a9eb75",
+   "size": 165786
+  },
+  "art/salah.tashahhud.zaid.webp": {
+   "sha": "497bd582856baad99e492c4c708e7dbc28ce5ba1",
+   "size": 199532
+  },
+  "art/salah.taslim.huda.webp": {
+   "sha": "9aaf55e3fa187d045526ad97ef01acda715f4020",
+   "size": 223026
+  },
+  "art/salah.taslim.zaid.webp": {
+   "sha": "81bd34cb8ac2061e2c934269c2589676d2b95a6e",
+   "size": 191602
+  },
+  "art/story.adam.1.webp": {
+   "sha": "fef8779338904abc1c5135de22c03aecee6b27d8",
+   "size": 141812
+  },
+  "art/story.adam.2.webp": {
+   "sha": "4748a0516e612004223b2e4d3eac07f79fe8e1f5",
+   "size": 206142
+  },
+  "art/story.adam.3.webp": {
+   "sha": "1f159056dedbfc62a68e3718a28fa7e53797d35c",
+   "size": 406180
+  },
+  "art/story.adam.4.webp": {
+   "sha": "23a3468d97661ec068d2e971a09b801380152f38",
+   "size": 186844
+  },
+  "art/story.adam.cover.webp": {
+   "sha": "be94769579bbedd368bcc1d558afe4afe1186b07",
+   "size": 256790
+  },
+  "art/story.ayyub.1.webp": {
+   "sha": "f47a289512be340358f8e9f85613c77462e3b355",
+   "size": 290312
+  },
+  "art/story.ayyub.2.webp": {
+   "sha": "1e6aa70f8e18d0773770c06da7dd93c9c211e9bb",
+   "size": 337576
+  },
+  "art/story.ayyub.3.webp": {
+   "sha": "9f23ece79376d709124a23e804f9f3bfecd9e496",
+   "size": 411082
+  },
+  "art/story.ayyub.4.webp": {
+   "sha": "4af01287a9d55c13defc14c7ed3d58999dc86921",
+   "size": 326660
+  },
+  "art/story.ayyub.cover.webp": {
+   "sha": "7055ba4d523619911c053ec0de8a62e937233bb8",
+   "size": 360010
+  },
+  "art/story.dawud.1.webp": {
+   "sha": "7d73954e7b7fd04bf6501c14d3f6c56561c85892",
+   "size": 233872
+  },
+  "art/story.dawud.2.webp": {
+   "sha": "44c219a9365dc80da1972437946d25849f2e4752",
+   "size": 265154
+  },
+  "art/story.dawud.3.webp": {
+   "sha": "4f499ad732768976fd6768be2dd0a0074954b3c3",
+   "size": 203832
+  },
+  "art/story.dawud.cover.webp": {
+   "sha": "18295b002594c35920812b92b160aa41ede70279",
+   "size": 231564
+  },
+  "art/story.harun.1.webp": {
+   "sha": "f629aafcd293d51215f06c78db4673409e09ccc7",
+   "size": 291838
+  },
+  "art/story.harun.2.webp": {
+   "sha": "6bf159cb3416b3e8228dc0a76c115bdf3b579dec",
+   "size": 235646
+  },
+  "art/story.harun.3.webp": {
+   "sha": "6fe132c90b6ca8c5774cfc639a66a7ddf3c6349b",
+   "size": 201922
+  },
+  "art/story.harun.4.webp": {
+   "sha": "1fd5e49f63b1cdd7dcae88618f6db241925cf8bc",
+   "size": 257508
+  },
+  "art/story.harun.cover.webp": {
+   "sha": "42bcd7b5b85c951bbe4742fc6997298231d1e47e",
+   "size": 247582
+  },
+  "art/story.hud.1.webp": {
+   "sha": "a96586f960c979b9dbf47f2e2885a2d67695432b",
+   "size": 304062
+  },
+  "art/story.hud.2.webp": {
+   "sha": "608854d04b48144e9e27dd64ff3fb8a835fa514d",
+   "size": 410784
+  },
+  "art/story.hud.3.webp": {
+   "sha": "d6b112fc22105952cac16c9fe831ad2bb4a6ad32",
+   "size": 350536
+  },
+  "art/story.hud.4.webp": {
+   "sha": "7913a33fadd7d8d19642dbba126c9a2d52a28192",
+   "size": 219978
+  },
+  "art/story.hud.5.webp": {
+   "sha": "defed63d357960d48a8441e3682264a21edbb759",
+   "size": 472592
+  },
+  "art/story.hud.cover.webp": {
+   "sha": "1c088a3cdda14dd1379077dab635e4215cc8d3a4",
+   "size": 272454
+  },
+  "art/story.ibrahim.1.webp": {
+   "sha": "cb2b421af40a67af6c08ab3677c0e1076437b478",
+   "size": 81318
+  },
+  "art/story.ibrahim.2.webp": {
+   "sha": "c0dda77695097f29fa57a7922bc579722d5f0f3b",
+   "size": 207738
+  },
+  "art/story.ibrahim.3.webp": {
+   "sha": "e493133a6447532a18e04786ba60dc36b0431507",
+   "size": 198638
+  },
+  "art/story.ibrahim.4.webp": {
+   "sha": "ca0d2b9c9f9e1cbc099f7e651bcf0d469e055529",
+   "size": 257740
+  },
+  "art/story.ibrahim.cover.webp": {
+   "sha": "fd7c728387045b02c0df73ae02f250f83113eb5e",
+   "size": 166360
+  },
+  "art/story.isa.1.webp": {
+   "sha": "3267148dfb2d2146124d96e85adaa49ac978ece5",
+   "size": 233710
+  },
+  "art/story.isa.2.webp": {
+   "sha": "17ea67db6b1bb917d58c6afa481553061fd1ed11",
+   "size": 230382
+  },
+  "art/story.isa.3.webp": {
+   "sha": "6b173018e5662cef6a42cce593badb563103066f",
+   "size": 208368
+  },
+  "art/story.isa.cover.webp": {
+   "sha": "8b30ba1953811c5c925010ba46ffdc05cd32b920",
+   "size": 246790
+  },
+  "art/story.ismail.1.webp": {
+   "sha": "c952e8daa7eb5af4f6f0a316e662c10c25320508",
+   "size": 197332
+  },
+  "art/story.ismail.2.webp": {
+   "sha": "c564055020ce0957c147b8fc638f67492acf2529",
+   "size": 226818
+  },
+  "art/story.ismail.3.webp": {
+   "sha": "b3db211c9abc9a58490400b1d240a551b3828808",
+   "size": 180078
+  },
+  "art/story.ismail.4.webp": {
+   "sha": "d76b5a75646719b38dfd8e3e8c5b995d40d2122e",
+   "size": 254252
+  },
+  "art/story.ismail.cover.webp": {
+   "sha": "11a3668e5aeb06c0ed9eec8f2539319c84861f10",
+   "size": 139348
+  },
+  "art/story.muhammad.1.webp": {
+   "sha": "a87b358534d94d7085384d7bbba6badf572db7f6",
+   "size": 236826
+  },
+  "art/story.muhammad.2.webp": {
+   "sha": "3dfad5bf0ad7ff3a6227ebf763fff1274a869a70",
+   "size": 169468
+  },
+  "art/story.muhammad.3.webp": {
+   "sha": "ae4de90e3845a3577adb0f1826c0e1f326d2b26b",
+   "size": 221178
+  },
+  "art/story.muhammad.4.webp": {
+   "sha": "fc178283bf6532dc37096e5063296350e91acb23",
+   "size": 158272
+  },
+  "art/story.muhammad.cover.webp": {
+   "sha": "16892428bd548c5bf8caf8345c9d0316056f82e8",
+   "size": 240572
+  },
+  "art/story.musa.1.webp": {
+   "sha": "5663389414e689960d0942908510f86ff8587cab",
+   "size": 169644
+  },
+  "art/story.musa.2.webp": {
+   "sha": "5e9f9530eb35623d29d8dca0479bfae96a28a8f5",
+   "size": 203834
+  },
+  "art/story.musa.3.webp": {
+   "sha": "c0d99fa46256b4e76d2cf0cd6043de46fbaf6c8f",
+   "size": 217170
+  },
+  "art/story.musa.4.webp": {
+   "sha": "f6bafcf500e29b5086520a2f470c6fc66b8984f3",
+   "size": 247690
+  },
+  "art/story.musa.cover.webp": {
+   "sha": "f1ebe3702d565a37af2e8992da5159537a9339a9",
+   "size": 311736
+  },
+  "art/story.nuh.1.webp": {
+   "sha": "d65f6230574fde4343e44f381ed4095160b6a20f",
+   "size": 148758
+  },
+  "art/story.nuh.2.webp": {
+   "sha": "0960e584f09f477546947e5c30d1bd52b5e1ae95",
+   "size": 214692
+  },
+  "art/story.nuh.3.webp": {
+   "sha": "464fbe86195e382ace2582978fb510e93f82c078",
+   "size": 200828
+  },
+  "art/story.nuh.4.webp": {
+   "sha": "dd733bb6fd6513b1aca0ccfb9dd7e4702c71cb97",
+   "size": 233070
+  },
+  "art/story.nuh.cover.webp": {
+   "sha": "decb0860417ff91bb0cbb3b42897ad85f5135c50",
+   "size": 204216
+  },
+  "art/story.salih.1.webp": {
+   "sha": "6371d5663dd42e8348751a54d157b890a9182be6",
+   "size": 334018
+  },
+  "art/story.salih.2.webp": {
+   "sha": "0b4768e5123a71716ea478ac3f55ddc247708282",
+   "size": 272096
+  },
+  "art/story.salih.3.webp": {
+   "sha": "435ab86f644f4a18ceb33e0fbe14446caf35b83b",
+   "size": 249856
+  },
+  "art/story.salih.4.webp": {
+   "sha": "515d5e1d0b39cf23521de84e4c0d63d4e676d73f",
+   "size": 247948
+  },
+  "art/story.salih.cover.webp": {
+   "sha": "4ff1e4522159a44f54d8127e0361c6e7c73a49d2",
+   "size": 274438
+  },
+  "art/story.shuayb.1.webp": {
+   "sha": "b28bd6a7c8ec61623508269a9e10988800db464e",
+   "size": 294814
+  },
+  "art/story.shuayb.2.webp": {
+   "sha": "dd2623fe367c14562cade40c60c1fe429ea79717",
+   "size": 306010
+  },
+  "art/story.shuayb.3.webp": {
+   "sha": "4649b9223f0ddd7c552280bb1598b6256aafb92e",
+   "size": 213202
+  },
+  "art/story.shuayb.4.webp": {
+   "sha": "959b05895be444c68ffb23bfd634056494ceee22",
+   "size": 240492
+  },
+  "art/story.shuayb.5.webp": {
+   "sha": "8f82839b27c1c037e6d0256757c69c3fc779bdcc",
+   "size": 383948
+  },
+  "art/story.shuayb.cover.webp": {
+   "sha": "aeddcb1c1715dea2ff9e4f5fbe98c43b5d05aac3",
+   "size": 284106
+  },
+  "art/story.sulayman.1.webp": {
+   "sha": "9ab8d407ee11c3288d562f32551f94a1322b18c5",
+   "size": 207978
+  },
+  "art/story.sulayman.2.webp": {
+   "sha": "d088799a1e2790411d571e54a4ee6f1a931b1405",
+   "size": 209522
+  },
+  "art/story.sulayman.3.webp": {
+   "sha": "9c85d4f25cce7863422d4da606067f8803f97056",
+   "size": 169046
+  },
+  "art/story.sulayman.cover.webp": {
+   "sha": "181efb824818032c5341d476b7e1648562a15243",
+   "size": 203564
+  },
+  "art/story.yunus.1.webp": {
+   "sha": "4f71dca9d773f93cef73532190b9e28381f242a7",
+   "size": 225234
+  },
+  "art/story.yunus.2.webp": {
+   "sha": "1aafeef786a6db55c038e4dccc4341b8b624bee0",
+   "size": 118536
+  },
+  "art/story.yunus.3.webp": {
+   "sha": "81c5241269747f919232a9bae6151ffff26aab63",
+   "size": 112470
+  },
+  "art/story.yunus.4.webp": {
+   "sha": "30bb5a35c1d6689e77d0edfb89fe9075b3ad8902",
+   "size": 205304
+  },
+  "art/story.yunus.cover.webp": {
+   "sha": "7f43628c458031ed59b832da803cf54c35b7eb82",
+   "size": 144964
+  },
+  "art/story.yusuf.1.webp": {
+   "sha": "9be6057f048b6f3e44198ed15997a07bfc0c05b8",
+   "size": 160324
+  },
+  "art/story.yusuf.2.webp": {
+   "sha": "216737a83d467fa10c1d575a99773cf4788e5b76",
+   "size": 224994
+  },
+  "art/story.yusuf.3.webp": {
+   "sha": "717b5a5888686992abeeba1ef91595d04ad61cb2",
+   "size": 202826
+  },
+  "art/story.yusuf.4.webp": {
+   "sha": "8cec88db8531c03d5843755b2873485e76f572c6",
+   "size": 180498
+  },
+  "art/story.yusuf.cover.webp": {
+   "sha": "a952da69e075a0b81b128d882a9555cb57e812a4",
+   "size": 185168
+  },
+  "art/story.zakariya.1.webp": {
+   "sha": "e918da7e56b23d88b9114403c55c0aa93123de3a",
+   "size": 317022
+  },
+  "art/story.zakariya.2.webp": {
+   "sha": "9397bac0b57bb5182066d04db09e187390db3aa5",
+   "size": 174376
+  },
+  "art/story.zakariya.3.webp": {
+   "sha": "f5d3f106f4bd6bb01cf5f8c42d0029520100f97d",
+   "size": 229866
+  },
+  "art/story.zakariya.4.webp": {
+   "sha": "5e6b61ce8aa2137024dcea107b4abf4eadb7fdc4",
+   "size": 218922
+  },
+  "art/story.zakariya.5.webp": {
+   "sha": "abf65d052a61b61968edce9b77ae9f22d6834110",
+   "size": 229140
+  },
+  "art/story.zakariya.cover.webp": {
+   "sha": "866fd467cf88a6f66eab83afb30f2fe0bd6264fc",
+   "size": 287308
+  },
+  "art/wudu.arms.huda.webp": {
+   "sha": "1a85c8c2daab2f23c2ffa7cbe20279cf3c86ff19",
+   "size": 121404
+  },
+  "art/wudu.arms.zaid.webp": {
+   "sha": "4e4a98a8217b30cdeb655ed5dca3c3b6a3adaa38",
+   "size": 128372
+  },
+  "art/wudu.dua.huda.webp": {
+   "sha": "36bc0e36efe01c18389a882ceb767fe5e883232d",
+   "size": 125964
+  },
+  "art/wudu.dua.zaid.webp": {
+   "sha": "e81a58b08d2891473603a1e00f1f22b4899894dd",
+   "size": 150172
+  },
+  "art/wudu.face.huda.webp": {
+   "sha": "e0fdebc3060143259e39b97e003b565e3cfd021a",
+   "size": 152300
+  },
+  "art/wudu.face.zaid.webp": {
+   "sha": "f0414e36eeef67657cea3e42a82095bcd5e2ce4a",
+   "size": 167220
+  },
+  "art/wudu.feet.huda.webp": {
+   "sha": "720c578356ca6823678833a20b9fc629499f2153",
+   "size": 168930
+  },
+  "art/wudu.feet.zaid.webp": {
+   "sha": "e4d91da632aa3a9cef69da604c8b816ce10beb19",
+   "size": 173678
+  },
+  "art/wudu.hands.huda.webp": {
+   "sha": "4406060543c2f8f6c56d1a675d5d3e995429909d",
+   "size": 169214
+  },
+  "art/wudu.hands.zaid.webp": {
+   "sha": "fb07783ede31b9ccc95d72cc2fe479d8f6fda5d0",
+   "size": 154614
+  },
+  "art/wudu.head.huda.webp": {
+   "sha": "aa2b3a0fef29e745be36e749acc4297a0a4ec83b",
+   "size": 157466
+  },
+  "art/wudu.head.zaid.webp": {
+   "sha": "0df5746bf94e455fa7e55f0d355a7bfae153e915",
+   "size": 149126
+  },
+  "art/wudu.intention.huda.webp": {
+   "sha": "88b3c8d1b5b60b6f65eabadd4b4f6d9bea52bccd",
+   "size": 128688
+  },
+  "art/wudu.intention.zaid.webp": {
+   "sha": "fa8d1b8529e446aa1a2434f067e5ebe1d872fa9b",
+   "size": 123034
+  },
+  "art/wudu.mouth.huda.webp": {
+   "sha": "413f688c199fb76f039d06f920a0962c75354dfa",
+   "size": 151990
+  },
+  "art/wudu.mouth.zaid.webp": {
+   "sha": "c38a382b0076d31564a9ca7383fbe63d89e80b48",
+   "size": 157012
+  },
+  "art/wudu.nose.huda.webp": {
+   "sha": "b947948d84eb682ee3cddb0bc062ff97bacfc208",
+   "size": 162534
+  },
+  "art/wudu.nose.zaid.webp": {
+   "sha": "241af1d316a255be6bf14ed71613542bce0c72bf",
+   "size": 149986
+  },
+  "content/duas.json": {
+   "sha": "b7feaa1fa1abeaecf7fa26d871445d9f3dd14666",
+   "size": 28422
+  },
+  "content/knowledge.json": {
+   "sha": "69240e85d69eec8dee7bb380ea839bb46ed65381",
+   "size": 9282
+  },
+  "content/knowledge_more.json": {
+   "sha": "c74ea2a5b3e32d9636c046a26a7212ca74ef3d32",
+   "size": 51173
+  },
+  "content/prayer.json": {
+   "sha": "b90055ec70022f853b1380a49c624437530dfac3",
+   "size": 13273
+  },
+  "content/prayer_more.json": {
+   "sha": "b4d8831a2ab08e5829b044f61c226086fbc37b96",
+   "size": 16077
+  },
+  "content/quiz.json": {
+   "sha": "397f0e171fd637f37aa79a51c81d3f0bd2241b89",
+   "size": 34168
+  },
+  "content/quiz_more.json": {
+   "sha": "c07b439085118da89714ccfa2ddffbf02bf7cacb",
+   "size": 30431
+  },
+  "content/sentences.json": {
+   "sha": "92482833e2f0fa435d0df95b74f4b2dcf2069bb8",
+   "size": 4300
+  },
+  "content/stories.json": {
+   "sha": "59017800c01740b0857d8c04757f014d02218a33",
+   "size": 58678
+  },
+  "content/words.json": {
+   "sha": "cdb45b11632033c4edb8c53e0c38fdacb1b873f5",
+   "size": 15629
+  },
+  "i18n/am.json": {
+   "sha": "50067f34e643568c67ead448aa054d05beae614a",
+   "size": 111795
+  },
+  "i18n/az-Latn.json": {
+   "sha": "8d3bdaa26beab1ebe2240dad0b45a6c2ba6344ae",
+   "size": 90434
+  },
+  "i18n/bn.json": {
+   "sha": "b34f6ada09910dfccc2ffce8e03e3a90e5eeef95",
+   "size": 147545
+  },
+  "i18n/de.json": {
+   "sha": "f5c3a839c25a5f67eb8caf51dba3cc358469597c",
+   "size": 90773
+  },
+  "i18n/es.json": {
+   "sha": "5edfab97ff594d21e3963152d276078612852212",
+   "size": 89209
+  },
+  "i18n/fa.json": {
+   "sha": "7543e7ab1c9cf4c9cde25ba35f758f8fb215f7e1",
+   "size": 108663
+  },
+  "i18n/fr.json": {
+   "sha": "09f773d9cc76f6f515fc91df4bfdfc854122e799",
+   "size": 93111
+  },
+  "i18n/gu.json": {
+   "sha": "41dbf5843cb44ca139f406cd3a948564252bd5df",
+   "size": 145072
+  },
+  "i18n/ha.json": {
+   "sha": "ecde7b1adbdca627ba1b0ed2cce6f5e28612cc9e",
+   "size": 88227
+  },
+  "i18n/hi.json": {
+   "sha": "0e1df8731bc7e66693637a94a464dc51a5d153fd",
+   "size": 149033
+  },
+  "i18n/id.json": {
+   "sha": "39ca846724ad8e3c9ac5b1ee1ec41102d1b0f727",
+   "size": 93157
+  },
+  "i18n/kk-Cyrl.json": {
+   "sha": "7102f6627971aa403eaadd466130f8999884679d",
+   "size": 114876
+  },
+  "i18n/ku-Arab.json": {
+   "sha": "76b6d1b99630d730eaa390bf8a22ed42ab9f649d",
+   "size": 114226
+  },
+  "i18n/ku-Latn.json": {
+   "sha": "3adfcc941efc28ee208130f7ed3172a9f98cf593",
+   "size": 88921
+  },
+  "i18n/ml.json": {
+   "sha": "5ec75d08846c9bfd749ffec708784ca2c6e9c2de",
+   "size": 170903
+  },
+  "i18n/ms.json": {
+   "sha": "d99a1f609fdc72c78861357eacc6ee876449ff20",
+   "size": 93852
+  },
+  "i18n/my.json": {
+   "sha": "1eb038d8b01f1a78d3d1f52b52fa58f0e2ce1390",
+   "size": 185974
+  },
+  "i18n/om.json": {
+   "sha": "e9aa045ece8cfd21c3ed8d998113a74779f49eab",
+   "size": 91321
+  },
+  "i18n/pa.json": {
+   "sha": "cb7dc1649e6c1b1c62aa711f3f550b7a2da6b98a",
+   "size": 149632
+  },
+  "i18n/pnb.json": {
+   "sha": "bcdb7fdf32849e4aa6fc26be282e69e5501df23d",
+   "size": 114899
+  },
+  "i18n/ps.json": {
+   "sha": "5b03094c63f816a0e8b8196b359f504e42e148d3",
+   "size": 109197
+  },
+  "i18n/ru.json": {
+   "sha": "d5dd5818c51762c7d37aff7229f2f06852002613",
+   "size": 115122
+  },
+  "i18n/so.json": {
+   "sha": "aade751cdbf4279372cce93d75ff87ebcb2d9f6c",
+   "size": 90583
+  },
+  "i18n/sw.json": {
+   "sha": "b5e4ddea0909383804418325707ad1c8eae8f2d5",
+   "size": 87033
+  },
+  "i18n/ta.json": {
+   "sha": "27ffae39bdb5f10d5721a25e478da3c677aad275",
+   "size": 175365
+  },
+  "i18n/tr.json": {
+   "sha": "e907af48a2f463ddccab72377bda77f3922ea1ad",
+   "size": 88397
+  },
+  "i18n/ur.json": {
+   "sha": "f1ccf44317bc9ae74c89e81ba99f61b9920ad3a4",
+   "size": 115412
+  },
+  "i18n/uz-Cyrl.json": {
+   "sha": "69847d27e92a93d792ee807bc3286ff866f8a943",
+   "size": 116504
+  },
+  "i18n/uz.json": {
+   "sha": "26dff50aeda348ec221cdc32aed2d3eddc0158e9",
+   "size": 88827
+  },
+  "i18n/zh.json": {
+   "sha": "5c9cc35f0b2a2a4db553ab6d9c47f36b5de04dbc",
+   "size": 87124
+  },
+  "voice/am/areaHint_achievements_boy.mp3": {
+   "sha": "f2933149610b1efd6e310dc494d33a3051f1227b",
+   "size": 27838
+  },
+  "voice/am/areaHint_duas_boy.mp3": {
+   "sha": "9d97afd6928aad40f55d70b4c1767cdd5f7b3d0b",
+   "size": 41421
+  },
+  "voice/am/areaHint_games_boy.mp3": {
+   "sha": "faafc68f164a08ec704b912498823b8424f55262",
+   "size": 15926
+  },
+  "voice/am/areaHint_knowledge_boy.mp3": {
+   "sha": "2c0e9b945b3a6d4b94cdd4c812dc403ee4bdda15",
+   "size": 32017
+  },
+  "voice/am/areaHint_prayer_boy.mp3": {
+   "sha": "d4e46353699ba8d59bcd6d8200346cb0ce1131fd",
+   "size": 40168
+  },
+  "voice/am/areaHint_quran_boy.mp3": {
+   "sha": "ea1d76b09bb3c488bc3dd8ef1aa342c602cf7f30",
+   "size": 37451
+  },
+  "voice/am/areaHint_stories_boy.mp3": {
+   "sha": "acd2bcf3458827fa2b4d710668020ec51bf01ffd",
+   "size": 39541
+  },
+  "voice/am/areaHint_words_boy.mp3": {
+   "sha": "e8308fac886eb91be48af66ba3bbe128eb21786e",
+   "size": 33480
+  },
+  "voice/am/breakTime_boy.mp3": {
+   "sha": "50bd17c9660fad6e809d2d470ec2c709b581e48b",
+   "size": 49154
+  },
+  "voice/am/cheer_excellent_boy.mp3": {
+   "sha": "9f430367b3b1f2b8ea097d0fe3f7e8b49b0052c3",
+   "size": 27838
+  },
+  "voice/am/garden_complete_boy.mp3": {
+   "sha": "51450950455e49d715157d444dca2ca0929e9bd5",
+   "size": 38078
+  },
+  "voice/am/garden_empty_boy.mp3": {
+   "sha": "30a6cedb7f1e8124878610269e0c178781c7517f",
+   "size": 47900
+  },
+  "voice/am/greetSub_boy.mp3": {
+   "sha": "4ddf77f0c6b889b54438111d65b5a6e3d867049c",
+   "size": 16135
+  },
+  "voice/am/greet_boy.mp3": {
+   "sha": "bab9b025cd75b7e7aac60e923717ff46a9e77f3a",
+   "size": 14254
+  },
+  "voice/am/memory_hint_boy.mp3": {
+   "sha": "3b1876d41115bd3da16c57bf65d868cb392d7bfe",
+   "size": 29719
+  },
+  "voice/am/order_ayahsHint_boy.mp3": {
+   "sha": "d9807e4f8fec5ec28dbfe9d9a89fb695390cd226",
+   "size": 42257
+  },
+  "voice/am/order_sentenceHint_boy.mp3": {
+   "sha": "6a1a0956806ad143fefe50d478f8dfdaab366872",
+   "size": 48527
+  },
+  "voice/am/order_stepsHint_boy.mp3": {
+   "sha": "26fb20f86d0606f7609d199cdff1775798672457",
+   "size": 46019
+  },
+  "voice/am/quiz_empty_boy.mp3": {
+   "sha": "f82db6cf379270cad9ae393313c985391b06fe0d",
+   "size": 24703
+  },
+  "voice/am/quiz_notQuite_boy.mp3": {
+   "sha": "54fad9cd43d17145bb30bd90880179efe4b936e2",
+   "size": 48527
+  },
+  "voice/am/quiz_right_boy.mp3": {
+   "sha": "9826c2a1200d8ff058ebb1426ea97fa86c083a27",
+   "size": 12164
+  },
+  "voice/am/spell_hint_boy.mp3": {
+   "sha": "2d7da09f398e4b10577bc8fd25d795e59d231df9",
+   "size": 44974
+  },
+  "voice/am/story_intro_boy.mp3": {
+   "sha": "393c086b80f0cdcbe18d6dbd7c1464db6e96cac1",
+   "size": 26584
+  },
+  "voice/am/surah_hideHint_boy.mp3": {
+   "sha": "906fecc63817264e90c4634623108d0c18703478",
+   "size": 56050
+  },
+  "voice/am/trace_hintSay_boy.mp3": {
+   "sha": "f1c87e08dccc1eb92156878dee88421de1e4f582",
+   "size": 23867
+  },
+  "voice/am/waitingReviewChild_boy.mp3": {
+   "sha": "0d418e56f5e0749d81f09bc139469085de3615bb",
+   "size": 55423
+  },
+  "voice/am/whoLearnsSub_boy.mp3": {
+   "sha": "85e1f565f2d66fcca3b0e9da2ed57f7ca84b3831",
+   "size": 23658
+  },
+  "voice/am/words_findPicture_boy.mp3": {
+   "sha": "17f1b47e8e68717a466ea315560d699f98191ed9",
+   "size": 38078
+  },
+  "voice/ar/areaHint_achievements_boy.mp3": {
+   "sha": "a0d0e1236e79948e2078ccc7a5f4457b76d6abca",
+   "size": 37034
+  },
+  "voice/ar/areaHint_achievements_girl.mp3": {
+   "sha": "06ee69dfb96a9e3497239a23251b0f062aa6dbb5",
+   "size": 37034
+  },
+  "voice/ar/areaHint_duas_boy.mp3": {
+   "sha": "4fbacde915a22adbebe680a0cc8b1c38398725fb",
+   "size": 50200
+  },
+  "voice/ar/areaHint_games_boy.mp3": {
+   "sha": "74da50821d6db1591abf48a576283e6063971661",
+   "size": 20107
+  },
+  "voice/ar/areaHint_games_girl.mp3": {
+   "sha": "6ce58e9325e2eb61d459c43f577f33883b46e9d6",
+   "size": 24495
+  },
+  "voice/ar/areaHint_knowledge_boy.mp3": {
+   "sha": "071c5f1d53871e39d2b7a363ebdac1611e7ad114",
+   "size": 46751
+  },
+  "voice/ar/areaHint_knowledge_girl.mp3": {
+   "sha": "d26da2597f327bc438435f6626322c04713bf5fc",
+   "size": 50200
+  },
+  "voice/ar/areaHint_prayer_boy.mp3": {
+   "sha": "652ad7feae61068ba578ad0f26524586bfc4524b",
+   "size": 46125
+  },
+  "voice/ar/areaHint_quran_boy.mp3": {
+   "sha": "1801973a272822a778498dafdf782b17e7ff8b17",
+   "size": 58663
+  },
+  "voice/ar/areaHint_stories_boy.mp3": {
+   "sha": "48989b671b928b9c42e91a75e4cfb090c8bc6541",
+   "size": 45498
+  },
+  "voice/ar/areaHint_words_boy.mp3": {
+   "sha": "b6310d89f0a9cb7317a730bf5de6bae30474d6b0",
+   "size": 52080
+  },
+  "voice/ar/breakTime_boy.mp3": {
+   "sha": "0bb3a547c4add7ffa70992a1d0a425b78f06543f",
+   "size": 56469
+  },
+  "voice/ar/breakTime_girl.mp3": {
+   "sha": "e5e608e90ff1f140ba70efb9fc11c2ce748b78c2",
+   "size": 60858
+  },
+  "voice/ar/cheer_excellent_boy.mp3": {
+   "sha": "da424b5196e40630f68f977b4fdf5c1eedf1cfe7",
+   "size": 30765
+  },
+  "voice/ar/garden_complete_boy.mp3": {
+   "sha": "a59e1a946e1f97767a01ab7667ed3bce0e49f081",
+   "size": 54588
+  },
+  "voice/ar/garden_complete_girl.mp3": {
+   "sha": "2260496e312300fa50ce17a267ef8a02bf4b4863",
+   "size": 54588
+  },
+  "voice/ar/garden_empty_boy.mp3": {
+   "sha": "db5479516a85b92193cbd99e2c18e4eda3987c29",
+   "size": 74023
+  },
+  "voice/ar/garden_empty_girl.mp3": {
+   "sha": "476e5de18075f58f77ff8a4bc87896073a6c48ec",
+   "size": 79979
+  },
+  "voice/ar/greetSub_boy.mp3": {
+   "sha": "e5dc8f8395e33e8ea346c625016df86322f3b297",
+   "size": 32959
+  },
+  "voice/ar/greet_boy.mp3": {
+   "sha": "61aa4594977e0646ce0dadad529fe76a3a089a4e",
+   "size": 24495
+  },
+  "voice/ar/memory_hint_boy.mp3": {
+   "sha": "315ca3933f2b3c2491a321b53e9a057582088c31",
+   "size": 45498
+  },
+  "voice/ar/memory_hint_girl.mp3": {
+   "sha": "d074cfdf7642769d84ed1396bbc740b6500823a2",
+   "size": 36094
+  },
+  "voice/ar/order_ayahsHint_boy.mp3": {
+   "sha": "6c1ebe055b3567d0e74761965795141150bf527a",
+   "size": 49259
+  },
+  "voice/ar/order_ayahsHint_girl.mp3": {
+   "sha": "6a85af38ced6ec167535503ff72ef478192a4ea4",
+   "size": 53021
+  },
+  "voice/ar/order_sentenceHint_boy.mp3": {
+   "sha": "85f41cdbef216fdf6f6f01b359ad2f231e8e0241",
+   "size": 64306
+  },
+  "voice/ar/order_sentenceHint_girl.mp3": {
+   "sha": "2deb39cbc339f3cfaf10419d267bbb7ba2e19619",
+   "size": 59917
+  },
+  "voice/ar/order_stepsHint_boy.mp3": {
+   "sha": "ea9ae899dc599f30addd0b0fd09c97bd6b5a515e",
+   "size": 42990
+  },
+  "voice/ar/order_stepsHint_girl.mp3": {
+   "sha": "c755721d8af484fe1bcfe2b61aa8b40a3eb72745",
+   "size": 44244
+  },
+  "voice/ar/quiz_empty_boy.mp3": {
+   "sha": "2ef2e8539503631372b4b2c0baee1e5c0f218cad",
+   "size": 37347
+  },
+  "voice/ar/quiz_notQuite_boy.mp3": {
+   "sha": "7ccf5f5d4358662fc814ff14e54430b11f28a180",
+   "size": 84368
+  },
+  "voice/ar/quiz_notQuite_girl.mp3": {
+   "sha": "dcb2e8142fc779f63ab31a6de7b2b01a78d7acc8",
+   "size": 88756
+  },
+  "voice/ar/quiz_right_boy.mp3": {
+   "sha": "bd8d8454bfdccd198b2bc0038017ce61d782b530",
+   "size": 22301
+  },
+  "voice/ar/spell_hint_boy.mp3": {
+   "sha": "145ab79ab1b82bfb50994d664025713b25643f22",
+   "size": 44557
+  },
+  "voice/ar/spell_hint_girl.mp3": {
+   "sha": "3d0a3daf3ffe5e6dc6e10f259dac8832e6d36c95",
+   "size": 60231
+  },
+  "voice/ar/story_intro_boy.mp3": {
+   "sha": "16e7f3947ceb6550b4131821f8834334a17a7a51",
+   "size": 39228
+  },
+  "voice/ar/surah_hideHint_boy.mp3": {
+   "sha": "0c333d6f2ffc8ad8d608afede7c3f64e4eae0cbb",
+   "size": 58663
+  },
+  "voice/ar/surah_hideHint_girl.mp3": {
+   "sha": "7b830ada79cf6c08567a0b0f62356c6f37c13734",
+   "size": 65246
+  },
+  "voice/ar/trace_hintSay_boy.mp3": {
+   "sha": "c81b6ed61a28eaf859a3e97d9dcce1d2db52c581",
+   "size": 35153
+  },
+  "voice/ar/trace_hintSay_girl.mp3": {
+   "sha": "eb36a947d75b96176587b1b61fe9351e9c52d134",
+   "size": 37347
+  },
+  "voice/ar/waitingReviewChild_boy.mp3": {
+   "sha": "b601e332fc3df08c64976a3d143dec4e98c2182e",
+   "size": 67127
+  },
+  "voice/ar/waitingReviewChild_girl.mp3": {
+   "sha": "53a6b0f0b666c83aa425777bb56d47a09c1e2166",
+   "size": 71516
+  },
+  "voice/ar/whoLearnsSub_boy.mp3": {
+   "sha": "a88681d39aea3738f5e633a9a5e5775dd00bf139",
+   "size": 37034
+  },
+  "voice/ar/whoLearnsSub_girl.mp3": {
+   "sha": "4d5a34413bbf513b4c4f0d389ed8241bd8b7c84c",
+   "size": 41423
+  },
+  "voice/ar/words_findPicture_boy.mp3": {
+   "sha": "6bde6fafb962dc3713313c58a93e8c02544c13fe",
+   "size": 42363
+  },
+  "voice/az-Latn/areaHint_achievements_boy.mp3": {
+   "sha": "dbed36d222447ad29b67a8789b5e66240254e530",
+   "size": 34734
+  },
+  "voice/az-Latn/areaHint_duas_boy.mp3": {
+   "sha": "8e2b02c33d09ecfd1550b037c3de3006f5223304",
+   "size": 29301
+  },
+  "voice/az-Latn/areaHint_games_boy.mp3": {
+   "sha": "5a675db36621d87ce01582ccaa18a688926f4eba",
+   "size": 13209
+  },
+  "voice/az-Latn/areaHint_knowledge_boy.mp3": {
+   "sha": "130d98f120147e7dcc25e7bda472e4a453866d08",
+   "size": 39959
+  },
+  "voice/az-Latn/areaHint_prayer_boy.mp3": {
+   "sha": "cd4bfa9b9bf1b6a8eb1bd7979b9c7428701ca516",
+   "size": 33480
+  },
+  "voice/az-Latn/areaHint_quran_boy.mp3": {
+   "sha": "86a280c9f68e7e102304c3eb5d3a063152cfdf05",
+   "size": 31390
+  },
+  "voice/az-Latn/areaHint_stories_boy.mp3": {
+   "sha": "94b31064a14cf175f54b3ebddc9394a37af3e62f",
+   "size": 34316
+  },
+  "voice/az-Latn/areaHint_words_boy.mp3": {
+   "sha": "5bae9a1b02c011af9885529b3f5e532e3af1a211",
+   "size": 39750
+  },
+  "voice/az-Latn/breakTime_boy.mp3": {
+   "sha": "1250da43ada5f8a22caeab682dcb116c94384499",
+   "size": 36824
+  },
+  "voice/az-Latn/cheer_excellent_boy.mp3": {
+   "sha": "deeac1937a7b8cce3f16e44cc47ca00d8c6c0078",
+   "size": 13418
+  },
+  "voice/az-Latn/garden_complete_boy.mp3": {
+   "sha": "3d9d2df943896fee8d0fb9fd7c94684420f143be",
+   "size": 33271
+  },
+  "voice/az-Latn/garden_empty_boy.mp3": {
+   "sha": "8f09bf29dc3d0e2e08e1c38e643dedb57b9bc649",
+   "size": 46646
+  },
+  "voice/az-Latn/greetSub_boy.mp3": {
+   "sha": "acb70c69f58df11d53f3cc9e658ba7781d6126e3",
+   "size": 27629
+  },
+  "voice/az-Latn/greet_boy.mp3": {
+   "sha": "e5dfe56e01d9516dc46e4a7d40a74b28ebb14e95",
+   "size": 18016
+  },
+  "voice/az-Latn/memory_hint_boy.mp3": {
+   "sha": "3b342368363c4fd78e097c985c4f19701df623c6",
+   "size": 14881
+  },
+  "voice/az-Latn/order_ayahsHint_boy.mp3": {
+   "sha": "f69e5266fa4976905d20dd7049f11613fbba4a52",
+   "size": 33689
+  },
+  "voice/az-Latn/order_sentenceHint_boy.mp3": {
+   "sha": "ec958e7108e948d8d7be6939f340d1fa21888a7f",
+   "size": 34316
+  },
+  "voice/az-Latn/order_stepsHint_boy.mp3": {
+   "sha": "49afbb3344d56c96527aa058f442f066cd14cc76",
+   "size": 30346
+  },
+  "voice/az-Latn/quiz_empty_boy.mp3": {
+   "sha": "3e8eb0967c6d37a62c95bd29ace6a7f5ff746cd3",
+   "size": 23867
+  },
+  "voice/az-Latn/quiz_notQuite_boy.mp3": {
+   "sha": "84c6684b2e4628b72cc4fbff283f45b43cbf6d65",
+   "size": 46437
+  },
+  "voice/az-Latn/quiz_right_boy.mp3": {
+   "sha": "1f3ea9dbb44c0ea33133c3f06e0b6583e1d068e3",
+   "size": 12582
+  },
+  "voice/az-Latn/spell_hint_boy.mp3": {
+   "sha": "c076beb2fcd3025f9e0f9ce7fa20c84206bc1dda",
+   "size": 35779
+  },
+  "voice/az-Latn/story_intro_boy.mp3": {
+   "sha": "d8e265ec52223ac09de0f3c7feb47708a26e2f00",
+   "size": 29928
+  },
+  "voice/az-Latn/surah_hideHint_boy.mp3": {
+   "sha": "edc0d2c3e1f53c65ce52ce942ae95d316cd204fb",
+   "size": 36406
+  },
+  "voice/az-Latn/trace_hintSay_boy.mp3": {
+   "sha": "ca6b2b33a378694d836aa8c117962df498817b4e",
+   "size": 32853
+  },
+  "voice/az-Latn/waitingReviewChild_boy.mp3": {
+   "sha": "24d7dfa8a9942c9b7cf7a19a1089e3a5df178ee0",
+   "size": 48736
+  },
+  "voice/az-Latn/whoLearnsSub_boy.mp3": {
+   "sha": "3f192283cc136ed16e59bea3ece4a999ebbff749",
+   "size": 27002
+  },
+  "voice/az-Latn/words_findPicture_boy.mp3": {
+   "sha": "2c841533f85597334f600f44aa6b65bff2869f3b",
+   "size": 28674
+  },
+  "voice/bn/areaHint_achievements_boy.mp3": {
+   "sha": "0407369a6d6f71b8445967c1f097689b6210d82b",
+   "size": 24285
+  },
+  "voice/bn/areaHint_duas_boy.mp3": {
+   "sha": "87fe7b154c253480ddc98b990bc7bdd938012a62",
+   "size": 41839
+  },
+  "voice/bn/areaHint_games_boy.mp3": {
+   "sha": "af2ef775b275c20c03190018ad05f4dfc632c218",
+   "size": 18225
+  },
+  "voice/bn/areaHint_knowledge_boy.mp3": {
+   "sha": "948fbff755b6d1108093851cb34d382315af9926",
+   "size": 43302
+  },
+  "voice/bn/areaHint_prayer_boy.mp3": {
+   "sha": "d4bc96d5933985fd5897179c42e053ac5eac2cfb",
+   "size": 27002
+  },
+  "voice/bn/areaHint_quran_boy.mp3": {
+   "sha": "4365cc3b404b7d164c4ea88ac581c4d6fd32ca82",
+   "size": 26375
+  },
+  "voice/bn/areaHint_stories_boy.mp3": {
+   "sha": "b60ca21fd95cba2262b398b0b32bb644a8e5deae",
+   "size": 23867
+  },
+  "voice/bn/areaHint_words_boy.mp3": {
+   "sha": "1df9719b8b707edab0f90d198d505ed50abfa593",
+   "size": 26793
+  },
+  "voice/bn/breakTime_boy.mp3": {
+   "sha": "38083b3ffb960536697c8cf77e71b3c1e1f626be",
+   "size": 45810
+  },
+  "voice/bn/cheer_excellent_boy.mp3": {
+   "sha": "77767508bb30551bd593008d3374387c8ffe523c",
+   "size": 20524
+  },
+  "voice/bn/garden_complete_boy.mp3": {
+   "sha": "7dcf087ceb4a0fbe24f57b4bedc5bafe0e0e9c37",
+   "size": 36197
+  },
+  "voice/bn/garden_empty_boy.mp3": {
+   "sha": "73fe9e7110be3a5c6470fd3727d3e90f9e0f44dc",
+   "size": 55005
+  },
+  "voice/bn/greetSub_boy.mp3": {
+   "sha": "d50f56abb05ae91305b7466819a3fdd14aadee1c",
+   "size": 15508
+  },
+  "voice/bn/greet_boy.mp3": {
+   "sha": "9cb043625e01cc3e5d61fdecb708acb2f7e65118",
+   "size": 16762
+  },
+  "voice/bn/memory_hint_boy.mp3": {
+   "sha": "7cbb16a5c3b7b6609a871a718a7448106a53d1f9",
+   "size": 27838
+  },
+  "voice/bn/order_ayahsHint_boy.mp3": {
+   "sha": "b225c93f6d10bc958c5a6be056f74f955fa21366",
+   "size": 40586
+  },
+  "voice/bn/order_sentenceHint_boy.mp3": {
+   "sha": "801d96cb111fd6d1be7355f984087f934df1196d",
+   "size": 48109
+  },
+  "voice/bn/order_stepsHint_boy.mp3": {
+   "sha": "0818e7b7a337e594eac87c6116e51159278676b1",
+   "size": 30764
+  },
+  "voice/bn/quiz_empty_boy.mp3": {
+   "sha": "5283415c21ab79bd29bb686ffc8b2119110e4029",
+   "size": 24912
+  },
+  "voice/bn/quiz_notQuite_boy.mp3": {
+   "sha": "ae12aa08d403978cd7891cb00207e52bcc42c023",
+   "size": 40168
+  },
+  "voice/bn/quiz_right_boy.mp3": {
+   "sha": "73d78fc3aec4135b1b1d7b89a3c4433d97114d94",
+   "size": 9448
+  },
+  "voice/bn/spell_hint_boy.mp3": {
+   "sha": "b4339a3e7322b5eac9badf09729609520286acb8",
+   "size": 48109
+  },
+  "voice/bn/story_intro_boy.mp3": {
+   "sha": "63263fe97292f2d0ed99e3c66cb344fb23752b35",
+   "size": 27420
+  },
+  "voice/bn/surah_hideHint_boy.mp3": {
+   "sha": "f1d2389b750cd2ccf627dc2759d40469f3771e96",
+   "size": 45810
+  },
+  "voice/bn/trace_hintSay_boy.mp3": {
+   "sha": "aa1b756f659537eca2a79d5c0d8ad7f3a1e4a142",
+   "size": 25539
+  },
+  "voice/bn/waitingReviewChild_boy.mp3": {
+   "sha": "95572249fc2d9f934ae645955c9d8c9e66e38e3a",
+   "size": 55214
+  },
+  "voice/bn/whoLearnsSub_boy.mp3": {
+   "sha": "938c720d8f13c782cc7af2478a07f8ba4ebbabea",
+   "size": 30555
+  },
+  "voice/bn/words_findPicture_boy.mp3": {
+   "sha": "9b3db5f208c5bbeb4c16e28c82f43b0c5ceada1d",
+   "size": 33271
+  },
+  "voice/de/areaHint_achievements_boy.mp3": {
+   "sha": "e13c3db8c60197f47d0af79457e45bf8603731c8",
+   "size": 33271
+  },
+  "voice/de/areaHint_duas_boy.mp3": {
+   "sha": "7c622ec1b9e35a2844e3041c636c4bb6fdd241e7",
+   "size": 30346
+  },
+  "voice/de/areaHint_games_boy.mp3": {
+   "sha": "cbbbd1a6dcebc56a54bbc3fd739ac92751333933",
+   "size": 15508
+  },
+  "voice/de/areaHint_knowledge_boy.mp3": {
+   "sha": "32329ee3f649fc99d793f0e8bfc5b0b2fd9a162d",
+   "size": 24703
+  },
+  "voice/de/areaHint_prayer_boy.mp3": {
+   "sha": "cea4457c42e15d418a5ce24c921873c8dae4f6dd",
+   "size": 31390
+  },
+  "voice/de/areaHint_quran_boy.mp3": {
+   "sha": "a79a2a789948af32586127ca59a6805697fc15f9",
+   "size": 33271
+  },
+  "voice/de/areaHint_stories_boy.mp3": {
+   "sha": "6e95776921a7ed2be775d5949377cf28e93bb222",
+   "size": 25957
+  },
+  "voice/de/areaHint_words_boy.mp3": {
+   "sha": "d575007efb7ba6bdf2edd97c96ea619280df2753",
+   "size": 32435
+  },
+  "voice/de/breakTime_boy.mp3": {
+   "sha": "d8c56a2b969608d65c313fd06571a51abadedbac",
+   "size": 39541
+  },
+  "voice/de/cheer_excellent_boy.mp3": {
+   "sha": "79f939363de815f8632e44f103e2339e80995f37",
+   "size": 21777
+  },
+  "voice/de/garden_complete_boy.mp3": {
+   "sha": "bcc29f0c83dad7871b06561007d1c18c799cd0e4",
+   "size": 33898
+  },
+  "voice/de/garden_empty_boy.mp3": {
+   "sha": "ba26eb6a3f61dea11a930457219da58d602c743a",
+   "size": 50826
+  },
+  "voice/de/greetSub_boy.mp3": {
+   "sha": "989cbd0d09e4a9562452469276bdcfdb233bfb74",
+   "size": 16553
+  },
+  "voice/de/greet_boy.mp3": {
+   "sha": "e9b16fd697b6afe650af7ff093d8113503c09c8d",
+   "size": 14672
+  },
+  "voice/de/memory_hint_boy.mp3": {
+   "sha": "8727199ad737bfb269eedbd2ed60c9ca5cd56a16",
+   "size": 21150
+  },
+  "voice/de/order_ayahsHint_boy.mp3": {
+   "sha": "02cf46dfa34523bc5aba647a6da394e2adeed9d2",
+   "size": 33271
+  },
+  "voice/de/order_sentenceHint_boy.mp3": {
+   "sha": "b8ff929d09efb73fc21dcfbfdc0889431cd64f36",
+   "size": 38078
+  },
+  "voice/de/order_stepsHint_boy.mp3": {
+   "sha": "daa4b1843e555d11b361fbf83d2987aa26d5f74b",
+   "size": 28047
+  },
+  "voice/de/quiz_empty_boy.mp3": {
+   "sha": "781d1803f6325d536c146827fdf47f8d7824151d",
+   "size": 20106
+  },
+  "voice/de/quiz_notQuite_boy.mp3": {
+   "sha": "4f681a96c37660fdbecc2cc38e3b6f0b2b7269c1",
+   "size": 43093
+  },
+  "voice/de/quiz_right_boy.mp3": {
+   "sha": "7c45ded691343e5fa15cb4a9c8bc917f896424a6",
+   "size": 18852
+  },
+  "voice/de/spell_hint_boy.mp3": {
+   "sha": "6bf45e0ba61516f0e709ef6c69f3364407e1352c",
+   "size": 38287
+  },
+  "voice/de/story_intro_boy.mp3": {
+   "sha": "40bd82629377b3498c3f505267991b5827db93d8",
+   "size": 30973
+  },
+  "voice/de/surah_hideHint_boy.mp3": {
+   "sha": "e4590e58b78d75379bd83b378ae5239ef8349638",
+   "size": 45183
+  },
+  "voice/de/trace_hintSay_boy.mp3": {
+   "sha": "745efba7a8c94e04991b2adcea8ebb60ac672c4d",
+   "size": 26584
+  },
+  "voice/de/waitingReviewChild_boy.mp3": {
+   "sha": "e6af32054e18255f944075be8fcf9ff9d3fc7ab2",
+   "size": 45392
+  },
+  "voice/de/whoLearnsSub_boy.mp3": {
+   "sha": "1f45a3ac7b43a67a7f5350465b4ad0719e34aa52",
+   "size": 26793
+  },
+  "voice/de/words_findPicture_boy.mp3": {
+   "sha": "944ba8ec6840dced1f984b278140d99032dc7550",
+   "size": 26584
+  },
+  "voice/en/areaHint_achievements_boy.mp3": {
+   "sha": "342cb47c6e51c93d139b59fa38596461650d70f8",
+   "size": 33586
+  },
+  "voice/en/areaHint_duas_boy.mp3": {
+   "sha": "3af84be9705f77f637cce20c48fb3328644809a8",
+   "size": 33586
+  },
+  "voice/en/areaHint_games_boy.mp3": {
+   "sha": "9f451338100826a72b2cc1c377c55422cd423559",
+   "size": 14464
+  },
+  "voice/en/areaHint_knowledge_boy.mp3": {
+   "sha": "3ae3338a45dee73645a7fca752ef05e6511b8320",
+   "size": 33586
+  },
+  "voice/en/areaHint_prayer_boy.mp3": {
+   "sha": "8dac8dcec2020d6fb8c21458b25462909ece730f",
+   "size": 32332
+  },
+  "voice/en/areaHint_quran_boy.mp3": {
+   "sha": "15ec657fe9cc81875e60efff66b8107d76bb21ec",
+   "size": 34840
+  },
+  "voice/en/areaHint_stories_boy.mp3": {
+   "sha": "eacb70b49a5cf5baa9ca9d960acd16d6c422ae09",
+   "size": 35780
+  },
+  "voice/en/areaHint_words_boy.mp3": {
+   "sha": "fd587bbbf098b4d2a0f59fdad8f4274ed7d4f02e",
+   "size": 35780
+  },
+  "voice/en/breakTime_boy.mp3": {
+   "sha": "bb9824e8dc1d90bb182115afc5279cd6e0ba643b",
+   "size": 43303
+  },
+  "voice/en/cheer_excellent_boy.mp3": {
+   "sha": "b1fa33d5f7bb1a0541acbc5393fe482e38d4fb63",
+   "size": 22928
+  },
+  "voice/en/garden_complete_boy.mp3": {
+   "sha": "8b3c9ed6e15b4c9fffc9f8703f4c46022c95cd0f",
+   "size": 36720
+  },
+  "voice/en/garden_empty_boy.mp3": {
+   "sha": "109461ec7299137dd6298be4e89e3a773cd77e6f",
+   "size": 49886
+  },
+  "voice/en/greetSub_boy.mp3": {
+   "sha": "b4218ab9c604fa6c1c0665b79c11eb36ee12f762",
+   "size": 23868
+  },
+  "voice/en/greet_boy.mp3": {
+   "sha": "e2169936cda736a2db5d8a61982bbb7fa7b49b71",
+   "size": 17285
+  },
+  "voice/en/memory_hint_boy.mp3": {
+   "sha": "3edb5dc01e02fd8e5e4ab12093319233f48faebe",
+   "size": 22928
+  },
+  "voice/en/order_ayahsHint_boy.mp3": {
+   "sha": "af106c688a130b77592515ee905a6f9bd2e4dcfb",
+   "size": 35780
+  },
+  "voice/en/order_sentenceHint_boy.mp3": {
+   "sha": "9a137da4f4c8b08498f29fe2ff09af3bbcb05bce",
+   "size": 40169
+  },
+  "voice/en/order_stepsHint_boy.mp3": {
+   "sha": "814e70a8bc8a85732a6023df6377296619bb4896",
+   "size": 28257
+  },
+  "voice/en/quiz_empty_boy.mp3": {
+   "sha": "38b241c3e4b78c2957aa3bfec4c0ab700ac5dae0",
+   "size": 20420
+  },
+  "voice/en/quiz_notQuite_boy.mp3": {
+   "sha": "16f7f37841e06640f9d2e260001bfd3b32e6d2a2",
+   "size": 44557
+  },
+  "voice/en/quiz_right_boy.mp3": {
+   "sha": "1cd3c94983e336a2b76357b21c4ccb5e200d41ef",
+   "size": 11956
+  },
+  "voice/en/spell_hint_boy.mp3": {
+   "sha": "1eb04fd7a236e7e2386d20f621b628deba24ed20",
+   "size": 34526
+  },
+  "voice/en/story_intro_boy.mp3": {
+   "sha": "27681374be20cf046cefae9ec232a1e9df810c5b",
+   "size": 29197
+  },
+  "voice/en/surah_hideHint_boy.mp3": {
+   "sha": "3932e0b10d0ef2bdad34222c02adbb12fa168ae3",
+   "size": 39228
+  },
+  "voice/en/trace_hintSay_boy.mp3": {
+   "sha": "c82a0b53b5aba994cc204a4b9178b7487b45f295",
+   "size": 31391
+  },
+  "voice/en/waitingReviewChild_boy.mp3": {
+   "sha": "af3ec0cd7d7ffd7816624c09a22cf2060813c877",
+   "size": 51767
+  },
+  "voice/en/whoLearnsSub_boy.mp3": {
+   "sha": "fddba663956ad75e84a0abe1cd6ffbe1c4b75731",
+   "size": 23555
+  },
+  "voice/en/words_findPicture_boy.mp3": {
+   "sha": "b608399a791a4b5974dc989282629cfa66a417f0",
+   "size": 28884
+  },
+  "voice/es/areaHint_achievements_boy.mp3": {
+   "sha": "b1d5a2ba798b22d807c384478757867fbacee3b2",
+   "size": 25121
+  },
+  "voice/es/areaHint_duas_boy.mp3": {
+   "sha": "294690b2ddec15d18c869f1ed74e26dc1fb2dfc8",
+   "size": 32017
+  },
+  "voice/es/areaHint_games_boy.mp3": {
+   "sha": "92dd02c06f4815a152fcb14c336c6334d9081d42",
+   "size": 13418
+  },
+  "voice/es/areaHint_knowledge_boy.mp3": {
+   "sha": "ba6099a9120a455792caada8f245b02d7764395e",
+   "size": 28883
+  },
+  "voice/es/areaHint_prayer_boy.mp3": {
+   "sha": "60fdffd1c8d583157cd8f07e287a2c044bd00dec",
+   "size": 28256
+  },
+  "voice/es/areaHint_quran_boy.mp3": {
+   "sha": "06ad8b9fae2de81884dc62ea78bf421326ab4558",
+   "size": 34316
+  },
+  "voice/es/areaHint_stories_boy.mp3": {
+   "sha": "d7b1163c51b924ba7d8875c71012fc62088b61de",
+   "size": 23449
+  },
+  "voice/es/areaHint_words_boy.mp3": {
+   "sha": "c8f2226f2350b2ffad94bc09b45086bbc6a1fe59",
+   "size": 34943
+  },
+  "voice/es/breakTime_boy.mp3": {
+   "sha": "5f7075bd06214ab66a55a1371106031fe282e886",
+   "size": 36824
+  },
+  "voice/es/cheer_excellent_boy.mp3": {
+   "sha": "daaceb0974045a2387bc0da1f8361d26fa45b844",
+   "size": 19479
+  },
+  "voice/es/garden_complete_boy.mp3": {
+   "sha": "8be9c3471e4109492156bee69bb7db5594e15a85",
+   "size": 32226
+  },
+  "voice/es/garden_empty_boy.mp3": {
+   "sha": "1559fe35051116e09fccd39b36b55514e201add4",
+   "size": 41421
+  },
+  "voice/es/greetSub_boy.mp3": {
+   "sha": "130db6046bf00657816ca47e1285e5b067e4f9f5",
+   "size": 13418
+  },
+  "voice/es/greet_boy.mp3": {
+   "sha": "e6bcebcd0a6e78af488f98a3fb315d7a214c9dd8",
+   "size": 15299
+  },
+  "voice/es/memory_hint_boy.mp3": {
+   "sha": "6caee22b05243ba2b4ddeb42d9335a1d92a3af5d",
+   "size": 19270
+  },
+  "voice/es/order_ayahsHint_boy.mp3": {
+   "sha": "506d9dd389b36549e6791e69e123792191c9d554",
+   "size": 29510
+  },
+  "voice/es/order_sentenceHint_boy.mp3": {
+   "sha": "a952f9c196126180210c17e92ee8900c746b3931",
+   "size": 32644
+  },
+  "voice/es/order_stepsHint_boy.mp3": {
+   "sha": "63277fc23fdc8b42f7b58edd9c0e9e4d3d14e6f8",
+   "size": 24494
+  },
+  "voice/es/quiz_empty_boy.mp3": {
+   "sha": "2fa12dca7663e450abd5669e945d9142b878d2df",
+   "size": 18225
+  },
+  "voice/es/quiz_notQuite_boy.mp3": {
+   "sha": "7cd6af260d478ac017b4ebbe06caf13a4f95f9a5",
+   "size": 38914
+  },
+  "voice/es/quiz_right_boy.mp3": {
+   "sha": "0f5b2f8b3cd1eab5e7480dcf2531ef91847cd6a2",
+   "size": 8194
+  },
+  "voice/es/spell_hint_boy.mp3": {
+   "sha": "2b56356fa7c6efb4dac474e474c2940603d9d689",
+   "size": 30346
+  },
+  "voice/es/story_intro_boy.mp3": {
+   "sha": "70c735a363361bad6e352d23313e1e10f616707d",
+   "size": 22822
+  },
+  "voice/es/surah_hideHint_boy.mp3": {
+   "sha": "23952f3042279e9a2d788413cffc77a9598cc1f6",
+   "size": 44347
+  },
+  "voice/es/trace_hintSay_boy.mp3": {
+   "sha": "b579df3c9c68d11095a2c0f9df08df83a182e6ef",
+   "size": 22195
+  },
+  "voice/es/waitingReviewChild_boy.mp3": {
+   "sha": "9774be60677b58ec92f3fc07b0ea14a06994c5f5",
+   "size": 44765
+  },
+  "voice/es/whoLearnsSub_boy.mp3": {
+   "sha": "0220a50e26c548ecf09488282f4b31a97a8466ba",
+   "size": 19479
+  },
+  "voice/es/words_findPicture_boy.mp3": {
+   "sha": "2fec1f4a8f21443297b794f52a387809e031fd8e",
+   "size": 23867
+  },
+  "voice/fa/areaHint_achievements_boy.mp3": {
+   "sha": "c3da66aeb75c0ab9bb21e60fec5acaf8627839fb",
+   "size": 38496
+  },
+  "voice/fa/areaHint_duas_boy.mp3": {
+   "sha": "fe9c37c201b6c1ceb9dd403976cff3d83b7da3c7",
+   "size": 37242
+  },
+  "voice/fa/areaHint_games_boy.mp3": {
+   "sha": "cb62385642ba99c471acdd9f7452a03943f49a6c",
+   "size": 21359
+  },
+  "voice/fa/areaHint_knowledge_boy.mp3": {
+   "sha": "de879a00bb07401d2d9acb423530e183e9be213f",
+   "size": 42048
+  },
+  "voice/fa/areaHint_prayer_boy.mp3": {
+   "sha": "990443a676295bee24df96ea21a9d1d2a77b6ff4",
+   "size": 49572
+  },
+  "voice/fa/areaHint_quran_boy.mp3": {
+   "sha": "3be479e75e15712412615f8dc4e6b8aca8b047a1",
+   "size": 37451
+  },
+  "voice/fa/areaHint_stories_boy.mp3": {
+   "sha": "d1ddffa80f974c736f00a7c26906ea16ee33398a",
+   "size": 22822
+  },
+  "voice/fa/areaHint_words_boy.mp3": {
+   "sha": "aa7f207ce3f3cded5886c1b922ab496100d5eec3",
+   "size": 38914
+  },
+  "voice/fa/breakTime_boy.mp3": {
+   "sha": "19b8298e5ca1a66609d48ca61b48aec4475c1fc1",
+   "size": 47900
+  },
+  "voice/fa/cheer_excellent_boy.mp3": {
+   "sha": "1c30ee5ad309eacf5968e8e4da943165b7393bc0",
+   "size": 18852
+  },
+  "voice/fa/garden_complete_boy.mp3": {
+   "sha": "8c9f630e6f1a90d44d9e327ed370275481d02444",
+   "size": 30346
+  },
+  "voice/fa/garden_empty_boy.mp3": {
+   "sha": "6342549e1668678dc2c14731e6ef411a15f27331",
+   "size": 51244
+  },
+  "voice/fa/greetSub_boy.mp3": {
+   "sha": "f81abe2a94acb18a4f9932557037121aac93df6b",
+   "size": 22822
+  },
+  "voice/fa/greet_boy.mp3": {
+   "sha": "eb5792dbbfd55bc7c31bfb592e996cbbc706adc1",
+   "size": 16553
+  },
+  "voice/fa/memory_hint_boy.mp3": {
+   "sha": "40dacf52ead8f50f7c8e8abc612cb23a4c8476bc",
+   "size": 30137
+  },
+  "voice/fa/order_ayahsHint_boy.mp3": {
+   "sha": "0488f8e0d18a60a6c048fd066008fbd8ab731b84",
+   "size": 31808
+  },
+  "voice/fa/order_sentenceHint_boy.mp3": {
+   "sha": "fcc2180d9c40fb8c1acf3d6ec7743ed964885ceb",
+   "size": 47064
+  },
+  "voice/fa/order_stepsHint_boy.mp3": {
+   "sha": "4632406801594e9557d0a79e5ff0cf1e6fbd8366",
+   "size": 27838
+  },
+  "voice/fa/quiz_empty_boy.mp3": {
+   "sha": "e6276f31b5ed16ad5514e0919682066854b89957",
+   "size": 20524
+  },
+  "voice/fa/quiz_notQuite_boy.mp3": {
+   "sha": "990e22866b2fcf67f26d5dbf4e600fc49743b21f",
+   "size": 55423
+  },
+  "voice/fa/quiz_right_boy.mp3": {
+   "sha": "f0a15eb953d0ec1ee094c33d060efa07385ebeb8",
+   "size": 10701
+  },
+  "voice/fa/spell_hint_boy.mp3": {
+   "sha": "4277e1392b97999be14459ab7628143dfe9cf726",
+   "size": 45183
+  },
+  "voice/fa/story_intro_boy.mp3": {
+   "sha": "77db7f42db64358dc082df5a445dcfb4a6054bd2",
+   "size": 42675
+  },
+  "voice/fa/surah_hideHint_boy.mp3": {
+   "sha": "9e0dfc784aabb576bf42b23be42fcc1ee7118499",
+   "size": 54587
+  },
+  "voice/fa/trace_hintSay_boy.mp3": {
+   "sha": "2c2549b93ae063565ad3b5f1d4ab0b75dcda03ca",
+   "size": 25748
+  },
+  "voice/fa/waitingReviewChild_boy.mp3": {
+   "sha": "bea8d38252856a9d9115032057bf3178e3928dfa",
+   "size": 53333
+  },
+  "voice/fa/whoLearnsSub_boy.mp3": {
+   "sha": "b584eaeca3c01e3558ecdeae033f10c45cbf56a9",
+   "size": 25330
+  },
+  "voice/fa/words_findPicture_boy.mp3": {
+   "sha": "190361d431a2ee34f60b6c171cb3106721170b4e",
+   "size": 33062
+  },
+  "voice/fr/areaHint_achievements_boy.mp3": {
+   "sha": "ca09acb26f08ed2eb0cbe0c3d24a95076c6193ae",
+   "size": 20315
+  },
+  "voice/fr/areaHint_duas_boy.mp3": {
+   "sha": "4a3ca2ab7d27ac3984123ac169c27fa3cdb0f2bd",
+   "size": 34107
+  },
+  "voice/fr/areaHint_games_boy.mp3": {
+   "sha": "3a4dd8150a0f794ab2cc0c338193079b3a8c1e25",
+   "size": 12582
+  },
+  "voice/fr/areaHint_knowledge_boy.mp3": {
+   "sha": "57104b6ece221e2bfd93eb06f5049a8a5c2ba9fb",
+   "size": 27420
+  },
+  "voice/fr/areaHint_prayer_boy.mp3": {
+   "sha": "d25cf9b436feca4789fe8905e18f994cf68e5f2f",
+   "size": 38705
+  },
+  "voice/fr/areaHint_quran_boy.mp3": {
+   "sha": "26e37cffbe985815fb3fabae6f25d4490c17bb61",
+   "size": 30555
+  },
+  "voice/fr/areaHint_stories_boy.mp3": {
+   "sha": "613e7d643f1d56233561a10fdb256dc3c6dfcec1",
+   "size": 29092
+  },
+  "voice/fr/areaHint_words_boy.mp3": {
+   "sha": "25e16abd65741bd3a258789451e4d5f4fb53622f",
+   "size": 30137
+  },
+  "voice/fr/breakTime_boy.mp3": {
+   "sha": "957da15af3e6d708d9d9cd2dbff89430421cab5a",
+   "size": 35988
+  },
+  "voice/fr/cheer_excellent_boy.mp3": {
+   "sha": "3eb271b0aca2296f9f89b20c2de73bfb4f1fb22d",
+   "size": 16553
+  },
+  "voice/fr/garden_complete_boy.mp3": {
+   "sha": "bd74e70c6999d72cb362bbd13dc6663d4b39f488",
+   "size": 23449
+  },
+  "voice/fr/garden_empty_boy.mp3": {
+   "sha": "e7964b4b691ee48bf318b253dcd09f4fdbe564fb",
+   "size": 47064
+  },
+  "voice/fr/greetSub_boy.mp3": {
+   "sha": "514d2de44c39c50a5c68b4169d863e6ef6f61fad",
+   "size": 16971
+  },
+  "voice/fr/greet_boy.mp3": {
+   "sha": "12f13be94154ef949af91bf80e4da422b03233e1",
+   "size": 33898
+  },
+  "voice/fr/memory_hint_boy.mp3": {
+   "sha": "e6ad44334b1d1b51d34d32542f68285d790a95d3",
+   "size": 12373
+  },
+  "voice/fr/order_ayahsHint_boy.mp3": {
+   "sha": "c3ed0f044c9973adee599e6bc54a6e6e1a2ee045",
+   "size": 27838
+  },
+  "voice/fr/order_sentenceHint_boy.mp3": {
+   "sha": "8f0132fec8704afc7197b1e41cd21f9d9dcfb64a",
+   "size": 38496
+  },
+  "voice/fr/order_stepsHint_boy.mp3": {
+   "sha": "af1bee156d54799ada64ae467abe4cdc30f8cb77",
+   "size": 24494
+  },
+  "voice/fr/quiz_empty_boy.mp3": {
+   "sha": "7ced5f3e91fcbd4ac522d35ca13135734019d210",
+   "size": 18852
+  },
+  "voice/fr/quiz_notQuite_boy.mp3": {
+   "sha": "1d6c85310e2805090816fc6e8eeedf934c1f32fd",
+   "size": 48109
+  },
+  "voice/fr/quiz_right_boy.mp3": {
+   "sha": "a757cef02041e915ab4be6524d9f8aca4ea94a37",
+   "size": 8194
+  },
+  "voice/fr/spell_hint_boy.mp3": {
+   "sha": "de0dfa68ebfddf259c8a2c147a96557205369eb0",
+   "size": 33480
+  },
+  "voice/fr/story_intro_boy.mp3": {
+   "sha": "cce50c25d254c27511b2cc680ec57125add4203e",
+   "size": 19479
+  },
+  "voice/fr/surah_hideHint_boy.mp3": {
+   "sha": "1a06f1ab805d529a0e0401095ad20bf20d1570e4",
+   "size": 42048
+  },
+  "voice/fr/trace_hintSay_boy.mp3": {
+   "sha": "bead3a6678b242d00e3d0bc6ad52d7d8e3f35bfd",
+   "size": 19479
+  },
+  "voice/fr/waitingReviewChild_boy.mp3": {
+   "sha": "87f92c3984b7ac5112367a7244608f212dc0fc7c",
+   "size": 41004
+  },
+  "voice/fr/whoLearnsSub_boy.mp3": {
+   "sha": "0d3909c112e69de4a56a9e9094a84ad4999393f6",
+   "size": 22404
+  },
+  "voice/fr/words_findPicture_boy.mp3": {
+   "sha": "1dff8b5fe3a2af4d1a40277436e295244c91d06f",
+   "size": 19270
+  },
+  "voice/gu/areaHint_achievements_boy.mp3": {
+   "sha": "87868cdd9aaeaa3a3c17a582c22716582ac805cd",
+   "size": 33271
+  },
+  "voice/gu/areaHint_duas_boy.mp3": {
+   "sha": "9e742c1af58a54474a52e1de9c01d2b1137d5fc9",
+   "size": 32853
+  },
+  "voice/gu/areaHint_games_boy.mp3": {
+   "sha": "785889cf01add6b00c5bf8e4829000473854174d",
+   "size": 18225
+  },
+  "voice/gu/areaHint_knowledge_boy.mp3": {
+   "sha": "b90f336f66ff78c0ef55575c5c87123835a71360",
+   "size": 30973
+  },
+  "voice/gu/areaHint_prayer_boy.mp3": {
+   "sha": "ed3f5c3451618f61defb6a73aebd21cde969319e",
+   "size": 37033
+  },
+  "voice/gu/areaHint_quran_boy.mp3": {
+   "sha": "1c50e2b2e57ad5b410461dc77122feea7deb85cc",
+   "size": 29510
+  },
+  "voice/gu/areaHint_stories_boy.mp3": {
+   "sha": "da8f56cf7b53810562e11280de1ca28f48ce8886",
+   "size": 25957
+  },
+  "voice/gu/areaHint_words_boy.mp3": {
+   "sha": "42e460eaa13fb49f98674b73a8241088e908a3df",
+   "size": 38705
+  },
+  "voice/gu/breakTime_boy.mp3": {
+   "sha": "71cc453282e5da68aaadf7d5193e5fc315af5aeb",
+   "size": 49154
+  },
+  "voice/gu/cheer_excellent_boy.mp3": {
+   "sha": "40cc60e3bbe0fcaaba807d134f46e7cbad158e70",
+   "size": 22404
+  },
+  "voice/gu/garden_complete_boy.mp3": {
+   "sha": "e8f77021343087b3369383785faa8ce798b313e0",
+   "size": 41839
+  },
+  "voice/gu/garden_empty_boy.mp3": {
+   "sha": "8e54728c006356195cc3f82919bf6f5562a1aff6",
+   "size": 52706
+  },
+  "voice/gu/greetSub_boy.mp3": {
+   "sha": "4c23b1f6617060063be5e513bc6344c7e5550034",
+   "size": 23240
+  },
+  "voice/gu/greet_boy.mp3": {
+   "sha": "b58ecf83548700489f0eb5a2fc68a76e2bd010dc",
+   "size": 17389
+  },
+  "voice/gu/memory_hint_boy.mp3": {
+   "sha": "1b134692e2dbaaff227c25142fd4eae882996068",
+   "size": 18225
+  },
+  "voice/gu/order_ayahsHint_boy.mp3": {
+   "sha": "ea7390bf92e7147ce19c07d35b2e1f61bfcefb0c",
+   "size": 40168
+  },
+  "voice/gu/order_sentenceHint_boy.mp3": {
+   "sha": "d327f3dde552f8be1e1d14abbdaf03717e23980e",
+   "size": 42884
+  },
+  "voice/gu/order_stepsHint_boy.mp3": {
+   "sha": "838bdffa793cc956cdda5e75c3029e5ae31c7b8c",
+   "size": 25121
+  },
+  "voice/gu/quiz_empty_boy.mp3": {
+   "sha": "456a76072d88a1199b8a4901820738acf783b817",
+   "size": 27838
+  },
+  "voice/gu/quiz_notQuite_boy.mp3": {
+   "sha": "d4244248966eca58b208043483854a2ee3593875",
+   "size": 49572
+  },
+  "voice/gu/quiz_right_boy.mp3": {
+   "sha": "e3b348fd656e1cf4e9d3a78a4ca95952707d952e",
+   "size": 12582
+  },
+  "voice/gu/spell_hint_boy.mp3": {
+   "sha": "9704ba38a97b700eb565216d6ad66ec1ab2fd6a4",
+   "size": 33898
+  },
+  "voice/gu/story_intro_boy.mp3": {
+   "sha": "766a35768cfe76b95c0c65aa59e953c5c3266133",
+   "size": 29928
+  },
+  "voice/gu/surah_hideHint_boy.mp3": {
+   "sha": "32d7c3ddfeaaa176dedc698672e7a5bc0a941bb0",
+   "size": 37451
+  },
+  "voice/gu/trace_hintSay_boy.mp3": {
+   "sha": "eec58b0e64503fc92f81589d88dbeba9915b94f3",
+   "size": 24912
+  },
+  "voice/gu/waitingReviewChild_boy.mp3": {
+   "sha": "b80e1562733c5a8dc7aaed8d53bed911f6c13401",
+   "size": 44765
+  },
+  "voice/gu/whoLearnsSub_boy.mp3": {
+   "sha": "3e84613bded3d3f3159b8fbc06c1c61b2cb39f43",
+   "size": 40168
+  },
+  "voice/gu/words_findPicture_boy.mp3": {
+   "sha": "7050711755402c2b0d5419b518ae4b779cfcda70",
+   "size": 34316
+  },
+  "voice/ha/areaHint_achievements_boy.mp3": {
+   "sha": "f72f6de9402669c21d36f1ca177a836accfcd27a",
+   "size": 23867
+  },
+  "voice/ha/areaHint_duas_boy.mp3": {
+   "sha": "8dbac01c4350eef8fed51091e9530836ddb0872c",
+   "size": 41421
+  },
+  "voice/ha/areaHint_games_boy.mp3": {
+   "sha": "1cbb0070f94191f0a85b800cc32b50d6ffa39051",
+   "size": 16553
+  },
+  "voice/ha/areaHint_knowledge_boy.mp3": {
+   "sha": "2e83bafb638860b646b95f3c4dbebb3d0f4e3381",
+   "size": 37869
+  },
+  "voice/ha/areaHint_prayer_boy.mp3": {
+   "sha": "cf540366dbc55a747f592ef795d948362cc25abf",
+   "size": 31390
+  },
+  "voice/ha/areaHint_quran_boy.mp3": {
+   "sha": "7c25e88fe45c9158f3295053974a88000e69543c",
+   "size": 36406
+  },
+  "voice/ha/areaHint_stories_boy.mp3": {
+   "sha": "4b9654ce8cdb5541f83454e79a7484b60a459562",
+   "size": 36615
+  },
+  "voice/ha/areaHint_words_boy.mp3": {
+   "sha": "bd3dfe1a4b0b3d46737b557c308a3dd4a3f74986",
+   "size": 35779
+  },
+  "voice/ha/breakTime_boy.mp3": {
+   "sha": "0200f82cf4e345a35ccad4998bcf6d25c361824c",
+   "size": 49781
+  },
+  "voice/ha/cheer_excellent_boy.mp3": {
+   "sha": "f495fb02f5338adbd3c7b0b14493b7bdafa6984f",
+   "size": 29092
+  },
+  "voice/ha/garden_complete_boy.mp3": {
+   "sha": "c8de9c05960501086bb4c45555b9054ab6dfc6b9",
+   "size": 36406
+  },
+  "voice/ha/garden_empty_boy.mp3": {
+   "sha": "f602a040f5bbe05ef28fe643a1715df1f49b3aab",
+   "size": 57304
+  },
+  "voice/ha/greetSub_boy.mp3": {
+   "sha": "42190cb9cb01d3a36447e9e53c9caa872cdc3a27",
+   "size": 33689
+  },
+  "voice/ha/greet_boy.mp3": {
+   "sha": "9b1e1342baf37b8354d3dee32d98159dd6f1b862",
+   "size": 32853
+  },
+  "voice/ha/memory_hint_boy.mp3": {
+   "sha": "a446504b4277806d01873615452f22975b553d59",
+   "size": 24494
+  },
+  "voice/ha/order_ayahsHint_boy.mp3": {
+   "sha": "19982dd64471840bf4da3603055b8d206dca03bf",
+   "size": 37242
+  },
+  "voice/ha/order_sentenceHint_boy.mp3": {
+   "sha": "98a8d3cbe1b1df3eddb26a74cbaaf617d20a8eb4",
+   "size": 38287
+  },
+  "voice/ha/order_stepsHint_boy.mp3": {
+   "sha": "5f9dff6417a2e0f11ae64b7f8866623b67419c7b",
+   "size": 33480
+  },
+  "voice/ha/quiz_empty_boy.mp3": {
+   "sha": "894bebac41286f41180d66110fdd8823519f7226",
+   "size": 29928
+  },
+  "voice/ha/quiz_notQuite_boy.mp3": {
+   "sha": "8a1d80569c6603d15b710d6e73cb2ff39452f412",
+   "size": 47482
+  },
+  "voice/ha/quiz_right_boy.mp3": {
+   "sha": "781fd00034c0a81d78e27f409e057b752744ce25",
+   "size": 19479
+  },
+  "voice/ha/spell_hint_boy.mp3": {
+   "sha": "5c33a22ff0eb7536abcc368bffa24d833c1fc501",
+   "size": 43093
+  },
+  "voice/ha/story_intro_boy.mp3": {
+   "sha": "332f45b2a1902546d81154d19218852a088115d9",
+   "size": 36615
+  },
+  "voice/ha/surah_hideHint_boy.mp3": {
+   "sha": "3bcf6b778ba737e85e2255d12f894eedf0a091d1",
+   "size": 55423
+  },
+  "voice/ha/trace_hintSay_boy.mp3": {
+   "sha": "b287781136ad46f4d71341d5c2723e88309cbf41",
+   "size": 32644
+  },
+  "voice/ha/waitingReviewChild_boy.mp3": {
+   "sha": "bd6d12eecad90a9757544277c3956123fac40f57",
+   "size": 68380
+  },
+  "voice/ha/whoLearnsSub_boy.mp3": {
+   "sha": "694431cdb72586509f425ab52ec58f63f7c949e1",
+   "size": 24285
+  },
+  "voice/ha/words_findPicture_boy.mp3": {
+   "sha": "3349f1a806b7ecefd336689a63af10de5f9a9aa1",
+   "size": 32435
+  },
+  "voice/hi/areaHint_achievements_boy.mp3": {
+   "sha": "89c31be201e8db2f01e43a673d3b003cd9659cc7",
+   "size": 25957
+  },
+  "voice/hi/areaHint_duas_boy.mp3": {
+   "sha": "b314b7875aecb942e69a8142d44393a9798657c9",
+   "size": 32853
+  },
+  "voice/hi/areaHint_games_boy.mp3": {
+   "sha": "423f21d8a8984b16bb8095012fa692ad4a0460ad",
+   "size": 12791
+  },
+  "voice/hi/areaHint_knowledge_boy.mp3": {
+   "sha": "008b44b4459c1eda5b9417f06fe33234cea046c7",
+   "size": 28256
+  },
+  "voice/hi/areaHint_prayer_boy.mp3": {
+   "sha": "32f89df26c5baef0e13a696e26781c0848ae4df6",
+   "size": 40586
+  },
+  "voice/hi/areaHint_quran_boy.mp3": {
+   "sha": "e756849ffb4de57c2214ea3f3d3e84de5c2d8107",
+   "size": 29928
+  },
+  "voice/hi/areaHint_stories_boy.mp3": {
+   "sha": "9dfeefb1986f8be205358e04aad5eb6e9edec0de",
+   "size": 22404
+  },
+  "voice/hi/areaHint_words_boy.mp3": {
+   "sha": "c020776d3663f61a58330e71f5dfd3003bf23ae9",
+   "size": 27211
+  },
+  "voice/hi/breakTime_boy.mp3": {
+   "sha": "0c4d2516db419e290fb98d9e805a532b40623ad3",
+   "size": 37242
+  },
+  "voice/hi/cheer_excellent_boy.mp3": {
+   "sha": "edff34241b1d964e05db627806846905dc099ef2",
+   "size": 22613
+  },
+  "voice/hi/garden_complete_boy.mp3": {
+   "sha": "0c08d40630c400fd795495a0469be04321aee4e8",
+   "size": 37869
+  },
+  "voice/hi/garden_empty_boy.mp3": {
+   "sha": "c29931ac66357298fc426b4e2562a598dffbb3e5",
+   "size": 49781
+  },
+  "voice/hi/greetSub_boy.mp3": {
+   "sha": "0bd4695ed600f578e6c022a1d804780eb69881f9",
+   "size": 16553
+  },
+  "voice/hi/greet_boy.mp3": {
+   "sha": "264ff7e006589cee4bc93b1cd5a56f20829abec8",
+   "size": 14672
+  },
+  "voice/hi/memory_hint_boy.mp3": {
+   "sha": "0e8bde3b5df2e89643e6dc19f71e6bc9d5c9db6f",
+   "size": 25121
+  },
+  "voice/hi/order_ayahsHint_boy.mp3": {
+   "sha": "b2a1486cc11147071cfdbbad2e2199d824ccacda",
+   "size": 31181
+  },
+  "voice/hi/order_sentenceHint_boy.mp3": {
+   "sha": "db9980a5bfaec3cc60c08f00fb1ddd94591bd3ac",
+   "size": 41421
+  },
+  "voice/hi/order_stepsHint_boy.mp3": {
+   "sha": "ca262f9b7588cfb4c213ecb5f48cdc670ccceee2",
+   "size": 30137
+  },
+  "voice/hi/quiz_empty_boy.mp3": {
+   "sha": "0c4962cb6280e11a15d0c07d5a98f1d340e5545a",
+   "size": 25121
+  },
+  "voice/hi/quiz_notQuite_boy.mp3": {
+   "sha": "0fa35b0ff3c38fc4eb4ff214931ad21d02bb821e",
+   "size": 42257
+  },
+  "voice/hi/quiz_right_boy.mp3": {
+   "sha": "5ad77fd14c2d8da4dfac85810b7c56206a3f53ff",
+   "size": 24494
+  },
+  "voice/hi/spell_hint_boy.mp3": {
+   "sha": "3c5b4184f3d4b0eaf043dd0adf21aa5b0e95ea51",
+   "size": 43720
+  },
+  "voice/hi/story_intro_boy.mp3": {
+   "sha": "471d109fa33c5ee683f5a46fc70887e84bab08ae",
+   "size": 39541
+  },
+  "voice/hi/surah_hideHint_boy.mp3": {
+   "sha": "95e782745115e71003558e9e15717c9a94efeea1",
+   "size": 43093
+  },
+  "voice/hi/trace_hintSay_boy.mp3": {
+   "sha": "1c97580b07b37583f37f8cddc9f59869c9f2ee6c",
+   "size": 22195
+  },
+  "voice/hi/waitingReviewChild_boy.mp3": {
+   "sha": "e9de3b888d42e63d76b3772fc3364d5723d125be",
+   "size": 49363
+  },
+  "voice/hi/whoLearnsSub_boy.mp3": {
+   "sha": "04c7d375cbf02df0f89180f9f6ac2abdbff226e8",
+   "size": 33062
+  },
+  "voice/hi/words_findPicture_boy.mp3": {
+   "sha": "a7f0f83942a2b795fee20741400c59199d5afad5",
+   "size": 36406
+  },
+  "voice/id/areaHint_achievements_boy.mp3": {
+   "sha": "c05aa6ff4a3341970a5efb95ea1664631698d24d",
+   "size": 30346
+  },
+  "voice/id/areaHint_duas_boy.mp3": {
+   "sha": "e97ae4880d55ac10c31c943279dafc2e3867426e",
+   "size": 35570
+  },
+  "voice/id/areaHint_games_boy.mp3": {
+   "sha": "db27c7c5c4c369e56a690562b5b617a5e3780b45",
+   "size": 19688
+  },
+  "voice/id/areaHint_knowledge_boy.mp3": {
+   "sha": "db82f84ccd413a1968b85343c6f52b9208b0f799",
+   "size": 23240
+  },
+  "voice/id/areaHint_prayer_boy.mp3": {
+   "sha": "80fc709a62c863e58575d2a09685f5c4cdb23836",
+   "size": 28883
+  },
+  "voice/id/areaHint_quran_boy.mp3": {
+   "sha": "c1c234a140aae0a090d503dd489b1c6ee2222887",
+   "size": 38914
+  },
+  "voice/id/areaHint_stories_boy.mp3": {
+   "sha": "6bb5971142921f8416ef74bf6828bcb08ca2851b",
+   "size": 23658
+  },
+  "voice/id/areaHint_words_boy.mp3": {
+   "sha": "f5384834f9b0873b7bc1b6b49fec6d77780815f8",
+   "size": 34734
+  },
+  "voice/id/breakTime_boy.mp3": {
+   "sha": "867e34005425676cd15d2b4f11a3d7a865bfd755",
+   "size": 39959
+  },
+  "voice/id/cheer_excellent_boy.mp3": {
+   "sha": "bfd55ec939601e43684b7a985a18e9b6b28de961",
+   "size": 18852
+  },
+  "voice/id/garden_complete_boy.mp3": {
+   "sha": "132fe8cd4cbfacd80d36075f7879e5f4037ce845",
+   "size": 27420
+  },
+  "voice/id/garden_empty_boy.mp3": {
+   "sha": "29dfe57bcf52d005541b497f679770b0ad18d11e",
+   "size": 48527
+  },
+  "voice/id/greetSub_boy.mp3": {
+   "sha": "4a51765c04954d3c9a8bafd29024d89d066f604a",
+   "size": 20941
+  },
+  "voice/id/greet_boy.mp3": {
+   "sha": "edc9c0c452f0f12a2ff2aa3bad673faba81d4c39",
+   "size": 13209
+  },
+  "voice/id/memory_hint_boy.mp3": {
+   "sha": "bae6345ccb82f4b18f55473d84deece96f7954e2",
+   "size": 31599
+  },
+  "voice/id/order_ayahsHint_boy.mp3": {
+   "sha": "6956da7b44aaaeb41f4047bad0e0e09d16b3a258",
+   "size": 37660
+  },
+  "voice/id/order_sentenceHint_boy.mp3": {
+   "sha": "159a41c62495eff335c60892545d402fe2620e79",
+   "size": 37660
+  },
+  "voice/id/order_stepsHint_boy.mp3": {
+   "sha": "426595f557dc3ed66354037c2daf0d01df51659c",
+   "size": 36615
+  },
+  "voice/id/quiz_empty_boy.mp3": {
+   "sha": "46bd03ea579f84bf0ae2b7ee1f5afaf1692614fd",
+   "size": 33062
+  },
+  "voice/id/quiz_notQuite_boy.mp3": {
+   "sha": "3b2cd155e1a001b245dd0de4d6ab11ffff881ff6",
+   "size": 53542
+  },
+  "voice/id/quiz_right_boy.mp3": {
+   "sha": "8d5c3189c930ecbf4576de23332911e05c9bdb53",
+   "size": 22195
+  },
+  "voice/id/spell_hint_boy.mp3": {
+   "sha": "d3ec127690838050128d12c4a6172d99e8657b97",
+   "size": 37869
+  },
+  "voice/id/story_intro_boy.mp3": {
+   "sha": "501a286f77c113aa4fbcffa38e21654fd377270c",
+   "size": 38078
+  },
+  "voice/id/surah_hideHint_boy.mp3": {
+   "sha": "86498d2d3de3adf8f5f3f35acd19ddcde2af4cf4",
+   "size": 39541
+  },
+  "voice/id/trace_hintSay_boy.mp3": {
+   "sha": "ca1efcab2fecd575cd1fdb1a41594d90a9d70278",
+   "size": 27629
+  },
+  "voice/id/waitingReviewChild_boy.mp3": {
+   "sha": "d3ba776ab09c3e8c7466e12f0d8c817a0654fbd0",
+   "size": 46437
+  },
+  "voice/id/whoLearnsSub_boy.mp3": {
+   "sha": "dfabaf6a106d8879af5e5af70450bcdfaea7a482",
+   "size": 25121
+  },
+  "voice/id/words_findPicture_boy.mp3": {
+   "sha": "6107944036a03f770b89c6fc1b1bde10b281713a",
+   "size": 31599
+  },
+  "voice/kk-Cyrl/areaHint_achievements_boy.mp3": {
+   "sha": "c65acb31178ed46b91787239d1e531271bd4aba9",
+   "size": 23867
+  },
+  "voice/kk-Cyrl/areaHint_duas_boy.mp3": {
+   "sha": "c86daffcd1d5b883115e2e9a039a2af4d3662ae8",
+   "size": 31181
+  },
+  "voice/kk-Cyrl/areaHint_games_boy.mp3": {
+   "sha": "051bf19ca85df70c48525ead364a73eebc730c53",
+   "size": 15508
+  },
+  "voice/kk-Cyrl/areaHint_knowledge_boy.mp3": {
+   "sha": "0ac559f198c909c0e8a5ac2897dcdfee1af1865a",
+   "size": 39541
+  },
+  "voice/kk-Cyrl/areaHint_prayer_boy.mp3": {
+   "sha": "bb627060b70f890b559587d357caa10ac679a756",
+   "size": 34943
+  },
+  "voice/kk-Cyrl/areaHint_quran_boy.mp3": {
+   "sha": "2656fb74eedf34f7733779d3daab1747aaf66a75",
+   "size": 34734
+  },
+  "voice/kk-Cyrl/areaHint_stories_boy.mp3": {
+   "sha": "f02fb45d218de80690f2a66aff0b5d362aeaf7a8",
+   "size": 31599
+  },
+  "voice/kk-Cyrl/areaHint_words_boy.mp3": {
+   "sha": "2ec229e00bd449121d5d748c1cc0813aebf67007",
+   "size": 35779
+  },
+  "voice/kk-Cyrl/breakTime_boy.mp3": {
+   "sha": "6aaf5d4f0a2eb9c43096a23dfb51fb2ae4d7d88b",
+   "size": 45183
+  },
+  "voice/kk-Cyrl/cheer_excellent_boy.mp3": {
+   "sha": "c2450a303fc723eb60e9a21413e8950eded1d876",
+   "size": 19479
+  },
+  "voice/kk-Cyrl/garden_complete_boy.mp3": {
+   "sha": "e6788a31c7d671ac5a9d95d61eee56f945a6f758",
+   "size": 29719
+  },
+  "voice/kk-Cyrl/garden_empty_boy.mp3": {
+   "sha": "0a203359172eaeff226276f01af7b9bd679b5946",
+   "size": 55214
+  },
+  "voice/kk-Cyrl/greetSub_boy.mp3": {
+   "sha": "0ffad940b384bd332c7bd670bb7c7d84ff0a6cba",
+   "size": 19479
+  },
+  "voice/kk-Cyrl/greet_boy.mp3": {
+   "sha": "234c789357cceca50d8b1e47585ce3d8c34fa57b",
+   "size": 18434
+  },
+  "voice/kk-Cyrl/memory_hint_boy.mp3": {
+   "sha": "2256f4728698c96b8a1a2fd2eefdc6f04dbf2d70",
+   "size": 20524
+  },
+  "voice/kk-Cyrl/order_ayahsHint_boy.mp3": {
+   "sha": "b67d258e219c48b63f02b851a5576479ec2eb113",
+   "size": 37869
+  },
+  "voice/kk-Cyrl/order_sentenceHint_boy.mp3": {
+   "sha": "3f94d5164a2001dbbe8420040e2e8ecf821bbf83",
+   "size": 33689
+  },
+  "voice/kk-Cyrl/order_stepsHint_boy.mp3": {
+   "sha": "0816abc89e35804bb78592e6dde8a541f80941e2",
+   "size": 23031
+  },
+  "voice/kk-Cyrl/quiz_empty_boy.mp3": {
+   "sha": "12ecceb37397d5c7c89a670b975ff5d4d52be792",
+   "size": 19479
+  },
+  "voice/kk-Cyrl/quiz_notQuite_boy.mp3": {
+   "sha": "dfb78a1321f80442ca06517f239d941e4d917557",
+   "size": 49154
+  },
+  "voice/kk-Cyrl/quiz_right_boy.mp3": {
+   "sha": "01b0776a13862c1f503a3bb2fccf43778b7d7fef",
+   "size": 12373
+  },
+  "voice/kk-Cyrl/spell_hint_boy.mp3": {
+   "sha": "b85afdd47b74b4f9bc3ae9e974149333f1e21d34",
+   "size": 39123
+  },
+  "voice/kk-Cyrl/story_intro_boy.mp3": {
+   "sha": "a475e576d499e4e100b5e88ead2ba6e1fc18a50e",
+   "size": 25330
+  },
+  "voice/kk-Cyrl/surah_hideHint_boy.mp3": {
+   "sha": "69dd97640598cce96520f639cea43a91b5db19e2",
+   "size": 46855
+  },
+  "voice/kk-Cyrl/trace_hintSay_boy.mp3": {
+   "sha": "f7af7424c70d8012843b8f18057d15770cb56eff",
+   "size": 23658
+  },
+  "voice/kk-Cyrl/waitingReviewChild_boy.mp3": {
+   "sha": "4baae476e8f23c1453c2e6730e0fce99f053ca2c",
+   "size": 50199
+  },
+  "voice/kk-Cyrl/whoLearnsSub_boy.mp3": {
+   "sha": "31b0b19ebeb6a1ece559f0ea8aa9bac4c27abe0a",
+   "size": 26375
+  },
+  "voice/kk-Cyrl/words_findPicture_boy.mp3": {
+   "sha": "448c0d909f63f1e5bc6edd7a32ac1370ca1e586e",
+   "size": 29928
+  },
+  "voice/ku-Arab/areaHint_achievements_boy.mp3": {
+   "sha": "d19ddb370f6d4855c1b8af4108d586292095750a",
+   "size": 35779
+  },
+  "voice/ku-Arab/areaHint_duas_boy.mp3": {
+   "sha": "51f88a0a53982c2b693269856cd81e602ba7b8b1",
+   "size": 36406
+  },
+  "voice/ku-Arab/areaHint_games_boy.mp3": {
+   "sha": "81a7838d53a4bb77f4bcf7271a8ab233b2d0cc8b",
+   "size": 19061
+  },
+  "voice/ku-Arab/areaHint_knowledge_boy.mp3": {
+   "sha": "63d06cf07bf2d45430c7f5dcc73e21f799cb0d1c",
+   "size": 27629
+  },
+  "voice/ku-Arab/areaHint_prayer_boy.mp3": {
+   "sha": "fb73af846d6d9ccc946ae32ab31bed08febbea50",
+   "size": 45392
+  },
+  "voice/ku-Arab/areaHint_quran_boy.mp3": {
+   "sha": "adaf5d749f1d911a69d0491c2f9486499aeeaf32",
+   "size": 43093
+  },
+  "voice/ku-Arab/areaHint_stories_boy.mp3": {
+   "sha": "d76ffddb0b10823c8d64be18c176949262a90d63",
+   "size": 27211
+  },
+  "voice/ku-Arab/areaHint_words_boy.mp3": {
+   "sha": "62d2ca4bea446a7630943ec92848f68a58333aa5",
+   "size": 35988
+  },
+  "voice/ku-Arab/breakTime_boy.mp3": {
+   "sha": "44727224c1a8cc8d5cf25e1d56d0f94ec6831374",
+   "size": 39123
+  },
+  "voice/ku-Arab/cheer_excellent_boy.mp3": {
+   "sha": "24a640b4d085c8d705529fb73be40c5570bf2e29",
+   "size": 20524
+  },
+  "voice/ku-Arab/garden_complete_boy.mp3": {
+   "sha": "7e746d183619b1fc976fa9600820809c93836695",
+   "size": 34943
+  },
+  "voice/ku-Arab/garden_empty_boy.mp3": {
+   "sha": "16de0a78b37ef94b3d8f4cb78e6f43dfb87932f4",
+   "size": 63364
+  },
+  "voice/ku-Arab/greetSub_boy.mp3": {
+   "sha": "5e1e20ba4ddcfa3c3cc265a797d90a700b83bb41",
+   "size": 18016
+  },
+  "voice/ku-Arab/greet_boy.mp3": {
+   "sha": "16c8576eb1bbd9caa4191eb510bb177bd57eeaae",
+   "size": 22195
+  },
+  "voice/ku-Arab/memory_hint_boy.mp3": {
+   "sha": "cb1419a4a2c1d9de7bf931cbe1a4201bbfbd3d57",
+   "size": 32226
+  },
+  "voice/ku-Arab/order_ayahsHint_boy.mp3": {
+   "sha": "71dd904c89d44e3fed9405bff8083c2c47c698e9",
+   "size": 48527
+  },
+  "voice/ku-Arab/order_sentenceHint_boy.mp3": {
+   "sha": "c2e2287c0cdda7053329be636262e36d2dabea14",
+   "size": 43929
+  },
+  "voice/ku-Arab/order_stepsHint_boy.mp3": {
+   "sha": "86e5ea2d670eaf74547bf68b27cb288f36d0fe18",
+   "size": 28674
+  },
+  "voice/ku-Arab/quiz_empty_boy.mp3": {
+   "sha": "1c9c42b2cb88e3c6565abfe69c7f62ee2f112e3b",
+   "size": 32644
+  },
+  "voice/ku-Arab/quiz_notQuite_boy.mp3": {
+   "sha": "e9ef3b12e2eb0af3149a20278dc81ebdc054302a",
+   "size": 45392
+  },
+  "voice/ku-Arab/quiz_right_boy.mp3": {
+   "sha": "6dee2ae66cee0fc83b6fa5fe56ffa8112a1ae07a",
+   "size": 7149
+  },
+  "voice/ku-Arab/spell_hint_boy.mp3": {
+   "sha": "68093bfbb0c9f951816c8f1fce322bf7dc6c1468",
+   "size": 46855
+  },
+  "voice/ku-Arab/story_intro_boy.mp3": {
+   "sha": "94c195b7e9d45ea49e29c5d20ec88dff471c4d56",
+   "size": 35988
+  },
+  "voice/ku-Arab/surah_hideHint_boy.mp3": {
+   "sha": "c61693ca884c969d3b67b6d91f1c63e278513522",
+   "size": 51244
+  },
+  "voice/ku-Arab/trace_hintSay_boy.mp3": {
+   "sha": "8ce7a6658444de5747636b3f31c4ad25396e59d2",
+   "size": 32435
+  },
+  "voice/ku-Arab/waitingReviewChild_boy.mp3": {
+   "sha": "d8e5c2e8e86757d0d33096cfec28457f30623bda",
+   "size": 49781
+  },
+  "voice/ku-Arab/whoLearnsSub_boy.mp3": {
+   "sha": "5f03ed50d16c316397908373bb17deca136f821b",
+   "size": 34316
+  },
+  "voice/ku-Arab/words_findPicture_boy.mp3": {
+   "sha": "a44fd8ae870bfd1a1ec8089c7e74632b63763526",
+   "size": 36824
+  },
+  "voice/ku-Latn/areaHint_achievements_boy.mp3": {
+   "sha": "5f39a3602ca820a78567fb72c14a2d7f73e250a0",
+   "size": 34525
+  },
+  "voice/ku-Latn/areaHint_duas_boy.mp3": {
+   "sha": "3782fcf9d3f9aeff3a62ffe452aa4dbcaab3ca9e",
+   "size": 37451
+  },
+  "voice/ku-Latn/areaHint_games_boy.mp3": {
+   "sha": "ed697589bcd6c075fcf2e846db422e54517ac08e",
+   "size": 18225
+  },
+  "voice/ku-Latn/areaHint_knowledge_boy.mp3": {
+   "sha": "18414f1854b9e31c89754e92134f99e7df901984",
+   "size": 25957
+  },
+  "voice/ku-Latn/areaHint_prayer_boy.mp3": {
+   "sha": "36a2c957027afa78ab6e046b1a9837ec112cb256",
+   "size": 46437
+  },
+  "voice/ku-Latn/areaHint_quran_boy.mp3": {
+   "sha": "49b508805b3e4d596bcc3c48eb413addd51275de",
+   "size": 39959
+  },
+  "voice/ku-Latn/areaHint_stories_boy.mp3": {
+   "sha": "3f7a15f335c342b28b4094ed36bbc90702ea28fc",
+   "size": 35570
+  },
+  "voice/ku-Latn/areaHint_words_boy.mp3": {
+   "sha": "2b40910cbf0d1ea5f420e8dbcd66a0a193573255",
+   "size": 39541
+  },
+  "voice/ku-Latn/breakTime_boy.mp3": {
+   "sha": "4ed94be3b9ce726b36c8e70003b3bc978cc9e5f6",
+   "size": 37869
+  },
+  "voice/ku-Latn/cheer_excellent_boy.mp3": {
+   "sha": "f3cd3979e1699dac33a76e74664b7351ecd8ca4e",
+   "size": 19061
+  },
+  "voice/ku-Latn/garden_complete_boy.mp3": {
+   "sha": "0e2adf5e6461ddbf1856dbaa5d49244210d70f00",
+   "size": 33689
+  },
+  "voice/ku-Latn/garden_empty_boy.mp3": {
+   "sha": "33a5e4fcbec70741e2902994619561670a2a19bf",
+   "size": 56677
+  },
+  "voice/ku-Latn/greetSub_boy.mp3": {
+   "sha": "4d33a28427b7b065090b584855197331a4858007",
+   "size": 21777
+  },
+  "voice/ku-Latn/greet_boy.mp3": {
+   "sha": "7c7fbcbc7c35a64fd2468ed9351254dc9ef213b6",
+   "size": 17180
+  },
+  "voice/ku-Latn/memory_hint_boy.mp3": {
+   "sha": "563c1aab645e782c560b2643fbe53e731da6c70a",
+   "size": 23240
+  },
+  "voice/ku-Latn/order_ayahsHint_boy.mp3": {
+   "sha": "2e6d2438744c87bc0dd11eb371ad92db17079a85",
+   "size": 46855
+  },
+  "voice/ku-Latn/order_sentenceHint_boy.mp3": {
+   "sha": "ba4173f5151c81a29fa58d4c86a036df9ee9df93",
+   "size": 37660
+  },
+  "voice/ku-Latn/order_stepsHint_boy.mp3": {
+   "sha": "4b75ec74f96e658bb8dee7518555883bb913b610",
+   "size": 40168
+  },
+  "voice/ku-Latn/quiz_empty_boy.mp3": {
+   "sha": "5613b0afcdae2ea935fc7598abe76cbf53931351",
+   "size": 24285
+  },
+  "voice/ku-Latn/quiz_notQuite_boy.mp3": {
+   "sha": "130aaf133d26757d07d0684486b036856a675474",
+   "size": 33898
+  },
+  "voice/ku-Latn/quiz_right_boy.mp3": {
+   "sha": "db857b94965eaa58466fd41101c098c73a021b73",
+   "size": 7149
+  },
+  "voice/ku-Latn/spell_hint_boy.mp3": {
+   "sha": "9d238f47ce3eb86285fe49ba2085fb5d53e8aaf8",
+   "size": 38287
+  },
+  "voice/ku-Latn/story_intro_boy.mp3": {
+   "sha": "d80172669414759f9e2081f69431c4bfee970165",
+   "size": 31599
+  },
+  "voice/ku-Latn/surah_hideHint_boy.mp3": {
+   "sha": "631ada61096ce51bf7bbadfdfa9e594b7f1720c0",
+   "size": 57513
+  },
+  "voice/ku-Latn/trace_hintSay_boy.mp3": {
+   "sha": "4e248732b0daa1a86a882b7ecb2737c71ba03ca2",
+   "size": 27838
+  },
+  "voice/ku-Latn/waitingReviewChild_boy.mp3": {
+   "sha": "54c7c4d21f7b929e33796478d764b29646249603",
+   "size": 55005
+  },
+  "voice/ku-Latn/whoLearnsSub_boy.mp3": {
+   "sha": "bda9b946349e63ce29e40c7c29be1bec290d705e",
+   "size": 40377
+  },
+  "voice/ku-Latn/words_findPicture_boy.mp3": {
+   "sha": "d7d633043ed565fd75e37f9ccee7b43f94eb72c5",
+   "size": 32226
+  },
+  "voice/ml/areaHint_achievements_boy.mp3": {
+   "sha": "73557ebd47955e6925716e3a34345d6b2cb20fe4",
+   "size": 23867
+  },
+  "voice/ml/areaHint_duas_boy.mp3": {
+   "sha": "202159823a9860c720d71b902f0813fb909ed15d",
+   "size": 33062
+  },
+  "voice/ml/areaHint_games_boy.mp3": {
+   "sha": "fec1806331cdc9b5b81875fb33932b11edb5125c",
+   "size": 15717
+  },
+  "voice/ml/areaHint_knowledge_boy.mp3": {
+   "sha": "d02a5f22ff648d5794b82ee4fd2053731d9e0c3d",
+   "size": 30973
+  },
+  "voice/ml/areaHint_prayer_boy.mp3": {
+   "sha": "9a56564f538c71d9338e2e06ba48242180462fcb",
+   "size": 42257
+  },
+  "voice/ml/areaHint_quran_boy.mp3": {
+   "sha": "2d0b93686168f3d25b0ca6e3748dd83a55324b68",
+   "size": 41004
+  },
+  "voice/ml/areaHint_stories_boy.mp3": {
+   "sha": "c053085bc28f4b494816f1042a839568cfd03ccc",
+   "size": 40168
+  },
+  "voice/ml/areaHint_words_boy.mp3": {
+   "sha": "9e25294f0005059ca73edc031ae2ab03a143dabe",
+   "size": 29719
+  },
+  "voice/ml/breakTime_boy.mp3": {
+   "sha": "b4d3858e5a563bce64a96900777410974fb0a484",
+   "size": 45392
+  },
+  "voice/ml/cheer_excellent_boy.mp3": {
+   "sha": "9fd25c7c1af0895cc9c130a66687361217fb177d",
+   "size": 25957
+  },
+  "voice/ml/garden_complete_boy.mp3": {
+   "sha": "6359e43333e4812cc16950db8874103e3b305c49",
+   "size": 40377
+  },
+  "voice/ml/garden_empty_boy.mp3": {
+   "sha": "a9bd24b43a796b7dca6bb3a60001c5b6c9628daf",
+   "size": 52288
+  },
+  "voice/ml/greetSub_boy.mp3": {
+   "sha": "b41fa3a5e249306357f1468d7a15ddb2a7152a07",
+   "size": 25121
+  },
+  "voice/ml/greet_boy.mp3": {
+   "sha": "d8f91e5f204f8156bb500826e940719c5e2ffde0",
+   "size": 19061
+  },
+  "voice/ml/memory_hint_boy.mp3": {
+   "sha": "ad18a0f776e4ff8d0c9a5b5fb1822f0d813101ea",
+   "size": 40377
+  },
+  "voice/ml/order_ayahsHint_boy.mp3": {
+   "sha": "8627946b730a83aa99fbab106d12a1f79ea4287e",
+   "size": 49154
+  },
+  "voice/ml/order_sentenceHint_boy.mp3": {
+   "sha": "dd6368c2c118dce26af3f0d22eead8c8b4554019",
+   "size": 32017
+  },
+  "voice/ml/order_stepsHint_boy.mp3": {
+   "sha": "9b17aa9abc81784abc7dd53578697934e9b73392",
+   "size": 34107
+  },
+  "voice/ml/quiz_empty_boy.mp3": {
+   "sha": "fafffdeb578a5f5bf87aae5f65edf6e2d83dbf70",
+   "size": 21777
+  },
+  "voice/ml/quiz_notQuite_boy.mp3": {
+   "sha": "137318c867ab9e25f27d9941f3d3b5d3e7948097",
+   "size": 57095
+  },
+  "voice/ml/quiz_right_boy.mp3": {
+   "sha": "40cb21561c1a111e95e3daf30be65e779714ca2d",
+   "size": 17807
+  },
+  "voice/ml/spell_hint_boy.mp3": {
+   "sha": "59de62fac9c5dcf72d2b7f6e5a7f5515df0be866",
+   "size": 41004
+  },
+  "voice/ml/story_intro_boy.mp3": {
+   "sha": "04eb11c3fc61b0baaab7e6e91e05a9c727e90815",
+   "size": 34316
+  },
+  "voice/ml/surah_hideHint_boy.mp3": {
+   "sha": "fc5e16b295f222f780b716b3dc04501201bdb089",
+   "size": 44765
+  },
+  "voice/ml/trace_hintSay_boy.mp3": {
+   "sha": "971954415c0302893d93d49440a4bacdb4b8e671",
+   "size": 42257
+  },
+  "voice/ml/waitingReviewChild_boy.mp3": {
+   "sha": "6be84d017457dda5771e5d222e23e704519dc210",
+   "size": 62528
+  },
+  "voice/ml/whoLearnsSub_boy.mp3": {
+   "sha": "9d9a2770b50bb1283d18aa94ec883fc31fd41c5e",
+   "size": 23449
+  },
+  "voice/ml/words_findPicture_boy.mp3": {
+   "sha": "cb6da81ebab6214359384bee35daecc730fbc6db",
+   "size": 31808
+  },
+  "voice/ms/areaHint_achievements_boy.mp3": {
+   "sha": "bc208e3fadb9c751e8ba0e5db6fd3a7d57ec9966",
+   "size": 25539
+  },
+  "voice/ms/areaHint_duas_boy.mp3": {
+   "sha": "53c7a46fae9c661bc93ae5a47f32a02fdf4dca73",
+   "size": 34107
+  },
+  "voice/ms/areaHint_games_boy.mp3": {
+   "sha": "63ea969ddf30517fc44866a641d818bdd950aded",
+   "size": 19061
+  },
+  "voice/ms/areaHint_knowledge_boy.mp3": {
+   "sha": "f24c2cfb68f293354ac2c1ed0983711a53b3a878",
+   "size": 28047
+  },
+  "voice/ms/areaHint_prayer_boy.mp3": {
+   "sha": "eddbd4c87a6c622a95a61b7298eef6cbc1f5aca6",
+   "size": 30764
+  },
+  "voice/ms/areaHint_quran_boy.mp3": {
+   "sha": "18c89ce10b9eca7113adf9ed1be3591593fa51d5",
+   "size": 30973
+  },
+  "voice/ms/areaHint_stories_boy.mp3": {
+   "sha": "5d63b8e328c26c106bf48fe28d42fa74249a0d16",
+   "size": 25121
+  },
+  "voice/ms/areaHint_words_boy.mp3": {
+   "sha": "c1f6c09328c52ef389d82b6498d71cc4fbaf185c",
+   "size": 31390
+  },
+  "voice/ms/breakTime_boy.mp3": {
+   "sha": "e619ed01a5410bed3d96754022fb37ab5f725ce8",
+   "size": 38078
+  },
+  "voice/ms/cheer_excellent_boy.mp3": {
+   "sha": "1128fbd60367ed10a9056edcae166f1aba479ae4",
+   "size": 18225
+  },
+  "voice/ms/garden_complete_boy.mp3": {
+   "sha": "5e2b908fd848570c00ff9a5d967a4f9c92046724",
+   "size": 27838
+  },
+  "voice/ms/garden_empty_boy.mp3": {
+   "sha": "9cd4f73378c7c4b2e0dd5d975c7ffeacb58f7e78",
+   "size": 58140
+  },
+  "voice/ms/greetSub_boy.mp3": {
+   "sha": "3ce132f217cf31157040089024cd5201cd946c9b",
+   "size": 27629
+  },
+  "voice/ms/greet_boy.mp3": {
+   "sha": "03d34d1ec1f888ca9e14020df2d2376be7d2f926",
+   "size": 29510
+  },
+  "voice/ms/memory_hint_boy.mp3": {
+   "sha": "83cee2405ab02e2677e08336d9779939afb4d9ce",
+   "size": 19061
+  },
+  "voice/ms/order_ayahsHint_boy.mp3": {
+   "sha": "ef795504b68fb1ef01f40d9091b9b1257e7cc993",
+   "size": 38078
+  },
+  "voice/ms/order_sentenceHint_boy.mp3": {
+   "sha": "98cf50d38768067ba3293fe5cc946a1940e296c5",
+   "size": 35570
+  },
+  "voice/ms/order_stepsHint_boy.mp3": {
+   "sha": "bfef3bbae4d18b4dad49fbf7677f51c280819f3b",
+   "size": 31599
+  },
+  "voice/ms/quiz_empty_boy.mp3": {
+   "sha": "4d081e26e0fe3ea7bae24750a8cccda3a3fb450d",
+   "size": 18852
+  },
+  "voice/ms/quiz_notQuite_boy.mp3": {
+   "sha": "f8a36741e3e4c38b4db32c5a1c8e4960deb38ddd",
+   "size": 51035
+  },
+  "voice/ms/quiz_right_boy.mp3": {
+   "sha": "b238c2ccd8452616c22a0092d4a0625b8ca13831",
+   "size": 10910
+  },
+  "voice/ms/spell_hint_boy.mp3": {
+   "sha": "b0febc6c517b90ffc43614c2919ba05e6b4a66ca",
+   "size": 40377
+  },
+  "voice/ms/story_intro_boy.mp3": {
+   "sha": "2a762ea5339b9167c3da85a8df4a553c8a1df0c6",
+   "size": 25748
+  },
+  "voice/ms/surah_hideHint_boy.mp3": {
+   "sha": "f31f44b37a6e23c3fe93b701776c19f90abe9148",
+   "size": 43929
+  },
+  "voice/ms/trace_hintSay_boy.mp3": {
+   "sha": "a288e8c02774ee6e4dab2ced66c38271075bb306",
+   "size": 23867
+  },
+  "voice/ms/waitingReviewChild_boy.mp3": {
+   "sha": "b678128d415125065883fcb3088756d36e7913eb",
+   "size": 43929
+  },
+  "voice/ms/whoLearnsSub_boy.mp3": {
+   "sha": "97ae9bac17d06c468af5df41f4ccabcfcd34a176",
+   "size": 23031
+  },
+  "voice/ms/words_findPicture_boy.mp3": {
+   "sha": "3ad17a09e1a4e066441924edef24e9840153af36",
+   "size": 32017
+  },
+  "voice/my/areaHint_achievements_boy.mp3": {
+   "sha": "e8ede7cc52c93c1f18b4e68ee249b550f141ef6d",
+   "size": 31390
+  },
+  "voice/my/areaHint_duas_boy.mp3": {
+   "sha": "012bd3cb3e685143b5f1874d0d52650de77d6f2b",
+   "size": 38705
+  },
+  "voice/my/areaHint_games_boy.mp3": {
+   "sha": "73016be1a7edcb9b7f82710f63c8ef7686875417",
+   "size": 28256
+  },
+  "voice/my/areaHint_knowledge_boy.mp3": {
+   "sha": "dbf3e19a18d52764b2c70d09e18ea8540a179237",
+   "size": 37242
+  },
+  "voice/my/areaHint_prayer_boy.mp3": {
+   "sha": "bcdbaba47d3dc370f6c4b4c689a60c82ba8da922",
+   "size": 43093
+  },
+  "voice/my/areaHint_quran_boy.mp3": {
+   "sha": "f24c9f5e9a304ead502be800cd1975d052a51e0f",
+   "size": 43093
+  },
+  "voice/my/areaHint_stories_boy.mp3": {
+   "sha": "89263ee56b88981ecb574066f22e825f736cf9f1",
+   "size": 37033
+  },
+  "voice/my/areaHint_words_boy.mp3": {
+   "sha": "599a2360a9dde5309af39cc9a089595ebc5a9262",
+   "size": 38914
+  },
+  "voice/my/breakTime_boy.mp3": {
+   "sha": "f477d09f69a10b731aa4b1ffe6307a2d456a3109",
+   "size": 49572
+  },
+  "voice/my/cheer_excellent_boy.mp3": {
+   "sha": "806c727689b5b7b4bfc49e8676f42f3e2b13403e",
+   "size": 27002
+  },
+  "voice/my/garden_complete_boy.mp3": {
+   "sha": "ef3ea7bb49c9f8803e6306a1a361b1396dd0812f",
+   "size": 50199
+  },
+  "voice/my/garden_empty_boy.mp3": {
+   "sha": "f7e9d828cc6023890c9c75f78a0e699c53370577",
+   "size": 55214
+  },
+  "voice/my/greetSub_boy.mp3": {
+   "sha": "a26f3e48e90f1a77e91bed5e73c2a71088ca58e3",
+   "size": 16553
+  },
+  "voice/my/greet_boy.mp3": {
+   "sha": "05f26cd85e7b4f700555b6f7c5b639406bf73bbb",
+   "size": 15717
+  },
+  "voice/my/memory_hint_boy.mp3": {
+   "sha": "239293b863cf1827c0410e2334281078a9019ae0",
+   "size": 22822
+  },
+  "voice/my/order_ayahsHint_boy.mp3": {
+   "sha": "a0b94e97a89325f8c3caa8e0dbe41dd965be78c6",
+   "size": 39750
+  },
+  "voice/my/order_sentenceHint_boy.mp3": {
+   "sha": "f9330e98ba51618b58b2db4338115d2722d276b1",
+   "size": 44765
+  },
+  "voice/my/order_stepsHint_boy.mp3": {
+   "sha": "9526fc38527df6e4fb59c8899498e8bc98b3c94a",
+   "size": 39541
+  },
+  "voice/my/quiz_empty_boy.mp3": {
+   "sha": "88fd42e6a325bfc063e94996fed1949309f1df8b",
+   "size": 20315
+  },
+  "voice/my/quiz_notQuite_boy.mp3": {
+   "sha": "6f93644b2c790ffad6d5c59ac34164957e74a62a",
+   "size": 53333
+  },
+  "voice/my/quiz_right_boy.mp3": {
+   "sha": "8a907bfc10d7684d787dfa785ffd8ea9ec700750",
+   "size": 7985
+  },
+  "voice/my/spell_hint_boy.mp3": {
+   "sha": "69aee9ad8e39fa57c339a137b38127ec0fb067b0",
+   "size": 41421
+  },
+  "voice/my/story_intro_boy.mp3": {
+   "sha": "12d36dde24de4a9911463a7e7e5eebe34f240809",
+   "size": 36824
+  },
+  "voice/my/surah_hideHint_boy.mp3": {
+   "sha": "3043a0ef38bde3cd5ad8fa58c8795cfc5394fc6a",
+   "size": 51661
+  },
+  "voice/my/trace_hintSay_boy.mp3": {
+   "sha": "ac1b01fe4c94d8ac72aef069fe8206e6af6fd7a6",
+   "size": 37660
+  },
+  "voice/my/waitingReviewChild_boy.mp3": {
+   "sha": "70c020c99675053f907fc71d81e4e03b5f50deed",
+   "size": 48736
+  },
+  "voice/my/whoLearnsSub_boy.mp3": {
+   "sha": "3ce20c277ef088d441e8d86c8b1243acfa0f731e",
+   "size": 27002
+  },
+  "voice/my/words_findPicture_boy.mp3": {
+   "sha": "dbed3e952d843bb86ea62d266d59edb228d19a62",
+   "size": 25957
+  },
+  "voice/om/areaHint_achievements_boy.mp3": {
+   "sha": "c60ae87f35c6ac933279e87fc26b401fb242cefd",
+   "size": 31390
+  },
+  "voice/om/areaHint_duas_boy.mp3": {
+   "sha": "8e6421d553c7c3714e1698f725cee422692b9721",
+   "size": 40795
+  },
+  "voice/om/areaHint_games_boy.mp3": {
+   "sha": "bcea345da8ad4ec9bd3c08cf504d01c976d6670d",
+   "size": 19479
+  },
+  "voice/om/areaHint_knowledge_boy.mp3": {
+   "sha": "fb8eab7c2c27586a2ea594b7bfe08497cceffe50",
+   "size": 48109
+  },
+  "voice/om/areaHint_prayer_boy.mp3": {
+   "sha": "9b542f978abda32333c6ed2d56fbf737d0c77359",
+   "size": 57931
+  },
+  "voice/om/areaHint_quran_boy.mp3": {
+   "sha": "7c225d5b1da512624992bd0ee2e964e3cd9ba83c",
+   "size": 39123
+  },
+  "voice/om/areaHint_stories_boy.mp3": {
+   "sha": "53afa703002b4ae4e0e676c80d0da0821cacb342",
+   "size": 41421
+  },
+  "voice/om/areaHint_words_boy.mp3": {
+   "sha": "802ea30859b46025c3b9ac7893c83cfff9da4dcb",
+   "size": 37242
+  },
+  "voice/om/breakTime_boy.mp3": {
+   "sha": "28902a94c740ede98627631125a0ccaec19547a3",
+   "size": 46228
+  },
+  "voice/om/cheer_excellent_boy.mp3": {
+   "sha": "8cc9a6841350e4cfe29daea639ba06a25ecd4658",
+   "size": 30137
+  },
+  "voice/om/garden_complete_boy.mp3": {
+   "sha": "40dfcbf51c1e2a6130f60df33386dbb93f83c06f",
+   "size": 47273
+  },
+  "voice/om/garden_empty_boy.mp3": {
+   "sha": "6c3256093d8d3b55f0b9332137b030e695c57861",
+   "size": 58349
+  },
+  "voice/om/greetSub_boy.mp3": {
+   "sha": "ecd2f9fab004f08c8257b8d5aefea8fd245e64e4",
+   "size": 18434
+  },
+  "voice/om/greet_boy.mp3": {
+   "sha": "a6786d2342d0abd2d75b3f05085cdafcb353c4ee",
+   "size": 15299
+  },
+  "voice/om/memory_hint_boy.mp3": {
+   "sha": "1b99da58410ca076eb065c18a16f66e2ce3857d8",
+   "size": 24494
+  },
+  "voice/om/order_ayahsHint_boy.mp3": {
+   "sha": "df227075de1aafbd0f733aaab7fcd637e5689f93",
+   "size": 48318
+  },
+  "voice/om/order_sentenceHint_boy.mp3": {
+   "sha": "cb5e8ab54e877c8ed13859a3fbdeed4dce6178f2",
+   "size": 40795
+  },
+  "voice/om/order_stepsHint_boy.mp3": {
+   "sha": "b7d8d3f3952a466de1edb39205a6e138147cf892",
+   "size": 32853
+  },
+  "voice/om/quiz_empty_boy.mp3": {
+   "sha": "dfa7424bb37def385d8de9b1a010ce367b1501e1",
+   "size": 27420
+  },
+  "voice/om/quiz_notQuite_boy.mp3": {
+   "sha": "baff48c755cea783cf5b64c5f26d63e7b0540fc5",
+   "size": 52915
+  },
+  "voice/om/quiz_right_boy.mp3": {
+   "sha": "96a49e861d283cee7dbf294b15d3af8b01e417f1",
+   "size": 10910
+  },
+  "voice/om/spell_hint_boy.mp3": {
+   "sha": "fdb6d893bc74f528fe78050b8fe681aabb2ec6e5",
+   "size": 42048
+  },
+  "voice/om/story_intro_boy.mp3": {
+   "sha": "c8ad66e4278a401a66126f64d730d47d1ee3becf",
+   "size": 29092
+  },
+  "voice/om/surah_hideHint_boy.mp3": {
+   "sha": "ba7d25d4e834c6e665e00c6ade2dc55a452b1e9f",
+   "size": 55005
+  },
+  "voice/om/trace_hintSay_boy.mp3": {
+   "sha": "f43413e042ca972b0d6b73120e44fb0c2721d9b0",
+   "size": 31390
+  },
+  "voice/om/waitingReviewChild_boy.mp3": {
+   "sha": "4f1cd9de8b3a538c2c7f0f0e6eab197e572d72f3",
+   "size": 53333
+  },
+  "voice/om/whoLearnsSub_boy.mp3": {
+   "sha": "b9de52020b65b4a21b10829ffce70bc21192e065",
+   "size": 26584
+  },
+  "voice/om/words_findPicture_boy.mp3": {
+   "sha": "dbe5242fb72125550fa1b090249df50384d1568c",
+   "size": 36824
+  },
+  "voice/pa/areaHint_achievements_boy.mp3": {
+   "sha": "d47a993addb3af2bcc63275f1ee6bfcf0b16ebba",
+   "size": 31599
+  },
+  "voice/pa/areaHint_duas_boy.mp3": {
+   "sha": "b08086c0207cca800674ae0428d995d53e2e341c",
+   "size": 30137
+  },
+  "voice/pa/areaHint_games_boy.mp3": {
+   "sha": "c9d13995e602224994963c94df73b76f09a6b7be",
+   "size": 15926
+  },
+  "voice/pa/areaHint_knowledge_boy.mp3": {
+   "sha": "f2b5c5ee570708c59ab2c99528599b81e1864a98",
+   "size": 27629
+  },
+  "voice/pa/areaHint_prayer_boy.mp3": {
+   "sha": "3686890e670f2410470d3b958e540d55c0c0d72d",
+   "size": 49363
+  },
+  "voice/pa/areaHint_quran_boy.mp3": {
+   "sha": "f7f662ba6b344ad00f9adc563b1b081b9f521763",
+   "size": 33271
+  },
+  "voice/pa/areaHint_stories_boy.mp3": {
+   "sha": "f1cb3d9cd2c67a1a254ccd078b7c3b305c984a62",
+   "size": 26584
+  },
+  "voice/pa/areaHint_words_boy.mp3": {
+   "sha": "51b4a528655d182dfcb1fb34a9284800a58c7e67",
+   "size": 33898
+  },
+  "voice/pa/breakTime_boy.mp3": {
+   "sha": "a5c57ea5c1bc6bdf3497f821c4d252148c45d5bf",
+   "size": 43511
+  },
+  "voice/pa/cheer_excellent_boy.mp3": {
+   "sha": "e0c2717f8a92d20e4dad0b35da97d994fec79419",
+   "size": 23449
+  },
+  "voice/pa/garden_complete_boy.mp3": {
+   "sha": "69df6f23f5247c1a996574871df3a02086361fb7",
+   "size": 36824
+  },
+  "voice/pa/garden_empty_boy.mp3": {
+   "sha": "5fe258c40d478cb5104328dffb9d38bab0fd1950",
+   "size": 59603
+  },
+  "voice/pa/greetSub_boy.mp3": {
+   "sha": "360bd5dbe8c465c93517787a0de91bb300dc2b4a",
+   "size": 19897
+  },
+  "voice/pa/greet_boy.mp3": {
+   "sha": "9947bc85623cae75184becda158d0ce2f665606e",
+   "size": 17180
+  },
+  "voice/pa/memory_hint_boy.mp3": {
+   "sha": "ad2413fe2648f0c35ba3728fc58690f3d0f696cb",
+   "size": 20315
+  },
+  "voice/pa/order_ayahsHint_boy.mp3": {
+   "sha": "a3d09615c00ba3b8f04e4e25fd53155a0968d8ce",
+   "size": 26793
+  },
+  "voice/pa/order_sentenceHint_boy.mp3": {
+   "sha": "d9df7386811ad05bd3360c0b5d08c7b2fafa1130",
+   "size": 40377
+  },
+  "voice/pa/order_stepsHint_boy.mp3": {
+   "sha": "e6e6686642df7bb6ae4ff323df4419ff2aa14ca9",
+   "size": 23867
+  },
+  "voice/pa/quiz_empty_boy.mp3": {
+   "sha": "7bffb6778ff1cc864bcdaf15a74c1c8b5779842e",
+   "size": 26375
+  },
+  "voice/pa/quiz_notQuite_boy.mp3": {
+   "sha": "3e8d7ed409eb7f2bc085e8d8424a0d855d8386ee",
+   "size": 52079
+  },
+  "voice/pa/quiz_right_boy.mp3": {
+   "sha": "481e4bf83f8b4d710d6fdd0f53e1a811aec60d05",
+   "size": 12164
+  },
+  "voice/pa/spell_hint_boy.mp3": {
+   "sha": "000420ab2e868758686409b2d8f3ff873ca9cd52",
+   "size": 46228
+  },
+  "voice/pa/story_intro_boy.mp3": {
+   "sha": "251d6808fe5e56d1b5c1dc12624194179f7085f5",
+   "size": 24494
+  },
+  "voice/pa/surah_hideHint_boy.mp3": {
+   "sha": "80fee2f14e3487812d429fa7b680ebe10d802bf0",
+   "size": 39123
+  },
+  "voice/pa/trace_hintSay_boy.mp3": {
+   "sha": "2317a3bb0110419aa456bbfbb01054d4879137c0",
+   "size": 24912
+  },
+  "voice/pa/waitingReviewChild_boy.mp3": {
+   "sha": "f4fe02b5c2061e0be3fcbb2ded2e5799109ffbb2",
+   "size": 51661
+  },
+  "voice/pa/whoLearnsSub_boy.mp3": {
+   "sha": "f4944180f046e6526d65f519b56b0aaba85c7976",
+   "size": 32853
+  },
+  "voice/pa/words_findPicture_boy.mp3": {
+   "sha": "ca4f8002e3a5db6e8823a7de5a5096451f1ddd93",
+   "size": 28047
+  },
+  "voice/pnb/areaHint_achievements_boy.mp3": {
+   "sha": "1594edf6c3ab538da420be1cab3e841f48f7dd5b",
+   "size": 32226
+  },
+  "voice/pnb/areaHint_duas_boy.mp3": {
+   "sha": "f1ac6dda725e22390a952015e2013c21f6d36b79",
+   "size": 31390
+  },
+  "voice/pnb/areaHint_games_boy.mp3": {
+   "sha": "74a717dbccf86a31a06245568f97159c942a5f73",
+   "size": 15717
+  },
+  "voice/pnb/areaHint_knowledge_boy.mp3": {
+   "sha": "f574aa979fea3aa436bc510632f6a240b00bd6c3",
+   "size": 23867
+  },
+  "voice/pnb/areaHint_prayer_boy.mp3": {
+   "sha": "e90ea346b97a48ce7999b732190f51ccaedf6aa3",
+   "size": 28256
+  },
+  "voice/pnb/areaHint_quran_boy.mp3": {
+   "sha": "b4f7a37f1024aa6175b55f43621e55c15e71c692",
+   "size": 28465
+  },
+  "voice/pnb/areaHint_stories_boy.mp3": {
+   "sha": "361e00fbd2c266b70598cdae81ec1fe268fe5b87",
+   "size": 26793
+  },
+  "voice/pnb/areaHint_words_boy.mp3": {
+   "sha": "6cda302f42c15a54598f2d31b07404fdc382b6b2",
+   "size": 33689
+  },
+  "voice/pnb/breakTime_boy.mp3": {
+   "sha": "e7621a81fdd09715cd91176dd481b32006824424",
+   "size": 33689
+  },
+  "voice/pnb/cheer_excellent_boy.mp3": {
+   "sha": "d1ec55d14f2bafded1d7951d509512a3769b1d18",
+   "size": 21150
+  },
+  "voice/pnb/garden_complete_boy.mp3": {
+   "sha": "ccf2629dc549a6ad2a0614a05d54ed068364208b",
+   "size": 43093
+  },
+  "voice/pnb/garden_empty_boy.mp3": {
+   "sha": "465014f3fe19212288e9048cd496a5d23561892c",
+   "size": 59603
+  },
+  "voice/pnb/greetSub_boy.mp3": {
+   "sha": "978ac8ca27e1cd4e6b592425fee62f16fdda65ee",
+   "size": 19897
+  },
+  "voice/pnb/greet_boy.mp3": {
+   "sha": "17a0720946f5445ccb2bf7f81f0afb739830b408",
+   "size": 30346
+  },
+  "voice/pnb/memory_hint_boy.mp3": {
+   "sha": "68304f3eddb744ef21cee56a052b4843d87b1487",
+   "size": 24703
+  },
+  "voice/pnb/order_ayahsHint_boy.mp3": {
+   "sha": "ecc09cdf78551fb1d6500447e8197ae4b3c0b0ad",
+   "size": 31599
+  },
+  "voice/pnb/order_sentenceHint_boy.mp3": {
+   "sha": "53ad2dabd522740e4135e9ac2223c96a8947a1ca",
+   "size": 46019
+  },
+  "voice/pnb/order_stepsHint_boy.mp3": {
+   "sha": "9fe43ee3b21c3a991b724876885ef633982b5104",
+   "size": 30764
+  },
+  "voice/pnb/quiz_empty_boy.mp3": {
+   "sha": "b33ac52e48fc69c8d525d69b3adecf50ef113f16",
+   "size": 24912
+  },
+  "voice/pnb/quiz_notQuite_boy.mp3": {
+   "sha": "97d8fadd36a4e938bea663642c710e3539ce7734",
+   "size": 41421
+  },
+  "voice/pnb/quiz_right_boy.mp3": {
+   "sha": "ad0aa597ce45ef39c56daae07720d4a107865fd3",
+   "size": 13000
+  },
+  "voice/pnb/spell_hint_boy.mp3": {
+   "sha": "e84e2d44c43442ef710cd8e5288af3086f14f72c",
+   "size": 42257
+  },
+  "voice/pnb/story_intro_boy.mp3": {
+   "sha": "2b65e422049bebfd649a28a9dd0c4c950ce77ed6",
+   "size": 28047
+  },
+  "voice/pnb/surah_hideHint_boy.mp3": {
+   "sha": "e9bd5baffde00ccb067ac27fc9a0ca70b7a9ad71",
+   "size": 38496
+  },
+  "voice/pnb/trace_hintSay_boy.mp3": {
+   "sha": "dc5c44bf990cdad5757f6a061b2d99978e2dca69",
+   "size": 25330
+  },
+  "voice/pnb/waitingReviewChild_boy.mp3": {
+   "sha": "5ea446bc65c523b96c26918a79156965533f0c9e",
+   "size": 49990
+  },
+  "voice/pnb/whoLearnsSub_boy.mp3": {
+   "sha": "be8b59294ac2bbbf6cb86b99cc31ec57b070dd07",
+   "size": 37242
+  },
+  "voice/pnb/words_findPicture_boy.mp3": {
+   "sha": "8ed6d09562d834c887a22c162726cbb283a89b12",
+   "size": 28674
+  },
+  "voice/ps/areaHint_achievements_boy.mp3": {
+   "sha": "f8d73f3338f5af4c5a5b3b7af246dde57ee8d9fa",
+   "size": 34734
+  },
+  "voice/ps/areaHint_duas_boy.mp3": {
+   "sha": "83af2ed991b9c6c49fbe3d170e36c4ee0a3ce933",
+   "size": 44138
+  },
+  "voice/ps/areaHint_games_boy.mp3": {
+   "sha": "bf5a2230a8e36da9d35e599a0d6ea1f134e39f48",
+   "size": 20106
+  },
+  "voice/ps/areaHint_knowledge_boy.mp3": {
+   "sha": "19fe46e3c27ea2bd0b71063f8719b662dba37655",
+   "size": 37451
+  },
+  "voice/ps/areaHint_prayer_boy.mp3": {
+   "sha": "1e78e8beac5c7816266030903297332643e0a1ce",
+   "size": 36197
+  },
+  "voice/ps/areaHint_quran_boy.mp3": {
+   "sha": "09d75eaa150581941340010469b8340aec123f56",
+   "size": 32644
+  },
+  "voice/ps/areaHint_stories_boy.mp3": {
+   "sha": "fd460b8b082f9fb7bd4c74f4e58c270b2f331b72",
+   "size": 33480
+  },
+  "voice/ps/areaHint_words_boy.mp3": {
+   "sha": "844073d1a680fb73f530217a94872d923a511ec9",
+   "size": 44765
+  },
+  "voice/ps/breakTime_boy.mp3": {
+   "sha": "4e6e1192f11ab053d5f8266b9236c16f45adef47",
+   "size": 47482
+  },
+  "voice/ps/cheer_excellent_boy.mp3": {
+   "sha": "07462211f72e19a0f2a42aab98ac0ec1287495a5",
+   "size": 22613
+  },
+  "voice/ps/garden_complete_boy.mp3": {
+   "sha": "e2db23692e8f2358bcc66336ffd7105d13d9bade",
+   "size": 34943
+  },
+  "voice/ps/garden_empty_boy.mp3": {
+   "sha": "2e19558bef0b8aa7bc532ad5c3dbaeb68489698a",
+   "size": 54587
+  },
+  "voice/ps/greetSub_boy.mp3": {
+   "sha": "a9794c27cb1807652258993fb370e640aa900981",
+   "size": 19270
+  },
+  "voice/ps/greet_boy.mp3": {
+   "sha": "2d8059aa7bfbdfc8048b9ed102726c609daa546e",
+   "size": 17807
+  },
+  "voice/ps/memory_hint_boy.mp3": {
+   "sha": "cc56bb29c4c71654ddb67a3dbbee9acab25401c6",
+   "size": 24076
+  },
+  "voice/ps/order_ayahsHint_boy.mp3": {
+   "sha": "0d7c5fcbc300ca1b72dd486da9b8929b0ebf057d",
+   "size": 39959
+  },
+  "voice/ps/order_sentenceHint_boy.mp3": {
+   "sha": "2d7873acf9315736b5339f7f745964bf7b80712a",
+   "size": 55423
+  },
+  "voice/ps/order_stepsHint_boy.mp3": {
+   "sha": "53bc877bd60f15271ec17b79d5ae3ae752a94be9",
+   "size": 37033
+  },
+  "voice/ps/quiz_empty_boy.mp3": {
+   "sha": "60518a492e7dae40412f823fa853043a0c2cecd7",
+   "size": 25539
+  },
+  "voice/ps/quiz_notQuite_boy.mp3": {
+   "sha": "5adf6e8c48f4ca26b9d76987cd3185b31eca3707",
+   "size": 47064
+  },
+  "voice/ps/quiz_right_boy.mp3": {
+   "sha": "f0beaeb0f39ec86b508f4be518a41b3d399fb8ab",
+   "size": 7358
+  },
+  "voice/ps/spell_hint_boy.mp3": {
+   "sha": "722733121934436fdfca23cf9d7f0e00b4b73f78",
+   "size": 52079
+  },
+  "voice/ps/story_intro_boy.mp3": {
+   "sha": "3892d803a3e998eeaa76e63d5148600ea74e3ef7",
+   "size": 32226
+  },
+  "voice/ps/surah_hideHint_boy.mp3": {
+   "sha": "c5a49a26e02d1ea864d9d62da24f1d583cc8d5f9",
+   "size": 44765
+  },
+  "voice/ps/trace_hintSay_boy.mp3": {
+   "sha": "0e58f0b797e00e0aa6a701ded89ce51c30387d70",
+   "size": 25539
+  },
+  "voice/ps/waitingReviewChild_boy.mp3": {
+   "sha": "54a611da3565a4b1af58946a18fce88fe76a8518",
+   "size": 55005
+  },
+  "voice/ps/whoLearnsSub_boy.mp3": {
+   "sha": "17698d7ebe2788294f0520fd21172bd4b54e6d1d",
+   "size": 37451
+  },
+  "voice/ps/words_findPicture_boy.mp3": {
+   "sha": "cf56dd56100017bcc2357cca06fc638316ef876c",
+   "size": 24912
+  },
+  "voice/ru/areaHint_achievements_boy.mp3": {
+   "sha": "7dc51b6f4d486b459488a800fcb950b14112a985",
+   "size": 28883
+  },
+  "voice/ru/areaHint_duas_boy.mp3": {
+   "sha": "22a6084d00feae7aa80a5102b50b2d8f16f2c211",
+   "size": 32435
+  },
+  "voice/ru/areaHint_games_boy.mp3": {
+   "sha": "95885bc2d341658ae5d83457fe2b3f30112edbe0",
+   "size": 13209
+  },
+  "voice/ru/areaHint_knowledge_boy.mp3": {
+   "sha": "48c03c0f799ab3d96437a9c82546e5db0bb16a84",
+   "size": 21986
+  },
+  "voice/ru/areaHint_prayer_boy.mp3": {
+   "sha": "8a378b4c8c19b6d336b3ebcf458ab01f7076ec60",
+   "size": 35988
+  },
+  "voice/ru/areaHint_quran_boy.mp3": {
+   "sha": "183683d5beb795832b057745f04392c903cb8bca",
+   "size": 32226
+  },
+  "voice/ru/areaHint_stories_boy.mp3": {
+   "sha": "10743903392a4863b42991e252448643fdf75c19",
+   "size": 21777
+  },
+  "voice/ru/areaHint_words_boy.mp3": {
+   "sha": "1daf4e3d699866306ed6a698c226b62d65830702",
+   "size": 35988
+  },
+  "voice/ru/breakTime_boy.mp3": {
+   "sha": "ddfacacb7366e83a511c15b6c5c455cff1106fcd",
+   "size": 36197
+  },
+  "voice/ru/cheer_excellent_boy.mp3": {
+   "sha": "13d71e576bcf41240c7db5db160acf91a5730bce",
+   "size": 23449
+  },
+  "voice/ru/garden_complete_boy.mp3": {
+   "sha": "dc61ccb959a89bf7701d366f6844828af59f0c1a",
+   "size": 29092
+  },
+  "voice/ru/garden_empty_boy.mp3": {
+   "sha": "c8dc613ace9c58817afb9d83d79dba7305e925f0",
+   "size": 47691
+  },
+  "voice/ru/greetSub_boy.mp3": {
+   "sha": "40341df6d4ee94d7157e2c76753ecc0687da7816",
+   "size": 18016
+  },
+  "voice/ru/greet_boy.mp3": {
+   "sha": "2e8db9a7a3d0b6a73e14a2bbd98c8e46c8778ac8",
+   "size": 15926
+  },
+  "voice/ru/memory_hint_boy.mp3": {
+   "sha": "f4f055f6cd50ab08006dd2f8538c8df956b9caab",
+   "size": 25957
+  },
+  "voice/ru/order_ayahsHint_boy.mp3": {
+   "sha": "361f172d2bba5dec0c2ffe0067ecdc743f97ae24",
+   "size": 39332
+  },
+  "voice/ru/order_sentenceHint_boy.mp3": {
+   "sha": "71d2be9d104da2f6e95f613d5afe63f0c14c5d95",
+   "size": 40795
+  },
+  "voice/ru/order_stepsHint_boy.mp3": {
+   "sha": "21cf7462cdb7cfa7de7b5b205b9b757ba89c3730",
+   "size": 29092
+  },
+  "voice/ru/quiz_empty_boy.mp3": {
+   "sha": "b133ea9272e9965c1b949274099c3e28661d45aa",
+   "size": 20106
+  },
+  "voice/ru/quiz_notQuite_boy.mp3": {
+   "sha": "9a6fa08badf2e07f99e29a50212959445191e88b",
+   "size": 44974
+  },
+  "voice/ru/quiz_right_boy.mp3": {
+   "sha": "793a8a358f5cc5767102bfa50a21e065372f4046",
+   "size": 6104
+  },
+  "voice/ru/spell_hint_boy.mp3": {
+   "sha": "4b1b370554a49c1ed39198a4e80cf49b0e8cfee2",
+   "size": 44138
+  },
+  "voice/ru/story_intro_boy.mp3": {
+   "sha": "55d2ccfa2388f5198dab84b257f95aacf64f7ccd",
+   "size": 28674
+  },
+  "voice/ru/surah_hideHint_boy.mp3": {
+   "sha": "ca6d1114f1d5ef6ec3ada7c7dc02e9e0a68ac583",
+   "size": 51244
+  },
+  "voice/ru/trace_hintSay_boy.mp3": {
+   "sha": "9a231fc223e655b7c8b1bd46b37917ce84d56505",
+   "size": 19897
+  },
+  "voice/ru/waitingReviewChild_boy.mp3": {
+   "sha": "f0775e43ab1b5641f7f9accacaf692ba7d31f9b5",
+   "size": 45183
+  },
+  "voice/ru/whoLearnsSub_boy.mp3": {
+   "sha": "a91bfbdd0a7e770399c085c1c9aabdebe64af4af",
+   "size": 34734
+  },
+  "voice/ru/words_findPicture_boy.mp3": {
+   "sha": "8748af63dc575111b53ccc6e72c5b10c8012f784",
+   "size": 37660
+  },
+  "voice/so/areaHint_achievements_boy.mp3": {
+   "sha": "f599a185ecba70358e87fd2b55606225a1051fa8",
+   "size": 27629
+  },
+  "voice/so/areaHint_duas_boy.mp3": {
+   "sha": "1b8309b7a2af5880942db59d5eb6830188a95f6d",
+   "size": 49572
+  },
+  "voice/so/areaHint_games_boy.mp3": {
+   "sha": "418d258dbb5fba882658818c0beb37e9b533904c",
+   "size": 17389
+  },
+  "voice/so/areaHint_knowledge_boy.mp3": {
+   "sha": "802dc5719c1dfbb9dbd0fefb54095fa241f21181",
+   "size": 46228
+  },
+  "voice/so/areaHint_prayer_boy.mp3": {
+   "sha": "f72c17deb99272f081e24b37fb3e6b0642bf7e31",
+   "size": 46228
+  },
+  "voice/so/areaHint_quran_boy.mp3": {
+   "sha": "81fcb0fa96707a063e5278cf902d69d6494eee58",
+   "size": 31599
+  },
+  "voice/so/areaHint_stories_boy.mp3": {
+   "sha": "443a011c7b705ea5a92611bd2b6ca6bcf5560215",
+   "size": 35779
+  },
+  "voice/so/areaHint_words_boy.mp3": {
+   "sha": "3a4a00bf5e1139a7071c85719e849a9e8d923175",
+   "size": 36824
+  },
+  "voice/so/breakTime_boy.mp3": {
+   "sha": "f67137cc534e6da6cf5f89f28cf16887a7ab20e4",
+   "size": 54169
+  },
+  "voice/so/cheer_excellent_boy.mp3": {
+   "sha": "3b2a26824c4b614af0d82ecd5a117b9f32e96918",
+   "size": 29928
+  },
+  "voice/so/garden_complete_boy.mp3": {
+   "sha": "09107af9f817b7299d97c1a5090431e85f662c53",
+   "size": 45392
+  },
+  "voice/so/garden_empty_boy.mp3": {
+   "sha": "3c926575c7cc8f3e6a3a8a9bd160c8979446e25d",
+   "size": 60230
+  },
+  "voice/so/greetSub_boy.mp3": {
+   "sha": "c52d9fc514d49d0d15ba5e80c0b63afe47665c4b",
+   "size": 25121
+  },
+  "voice/so/greet_boy.mp3": {
+   "sha": "442d8fa0432f83f28aa5e086426d621f1d043fa1",
+   "size": 16971
+  },
+  "voice/so/memory_hint_boy.mp3": {
+   "sha": "a66e4f0d78efc7223ff0cc5b80cbb1fb912d79d4",
+   "size": 20524
+  },
+  "voice/so/order_ayahsHint_boy.mp3": {
+   "sha": "637940787d1e7e86747d74c02b38afd93129fb47",
+   "size": 46019
+  },
+  "voice/so/order_sentenceHint_boy.mp3": {
+   "sha": "e602fddeb5a8ffcf45795ee82a0c2f329e5a2873",
+   "size": 52497
+  },
+  "voice/so/order_stepsHint_boy.mp3": {
+   "sha": "f785cad3c8a03c0ddb64028e04c3adfbb6645dd2",
+   "size": 47482
+  },
+  "voice/so/quiz_empty_boy.mp3": {
+   "sha": "ef7fdcf36b31b40d75fce397d7cfe7e0ff3b4070",
+   "size": 27838
+  },
+  "voice/so/quiz_notQuite_boy.mp3": {
+   "sha": "bbd4b939f8fa411ee9d4afd255cf0cb5c00d6920",
+   "size": 51453
+  },
+  "voice/so/quiz_right_boy.mp3": {
+   "sha": "a15972a79bf93ba02993cec832a4c06b367d3534",
+   "size": 9657
+  },
+  "voice/so/spell_hint_boy.mp3": {
+   "sha": "2f2fe61144c73e5f26dbac461116e66961339c76",
+   "size": 55423
+  },
+  "voice/so/story_intro_boy.mp3": {
+   "sha": "3d455a0f6bd5d595d6b88d517d15c557cce3eab0",
+   "size": 33271
+  },
+  "voice/so/surah_hideHint_boy.mp3": {
+   "sha": "6e0f8510477d619f5efb2391b0ef05ebd4f4c0b0",
+   "size": 52288
+  },
+  "voice/so/trace_hintSay_boy.mp3": {
+   "sha": "05acdc7d969e57a60877e570dc7c1f6d4f87ab10",
+   "size": 21777
+  },
+  "voice/so/waitingReviewChild_boy.mp3": {
+   "sha": "2c47ede7e5ac80433d0e99c8cc59e62a80b80095",
+   "size": 59603
+  },
+  "voice/so/whoLearnsSub_boy.mp3": {
+   "sha": "4cbf95a9b2be149b283f5409e3e0fd3e942cfd93",
+   "size": 30137
+  },
+  "voice/so/words_findPicture_boy.mp3": {
+   "sha": "fa7e71ebb9ffedc55832c7223cb85a064afc8f30",
+   "size": 27211
+  },
+  "voice/sw/areaHint_achievements_boy.mp3": {
+   "sha": "1505a2366eb0545b3d1e8a73f486e833b5b72eff",
+   "size": 27211
+  },
+  "voice/sw/areaHint_duas_boy.mp3": {
+   "sha": "d75a06825dcdc54a45ac18abc33646678707cbd2",
+   "size": 29928
+  },
+  "voice/sw/areaHint_games_boy.mp3": {
+   "sha": "8cfd923c23dd73d6711a3b2840dc6bc5663c7949",
+   "size": 18643
+  },
+  "voice/sw/areaHint_knowledge_boy.mp3": {
+   "sha": "9a19edcfe96b1195140a384450da31757b5b2acf",
+   "size": 31599
+  },
+  "voice/sw/areaHint_prayer_boy.mp3": {
+   "sha": "b7a641b5b4625613319e28029774cb393e4e4537",
+   "size": 29510
+  },
+  "voice/sw/areaHint_quran_boy.mp3": {
+   "sha": "a144207ee3e8789200f4151a608cc85736b9209b",
+   "size": 30973
+  },
+  "voice/sw/areaHint_stories_boy.mp3": {
+   "sha": "09e13c7e7dad63dbf29d50b5395b9ac43419cfee",
+   "size": 41630
+  },
+  "voice/sw/areaHint_words_boy.mp3": {
+   "sha": "a62b3963a311516410b9cfe5ad59b653801d9c82",
+   "size": 30764
+  },
+  "voice/sw/breakTime_boy.mp3": {
+   "sha": "e171a7b523974b30295c8de0333d8b6fe260dd1b",
+   "size": 42257
+  },
+  "voice/sw/cheer_excellent_boy.mp3": {
+   "sha": "f75a7b0b2bfd9621b67bf2aa10fd6894c21ce076",
+   "size": 24703
+  },
+  "voice/sw/garden_complete_boy.mp3": {
+   "sha": "0b579fe44adec66512cf1157eee3ac16dd9c292d",
+   "size": 36824
+  },
+  "voice/sw/garden_empty_boy.mp3": {
+   "sha": "d53075837712c618a643da6e8c758e9a9194074e",
+   "size": 56886
+  },
+  "voice/sw/greetSub_boy.mp3": {
+   "sha": "9107473654256ba30adbfeec313b771415337272",
+   "size": 28047
+  },
+  "voice/sw/greet_boy.mp3": {
+   "sha": "0a95bda80250444e53ce3781e1c2a894f570998a",
+   "size": 14881
+  },
+  "voice/sw/memory_hint_boy.mp3": {
+   "sha": "eb75044e78df57b00132610ade64f584b9cbb48e",
+   "size": 26375
+  },
+  "voice/sw/order_ayahsHint_boy.mp3": {
+   "sha": "ff0734489d0af4b487543f94114e3c07a829aa2e",
+   "size": 32226
+  },
+  "voice/sw/order_sentenceHint_boy.mp3": {
+   "sha": "42a34003f576d185c336ebcded0e9bddf8b9dfff",
+   "size": 43302
+  },
+  "voice/sw/order_stepsHint_boy.mp3": {
+   "sha": "c56a4f883c4fa34b47b4a28de52a7d4e0cbf87b7",
+   "size": 33271
+  },
+  "voice/sw/quiz_empty_boy.mp3": {
+   "sha": "38a7fe9deee79e1b05cac390c163366610e79075",
+   "size": 22404
+  },
+  "voice/sw/quiz_notQuite_boy.mp3": {
+   "sha": "799165e0fea5cc0df26a065bb2ab0a339598baa0",
+   "size": 49154
+  },
+  "voice/sw/quiz_right_boy.mp3": {
+   "sha": "b6988e0d632e268a6dc0ea412a640e259209e3b7",
+   "size": 12791
+  },
+  "voice/sw/spell_hint_boy.mp3": {
+   "sha": "a7772e177a1184365e4c23096eccad5aa69428b2",
+   "size": 43093
+  },
+  "voice/sw/story_intro_boy.mp3": {
+   "sha": "fbd289bf45e5680d70f09cfc067bdb36ca44ae37",
+   "size": 38287
+  },
+  "voice/sw/surah_hideHint_boy.mp3": {
+   "sha": "413e16bc0e4856e99eed50360e355ea1b542a2da",
+   "size": 46646
+  },
+  "voice/sw/trace_hintSay_boy.mp3": {
+   "sha": "b94ce30fa326df02bcb864902340ce50a7370868",
+   "size": 32853
+  },
+  "voice/sw/waitingReviewChild_boy.mp3": {
+   "sha": "487800a406f1436862b72eea0f582d3b9e572d60",
+   "size": 54378
+  },
+  "voice/sw/whoLearnsSub_boy.mp3": {
+   "sha": "cff60d33dce9cbe33a8d9401e2ae4d05e89716ff",
+   "size": 27420
+  },
+  "voice/sw/words_findPicture_boy.mp3": {
+   "sha": "e1d7be7c3e1f908808d031c4ea1cc712f2f61adc",
+   "size": 28674
+  },
+  "voice/ta/areaHint_achievements_boy.mp3": {
+   "sha": "0470f13f3bb46277a3f2d36b096178a3e8369d6e",
+   "size": 23449
+  },
+  "voice/ta/areaHint_duas_boy.mp3": {
+   "sha": "16bd27cd001fe3d8cd208ed85a2b7576df075679",
+   "size": 31181
+  },
+  "voice/ta/areaHint_games_boy.mp3": {
+   "sha": "f124306cbc712235f5dfcbd5056c6c8951002514",
+   "size": 16762
+  },
+  "voice/ta/areaHint_knowledge_boy.mp3": {
+   "sha": "3daa449cdf0db1c25b1c679a9f71b23e35ff3763",
+   "size": 35361
+  },
+  "voice/ta/areaHint_prayer_boy.mp3": {
+   "sha": "2c5fc0f3a1831e62bc2f55e118fc1bdb548838ec",
+   "size": 28047
+  },
+  "voice/ta/areaHint_quran_boy.mp3": {
+   "sha": "5e8b3107c04f3a4df95cc18ebd7dc083f2febbbd",
+   "size": 31599
+  },
+  "voice/ta/areaHint_stories_boy.mp3": {
+   "sha": "7f6cca63cffff5bb9b9202683b8d63d40cb0e1c1",
+   "size": 27629
+  },
+  "voice/ta/areaHint_words_boy.mp3": {
+   "sha": "d3c965ff74ec1097dc0e4d6dffc2517de9a10433",
+   "size": 22613
+  },
+  "voice/ta/breakTime_boy.mp3": {
+   "sha": "dbab5b5ceb85d48880bc549623c5182bea1bf8ab",
+   "size": 43093
+  },
+  "voice/ta/cheer_excellent_boy.mp3": {
+   "sha": "545ce6597c582f447d8b0d702e37104cc3f81886",
+   "size": 21150
+  },
+  "voice/ta/garden_complete_boy.mp3": {
+   "sha": "2a098bc7ab1bf0f3f9c2e49e7c8bd647864628d1",
+   "size": 43511
+  },
+  "voice/ta/garden_empty_boy.mp3": {
+   "sha": "df1f91df96e87fc69def2c7130416c926eb1c0aa",
+   "size": 51661
+  },
+  "voice/ta/greetSub_boy.mp3": {
+   "sha": "af3d4c80f5b243e10b686181d19352d0ad6f95a9",
+   "size": 25748
+  },
+  "voice/ta/greet_boy.mp3": {
+   "sha": "dc23ecde9ba634f7dece534a9edb4b68a608beb2",
+   "size": 30555
+  },
+  "voice/ta/memory_hint_boy.mp3": {
+   "sha": "b8474333d01091f487c5a591ab22389f2488a617",
+   "size": 43511
+  },
+  "voice/ta/order_ayahsHint_boy.mp3": {
+   "sha": "eb0f8c00f96e6dd10079a0cba6b9ca965c3e1114",
+   "size": 33480
+  },
+  "voice/ta/order_sentenceHint_boy.mp3": {
+   "sha": "c1dc7da65f87375180e47d4294848e74ea24b061",
+   "size": 34107
+  },
+  "voice/ta/order_stepsHint_boy.mp3": {
+   "sha": "a3b373cee70b94ecaecb3db7d77e538c282f7548",
+   "size": 26166
+  },
+  "voice/ta/quiz_empty_boy.mp3": {
+   "sha": "5994667557651aa2c5a27e3ca614c55a1086743b",
+   "size": 26584
+  },
+  "voice/ta/quiz_notQuite_boy.mp3": {
+   "sha": "6007d070e392fdcdabff37eb8034d75fbe013284",
+   "size": 48945
+  },
+  "voice/ta/quiz_right_boy.mp3": {
+   "sha": "5079c4f186232a51e917048e95a8b9b559c862be",
+   "size": 11119
+  },
+  "voice/ta/spell_hint_boy.mp3": {
+   "sha": "dd3062cfb30108e3c63572742336af145a4e6d9d",
+   "size": 36406
+  },
+  "voice/ta/story_intro_boy.mp3": {
+   "sha": "d1f89433fec6c558de81ea313974591ea44649f0",
+   "size": 24285
+  },
+  "voice/ta/surah_hideHint_boy.mp3": {
+   "sha": "b9e1449336c1fea0762c64a78ce89b740664e018",
+   "size": 50826
+  },
+  "voice/ta/trace_hintSay_boy.mp3": {
+   "sha": "78591f568916d7acd556939d18ac0dc1e73ddd18",
+   "size": 32226
+  },
+  "voice/ta/waitingReviewChild_boy.mp3": {
+   "sha": "383f687a291a08dac883c97a0730ab697ae81538",
+   "size": 57304
+  },
+  "voice/ta/whoLearnsSub_boy.mp3": {
+   "sha": "734370c88f315ef6fe1700ef816f80e42ad0098a",
+   "size": 15717
+  },
+  "voice/ta/words_findPicture_boy.mp3": {
+   "sha": "0bab02e5303fea007bb82c6cc486b2fe24db3e94",
+   "size": 31599
+  },
+  "voice/tr/areaHint_achievements_boy.mp3": {
+   "sha": "338209eecfb75eda4ab267d06fc14fb75b2e04f7",
+   "size": 24076
+  },
+  "voice/tr/areaHint_duas_boy.mp3": {
+   "sha": "ce0d93c158d226dc67cdd676eace33e47f493b41",
+   "size": 26793
+  },
+  "voice/tr/areaHint_games_boy.mp3": {
+   "sha": "9978fcc0c6ff46ee8a7374ae6afd353ec1becb4d",
+   "size": 12791
+  },
+  "voice/tr/areaHint_knowledge_boy.mp3": {
+   "sha": "5b8481c506b665cc1dca4f2e558b515d600bc0d7",
+   "size": 27002
+  },
+  "voice/tr/areaHint_prayer_boy.mp3": {
+   "sha": "f0f9e6f992835469477e47a2d738f3c2af9be5d5",
+   "size": 35152
+  },
+  "voice/tr/areaHint_quran_boy.mp3": {
+   "sha": "1134184ec77a1163dc7447e00722e80c9b5ec315",
+   "size": 31181
+  },
+  "voice/tr/areaHint_stories_boy.mp3": {
+   "sha": "3c50fc83e0b97c67df900b8be0945dbe9f642e46",
+   "size": 22613
+  },
+  "voice/tr/areaHint_words_boy.mp3": {
+   "sha": "129d4fc67c346b495904398b609aa098cce9e00b",
+   "size": 32644
+  },
+  "voice/tr/breakTime_boy.mp3": {
+   "sha": "7e1bcdfe5bb96b9fdcf069e1209fa16ef2886611",
+   "size": 31390
+  },
+  "voice/tr/cheer_excellent_boy.mp3": {
+   "sha": "8b46f96da6d02c7006601902a32d0ded9df6bece",
+   "size": 16971
+  },
+  "voice/tr/garden_complete_boy.mp3": {
+   "sha": "11249ba5e8f7d3617175dbd2ebfe323147a0da9e",
+   "size": 30346
+  },
+  "voice/tr/garden_empty_boy.mp3": {
+   "sha": "b85358c7bd87e1e387503854bdadb09ffcf30b30",
+   "size": 46646
+  },
+  "voice/tr/greetSub_boy.mp3": {
+   "sha": "aad65a380fb5b6f8d356461bd0f3beda2e1fd0bc",
+   "size": 16553
+  },
+  "voice/tr/greet_boy.mp3": {
+   "sha": "d99b6e74c0d9210ad137d0972657ee0c41aa56b7",
+   "size": 15090
+  },
+  "voice/tr/memory_hint_boy.mp3": {
+   "sha": "c4e8ae0499d8499a9de71bbe2fed654ae91a2230",
+   "size": 9866
+  },
+  "voice/tr/order_ayahsHint_boy.mp3": {
+   "sha": "422633f40560cb526f4dd67e9225a78dab204abf",
+   "size": 35152
+  },
+  "voice/tr/order_sentenceHint_boy.mp3": {
+   "sha": "7a5d1888d741958382240304c15f109106f7175b",
+   "size": 28256
+  },
+  "voice/tr/order_stepsHint_boy.mp3": {
+   "sha": "753b871bb26858b07613a3363bdfdb2e78ff67fd",
+   "size": 23449
+  },
+  "voice/tr/quiz_empty_boy.mp3": {
+   "sha": "c24e50c0f50c44b93b611f040c7c78cc5b5f33eb",
+   "size": 16553
+  },
+  "voice/tr/quiz_notQuite_boy.mp3": {
+   "sha": "ea7e9c7e057b53828dcd500134fa8f14cc670aab",
+   "size": 41630
+  },
+  "voice/tr/quiz_right_boy.mp3": {
+   "sha": "8753f1807d8d29c0c77d025601fdd2f25715ad0b",
+   "size": 10910
+  },
+  "voice/tr/spell_hint_boy.mp3": {
+   "sha": "e4f177eab153b76177d0002b2fa8070590955027",
+   "size": 35988
+  },
+  "voice/tr/story_intro_boy.mp3": {
+   "sha": "fc90b30e26bee7fea80d038404de3cd04d4f8d26",
+   "size": 29928
+  },
+  "voice/tr/surah_hideHint_boy.mp3": {
+   "sha": "abc4dd84d49c2b2833bd663624c25051a11f7818",
+   "size": 44347
+  },
+  "voice/tr/trace_hintSay_boy.mp3": {
+   "sha": "8bd0588580ec056ea8bab00a1c0fa451ae3f902c",
+   "size": 24494
+  },
+  "voice/tr/waitingReviewChild_boy.mp3": {
+   "sha": "acd3d6eb5fcf6e690dcefbbd0ab2fe83efd820af",
+   "size": 58140
+  },
+  "voice/tr/whoLearnsSub_boy.mp3": {
+   "sha": "3ada807bd033cb58ef25e657c0e20e5179bc4aa8",
+   "size": 36406
+  },
+  "voice/tr/words_findPicture_boy.mp3": {
+   "sha": "b83977d718dc509255cbaf0e44ea71da4ca4987b",
+   "size": 20106
+  },
+  "voice/ur/areaHint_achievements_boy.mp3": {
+   "sha": "1689fb477bdbafb12c5b9d8932721cb14a49a166",
+   "size": 28465
+  },
+  "voice/ur/areaHint_duas_boy.mp3": {
+   "sha": "f2cf6f4cd2e3a91a45f0426f2f78e89b929e603b",
+   "size": 32226
+  },
+  "voice/ur/areaHint_games_boy.mp3": {
+   "sha": "6ba8f185bcdbd3b17a412164a403ac926eb57915",
+   "size": 17180
+  },
+  "voice/ur/areaHint_knowledge_boy.mp3": {
+   "sha": "cc98f5b3aebb1675f008aa0eb269c35857f2008b",
+   "size": 28047
+  },
+  "voice/ur/areaHint_prayer_boy.mp3": {
+   "sha": "ed725bb9cde5afe905531eed56d3a3dabaff9c0d",
+   "size": 28047
+  },
+  "voice/ur/areaHint_quran_boy.mp3": {
+   "sha": "247d7d0e0b041b8f350738daeff73a70ab00e790",
+   "size": 33480
+  },
+  "voice/ur/areaHint_stories_boy.mp3": {
+   "sha": "8f796f81c549df867a05c233f27441f94c529c21",
+   "size": 22195
+  },
+  "voice/ur/areaHint_words_boy.mp3": {
+   "sha": "a01b9a888b0443b585bd50d72876703a3d2e0ec8",
+   "size": 29092
+  },
+  "voice/ur/breakTime_boy.mp3": {
+   "sha": "fa21dee7480a510018e3e6122c36cadb05c06a70",
+   "size": 38914
+  },
+  "voice/ur/cheer_excellent_boy.mp3": {
+   "sha": "1686ecc04aff2efa3573a21373d5821f25e969f8",
+   "size": 19479
+  },
+  "voice/ur/garden_complete_boy.mp3": {
+   "sha": "9fd2e14350b9a0cbaf1fb256b55ff8c2cf09d0b1",
+   "size": 37660
+  },
+  "voice/ur/garden_empty_boy.mp3": {
+   "sha": "da7bcaadd5703caa43aa5835f368fd9bb590fa90",
+   "size": 62528
+  },
+  "voice/ur/greetSub_boy.mp3": {
+   "sha": "2d7156d04aea299a800633e4d6f5b1785177ef97",
+   "size": 17598
+  },
+  "voice/ur/greet_boy.mp3": {
+   "sha": "b6a3fa79db5a76c0c4472ba49f5140894fbf51d0",
+   "size": 14254
+  },
+  "voice/ur/memory_hint_boy.mp3": {
+   "sha": "a94e2b1f15081067f782c4d17b7f02e7bc08f5d2",
+   "size": 25748
+  },
+  "voice/ur/order_ayahsHint_boy.mp3": {
+   "sha": "fe4d0f7ea6b412d56c1d93870e29724159af586e",
+   "size": 33480
+  },
+  "voice/ur/order_sentenceHint_boy.mp3": {
+   "sha": "61633abafce639b6f28a9ab0f568c55a812b8209",
+   "size": 38496
+  },
+  "voice/ur/order_stepsHint_boy.mp3": {
+   "sha": "8b3ec9119da4de5010fc595058f3dcc410644a0c",
+   "size": 33689
+  },
+  "voice/ur/quiz_empty_boy.mp3": {
+   "sha": "55d07fbfd904b6105ff5bd4e138e91d2a261e73e",
+   "size": 27002
+  },
+  "voice/ur/quiz_notQuite_boy.mp3": {
+   "sha": "6b9e2801244bf6c6afc290b89405d91b6ef317b1",
+   "size": 43720
+  },
+  "voice/ur/quiz_right_boy.mp3": {
+   "sha": "0eda226d9452daf8cb558edafc2f41934801f84e",
+   "size": 27002
+  },
+  "voice/ur/spell_hint_boy.mp3": {
+   "sha": "f52f9f5f454421c4b886acaec714ffb5eca95330",
+   "size": 32435
+  },
+  "voice/ur/story_intro_boy.mp3": {
+   "sha": "d2fca1cfe62986ab11b6dcd72dac0f13ee914261",
+   "size": 24494
+  },
+  "voice/ur/surah_hideHint_boy.mp3": {
+   "sha": "810eb4ab68e1170e5158cbc4f1fc07b1b433e125",
+   "size": 44138
+  },
+  "voice/ur/trace_hintSay_boy.mp3": {
+   "sha": "ee490173e4e46a40c82d417579da990691681fb8",
+   "size": 22195
+  },
+  "voice/ur/waitingReviewChild_boy.mp3": {
+   "sha": "e4ecb19bda6d11aba4523294aa4a69e4517553ea",
+   "size": 49154
+  },
+  "voice/ur/whoLearnsSub_boy.mp3": {
+   "sha": "3ea0f0aa5a53f5f7619774961b81bd54acd2a313",
+   "size": 29928
+  },
+  "voice/ur/words_findPicture_boy.mp3": {
+   "sha": "4c4f891fc8e608ada00c394a491e329cf95f41c7",
+   "size": 29719
+  },
+  "voice/uz-Cyrl/areaHint_achievements_boy.mp3": {
+   "sha": "fc5af978dd38bf95fe349ae4b54989f6715fe6de",
+   "size": 23240
+  },
+  "voice/uz-Cyrl/areaHint_duas_boy.mp3": {
+   "sha": "f82cf424e1a367837b399f365091c98e490f98bd",
+   "size": 33271
+  },
+  "voice/uz-Cyrl/areaHint_games_boy.mp3": {
+   "sha": "b231470b8f500064a544458263dac5985cfa40ba",
+   "size": 14045
+  },
+  "voice/uz-Cyrl/areaHint_knowledge_boy.mp3": {
+   "sha": "9cbf64d6b9fba59184fb57ba3134af7feb269d3a",
+   "size": 36824
+  },
+  "voice/uz-Cyrl/areaHint_prayer_boy.mp3": {
+   "sha": "f4fddc2fb40621cce596bc9c8441e2f25e155135",
+   "size": 46437
+  },
+  "voice/uz-Cyrl/areaHint_quran_boy.mp3": {
+   "sha": "2bbd9970db2f3bbc26a343bef28e423ba0eeec80",
+   "size": 34107
+  },
+  "voice/uz-Cyrl/areaHint_stories_boy.mp3": {
+   "sha": "a75cafdb08a3ad087183f3c471239fb371324a9c",
+   "size": 30346
+  },
+  "voice/uz-Cyrl/areaHint_words_boy.mp3": {
+   "sha": "d8218f40dff0726886b038588c00ffcb9d9a5e8f",
+   "size": 42675
+  },
+  "voice/uz-Cyrl/breakTime_boy.mp3": {
+   "sha": "18e7da7010d3622dc41c6d7352e315c9c967250e",
+   "size": 44974
+  },
+  "voice/uz-Cyrl/cheer_excellent_boy.mp3": {
+   "sha": "d803e2be201fdab9d9067c3d4b2ea5b016405f52",
+   "size": 14672
+  },
+  "voice/uz-Cyrl/garden_complete_boy.mp3": {
+   "sha": "a4b8b1076550e5bde327a15fad3e7a7c9ed893dd",
+   "size": 30137
+  },
+  "voice/uz-Cyrl/garden_empty_boy.mp3": {
+   "sha": "36482283a2030157b85a804677da2463c45db61f",
+   "size": 51244
+  },
+  "voice/uz-Cyrl/greetSub_boy.mp3": {
+   "sha": "49642c637706bc9dd03123e5c011ad2bccf5d687",
+   "size": 21359
+  },
+  "voice/uz-Cyrl/greet_boy.mp3": {
+   "sha": "ec4a780f88305225ae89d12d2a0709efb89aea99",
+   "size": 24912
+  },
+  "voice/uz-Cyrl/memory_hint_boy.mp3": {
+   "sha": "5e50eb8f13ab6ba6be1f5a561b87034cd4e80585",
+   "size": 20524
+  },
+  "voice/uz-Cyrl/order_ayahsHint_boy.mp3": {
+   "sha": "cd60c80b531bd3aef70a782af8699f00544da9b5",
+   "size": 39541
+  },
+  "voice/uz-Cyrl/order_sentenceHint_boy.mp3": {
+   "sha": "36c7548a6bb29d3934ace56e8045b989f0929579",
+   "size": 42466
+  },
+  "voice/uz-Cyrl/order_stepsHint_boy.mp3": {
+   "sha": "c1b8f6bcd26db1eedc77d39101c73fe596d61c29",
+   "size": 26166
+  },
+  "voice/uz-Cyrl/quiz_empty_boy.mp3": {
+   "sha": "808df73eb2fbd180eab8fec9e69dd3f48491ace7",
+   "size": 24912
+  },
+  "voice/uz-Cyrl/quiz_notQuite_boy.mp3": {
+   "sha": "e54cb8f387fa1206181c38fc64776919a02b5095",
+   "size": 43929
+  },
+  "voice/uz-Cyrl/quiz_right_boy.mp3": {
+   "sha": "3cbe73b8a2a6b3938e3e8c1b2ffd22d30915bee8",
+   "size": 6522
+  },
+  "voice/uz-Cyrl/spell_hint_boy.mp3": {
+   "sha": "19c6de5ee09c4127b55aee7d0dca94e5309709dd",
+   "size": 42675
+  },
+  "voice/uz-Cyrl/story_intro_boy.mp3": {
+   "sha": "a5649cbe2bf5db56f73cc8a944526c02f8d1c066",
+   "size": 31181
+  },
+  "voice/uz-Cyrl/surah_hideHint_boy.mp3": {
+   "sha": "7ef1e8666353c5a724304c7200ddda4a77540821",
+   "size": 45183
+  },
+  "voice/uz-Cyrl/trace_hintSay_boy.mp3": {
+   "sha": "0f565870d3c67ec28e439157e808ab071790f0b0",
+   "size": 27420
+  },
+  "voice/uz-Cyrl/waitingReviewChild_boy.mp3": {
+   "sha": "7122e6e54d7cf86f5f387cca95bb64ec1885a223",
+   "size": 50408
+  },
+  "voice/uz-Cyrl/whoLearnsSub_boy.mp3": {
+   "sha": "f2e96e49bbd9731a06172366165a4eb02e6f6631",
+   "size": 26166
+  },
+  "voice/uz-Cyrl/words_findPicture_boy.mp3": {
+   "sha": "72fc18de339c5ab97fddfe85c75ad7565544443b",
+   "size": 27211
+  },
+  "voice/uz/areaHint_achievements_boy.mp3": {
+   "sha": "a32dba2e49a75270583532352fc00d075dc673f6",
+   "size": 27838
+  },
+  "voice/uz/areaHint_duas_boy.mp3": {
+   "sha": "ae53356d8617cf1093301c1381de23cb31da8949",
+   "size": 36615
+  },
+  "voice/uz/areaHint_games_boy.mp3": {
+   "sha": "14eb6c4f8a7cffd15ffdc08215ae3881bb785f82",
+   "size": 29510
+  },
+  "voice/uz/areaHint_knowledge_boy.mp3": {
+   "sha": "d19ec9e5c6add92cfebf6d9aa5e4b59a930573d0",
+   "size": 36406
+  },
+  "voice/uz/areaHint_prayer_boy.mp3": {
+   "sha": "afc80b404c8a0e1903cc97ea05d9fc3aea930d21",
+   "size": 39750
+  },
+  "voice/uz/areaHint_quran_boy.mp3": {
+   "sha": "0295fcf9f3d51974e2181e4e4abe80794a40ad45",
+   "size": 37869
+  },
+  "voice/uz/areaHint_stories_boy.mp3": {
+   "sha": "b0c36a5526e29ba70ca719b529c7fc830ee5ad09",
+   "size": 27629
+  },
+  "voice/uz/areaHint_words_boy.mp3": {
+   "sha": "b7915da3dbcea4b393bee368e83f581aeaaf02d4",
+   "size": 37242
+  },
+  "voice/uz/breakTime_boy.mp3": {
+   "sha": "1a40d8342710fcf79d17bffbad79fab8efa78df1",
+   "size": 45810
+  },
+  "voice/uz/cheer_excellent_boy.mp3": {
+   "sha": "9140dc06590bae8025421fff7baf7edbdd7c0a1f",
+   "size": 16971
+  },
+  "voice/uz/garden_complete_boy.mp3": {
+   "sha": "8c3d34524652c976773d09b8dad2a6d6e4127bd9",
+   "size": 33689
+  },
+  "voice/uz/garden_empty_boy.mp3": {
+   "sha": "40a1d12ef833dd1cb41393c4509ed3a2ca61bbf0",
+   "size": 53542
+  },
+  "voice/uz/greetSub_boy.mp3": {
+   "sha": "0f330192e7902a695cc30bb903c4ded4de9a1857",
+   "size": 23240
+  },
+  "voice/uz/greet_boy.mp3": {
+   "sha": "992469810a888a2730b75fa74a62c6285160fab2",
+   "size": 18016
+  },
+  "voice/uz/memory_hint_boy.mp3": {
+   "sha": "bf2b3dc22bbe83570996243169cbd8fa95dfb8e6",
+   "size": 20941
+  },
+  "voice/uz/order_ayahsHint_boy.mp3": {
+   "sha": "6ce04f0352175d088123b16a214fe10e31be7af4",
+   "size": 44765
+  },
+  "voice/uz/order_sentenceHint_boy.mp3": {
+   "sha": "50ad24acc75772dd7904eddaa42afcf515ec1819",
+   "size": 45810
+  },
+  "voice/uz/order_stepsHint_boy.mp3": {
+   "sha": "55871589286257eefa984179c1f04f29dc4afc46",
+   "size": 26166
+  },
+  "voice/uz/quiz_empty_boy.mp3": {
+   "sha": "de6d23b63bb73d3c12370544727bfbb2e4ac0332",
+   "size": 27211
+  },
+  "voice/uz/quiz_notQuite_boy.mp3": {
+   "sha": "bff1ce37bc261b61054956054f2548a95bf8d116",
+   "size": 50408
+  },
+  "voice/uz/quiz_right_boy.mp3": {
+   "sha": "e1cc0b3340e7d04eba9c989b8d744ce3c3cf7f5d",
+   "size": 8612
+  },
+  "voice/uz/spell_hint_boy.mp3": {
+   "sha": "75060e10866c2e5dfbda1de604e69aa347753699",
+   "size": 37869
+  },
+  "voice/uz/story_intro_boy.mp3": {
+   "sha": "45d22e951322190507c6c4548d78761a8bf36c1c",
+   "size": 33062
+  },
+  "voice/uz/surah_hideHint_boy.mp3": {
+   "sha": "2479dcf7f7c606470efa9a7e2d017a8f677f9a55",
+   "size": 50617
+  },
+  "voice/uz/trace_hintSay_boy.mp3": {
+   "sha": "76822287dec2ab9787ff8feca56986c5dc7195c2",
+   "size": 29510
+  },
+  "voice/uz/waitingReviewChild_boy.mp3": {
+   "sha": "a9a809f3a6833d08f70e06a09eacb556e714f7c8",
+   "size": 51244
+  },
+  "voice/uz/whoLearnsSub_boy.mp3": {
+   "sha": "877756cd65acd2cd56f0617743d76ca48667fb19",
+   "size": 29510
+  },
+  "voice/uz/words_findPicture_boy.mp3": {
+   "sha": "b026015fff641bc7ceaae2af546c675b5db18208",
+   "size": 30764
+  },
+  "voice/voice.json": {
+   "sha": "49306a2c27b744e7dae89d55c4285a35c523e388",
+   "size": 60032
+  },
+  "voice/zh/areaHint_achievements_boy.mp3": {
+   "sha": "3c55132c458bcb6e74638499b7dba8d556cf46ea",
+   "size": 27838
+  },
+  "voice/zh/areaHint_duas_boy.mp3": {
+   "sha": "f8d3e3b47485e9099cd8fbbe71dc97f84084e48a",
+   "size": 32853
+  },
+  "voice/zh/areaHint_games_boy.mp3": {
+   "sha": "a04e13997e54b8c99225deec19b05b553c788d64",
+   "size": 12373
+  },
+  "voice/zh/areaHint_knowledge_boy.mp3": {
+   "sha": "91794ddd30e09c97593f8a7186919a8e116c9fab",
+   "size": 23449
+  },
+  "voice/zh/areaHint_prayer_boy.mp3": {
+   "sha": "c162aea59e50b91ea8be04a1d47769cc81aec6b3",
+   "size": 30973
+  },
+  "voice/zh/areaHint_quran_boy.mp3": {
+   "sha": "3536b63fab14845888968b050b6352a1309a4976",
+   "size": 29928
+  },
+  "voice/zh/areaHint_stories_boy.mp3": {
+   "sha": "b68581b57cdb0589689cdf0577f7ac7ea3d3b780",
+   "size": 29928
+  },
+  "voice/zh/areaHint_words_boy.mp3": {
+   "sha": "1d36c288f402080a88bf30ec99d7300778578104",
+   "size": 28674
+  },
+  "voice/zh/breakTime_boy.mp3": {
+   "sha": "90bd86402a5b46a96d77e88010de20e87e2dfbc2",
+   "size": 35361
+  },
+  "voice/zh/cheer_excellent_boy.mp3": {
+   "sha": "12f6c8e0b33101b06182026f01f083bad989ac9b",
+   "size": 20524
+  },
+  "voice/zh/garden_complete_boy.mp3": {
+   "sha": "df0774e9f639895cd36d7bf9aa0e77a9ff75aff8",
+   "size": 38287
+  },
+  "voice/zh/garden_empty_boy.mp3": {
+   "sha": "24c5e3faef28bbb1d5be1bc5450a9b3bca41f8d0",
+   "size": 61066
+  },
+  "voice/zh/greetSub_boy.mp3": {
+   "sha": "11cb9eef8391b5d7630a2b8fbf43d1ac04e045db",
+   "size": 16344
+  },
+  "voice/zh/greet_boy.mp3": {
+   "sha": "64ecac7fcfcf59a652fbc0551c0c255663e2314c",
+   "size": 21150
+  },
+  "voice/zh/memory_hint_boy.mp3": {
+   "sha": "003d6ef35215ff6470017fb08f7f893fee148f2e",
+   "size": 20941
+  },
+  "voice/zh/order_ayahsHint_boy.mp3": {
+   "sha": "99d00337e26142f4fdcadf24dddebbe6139a98f9",
+   "size": 38705
+  },
+  "voice/zh/order_sentenceHint_boy.mp3": {
+   "sha": "e81927903c23c18f6f839ce3d9e586616763594a",
+   "size": 35779
+  },
+  "voice/zh/order_stepsHint_boy.mp3": {
+   "sha": "6c5e04811c1374dbb2b7262d7c82e17bc5724371",
+   "size": 27211
+  },
+  "voice/zh/quiz_empty_boy.mp3": {
+   "sha": "8f34df1be4b055baeee17975d85c6ebc412e2481",
+   "size": 21150
+  },
+  "voice/zh/quiz_notQuite_boy.mp3": {
+   "sha": "cb896e6683b6bf7c759012d724af32b21a6f2dc6",
+   "size": 44556
+  },
+  "voice/zh/quiz_right_boy.mp3": {
+   "sha": "69a30b24e568a69d253d875f28d6c9501d6fb348",
+   "size": 9448
+  },
+  "voice/zh/spell_hint_boy.mp3": {
+   "sha": "8dde16f2ef70fdeeb9c44aeb58f5df3611526b76",
+   "size": 35779
+  },
+  "voice/zh/story_intro_boy.mp3": {
+   "sha": "0f50c93ab39ac167a0bc9c4ec64c03c0c54b61ed",
+   "size": 31808
+  },
+  "voice/zh/surah_hideHint_boy.mp3": {
+   "sha": "814941c7b2d2fb0a108462dccc60a11b0fec40db",
+   "size": 44765
+  },
+  "voice/zh/trace_hintSay_boy.mp3": {
+   "sha": "29a934d452b146ee2d138a6ba63f5e9062be7006",
+   "size": 20941
+  },
+  "voice/zh/waitingReviewChild_boy.mp3": {
+   "sha": "e9d9fb0a772fc8c783e9fbd51a19ca514d6de7bf",
+   "size": 47691
+  },
+  "voice/zh/whoLearnsSub_boy.mp3": {
+   "sha": "b9ac1dd9aceaf84f9f41e71bb8a9611442c25366",
+   "size": 29092
+  },
+  "voice/zh/words_findPicture_boy.mp3": {
+   "sha": "9b9e4938482ab7725f175d1e5fb9403564ff2370",
+   "size": 31181
+  }
+ }
+}

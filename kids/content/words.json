@@ -1,0 +1,888 @@
+{
+ "_note": "Rafiq Kids Arabic Words (2026-11-09): picture-word vocabulary, language learning only (not religious content). Arabic written with full harakat by the developer; NEEDS a native Arabic teacher's review (spelling and harakat) before it is called final. Pictures are the device's own emoji (free, no artwork). The words are NOT read aloud by the device voice (same rule as letter names/sounds).",
+ "review": {
+  "status": "pending-language-review"
+ },
+ "categories": [
+  {
+   "id": "colours",
+   "title": {
+    "ar": "الألوان",
+    "en": "Colours"
+   },
+   "icon": "🎨",
+   "words": [
+    {
+     "id": "colours.red",
+     "ar": "أَحْمَر",
+     "en": "red",
+     "pic": "🟥"
+    },
+    {
+     "id": "colours.blue",
+     "ar": "أَزْرَق",
+     "en": "blue",
+     "pic": "🟦"
+    },
+    {
+     "id": "colours.green",
+     "ar": "أَخْضَر",
+     "en": "green",
+     "pic": "🟩"
+    },
+    {
+     "id": "colours.yellow",
+     "ar": "أَصْفَر",
+     "en": "yellow",
+     "pic": "🟨"
+    },
+    {
+     "id": "colours.white",
+     "ar": "أَبْيَض",
+     "en": "white",
+     "pic": "⬜"
+    },
+    {
+     "id": "colours.black",
+     "ar": "أَسْوَد",
+     "en": "black",
+     "pic": "⬛"
+    },
+    {
+     "id": "colours.orange",
+     "ar": "بُرْتُقَالِيّ",
+     "en": "orange",
+     "pic": "🟧"
+    },
+    {
+     "id": "colours.purple",
+     "ar": "بَنَفْسَجِيّ",
+     "en": "purple",
+     "pic": "🟪"
+    }
+   ]
+  },
+  {
+   "id": "animals",
+   "title": {
+    "ar": "الحيوانات",
+    "en": "Animals"
+   },
+   "icon": "🐾",
+   "words": [
+    {
+     "id": "animals.cat",
+     "ar": "قِطَّة",
+     "en": "cat",
+     "pic": "🐱"
+    },
+    {
+     "id": "animals.horse",
+     "ar": "حِصَان",
+     "en": "horse",
+     "pic": "🐴"
+    },
+    {
+     "id": "animals.camel",
+     "ar": "جَمَل",
+     "en": "camel",
+     "pic": "🐪"
+    },
+    {
+     "id": "animals.cow",
+     "ar": "بَقَرَة",
+     "en": "cow",
+     "pic": "🐄"
+    },
+    {
+     "id": "animals.sheep",
+     "ar": "خَرُوف",
+     "en": "sheep",
+     "pic": "🐑"
+    },
+    {
+     "id": "animals.lion",
+     "ar": "أَسَد",
+     "en": "lion",
+     "pic": "🦁"
+    },
+    {
+     "id": "animals.elephant",
+     "ar": "فِيل",
+     "en": "elephant",
+     "pic": "🐘"
+    },
+    {
+     "id": "animals.fish",
+     "ar": "سَمَكَة",
+     "en": "fish",
+     "pic": "🐟"
+    },
+    {
+     "id": "animals.bird",
+     "ar": "عُصْفُور",
+     "en": "bird",
+     "pic": "🐦"
+    },
+    {
+     "id": "animals.bee",
+     "ar": "نَحْلَة",
+     "en": "bee",
+     "pic": "🐝"
+    },
+    {
+     "id": "animals.butterfly",
+     "ar": "فَرَاشَة",
+     "en": "butterfly",
+     "pic": "🦋"
+    },
+    {
+     "id": "animals.rabbit",
+     "ar": "أَرْنَب",
+     "en": "rabbit",
+     "pic": "🐰"
+    }
+   ]
+  },
+  {
+   "id": "family",
+   "title": {
+    "ar": "العائلة",
+    "en": "Family"
+   },
+   "icon": "🏡",
+   "words": [
+    {
+     "id": "family.father",
+     "ar": "أَب",
+     "en": "father",
+     "pic": "👨"
+    },
+    {
+     "id": "family.mother",
+     "ar": "أُمّ",
+     "en": "mother",
+     "pic": "👩"
+    },
+    {
+     "id": "family.brother",
+     "ar": "أَخ",
+     "en": "brother",
+     "pic": "👦"
+    },
+    {
+     "id": "family.sister",
+     "ar": "أُخْت",
+     "en": "sister",
+     "pic": "👧"
+    },
+    {
+     "id": "family.grandfather",
+     "ar": "جَدّ",
+     "en": "grandfather",
+     "pic": "👴"
+    },
+    {
+     "id": "family.grandmother",
+     "ar": "جَدَّة",
+     "en": "grandmother",
+     "pic": "👵"
+    },
+    {
+     "id": "family.baby",
+     "ar": "طِفْل",
+     "en": "baby",
+     "pic": "👶"
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": {
+    "ar": "الطعام",
+    "en": "Food"
+   },
+   "icon": "🍽️",
+   "words": [
+    {
+     "id": "food.apple",
+     "ar": "تُفَّاحَة",
+     "en": "apple",
+     "pic": "🍎"
+    },
+    {
+     "id": "food.banana",
+     "ar": "مَوْزَة",
+     "en": "banana",
+     "pic": "🍌"
+    },
+    {
+     "id": "food.grapes",
+     "ar": "عِنَب",
+     "en": "grapes",
+     "pic": "🍇"
+    },
+    {
+     "id": "food.orangeFruit",
+     "ar": "بُرْتُقَالَة",
+     "en": "an orange",
+     "pic": "🍊"
+    },
+    {
+     "id": "food.bread",
+     "ar": "خُبْز",
+     "en": "bread",
+     "pic": "🍞"
+    },
+    {
+     "id": "food.milk",
+     "ar": "حَلِيب",
+     "en": "milk",
+     "pic": "🥛"
+    },
+    {
+     "id": "food.water",
+     "ar": "مَاء",
+     "en": "water",
+     "pic": "💧"
+    },
+    {
+     "id": "food.egg",
+     "ar": "بَيْضَة",
+     "en": "egg",
+     "pic": "🥚"
+    }
+   ]
+  },
+  {
+   "id": "body",
+   "title": {
+    "ar": "جسمي",
+    "en": "My body"
+   },
+   "icon": "🙂",
+   "words": [
+    {
+     "id": "body.eye",
+     "ar": "عَيْن",
+     "en": "eye",
+     "pic": "👁️"
+    },
+    {
+     "id": "body.ear",
+     "ar": "أُذُن",
+     "en": "ear",
+     "pic": "👂"
+    },
+    {
+     "id": "body.nose",
+     "ar": "أَنْف",
+     "en": "nose",
+     "pic": "👃"
+    },
+    {
+     "id": "body.mouth",
+     "ar": "فَم",
+     "en": "mouth",
+     "pic": "👄"
+    },
+    {
+     "id": "body.hand",
+     "ar": "يَد",
+     "en": "hand",
+     "pic": "✋"
+    },
+    {
+     "id": "body.foot",
+     "ar": "قَدَم",
+     "en": "foot",
+     "pic": "🦶"
+    }
+   ]
+  },
+  {
+   "id": "numbers",
+   "title": {
+    "ar": "الأعداد",
+    "en": "Numbers"
+   },
+   "icon": "🔢",
+   "words": [
+    {
+     "id": "numbers.one",
+     "ar": "وَاحِد",
+     "en": "one",
+     "pic": "1️⃣"
+    },
+    {
+     "id": "numbers.two",
+     "ar": "اثْنَان",
+     "en": "two",
+     "pic": "2️⃣"
+    },
+    {
+     "id": "numbers.three",
+     "ar": "ثَلَاثَة",
+     "en": "three",
+     "pic": "3️⃣"
+    },
+    {
+     "id": "numbers.four",
+     "ar": "أَرْبَعَة",
+     "en": "four",
+     "pic": "4️⃣"
+    },
+    {
+     "id": "numbers.five",
+     "ar": "خَمْسَة",
+     "en": "five",
+     "pic": "5️⃣"
+    },
+    {
+     "id": "numbers.six",
+     "ar": "سِتَّة",
+     "en": "six",
+     "pic": "6️⃣"
+    },
+    {
+     "id": "numbers.seven",
+     "ar": "سَبْعَة",
+     "en": "seven",
+     "pic": "7️⃣"
+    },
+    {
+     "id": "numbers.eight",
+     "ar": "ثَمَانِيَة",
+     "en": "eight",
+     "pic": "8️⃣"
+    },
+    {
+     "id": "numbers.nine",
+     "ar": "تِسْعَة",
+     "en": "nine",
+     "pic": "9️⃣"
+    },
+    {
+     "id": "numbers.ten",
+     "ar": "عَشَرَة",
+     "en": "ten",
+     "pic": "🔟"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": {
+    "ar": "حولي",
+    "en": "Around me"
+   },
+   "icon": "🌍",
+   "words": [
+    {
+     "id": "world.sun",
+     "ar": "شَمْس",
+     "en": "sun",
+     "pic": "☀️"
+    },
+    {
+     "id": "world.moon",
+     "ar": "قَمَر",
+     "en": "moon",
+     "pic": "🌙"
+    },
+    {
+     "id": "world.star",
+     "ar": "نَجْمَة",
+     "en": "star",
+     "pic": "⭐"
+    },
+    {
+     "id": "world.tree",
+     "ar": "شَجَرَة",
+     "en": "tree",
+     "pic": "🌳"
+    },
+    {
+     "id": "world.flower",
+     "ar": "وَرْدَة",
+     "en": "flower",
+     "pic": "🌹"
+    },
+    {
+     "id": "world.house",
+     "ar": "بَيْت",
+     "en": "house",
+     "pic": "🏠"
+    },
+    {
+     "id": "world.book",
+     "ar": "كِتَاب",
+     "en": "book",
+     "pic": "📕"
+    },
+    {
+     "id": "world.pen",
+     "ar": "قَلَم",
+     "en": "pen",
+     "pic": "✏️"
+    },
+    {
+     "id": "world.ball",
+     "ar": "كُرَة",
+     "en": "ball",
+     "pic": "⚽"
+    },
+    {
+     "id": "world.car",
+     "ar": "سَيَّارَة",
+     "en": "car",
+     "pic": "🚗"
+    }
+   ]
+  },
+  {
+   "id": "clothes",
+   "title": {
+    "ar": "الملابس",
+    "en": "Clothes"
+   },
+   "icon": "👕",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    {
+     "id": "clothes.shirt",
+     "ar": "قَمِيص",
+     "en": "shirt",
+     "pic": "👕"
+    },
+    {
+     "id": "clothes.trousers",
+     "ar": "بِنْطَال",
+     "en": "trousers",
+     "pic": "👖"
+    },
+    {
+     "id": "clothes.dress",
+     "ar": "فُسْتَان",
+     "en": "dress",
+     "pic": "👗"
+    },
+    {
+     "id": "clothes.shoe",
+     "ar": "حِذَاء",
+     "en": "shoe",
+     "pic": "👟"
+    },
+    {
+     "id": "clothes.cap",
+     "ar": "قُبَّعَة",
+     "en": "hat",
+     "pic": "🧢"
+    },
+    {
+     "id": "clothes.sock",
+     "ar": "جَوْرَب",
+     "en": "sock",
+     "pic": "🧦"
+    },
+    {
+     "id": "clothes.coat",
+     "ar": "مِعْطَف",
+     "en": "coat",
+     "pic": "🧥"
+    },
+    {
+     "id": "clothes.glasses",
+     "ar": "نَظَّارَة",
+     "en": "glasses",
+     "pic": "👓"
+    },
+    {
+     "id": "clothes.glove",
+     "ar": "قُفَّاز",
+     "en": "glove",
+     "pic": "🧤"
+    },
+    {
+     "id": "clothes.scarf",
+     "ar": "وِشَاح",
+     "en": "scarf",
+     "pic": "🧣"
+    }
+   ]
+  },
+  {
+   "id": "school",
+   "title": {
+    "ar": "المدرسة",
+    "en": "School"
+   },
+   "icon": "🏫",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    {
+     "id": "school.school",
+     "ar": "مَدْرَسَة",
+     "en": "school",
+     "pic": "🏫"
+    },
+    {
+     "id": "school.notebook",
+     "ar": "دَفْتَر",
+     "en": "notebook",
+     "pic": "📓"
+    },
+    {
+     "id": "school.ruler",
+     "ar": "مِسْطَرَة",
+     "en": "ruler",
+     "pic": "📏"
+    },
+    {
+     "id": "school.scissors",
+     "ar": "مِقَصّ",
+     "en": "scissors",
+     "pic": "✂️"
+    },
+    {
+     "id": "school.bag",
+     "ar": "حَقِيبَة",
+     "en": "school bag",
+     "pic": "🎒"
+    },
+    {
+     "id": "school.teacher",
+     "ar": "مُعَلِّم",
+     "en": "teacher",
+     "pic": "🧑‍🏫"
+    },
+    {
+     "id": "school.computer",
+     "ar": "حَاسُوب",
+     "en": "computer",
+     "pic": "💻"
+    },
+    {
+     "id": "school.bell",
+     "ar": "جَرَس",
+     "en": "bell",
+     "pic": "🔔"
+    },
+    {
+     "id": "school.paperclip",
+     "ar": "مِشْبَك",
+     "en": "paper clip",
+     "pic": "📎"
+    },
+    {
+     "id": "school.microscope",
+     "ar": "مِجْهَر",
+     "en": "microscope",
+     "pic": "🔬"
+    }
+   ]
+  },
+  {
+   "id": "home",
+   "title": {
+    "ar": "البيت",
+    "en": "Home"
+   },
+   "icon": "🛋️",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    {
+     "id": "home.door",
+     "ar": "بَاب",
+     "en": "door",
+     "pic": "🚪"
+    },
+    {
+     "id": "home.window",
+     "ar": "نَافِذَة",
+     "en": "window",
+     "pic": "🪟"
+    },
+    {
+     "id": "home.bed",
+     "ar": "سَرِير",
+     "en": "bed",
+     "pic": "🛏️"
+    },
+    {
+     "id": "home.chair",
+     "ar": "كُرْسِيّ",
+     "en": "chair",
+     "pic": "🪑"
+    },
+    {
+     "id": "home.lamp",
+     "ar": "مِصْبَاح",
+     "en": "lamp",
+     "pic": "💡"
+    },
+    {
+     "id": "home.key",
+     "ar": "مِفْتَاح",
+     "en": "key",
+     "pic": "🔑"
+    },
+    {
+     "id": "home.clock",
+     "ar": "سَاعَة",
+     "en": "clock",
+     "pic": "⏰"
+    },
+    {
+     "id": "home.mirror",
+     "ar": "مِرْآة",
+     "en": "mirror",
+     "pic": "🪞"
+    },
+    {
+     "id": "home.sofa",
+     "ar": "أَرِيكَة",
+     "en": "sofa",
+     "pic": "🛋️"
+    },
+    {
+     "id": "home.broom",
+     "ar": "مِكْنَسَة",
+     "en": "broom",
+     "pic": "🧹"
+    }
+   ]
+  },
+  {
+   "id": "nature",
+   "title": {
+    "ar": "الطبيعة والطقس",
+    "en": "Nature & weather"
+   },
+   "icon": "🌦️",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    {
+     "id": "nature.cloud",
+     "ar": "سَحَابَة",
+     "en": "cloud",
+     "pic": "☁️"
+    },
+    {
+     "id": "nature.rain",
+     "ar": "مَطَر",
+     "en": "rain",
+     "pic": "🌧️"
+    },
+    {
+     "id": "nature.snow",
+     "ar": "ثَلْج",
+     "en": "snow",
+     "pic": "❄️"
+    },
+    {
+     "id": "nature.wind",
+     "ar": "رِيح",
+     "en": "wind",
+     "pic": "🌬️"
+    },
+    {
+     "id": "nature.lightning",
+     "ar": "بَرْق",
+     "en": "lightning",
+     "pic": "⚡"
+    },
+    {
+     "id": "nature.rainbow",
+     "ar": "قَوْسُ قُزَح",
+     "en": "rainbow",
+     "pic": "🌈"
+    },
+    {
+     "id": "nature.mountain",
+     "ar": "جَبَل",
+     "en": "mountain",
+     "pic": "⛰️"
+    },
+    {
+     "id": "nature.sea",
+     "ar": "بَحْر",
+     "en": "sea",
+     "pic": "🌊"
+    },
+    {
+     "id": "nature.volcano",
+     "ar": "بُرْكَان",
+     "en": "volcano",
+     "pic": "🌋"
+    },
+    {
+     "id": "nature.desert",
+     "ar": "صَحْرَاء",
+     "en": "desert",
+     "pic": "🏜️"
+    }
+   ]
+  },
+  {
+   "id": "transport",
+   "title": {
+    "ar": "المواصلات",
+    "en": "Transport"
+   },
+   "icon": "🚌",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    {
+     "id": "transport.bus",
+     "ar": "حَافِلَة",
+     "en": "bus",
+     "pic": "🚌"
+    },
+    {
+     "id": "transport.train",
+     "ar": "قِطَار",
+     "en": "train",
+     "pic": "🚆"
+    },
+    {
+     "id": "transport.plane",
+     "ar": "طَائِرَة",
+     "en": "plane",
+     "pic": "✈️"
+    },
+    {
+     "id": "transport.ship",
+     "ar": "سَفِينَة",
+     "en": "ship",
+     "pic": "🚢"
+    },
+    {
+     "id": "transport.bicycle",
+     "ar": "دَرَّاجَة",
+     "en": "bicycle",
+     "pic": "🚲"
+    },
+    {
+     "id": "transport.truck",
+     "ar": "شَاحِنَة",
+     "en": "truck",
+     "pic": "🚚"
+    },
+    {
+     "id": "transport.boat",
+     "ar": "قَارِب",
+     "en": "boat",
+     "pic": "⛵"
+    },
+    {
+     "id": "transport.rocket",
+     "ar": "صَارُوخ",
+     "en": "rocket",
+     "pic": "🚀"
+    },
+    {
+     "id": "transport.helicopter",
+     "ar": "مِرْوَحِيَّة",
+     "en": "helicopter",
+     "pic": "🚁"
+    },
+    {
+     "id": "transport.tractor",
+     "ar": "جَرَّار",
+     "en": "tractor",
+     "pic": "🚜"
+    }
+   ]
+  },
+  {
+   "id": "produce",
+   "title": {
+    "ar": "الفواكه والخضروات",
+    "en": "Fruits & vegetables"
+   },
+   "icon": "🥕",
+   "ages": [
+    2,
+    3
+   ],
+   "words": [
+    {
+     "id": "produce.carrot",
+     "ar": "جَزَرَة",
+     "en": "carrot",
+     "pic": "🥕"
+    },
+    {
+     "id": "produce.tomato",
+     "ar": "طَمَاطِم",
+     "en": "tomato",
+     "pic": "🍅"
+    },
+    {
+     "id": "produce.potato",
+     "ar": "بَطَاطِس",
+     "en": "potato",
+     "pic": "🥔"
+    },
+    {
+     "id": "produce.cucumber",
+     "ar": "خِيَار",
+     "en": "cucumber",
+     "pic": "🥒"
+    },
+    {
+     "id": "produce.onion",
+     "ar": "بَصَل",
+     "en": "onion",
+     "pic": "🧅"
+    },
+    {
+     "id": "produce.strawberry",
+     "ar": "فَرَاوِلَة",
+     "en": "strawberry",
+     "pic": "🍓"
+    },
+    {
+     "id": "produce.watermelon",
+     "ar": "بِطِّيخ",
+     "en": "watermelon",
+     "pic": "🍉"
+    },
+    {
+     "id": "produce.lemon",
+     "ar": "لَيْمُون",
+     "en": "lemon",
+     "pic": "🍋"
+    },
+    {
+     "id": "produce.pineapple",
+     "ar": "أَنَانَاس",
+     "en": "pineapple",
+     "pic": "🍍"
+    },
+    {
+     "id": "produce.corn",
+     "ar": "ذُرَة",
+     "en": "corn",
+     "pic": "🌽"
+    }
+   ]
+  }
+ ]
+}

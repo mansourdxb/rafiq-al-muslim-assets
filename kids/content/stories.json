@@ -1,0 +1,2211 @@
+{
+ "_note": "Stories of the Prophets for children. Each chapter retells only the cited verses; quotes are copied from the King Fahd text. DRAFT: needs qualified review before children see it. Art is symbolic scenery only; no Prophet is depicted.",
+ "stories": [
+  {
+   "id": "adam",
+   "name": {
+    "en": "Adam",
+    "ar": "آدم"
+   },
+   "cover": "garden",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "stars",
+     "refs": [
+      "2:30"
+     ],
+     "text": {
+      "en": "Allah told the angels that He would place a successor on the earth.",
+      "ar": "أخبر الله الملائكة أنه سيجعل في الأرض خليفة."
+     }
+    },
+    {
+     "scene": "book",
+     "refs": [
+      "2:31-33"
+     ],
+     "text": {
+      "en": "Allah taught Adam the names of all things, and Adam told the angels those names.",
+      "ar": "علّم الله آدم الأسماء كلها، فأخبر آدم الملائكة بأسمائها."
+     }
+    },
+    {
+     "scene": "garden",
+     "refs": [
+      "2:35-36",
+      "7:19-22"
+     ],
+     "text": {
+      "en": "Adam and his wife lived in the Garden. Allah told them not to go near one tree, but Shaytan tricked them and they ate from it.",
+      "ar": "سكن آدم وزوجه الجنة، ونهاهما الله عن شجرة واحدة، فوسوس لهما الشيطان فأكلا منها."
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "7:23",
+      "2:37"
+     ],
+     "text": {
+      "en": "Adam and his wife were sorry and asked Allah to forgive them, and Allah accepted their repentance.",
+      "ar": "ندم آدم وزوجه وطلبا من الله المغفرة، فتاب الله عليهما."
+     },
+     "quote": {
+      "surah": 7,
+      "ayah": 23,
+      "words": [
+       1,
+       12
+      ],
+      "arabic": "رَبَّنَا ظَلَمۡنَآ أَنفُسَنَا وَإِن لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا لَنَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ"
+     }
+    }
+   ],
+   "lesson": {
+    "en": "When we make a mistake, we say sorry to Allah and ask Him to forgive us.",
+    "ar": "إذا أخطأنا نتوب إلى الله ونطلب منه المغفرة."
+   },
+   "questions": [
+    {
+     "id": "adam1",
+     "q": {
+      "en": "What did Allah teach Adam?",
+      "ar": "ماذا علّم الله آدم؟"
+     },
+     "choices": {
+      "en": [
+       "The names of all things",
+       "How to fly",
+       "How to swim"
+      ],
+      "ar": [
+       "الأسماء كلها",
+       "الطيران",
+       "السباحة"
+      ]
+     },
+     "answer": 0,
+     "ref": "2:31"
+    },
+    {
+     "id": "adam2",
+     "q": {
+      "en": "What did Adam and his wife do after their mistake?",
+      "ar": "ماذا فعل آدم وزوجه بعد الخطأ؟"
+     },
+     "choices": {
+      "en": [
+       "They asked Allah to forgive them",
+       "They hid",
+       "They were angry"
+      ],
+      "ar": [
+       "طلبا المغفرة من الله",
+       "اختبآ",
+       "غضبا"
+      ]
+     },
+     "answer": 0,
+     "ref": "7:23"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "nuh",
+   "name": {
+    "en": "Nuh",
+    "ar": "نوح"
+   },
+   "cover": "ark",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "desert",
+     "refs": [
+      "71:1-3",
+      "71:5"
+     ],
+     "text": {
+      "en": "Allah sent Nuh to his people. He called them day and night to worship Allah alone.",
+      "ar": "أرسل الله نوحًا إلى قومه، فدعاهم ليلًا ونهارًا إلى عبادة الله وحده."
+     }
+    },
+    {
+     "scene": "ark",
+     "refs": [
+      "11:37-38"
+     ],
+     "text": {
+      "en": "Allah told Nuh to build a ship. Some of his people laughed at him while he built it.",
+      "ar": "أمر الله نوحًا أن يصنع السفينة، وكان بعض قومه يسخرون منه وهو يصنعها."
+     }
+    },
+    {
+     "scene": "flood",
+     "refs": [
+      "11:40",
+      "11:42"
+     ],
+     "text": {
+      "en": "When the flood came, Nuh carried the believers and pairs of animals in the ship, and it sailed on waves like mountains.",
+      "ar": "لما جاء الطوفان حمل نوح المؤمنين ومن كل زوجين اثنين، وجرت بهم السفينة في موج كالجبال."
+     }
+    },
+    {
+     "scene": "mountain",
+     "refs": [
+      "11:44"
+     ],
+     "text": {
+      "en": "Then the water went down and the ship came to rest on the mountain of Al-Judi.",
+      "ar": "ثم غيض الماء واستوت السفينة على الجودي."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Nuh was patient for a very long time and kept doing what Allah asked.",
+    "ar": "صبر نوح زمنًا طويلًا وثبت على أمر الله."
+   },
+   "questions": [
+    {
+     "id": "nuh1",
+     "q": {
+      "en": "What did Allah tell Nuh to build?",
+      "ar": "ماذا أمر الله نوحًا أن يصنع؟"
+     },
+     "choices": {
+      "en": [
+       "A ship",
+       "A house",
+       "A tower"
+      ],
+      "ar": [
+       "سفينة",
+       "بيتًا",
+       "برجًا"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:37"
+    },
+    {
+     "id": "nuh2",
+     "q": {
+      "en": "Where did the ship come to rest?",
+      "ar": "أين استقرت السفينة؟"
+     },
+     "choices": {
+      "en": [
+       "On the mountain of Al-Judi",
+       "In a desert",
+       "On an island of ice"
+      ],
+      "ar": [
+       "على الجودي",
+       "في صحراء",
+       "على جزيرة من جليد"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:44"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "hud",
+   "name": {
+    "en": "Hud",
+    "ar": "هود"
+   },
+   "cover": "desert",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "desert",
+     "refs": [
+      "7:65",
+      "26:124-126"
+     ],
+     "text": {
+      "en": "Allah sent Hud to his people, the people of 'Ad. He told them: Worship Allah, you have no god other than Him. I am a trustworthy messenger to you.",
+      "ar": "أرسل الله هودًا إلى قومه عاد، فقال لهم: اعبدوا الله ما لكم من إله غيره، إني لكم رسول أمين."
+     }
+    },
+    {
+     "scene": "garden",
+     "refs": [
+      "26:127",
+      "26:132-134",
+      "11:52"
+     ],
+     "text": {
+      "en": "Hud asked them for no payment; his reward was from Allah. He reminded them that Allah gave them cattle, children, gardens and springs, and told them to ask their Lord for forgiveness, so He would send them rain and add strength to their strength.",
+      "ar": "لم يطلب هود منهم أجرًا، فأجره على الله. وذكّرهم بأن الله أمدّهم بالأنعام والبنين والجنات والعيون، ودعاهم أن يستغفروا ربهم ليرسل السماء عليهم مدرارًا ويزيدهم قوة إلى قوتهم."
+     }
+    },
+    {
+     "scene": "mountain",
+     "refs": [
+      "11:53-56"
+     ],
+     "text": {
+      "en": "His people said they would not leave their idols. Hud was not afraid and said: I have put my trust in Allah, my Lord and your Lord.",
+      "ar": "قال قومه إنهم لن يتركوا آلهتهم، فلم يخف هود وقال: إني توكلت على الله ربي وربكم."
+     },
+     "quote": {
+      "surah": 11,
+      "ayah": 56,
+      "words": [
+       0,
+       6
+      ],
+      "arabic": "إِنِّي تَوَكَّلۡتُ عَلَى ٱللَّهِ رَبِّي وَرَبِّكُمۚ"
+     }
+    },
+    {
+     "scene": "desert",
+     "refs": [
+      "46:24-25"
+     ],
+     "text": {
+      "en": "One day they saw a cloud coming towards their valleys and said: This cloud will bring us rain. But it was a wind sent by the command of their Lord.",
+      "ar": "رأوا يومًا سحابًا مقبلًا نحو أوديتهم فقالوا: هذا عارض ممطرنا، ولكنه كان ريحًا بأمر ربها."
+     }
+    },
+    {
+     "scene": "palm",
+     "refs": [
+      "11:58"
+     ],
+     "text": {
+      "en": "When Allah's command came, Allah saved Hud and those who believed with him, by His mercy.",
+      "ar": "ولما جاء أمر الله نجّى الله هودًا والذين آمنوا معه برحمة منه."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Put your trust in Allah, and thank Him for His blessings.",
+    "ar": "نتوكل على الله ونشكره على نعمه."
+   },
+   "questions": [
+    {
+     "id": "hud1",
+     "q": {
+      "en": "Did Hud ask his people for payment?",
+      "ar": "هل طلب هود من قومه أجرًا؟"
+     },
+     "choices": {
+      "en": [
+       "No, his reward was from Allah",
+       "Yes, gold",
+       "Yes, sheep"
+      ],
+      "ar": [
+       "لا، أجره على الله",
+       "نعم، ذهبًا",
+       "نعم، غنمًا"
+      ]
+     },
+     "answer": 0,
+     "ref": "26:127"
+    },
+    {
+     "id": "hud2",
+     "q": {
+      "en": "Who did Hud put his trust in?",
+      "ar": "على من توكّل هود؟"
+     },
+     "choices": {
+      "en": [
+       "Allah",
+       "His people",
+       "The idols"
+      ],
+      "ar": [
+       "على الله",
+       "على قومه",
+       "على الأصنام"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:56"
+    },
+    {
+     "id": "hud3",
+     "q": {
+      "en": "What did Allah do for Hud and the believers?",
+      "ar": "ماذا فعل الله بهود والمؤمنين؟"
+     },
+     "choices": {
+      "en": [
+       "He saved them by His mercy",
+       "He left them alone",
+       "Nothing"
+      ],
+      "ar": [
+       "نجّاهم برحمته",
+       "تركهم",
+       "لا شيء"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:58"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "salih",
+   "name": {
+    "en": "Salih",
+    "ar": "صالح"
+   },
+   "cover": "mountain",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "mountain",
+     "refs": [
+      "7:73-74"
+     ],
+     "text": {
+      "en": "Allah sent Salih to his people, Thamud. They built palaces on the plains and carved houses out of the mountains. Salih told them: Worship Allah, you have no god other than Him.",
+      "ar": "أرسل الله صالحًا إلى قومه ثمود، وكانوا يتخذون من السهول قصورًا وينحتون الجبال بيوتًا. فقال لهم صالح: اعبدوا الله ما لكم من إله غيره."
+     }
+    },
+    {
+     "scene": "desert",
+     "refs": [
+      "7:73",
+      "26:155-156"
+     ],
+     "text": {
+      "en": "Allah gave them a she-camel as a sign. Salih said: Let her eat in Allah's land. She has her turn to drink, and you have your turn on a known day. Do not harm her.",
+      "ar": "جعل الله لهم الناقة آية، فقال صالح: ذروها تأكل في أرض الله، لها شرب ولكم شرب يوم معلوم، ولا تمسوها بسوء."
+     },
+     "quote": {
+      "surah": 7,
+      "ayah": 73,
+      "words": [
+       18,
+       23
+      ],
+      "arabic": "هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةٗۖ"
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "7:77",
+      "91:14"
+     ],
+     "text": {
+      "en": "But they did not listen. They killed the she-camel and disobeyed the command of their Lord.",
+      "ar": "لكنهم لم يسمعوا، فعقروا الناقة وعصوا أمر ربهم."
+     }
+    },
+    {
+     "scene": "stars",
+     "refs": [
+      "11:66",
+      "7:79"
+     ],
+     "text": {
+      "en": "Allah saved Salih and those who believed with him, by His mercy. Salih said: I delivered the message of my Lord to you and gave you good advice.",
+      "ar": "نجّى الله صالحًا والذين آمنوا معه برحمة منه، وقال صالح: لقد أبلغتكم رسالة ربي ونصحت لكم."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Listen to good advice and be kind to animals.",
+    "ar": "نسمع النصيحة ونرفق بالحيوان."
+   },
+   "questions": [
+    {
+     "id": "sal1",
+     "q": {
+      "en": "What sign did Allah give the people of Thamud?",
+      "ar": "ما الآية التي جعلها الله لثمود؟"
+     },
+     "choices": {
+      "en": [
+       "A she-camel",
+       "A big bird",
+       "A river"
+      ],
+      "ar": [
+       "ناقة",
+       "طائر كبير",
+       "نهر"
+      ]
+     },
+     "answer": 0,
+     "ref": "7:73"
+    },
+    {
+     "id": "sal2",
+     "q": {
+      "en": "What did the people of Thamud carve out of the mountains?",
+      "ar": "ماذا نحت قوم ثمود من الجبال؟"
+     },
+     "choices": {
+      "en": [
+       "Houses",
+       "Ships",
+       "Statues of birds"
+      ],
+      "ar": [
+       "بيوتًا",
+       "سفنًا",
+       "تماثيل طيور"
+      ]
+     },
+     "answer": 0,
+     "ref": "7:74"
+    },
+    {
+     "id": "sal3",
+     "q": {
+      "en": "Whom did Allah save?",
+      "ar": "من نجّى الله؟"
+     },
+     "choices": {
+      "en": [
+       "Salih and the believers",
+       "No one",
+       "Only the she-camel"
+      ],
+      "ar": [
+       "صالحًا والمؤمنين",
+       "لا أحد",
+       "الناقة فقط"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:66"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "ibrahim",
+   "name": {
+    "en": "Ibrahim",
+    "ar": "إبراهيم"
+   },
+   "cover": "fire",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "stars",
+     "refs": [
+      "6:76-79"
+     ],
+     "text": {
+      "en": "Ibrahim looked at a star, the moon and the sun. They all set, so he taught his people that only Allah, who created the heavens and the earth, should be worshipped.",
+      "ar": "نظر إبراهيم إلى الكوكب والقمر والشمس، فلما غابت بيّن لقومه أن العبادة لله وحده الذي فطر السماوات والأرض."
+     }
+    },
+    {
+     "scene": "desert",
+     "refs": [
+      "21:51-58"
+     ],
+     "text": {
+      "en": "His people worshipped statues. Ibrahim broke the statues, except the biggest one, to show his people that statues cannot help anyone.",
+      "ar": "كان قومه يعبدون الأصنام، فكسرها إبراهيم إلا كبيرها ليبيّن لهم أنها لا تنفع أحدًا."
+     }
+    },
+    {
+     "scene": "fire",
+     "refs": [
+      "21:68-70"
+     ],
+     "text": {
+      "en": "They threw Ibrahim into a fire, but Allah said: O fire, be cool and safe for Ibrahim.",
+      "ar": "ألقوا إبراهيم في النار، فقال الله: يا نار كوني بردًا وسلامًا على إبراهيم."
+     },
+     "quote": {
+      "surah": 21,
+      "ayah": 69,
+      "words": [
+       1,
+       8
+      ],
+      "arabic": "يَٰنَارُ كُونِي بَرۡدٗا وَسَلَٰمًا عَلَىٰٓ إِبۡرَٰهِيمَ"
+     }
+    },
+    {
+     "scene": "mountainBirds",
+     "refs": [
+      "2:260"
+     ],
+     "text": {
+      "en": "Ibrahim asked Allah to show him how He gives life to the dead, so that his heart would be at peace. Allah told him to take four birds, place a part of them on every mountain, then call them, and they came to him quickly.",
+      "ar": "سأل إبراهيم ربه أن يريه كيف يحيي الموتى ليطمئن قلبه، فأمره الله أن يأخذ أربعة من الطير ويجعل على كل جبل منهن جزءًا ثم يدعوهن، فأتينه سعيًا."
+     },
+     "ages": [
+      3
+     ],
+     "quote": {
+      "surah": 2,
+      "ayah": 260,
+      "words": [
+       3,
+       8
+      ],
+      "arabic": "رَبِّ أَرِنِي كَيۡفَ تُحۡيِ ٱلۡمَوۡتَىٰۖ"
+     }
+    },
+    {
+     "scene": "kaaba",
+     "refs": [
+      "2:127"
+     ],
+     "text": {
+      "en": "Later, Ibrahim and his son Ismail raised the foundations of the House (the Kaaba) and made dua.",
+      "ar": "ثم رفع إبراهيم وابنه إسماعيل القواعد من البيت ودعوا الله."
+     }
+    },
+    {
+     "scene": "kaaba",
+     "refs": [
+      "14:35-37"
+     ],
+     "text": {
+      "en": "Ibrahim prayed: My Lord, make this city safe, and keep me and my children away from worshipping idols. He had left some of his family in a valley with no crops, near Allah's Sacred House, so that they would pray, and he asked Allah to make people's hearts love them and to give them fruits.",
+      "ar": "دعا إبراهيم: رب اجعل هذا البلد آمنًا، وأبعدني وأبنائي عن عبادة الأصنام. وكان قد أسكن بعض ذريته بواد لا زرع فيه عند بيت الله المحرم ليقيموا الصلاة، فدعا الله أن يجعل قلوب الناس تميل إليهم وأن يرزقهم من الثمرات."
+     },
+     "ages": [
+      3
+     ],
+     "quote": {
+      "surah": 14,
+      "ayah": 35,
+      "words": [
+       3,
+       8
+      ],
+      "arabic": "رَبِّ ٱجۡعَلۡ هَٰذَا ٱلۡبَلَدَ ءَامِنٗا"
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Ibrahim trusted Allah completely, and Allah protected him.",
+    "ar": "توكّل إبراهيم على الله فحماه الله."
+   },
+   "questions": [
+    {
+     "id": "ibr1",
+     "q": {
+      "en": "What did Allah tell the fire?",
+      "ar": "ماذا قال الله للنار؟"
+     },
+     "choices": {
+      "en": [
+       "Be cool and safe for Ibrahim",
+       "Burn brighter",
+       "Go out of the city"
+      ],
+      "ar": [
+       "كوني بردًا وسلامًا على إبراهيم",
+       "اشتعلي أكثر",
+       "اخرجي من المدينة"
+      ]
+     },
+     "answer": 0,
+     "ref": "21:69"
+    },
+    {
+     "id": "ibr2",
+     "q": {
+      "en": "Who built the House (Kaaba) with Ibrahim?",
+      "ar": "من بنى البيت مع إبراهيم؟"
+     },
+     "choices": {
+      "en": [
+       "His son Ismail",
+       "His people",
+       "No one"
+      ],
+      "ar": [
+       "ابنه إسماعيل",
+       "قومه",
+       "لا أحد"
+      ]
+     },
+     "answer": 0,
+     "ref": "2:127"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "ismail",
+   "name": {
+    "en": "Ismail",
+    "ar": "إسماعيل"
+   },
+   "cover": "kaaba",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "desert",
+     "refs": [
+      "37:100-101"
+     ],
+     "text": {
+      "en": "Ibrahim asked Allah for a righteous child, and Allah gave him the good news of a patient boy.",
+      "ar": "دعا إبراهيم ربه أن يهبه ولدًا صالحًا، فبشّره الله بغلام حليم."
+     }
+    },
+    {
+     "scene": "mountain",
+     "refs": [
+      "37:102-107"
+     ],
+     "text": {
+      "en": "Ibrahim and his son obeyed Allah's command with patience, and Allah rewarded them with a great sacrifice in its place.",
+      "ar": "امتثل إبراهيم وابنه لأمر الله صابرين، ففداه الله بذبح عظيم."
+     }
+    },
+    {
+     "scene": "kaaba",
+     "refs": [
+      "2:127-128"
+     ],
+     "text": {
+      "en": "Ismail helped his father raise the foundations of the Kaaba, and they asked Allah to accept it from them.",
+      "ar": "ساعد إسماعيل أباه في رفع قواعد البيت، ودعوا الله أن يتقبل منهما."
+     },
+     "quote": {
+      "surah": 2,
+      "ayah": 127,
+      "words": [
+       7,
+       14
+      ],
+      "arabic": "رَبَّنَا تَقَبَّلۡ مِنَّآۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
+     }
+    },
+    {
+     "scene": "palm",
+     "refs": [
+      "19:54-55"
+     ],
+     "text": {
+      "en": "Allah praised Ismail: he was true to his promise, and he told his family to pray and give zakah.",
+      "ar": "أثنى الله على إسماعيل بأنه كان صادق الوعد، وكان يأمر أهله بالصلاة والزكاة."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Keep your promises, like Ismail.",
+    "ar": "نصدق في وعودنا كما كان إسماعيل."
+   },
+   "questions": [
+    {
+     "id": "ism1",
+     "q": {
+      "en": "What did Allah praise Ismail for?",
+      "ar": "بمَ أثنى الله على إسماعيل؟"
+     },
+     "choices": {
+      "en": [
+       "Being true to his promise",
+       "Being very strong",
+       "Being very rich"
+      ],
+      "ar": [
+       "صدق الوعد",
+       "القوة الشديدة",
+       "كثرة المال"
+      ]
+     },
+     "answer": 0,
+     "ref": "19:54"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "yusuf",
+   "name": {
+    "en": "Yusuf",
+    "ar": "يوسف"
+   },
+   "cover": "moonStars",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "moonStars",
+     "refs": [
+      "12:4"
+     ],
+     "text": {
+      "en": "Young Yusuf saw a dream: eleven stars, the sun and the moon bowing to him. He told his father Yaqub.",
+      "ar": "رأى يوسف وهو صغير في منامه أحد عشر كوكبًا والشمس والقمر له ساجدين، فأخبر أباه يعقوب."
+     }
+    },
+    {
+     "scene": "well",
+     "refs": [
+      "12:8-10",
+      "12:15"
+     ],
+     "text": {
+      "en": "His brothers were jealous and threw him into a well.",
+      "ar": "حسده إخوته فألقوه في البئر."
+     }
+    },
+    {
+     "scene": "caravan",
+     "refs": [
+      "12:19-21"
+     ],
+     "text": {
+      "en": "Travellers found Yusuf and took him to Egypt, where Allah gave him a place to live.",
+      "ar": "وجده المسافرون فأخذوه إلى مصر، ومكّن الله له هناك."
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "12:39-40"
+     ],
+     "text": {
+      "en": "In prison, Yusuf asked his two companions: Are many different lords better, or Allah, the One? He taught them that Allah has commanded that we worship no one but Him.",
+      "ar": "سأل يوسف صاحبيه في السجن: أأرباب متفرقون خير أم الله الواحد؟ وعلّمهما أن الله أمر ألا نعبد إلا إياه."
+     },
+     "ages": [
+      3
+     ],
+     "quote": {
+      "surah": 12,
+      "ayah": 40,
+      "words": [
+       19,
+       24
+      ],
+      "arabic": "أَمَرَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُۚ"
+     }
+    },
+    {
+     "scene": "palace",
+     "refs": [
+      "12:43-49"
+     ],
+     "text": {
+      "en": "The king saw a dream: seven fat cows eaten by seven thin ones, and seven green ears of grain and others dry. Yusuf explained it: plant for seven years and keep the grain in its ears, because seven hard years will come after them, and then a year of relief.",
+      "ar": "رأى الملك في منامه سبع بقرات سمان تأكلهن سبع عجاف، وسبع سنبلات خضر وأخر يابسات. ففسّرها يوسف: ازرعوا سبع سنين واتركوا الحَبّ في سنبله، فستأتي بعدها سبع سنين شديدة، ثم يأتي عام فيه غوث للناس."
+     },
+     "ages": [
+      3
+     ]
+    },
+    {
+     "scene": "palace",
+     "refs": [
+      "12:54-56",
+      "12:90-92"
+     ],
+     "text": {
+      "en": "Allah made Yusuf trusted and in charge of the stores of the land. When his brothers came and were sorry, Yusuf forgave them.",
+      "ar": "جعل الله يوسف أمينًا على خزائن الأرض، ولما جاء إخوته نادمين عفا عنهم."
+     },
+     "quote": {
+      "surah": 12,
+      "ayah": 92,
+      "words": [
+       1,
+       4
+      ],
+      "arabic": "لَا تَثۡرِيبَ عَلَيۡكُمُ"
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Be patient, and forgive people who are sorry.",
+    "ar": "نصبر ونعفو عمّن يعتذر."
+   },
+   "questions": [
+    {
+     "id": "yus1",
+     "q": {
+      "en": "In Yusuf's dream, how many stars did he see?",
+      "ar": "كم كوكبًا رأى يوسف في منامه؟"
+     },
+     "choices": {
+      "en": [
+       "Eleven",
+       "Seven",
+       "Three"
+      ],
+      "ar": [
+       "أحد عشر",
+       "سبعة",
+       "ثلاثة"
+      ]
+     },
+     "answer": 0,
+     "ref": "12:4"
+    },
+    {
+     "id": "yus2",
+     "q": {
+      "en": "What did Yusuf do when his brothers were sorry?",
+      "ar": "ماذا فعل يوسف لما ندم إخوته؟"
+     },
+     "choices": {
+      "en": [
+       "He forgave them",
+       "He sent them away",
+       "He was angry"
+      ],
+      "ar": [
+       "عفا عنهم",
+       "طردهم",
+       "غضب"
+      ]
+     },
+     "answer": 0,
+     "ref": "12:92"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "shuayb",
+   "name": {
+    "en": "Shuayb",
+    "ar": "شعيب"
+   },
+   "cover": "caravan",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "desert",
+     "refs": [
+      "7:85",
+      "11:84"
+     ],
+     "text": {
+      "en": "Allah sent Shuayb to his people in Madyan. He told them: Worship Allah, you have no god other than Him.",
+      "ar": "أرسل الله شعيبًا إلى قومه في مدين، فقال لهم: اعبدوا الله ما لكم من إله غيره."
+     }
+    },
+    {
+     "scene": "caravan",
+     "refs": [
+      "11:84-85",
+      "7:85"
+     ],
+     "text": {
+      "en": "Shuayb told them: Give full measure and full weight, fairly. Do not cheat people of their things, and do not spread harm in the land.",
+      "ar": "قال لهم شعيب: أوفوا المكيال والميزان بالعدل، ولا تبخسوا الناس أشياءهم، ولا تفسدوا في الأرض."
+     },
+     "quote": {
+      "surah": 11,
+      "ayah": 85,
+      "words": [
+       1,
+       5
+      ],
+      "arabic": "أَوۡفُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَ بِٱلۡقِسۡطِۖ"
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "11:88"
+     ],
+     "text": {
+      "en": "Shuayb said: I only want to set things right as much as I can. My success comes only from Allah. In Him I put my trust.",
+      "ar": "قال شعيب: إن أريد إلا الإصلاح ما استطعت، وما توفيقي إلا بالله، عليه توكلت."
+     }
+    },
+    {
+     "scene": "moonStars",
+     "refs": [
+      "11:90"
+     ],
+     "text": {
+      "en": "He told them: Ask your Lord for forgiveness and turn back to Him. My Lord is Most Merciful and Most Loving.",
+      "ar": "وقال لهم: استغفروا ربكم ثم توبوا إليه، إن ربي رحيم ودود."
+     }
+    },
+    {
+     "scene": "palm",
+     "refs": [
+      "11:94"
+     ],
+     "text": {
+      "en": "When Allah's command came, Allah saved Shuayb and those who believed with him, by His mercy.",
+      "ar": "ولما جاء أمر الله نجّى الله شعيبًا والذين آمنوا معه برحمة منه."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Be honest and fair when you buy, sell and share.",
+    "ar": "نكون أمناء عادلين في البيع والشراء والقسمة."
+   },
+   "questions": [
+    {
+     "id": "shu1",
+     "q": {
+      "en": "What did Shuayb tell his people about measuring and weighing?",
+      "ar": "ماذا قال شعيب لقومه عن الكيل والميزان؟"
+     },
+     "choices": {
+      "en": [
+       "Give full measure, fairly",
+       "Take more for yourselves",
+       "Do not measure at all"
+      ],
+      "ar": [
+       "أوفوا الكيل بالعدل",
+       "خذوا لأنفسكم أكثر",
+       "لا تكيلوا أبدًا"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:85"
+    },
+    {
+     "id": "shu2",
+     "q": {
+      "en": "What did Shuayb want to do?",
+      "ar": "ماذا أراد شعيب؟"
+     },
+     "choices": {
+      "en": [
+       "Set things right",
+       "Become rich",
+       "Leave his people"
+      ],
+      "ar": [
+       "الإصلاح",
+       "أن يصير غنيًا",
+       "أن يترك قومه"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:88"
+    },
+    {
+     "id": "shu3",
+     "q": {
+      "en": "Shuayb said his Lord is Most Merciful and Most...",
+      "ar": "قال شعيب: إن ربي رحيم..."
+     },
+     "choices": {
+      "en": [
+       "Loving",
+       "Far away",
+       "Angry"
+      ],
+      "ar": [
+       "ودود",
+       "بعيد",
+       "غاضب"
+      ]
+     },
+     "answer": 0,
+     "ref": "11:90"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "ayyub",
+   "name": {
+    "en": "Ayyub",
+    "ar": "أيوب"
+   },
+   "cover": "river",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "night",
+     "refs": [
+      "21:83",
+      "38:41"
+     ],
+     "text": {
+      "en": "Ayyub went through great hardship. He called to his Lord: Harm has touched me, and You are the Most Merciful of all who show mercy.",
+      "ar": "أصاب أيوبَ ضرّ شديد، فنادى ربه: أني مسني الضر وأنت أرحم الراحمين."
+     },
+     "quote": {
+      "surah": 21,
+      "ayah": 83,
+      "words": [
+       4,
+       10
+      ],
+      "arabic": "أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ"
+     }
+    },
+    {
+     "scene": "river",
+     "refs": [
+      "38:42",
+      "21:84"
+     ],
+     "text": {
+      "en": "Allah answered him and told him: Strike the ground with your foot. Here is cool water to wash with and to drink. And Allah removed his hardship.",
+      "ar": "استجاب الله له وقال له: اركض برجلك، هذا مغتسل بارد وشراب. وكشف الله ما به من ضر."
+     }
+    },
+    {
+     "scene": "garden",
+     "refs": [
+      "21:84",
+      "38:43"
+     ],
+     "text": {
+      "en": "Allah gave him back his family, and as many more with them, as a mercy from Allah.",
+      "ar": "وآتاه الله أهله ومثلهم معهم، رحمة من عنده."
+     }
+    },
+    {
+     "scene": "stars",
+     "refs": [
+      "38:44"
+     ],
+     "text": {
+      "en": "Allah praised Ayyub: We found him patient. What an excellent servant! He always turned back to Allah.",
+      "ar": "أثنى الله على أيوب فقال: إنا وجدناه صابرًا، نعم العبد إنه أواب."
+     },
+     "quote": {
+      "surah": 38,
+      "ayah": 44,
+      "words": [
+       7,
+       14
+      ],
+      "arabic": "إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ"
+     }
+    }
+   ],
+   "lesson": {
+    "en": "When things are hard, be patient and call on Allah.",
+    "ar": "إذا اشتدّ الأمر نصبر وندعو الله."
+   },
+   "questions": [
+    {
+     "id": "ayy1",
+     "q": {
+      "en": "What did Ayyub say to Allah?",
+      "ar": "ماذا قال أيوب لربه؟"
+     },
+     "choices": {
+      "en": [
+       "You are the Most Merciful",
+       "I am angry",
+       "I will not pray"
+      ],
+      "ar": [
+       "وأنت أرحم الراحمين",
+       "أنا غاضب",
+       "لن أدعو"
+      ]
+     },
+     "answer": 0,
+     "ref": "21:83"
+    },
+    {
+     "id": "ayy2",
+     "q": {
+      "en": "What came when Ayyub struck the ground with his foot?",
+      "ar": "ماذا خرج لما ركض أيوب برجله؟"
+     },
+     "choices": {
+      "en": [
+       "Cool water",
+       "Fire",
+       "Sand"
+      ],
+      "ar": [
+       "ماء بارد",
+       "نار",
+       "رمل"
+      ]
+     },
+     "answer": 0,
+     "ref": "38:42"
+    },
+    {
+     "id": "ayy3",
+     "q": {
+      "en": "How did Allah describe Ayyub?",
+      "ar": "بماذا وصف الله أيوب؟"
+     },
+     "choices": {
+      "en": [
+       "Patient",
+       "Rich",
+       "Strong"
+      ],
+      "ar": [
+       "صابرًا",
+       "غنيًا",
+       "قويًا"
+      ]
+     },
+     "answer": 0,
+     "ref": "38:44"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "musa",
+   "name": {
+    "en": "Musa",
+    "ar": "موسى"
+   },
+   "cover": "sea",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "river",
+     "refs": [
+      "28:7-9"
+     ],
+     "text": {
+      "en": "Allah inspired Musa's mother to place her baby in the river, and Allah promised to return him to her.",
+      "ar": "أوحى الله إلى أم موسى أن تلقيه في اليمّ، ووعدها أن يردّه إليها."
+     }
+    },
+    {
+     "scene": "palace",
+     "refs": [
+      "28:12-13"
+     ],
+     "text": {
+      "en": "Musa was taken into the palace, and Allah returned him to his mother so she would be happy.",
+      "ar": "دخل موسى قصر فرعون، فردّه الله إلى أمه كي تقرّ عينها."
+     }
+    },
+    {
+     "scene": "mountain",
+     "refs": [
+      "20:9-14"
+     ],
+     "text": {
+      "en": "Musa saw a fire near a mountain. There, Allah spoke to him and chose him as a messenger.",
+      "ar": "رأى موسى نارًا عند الجبل، فكلّمه الله واختاره رسولًا."
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "20:25-28"
+     ],
+     "text": {
+      "en": "Musa made dua: My Lord, open my heart, make my task easy for me, and untie the knot from my tongue, so that they understand what I say.",
+      "ar": "دعا موسى: رب اشرح لي صدري، ويسّر لي أمري، واحلل عقدة من لساني ليفقهوا قولي."
+     },
+     "ages": [
+      3
+     ],
+     "quote": {
+      "surah": 20,
+      "ayah": 25,
+      "words": [
+       1,
+       5
+      ],
+      "arabic": "رَبِّ ٱشۡرَحۡ لِي صَدۡرِي"
+     }
+    },
+    {
+     "scene": "sea",
+     "refs": [
+      "26:61-66"
+     ],
+     "text": {
+      "en": "Pharaoh's army chased the believers to the sea. Allah told Musa to strike the sea with his staff, and it parted, and the believers crossed safely.",
+      "ar": "تبع فرعون وجنوده المؤمنين إلى البحر، فأمر الله موسى أن يضرب البحر بعصاه فانفلق، ونجا المؤمنون."
+     }
+    },
+    {
+     "scene": "sea",
+     "refs": [
+      "18:60-66"
+     ],
+     "text": {
+      "en": "Musa travelled with his young helper until they reached the place where the two seas meet. There they found a servant of Allah, to whom Allah had given mercy and knowledge, and Musa asked him politely if he could follow him to learn.",
+      "ar": "سافر موسى مع فتاه حتى بلغا مجمع البحرين، فوجدا عبدًا من عباد الله آتاه الله رحمة وعلمًا، فسأله موسى بأدب أن يتبعه ليتعلم منه."
+     },
+     "ages": [
+      3
+     ],
+     "quote": {
+      "surah": 18,
+      "ayah": 66,
+      "words": [
+       3,
+       11
+      ],
+      "arabic": "هَلۡ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدٗا"
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Allah keeps His promises and saves those who trust Him.",
+    "ar": "الله يفي بوعده وينجّي من يتوكل عليه."
+   },
+   "questions": [
+    {
+     "id": "mus1",
+     "q": {
+      "en": "Where did Musa's mother place him?",
+      "ar": "أين وضعت أم موسى ابنها؟"
+     },
+     "choices": {
+      "en": [
+       "In the river",
+       "In a cave",
+       "On a mountain"
+      ],
+      "ar": [
+       "في اليمّ",
+       "في كهف",
+       "على جبل"
+      ]
+     },
+     "answer": 0,
+     "ref": "28:7"
+    },
+    {
+     "id": "mus2",
+     "q": {
+      "en": "What happened when Musa struck the sea with his staff?",
+      "ar": "ماذا حدث لما ضرب موسى البحر بعصاه؟"
+     },
+     "choices": {
+      "en": [
+       "The sea parted",
+       "It began to rain",
+       "Nothing happened"
+      ],
+      "ar": [
+       "انفلق البحر",
+       "نزل المطر",
+       "لم يحدث شيء"
+      ]
+     },
+     "answer": 0,
+     "ref": "26:63"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "harun",
+   "name": {
+    "en": "Harun",
+    "ar": "هارون"
+   },
+   "cover": "mountain",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "mountain",
+     "refs": [
+      "20:29-36",
+      "28:34"
+     ],
+     "text": {
+      "en": "Musa asked Allah to give him a helper from his family: his brother Harun, who spoke more clearly, to support him in his task. Allah said: You have been given what you asked for, O Musa.",
+      "ar": "دعا موسى ربه أن يجعل له وزيرًا من أهله: أخاه هارون، وكان أفصح منه لسانًا، ليشدّ به أزره ويشركه في أمره. فقال الله: قد أوتيت سؤلك يا موسى."
+     },
+     "quote": {
+      "surah": 20,
+      "ayah": 29,
+      "words": [
+       0,
+       5
+      ],
+      "arabic": "وَٱجۡعَل لِّي وَزِيرٗا مِّنۡ أَهۡلِي"
+     }
+    },
+    {
+     "scene": "book",
+     "refs": [
+      "19:53"
+     ],
+     "text": {
+      "en": "From His mercy, Allah gave Musa his brother Harun as a prophet.",
+      "ar": "ووهب الله لموسى من رحمته أخاه هارون نبيًا."
+     }
+    },
+    {
+     "scene": "palace",
+     "refs": [
+      "20:42-46"
+     ],
+     "text": {
+      "en": "Allah sent Musa and Harun together to Pharaoh and told them to speak to him gently. They said they were afraid, and Allah said: Do not be afraid. I am with you both; I hear and I see.",
+      "ar": "أرسل الله موسى وهارون معًا إلى فرعون، وأمرهما أن يقولا له قولًا لينًا. فقالا إنهما يخافان، فقال الله: لا تخافا إنني معكما أسمع وأرى."
+     },
+     "quote": {
+      "surah": 20,
+      "ayah": 44,
+      "words": [
+       0,
+       4
+      ],
+      "arabic": "فَقُولَا لَهُۥ قَوۡلٗا لَّيِّنٗا"
+     }
+    },
+    {
+     "scene": "desert",
+     "refs": [
+      "7:142",
+      "20:90-91"
+     ],
+     "text": {
+      "en": "When Musa went to meet his Lord for forty nights, he asked Harun to take his place among his people and to keep things right. When some of the people went astray, Harun told them: Your Lord is the Most Merciful, so follow me and obey my words.",
+      "ar": "لما ذهب موسى لميقات ربه أربعين ليلة قال لأخيه هارون: اخلفني في قومي وأصلح. ولما ضلّ بعض القوم قال لهم هارون: إن ربكم الرحمن فاتبعوني وأطيعوا أمري."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Help your brothers and sisters in doing good, and speak gently.",
+    "ar": "نعين إخوتنا على الخير، ونقول القول اللين."
+   },
+   "questions": [
+    {
+     "id": "har1",
+     "q": {
+      "en": "Whom did Musa ask Allah to make his helper?",
+      "ar": "من طلب موسى أن يكون وزيره؟"
+     },
+     "choices": {
+      "en": [
+       "His brother Harun",
+       "Pharaoh",
+       "A king"
+      ],
+      "ar": [
+       "أخاه هارون",
+       "فرعون",
+       "ملكًا"
+      ]
+     },
+     "answer": 0,
+     "ref": "20:30"
+    },
+    {
+     "id": "har2",
+     "q": {
+      "en": "How did Allah tell Musa and Harun to speak to Pharaoh?",
+      "ar": "كيف أمر الله موسى وهارون أن يكلّما فرعون؟"
+     },
+     "choices": {
+      "en": [
+       "Gently",
+       "Loudly",
+       "Not at all"
+      ],
+      "ar": [
+       "بقول لين",
+       "بصوت عالٍ",
+       "ألا يكلّماه"
+      ]
+     },
+     "answer": 0,
+     "ref": "20:44"
+    },
+    {
+     "id": "har3",
+     "q": {
+      "en": "When they were afraid, what did Allah tell them?",
+      "ar": "ماذا قال الله لهما لما خافا؟"
+     },
+     "choices": {
+      "en": [
+       "Do not be afraid, I am with you",
+       "Go back home",
+       "Hide"
+      ],
+      "ar": [
+       "لا تخافا إنني معكما",
+       "ارجعا إلى البيت",
+       "اختبئا"
+      ]
+     },
+     "answer": 0,
+     "ref": "20:46"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "dawud",
+   "name": {
+    "en": "Dawud",
+    "ar": "داود"
+   },
+   "cover": "mountainBirds",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "mountainBirds",
+     "refs": [
+      "34:10",
+      "21:79"
+     ],
+     "text": {
+      "en": "Allah gave Dawud a great gift: the mountains and the birds glorified Allah together with him.",
+      "ar": "آتى الله داود فضلًا عظيمًا؛ فكانت الجبال والطير تسبّح معه."
+     }
+    },
+    {
+     "scene": "forge",
+     "refs": [
+      "34:10-11",
+      "21:80"
+     ],
+     "text": {
+      "en": "Allah made iron soft for Dawud and taught him to make armour to protect people.",
+      "ar": "ألان الله لداود الحديد، وعلّمه صنعة الدروع لتحمي الناس."
+     }
+    },
+    {
+     "scene": "book",
+     "refs": [
+      "4:163",
+      "38:20"
+     ],
+     "text": {
+      "en": "Allah gave Dawud the Zabur, a book, and gave him wisdom.",
+      "ar": "آتى الله داود الزبور، وآتاه الحكمة."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Use your skills to help people, and remember Allah often.",
+    "ar": "نستعمل مهاراتنا لنفع الناس، ونذكر الله كثيرًا."
+   },
+   "questions": [
+    {
+     "id": "daw1",
+     "q": {
+      "en": "Which book did Allah give Dawud?",
+      "ar": "ما الكتاب الذي آتاه الله داود؟"
+     },
+     "choices": {
+      "en": [
+       "The Zabur",
+       "The Tawrah",
+       "The Injil"
+      ],
+      "ar": [
+       "الزبور",
+       "التوراة",
+       "الإنجيل"
+      ]
+     },
+     "answer": 0,
+     "ref": "4:163"
+    },
+    {
+     "id": "daw2",
+     "q": {
+      "en": "What did Allah make soft for Dawud?",
+      "ar": "ماذا ألان الله لداود؟"
+     },
+     "choices": {
+      "en": [
+       "Iron",
+       "Stone",
+       "Wood"
+      ],
+      "ar": [
+       "الحديد",
+       "الحجر",
+       "الخشب"
+      ]
+     },
+     "answer": 0,
+     "ref": "34:10"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "sulayman",
+   "name": {
+    "en": "Sulayman",
+    "ar": "سليمان"
+   },
+   "cover": "ants",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "birds",
+     "refs": [
+      "27:16"
+     ],
+     "text": {
+      "en": "Sulayman, the son of Dawud, was taught the language of the birds.",
+      "ar": "عُلّم سليمان بن داود منطق الطير."
+     }
+    },
+    {
+     "scene": "ants",
+     "refs": [
+      "27:18-19"
+     ],
+     "text": {
+      "en": "An ant told the other ants to go into their homes so Sulayman's army would not crush them. Sulayman smiled and thanked Allah.",
+      "ar": "قالت نملة للنمل: ادخلوا مساكنكم لا يحطمنكم سليمان وجنوده، فتبسّم سليمان وشكر الله."
+     }
+    },
+    {
+     "scene": "birds",
+     "refs": [
+      "27:20-22"
+     ],
+     "text": {
+      "en": "The hoopoe bird came to Sulayman with news from a faraway land.",
+      "ar": "جاء الهدهد إلى سليمان بنبأ من أرض بعيدة."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Be kind to animals and thank Allah for His blessings.",
+    "ar": "نرفق بالحيوان ونشكر الله على نعمه."
+   },
+   "questions": [
+    {
+     "id": "sul1",
+     "q": {
+      "en": "Which small creature warned the others in this story?",
+      "ar": "أيّ مخلوق صغير حذّر أصحابه في هذه القصة؟"
+     },
+     "choices": {
+      "en": [
+       "An ant",
+       "A bee",
+       "A fish"
+      ],
+      "ar": [
+       "نملة",
+       "نحلة",
+       "سمكة"
+      ]
+     },
+     "answer": 0,
+     "ref": "27:18"
+    },
+    {
+     "id": "sul2",
+     "q": {
+      "en": "Which bird brought news to Sulayman?",
+      "ar": "أيّ طائر جاء بالخبر إلى سليمان؟"
+     },
+     "choices": {
+      "en": [
+       "The hoopoe",
+       "The eagle",
+       "The parrot"
+      ],
+      "ar": [
+       "الهدهد",
+       "النسر",
+       "الببغاء"
+      ]
+     },
+     "answer": 0,
+     "ref": "27:20-22"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "yunus",
+   "name": {
+    "en": "Yunus",
+    "ar": "يونس"
+   },
+   "cover": "whale",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "ship",
+     "refs": [
+      "37:139-141"
+     ],
+     "text": {
+      "en": "Yunus left his people and boarded a ship that was full.",
+      "ar": "ترك يونس قومه وركب سفينة مشحونة."
+     }
+    },
+    {
+     "scene": "whale",
+     "refs": [
+      "37:142"
+     ],
+     "text": {
+      "en": "A big fish swallowed Yunus.",
+      "ar": "التقم الحوت يونس."
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "21:87-88"
+     ],
+     "text": {
+      "en": "In the darkness, Yunus called to Allah, and Allah saved him from his distress.",
+      "ar": "نادى يونس ربه في الظلمات، فاستجاب الله له ونجّاه من الغم."
+     },
+     "quote": {
+      "surah": 21,
+      "ayah": 87,
+      "words": [
+       14,
+       23
+      ],
+      "arabic": "لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبۡحَٰنَكَ إِنِّي كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+     }
+    },
+    {
+     "scene": "tree",
+     "refs": [
+      "37:145-146"
+     ],
+     "text": {
+      "en": "Yunus was brought out onto the shore, and Allah made a plant grow over him.",
+      "ar": "نُبذ يونس بالعراء، وأنبت الله عليه شجرة من يقطين."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Whatever happens, we can always call on Allah.",
+    "ar": "مهما حدث، نستطيع دائمًا أن ندعو الله."
+   },
+   "questions": [
+    {
+     "id": "yun1",
+     "q": {
+      "en": "What swallowed Yunus?",
+      "ar": "ما الذي التقم يونس؟"
+     },
+     "choices": {
+      "en": [
+       "A big fish",
+       "A big bird",
+       "A big wave"
+      ],
+      "ar": [
+       "الحوت",
+       "طائر كبير",
+       "موجة كبيرة"
+      ]
+     },
+     "answer": 0,
+     "ref": "37:142"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "zakariya",
+   "name": {
+    "en": "Zakariya and Yahya",
+    "ar": "زكريا ويحيى"
+   },
+   "cover": "stars",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "garden",
+     "refs": [
+      "3:37"
+     ],
+     "text": {
+      "en": "Zakariya took care of Maryam. Whenever he went into her prayer room, he found food with her. He asked: Where did this come from? She said: It is from Allah. Allah provides for whom He wills without measure.",
+      "ar": "كفل زكريا مريم، وكلما دخل عليها المحراب وجد عندها رزقًا، فقال: يا مريم أنى لك هذا؟ قالت: هو من عند الله، إن الله يرزق من يشاء بغير حساب."
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "19:2-6",
+      "3:38"
+     ],
+     "text": {
+      "en": "Zakariya had grown old and his wife had no children. He called to his Lord quietly: My Lord, grant me from You a good child. You hear every prayer.",
+      "ar": "كبر زكريا وكانت امرأته عاقرًا، فنادى ربه نداءً خفيًا: رب هب لي من لدنك ذرية طيبة إنك سميع الدعاء."
+     },
+     "quote": {
+      "surah": 3,
+      "ayah": 38,
+      "words": [
+       5,
+       15
+      ],
+      "arabic": "رَبِّ هَبۡ لِي مِن لَّدُنكَ ذُرِّيَّةٗ طَيِّبَةًۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ"
+     }
+    },
+    {
+     "scene": "stars",
+     "refs": [
+      "3:39",
+      "19:7"
+     ],
+     "text": {
+      "en": "While he was standing in prayer, the good news came: Allah would give him a boy named Yahya, a name Allah had not given to anyone before.",
+      "ar": "وبينما هو قائم يصلي في المحراب جاءته البشرى: يبشّره الله بغلام اسمه يحيى، لم يجعل الله له من قبل سميًا."
+     }
+    },
+    {
+     "scene": "moonStars",
+     "refs": [
+      "19:8-11",
+      "3:40-41"
+     ],
+     "text": {
+      "en": "Zakariya wondered how this could be, and Allah said: It is easy for Me. As a sign, Zakariya did not speak to people for three nights except by signs, and he told them to glorify Allah morning and evening.",
+      "ar": "تعجّب زكريا كيف يكون له غلام، فقال الله: هو عليّ هيّن. وكانت آيته ألا يكلم الناس ثلاث ليال إلا رمزًا، فأشار إليهم أن سبّحوا بكرة وعشيًا."
+     }
+    },
+    {
+     "scene": "book",
+     "refs": [
+      "19:12-14",
+      "21:90"
+     ],
+     "text": {
+      "en": "Allah told Yahya: Hold on to the Book firmly. Allah gave him wisdom as a child, kindness and purity. Yahya was mindful of Allah and good to his parents, and his family hurried to do good deeds.",
+      "ar": "قال الله: يا يحيى خذ الكتاب بقوة، وآتاه الحكم صبيًا وحنانًا وزكاة، وكان تقيًا وبرًا بوالديه، وكانوا يسارعون في الخيرات."
+     },
+     "quote": {
+      "surah": 19,
+      "ayah": 14,
+      "words": [
+       0,
+       6
+      ],
+      "arabic": "وَبَرَّۢا بِوَٰلِدَيۡهِ وَلَمۡ يَكُن جَبَّارًا عَصِيّٗا"
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Never stop making dua; Allah hears every prayer. Be good to your parents, like Yahya.",
+    "ar": "لا نيأس من الدعاء فالله سميع الدعاء، ونبرّ والدينا كما كان يحيى."
+   },
+   "questions": [
+    {
+     "id": "zak1",
+     "q": {
+      "en": "What name did Allah give Zakariya's son?",
+      "ar": "ما الاسم الذي سمّى الله به ابن زكريا؟"
+     },
+     "choices": {
+      "en": [
+       "Yahya",
+       "Yusuf",
+       "Ismail"
+      ],
+      "ar": [
+       "يحيى",
+       "يوسف",
+       "إسماعيل"
+      ]
+     },
+     "answer": 0,
+     "ref": "19:7"
+    },
+    {
+     "id": "zak2",
+     "q": {
+      "en": "How was Yahya with his parents?",
+      "ar": "كيف كان يحيى مع والديه؟"
+     },
+     "choices": {
+      "en": [
+       "Good and kind to them",
+       "Rude",
+       "He did not care"
+      ],
+      "ar": [
+       "برًّا بهما",
+       "قاسيًا",
+       "لا يهتم"
+      ]
+     },
+     "answer": 0,
+     "ref": "19:14"
+    },
+    {
+     "id": "zak3",
+     "q": {
+      "en": "Whom did Zakariya take care of?",
+      "ar": "من كفل زكريا؟"
+     },
+     "choices": {
+      "en": [
+       "Maryam",
+       "Musa",
+       "Yusuf"
+      ],
+      "ar": [
+       "مريم",
+       "موسى",
+       "يوسف"
+      ]
+     },
+     "answer": 0,
+     "ref": "3:37"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "isa",
+   "name": {
+    "en": "Isa",
+    "ar": "عيسى"
+   },
+   "cover": "palm",
+   "ages": [
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "palm",
+     "refs": [
+      "19:16",
+      "19:22-25"
+     ],
+     "text": {
+      "en": "Allah honoured Maryam. She went to a faraway place, and under a palm tree Allah provided her with fresh dates and water.",
+      "ar": "أكرم الله مريم، فانتبذت مكانًا قصيًّا، ورزقها الله تحت النخلة رطبًا وماءً."
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "19:29-30"
+     ],
+     "text": {
+      "en": "As a baby, Isa spoke by Allah's permission and said that he was a servant of Allah.",
+      "ar": "تكلّم عيسى في المهد بإذن الله، وقال إنه عبد الله."
+     },
+     "quote": {
+      "surah": 19,
+      "ayah": 30,
+      "words": [
+       1,
+       4
+      ],
+      "arabic": "إِنِّي عَبۡدُ ٱللَّهِ"
+     }
+    },
+    {
+     "scene": "book",
+     "refs": [
+      "5:110",
+      "3:49"
+     ],
+     "text": {
+      "en": "Allah taught Isa the Book and wisdom and the Injil, and gave him miracles by Allah's permission.",
+      "ar": "علّم الله عيسى الكتاب والحكمة والإنجيل، وأيّده بالمعجزات بإذن الله."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "Isa called people to worship Allah alone.",
+    "ar": "دعا عيسى الناس إلى عبادة الله وحده."
+   },
+   "questions": [
+    {
+     "id": "isa1",
+     "q": {
+      "en": "What did Allah give Maryam under the palm tree?",
+      "ar": "ماذا رزق الله مريم تحت النخلة؟"
+     },
+     "choices": {
+      "en": [
+       "Fresh dates and water",
+       "Bread and honey",
+       "Nothing"
+      ],
+      "ar": [
+       "رطبًا وماءً",
+       "خبزًا وعسلًا",
+       "لا شيء"
+      ]
+     },
+     "answer": 0,
+     "ref": "19:24-25"
+    },
+    {
+     "id": "isa2",
+     "q": {
+      "en": "What did baby Isa say first?",
+      "ar": "ماذا قال عيسى في المهد أولًا؟"
+     },
+     "choices": {
+      "en": [
+       "I am a servant of Allah",
+       "I am a king",
+       "I am hungry"
+      ],
+      "ar": [
+       "إني عبد الله",
+       "أنا ملك",
+       "أنا جائع"
+      ]
+     },
+     "answer": 0,
+     "ref": "19:30"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  },
+  {
+   "id": "muhammad",
+   "name": {
+    "en": "Muhammad ﷺ",
+    "ar": "محمد ﷺ"
+   },
+   "cover": "cave",
+   "ages": [
+    1,
+    2,
+    3
+   ],
+   "chapters": [
+    {
+     "scene": "cave",
+     "refs": [
+      "96:1-5"
+     ],
+     "text": {
+      "en": "The first words of the Quran revealed to the Prophet Muhammad ﷺ were: Read! In the name of your Lord who created.",
+      "ar": "أول ما نزل من القرآن على النبي محمد ﷺ: اقرأ باسم ربك الذي خلق."
+     },
+     "quote": {
+      "surah": 96,
+      "ayah": 1,
+      "words": [
+       0,
+       5
+      ],
+      "arabic": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ"
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "17:1"
+     ],
+     "text": {
+      "en": "Allah took His servant, the Prophet ﷺ, on a journey by night from Al-Masjid Al-Haram to Al-Masjid Al-Aqsa, to show him some of His signs.",
+      "ar": "أسرى الله بعبده النبي ﷺ ليلًا من المسجد الحرام إلى المسجد الأقصى ليريه من آياته."
+     },
+     "ages": [
+      3
+     ],
+     "quote": {
+      "surah": 17,
+      "ayah": 1,
+      "words": [
+       0,
+       8
+      ],
+      "arabic": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ"
+     }
+    },
+    {
+     "scene": "cave",
+     "refs": [
+      "9:40"
+     ],
+     "text": {
+      "en": "When he travelled from Makkah, he hid in a cave with his companion, and told him: Do not be sad, Allah is with us.",
+      "ar": "لما هاجر من مكة اختبأ في الغار مع صاحبه، وقال له: لا تحزن إن الله معنا."
+     }
+    },
+    {
+     "scene": "night",
+     "refs": [
+      "21:107",
+      "68:4"
+     ],
+     "text": {
+      "en": "Allah sent him as a mercy to all the worlds, and praised his great character.",
+      "ar": "أرسله الله رحمة للعالمين، وأثنى على خلقه العظيم."
+     }
+    },
+    {
+     "scene": "palm",
+     "refs": [
+      "3:159",
+      "33:21"
+     ],
+     "text": {
+      "en": "By Allah's mercy, the Prophet ﷺ was gentle with people. Allah told him to forgive them, to ask forgiveness for them and to consult them. He is the best example for us to follow.",
+      "ar": "برحمة من الله كان النبي ﷺ لينًا مع الناس، وأمره الله أن يعفو عنهم ويستغفر لهم ويشاورهم. وهو لنا أسوة حسنة."
+     },
+     "ages": [
+      3
+     ]
+    },
+    {
+     "scene": "book",
+     "refs": [
+      "33:40"
+     ],
+     "text": {
+      "en": "He is the Messenger of Allah and the last of the prophets.",
+      "ar": "هو رسول الله وخاتم النبيين."
+     }
+    }
+   ],
+   "lesson": {
+    "en": "We love the Prophet ﷺ and try to have good manners like him.",
+    "ar": "نحب النبي ﷺ ونحاول أن نتخلق بأخلاقه."
+   },
+   "questions": [
+    {
+     "id": "muh1",
+     "q": {
+      "en": "What was the first word revealed of the Quran?",
+      "ar": "ما أول كلمة نزلت من القرآن؟"
+     },
+     "choices": {
+      "en": [
+       "Read (Iqra')",
+       "Pray",
+       "Write"
+      ],
+      "ar": [
+       "اقرأ",
+       "صلِّ",
+       "اكتب"
+      ]
+     },
+     "answer": 0,
+     "ref": "96:1"
+    },
+    {
+     "id": "muh2",
+     "q": {
+      "en": "Allah sent the Prophet ﷺ as a mercy to...",
+      "ar": "أرسل الله النبي ﷺ رحمة لـ..."
+     },
+     "choices": {
+      "en": [
+       "All the worlds",
+       "Only one city",
+       "Only his family"
+      ],
+      "ar": [
+       "العالمين",
+       "مدينة واحدة",
+       "أهله فقط"
+      ]
+     },
+     "answer": 0,
+     "ref": "21:107"
+    }
+   ],
+   "review": {
+    "status": "draft"
+   }
+  }
+ ]
+}
